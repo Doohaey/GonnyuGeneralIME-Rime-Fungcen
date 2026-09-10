@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_lancong
   name: 赣语－南昌
-  version: "0.2.4-pre.7"
+  version: "0.2.4-pre.8"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -936,6 +936,9 @@ translator:
   enable_sentence: true
   enable_completion: true
   spelling_hints: 8
+
+menu:
+  page_size: 10
 
 punctuator:
   import_preset: default

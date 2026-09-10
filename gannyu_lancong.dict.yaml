@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong
-version: "0.2.4-pre.5"
+version: "0.2.4-pre.6"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -4045,6 +4045,16 @@ use_preset_vocabulary: false
 䟂	man	5291
 䟃	Gcoet	200000
 䟃	can	200000
+䟃进䟃出	Gcoet Gjin Gcoet Gcet	100000
+䟃进䟃出	Gcoet Gjin Gcoet Gcuk	100000
+䟃进䟃出	Gcoet Gjin Gcoet chu	100000
+䟃进䟃出	Gcoet Gjin can Gcuk	100000
+䟃进䟃出	Gcoet Gjin can chu	100000
+䟃进䟃出	can Gjin Gcoet Gcuk	100000
+䟃进䟃出	can Gjin Gcoet chu	100000
+䟃进䟃出	can Gjin can Gcuk	100000
+䟃进䟃出	can Gjin can chu	100000
+䟃进䟃出	can jin can chu	100000
 䟄	Gcet	4019
 䟄	Gqit	5959
 䟄	qi	5959
@@ -94000,6 +94010,22 @@ use_preset_vocabulary: false
 作兴	Gzok xing	100000
 作兴	zuo Gxin	100000
 作兴	zuo xing	100000
+作兴作脉	Gzok Gxin Gzok Gmet	100000
+作兴作脉	Gzok Gxin Gzok mai	100000
+作兴作脉	Gzok Gxin zuo Gmet	100000
+作兴作脉	Gzok Gxin zuo mai	100000
+作兴作脉	Gzok xing Gzok Gmet	100000
+作兴作脉	Gzok xing Gzok mai	100000
+作兴作脉	Gzok xing zuo Gmet	100000
+作兴作脉	Gzok xing zuo mai	100000
+作兴作脉	zuo Gxin Gzok Gmet	100000
+作兴作脉	zuo Gxin Gzok mai	100000
+作兴作脉	zuo Gxin zuo Gmet	100000
+作兴作脉	zuo Gxin zuo mai	100000
+作兴作脉	zuo xing Gzok Gmet	100000
+作兴作脉	zuo xing Gzok mai	100000
+作兴作脉	zuo xing zuo Gmet	100000
+作兴作脉	zuo xing zuo mai	100000
 作冷	Gzok Glang	100000
 作冷	Gzok leng	100000
 作冷	zuo Glang	100000
@@ -97676,20 +97702,20 @@ use_preset_vocabulary: false
 俊杰	Gjyun jie	27
 俊杰	jun Gqiet	27
 俊杰	jun jie	27
-俊男靓女	Gjyun Glan Gqin Gnyu	7
-俊男靓女	Gjyun Glan Gqin nv	7
+俊男靓女	Gjyun Glan Gjien Gnyu	7
+俊男靓女	Gjyun Glan Gjien nv	7
 俊男靓女	Gjyun Glan liang Gnyu	7
 俊男靓女	Gjyun Glan liang nv	7
-俊男靓女	Gjyun nan Gqin Gnyu	7
-俊男靓女	Gjyun nan Gqin nv	7
+俊男靓女	Gjyun nan Gjien Gnyu	7
+俊男靓女	Gjyun nan Gjien nv	7
 俊男靓女	Gjyun nan liang Gnyu	7
 俊男靓女	Gjyun nan liang nv	7
-俊男靓女	jun Glan Gqin Gnyu	7
-俊男靓女	jun Glan Gqin nv	7
+俊男靓女	jun Glan Gjien Gnyu	7
+俊男靓女	jun Glan Gjien nv	7
 俊男靓女	jun Glan liang Gnyu	7
 俊男靓女	jun Glan liang nv	7
-俊男靓女	jun nan Gqin Gnyu	7
-俊男靓女	jun nan Gqin nv	7
+俊男靓女	jun nan Gjien Gnyu	7
+俊男靓女	jun nan Gjien nv	7
 俊男靓女	jun nan liang Gnyu	7
 俊男靓女	jun nan liang nv	7
 俊秀	Gjyun Gxiu	82
@@ -111189,6 +111215,20 @@ use_preset_vocabulary: false
 全集	Gqyuon ji	320
 全集	quan Gjit	320
 全集	quan ji	320
+全靓	Gqyuon Gjien	100000
+全靓	Gqyuon jing	100000
+全靓	quan Gjien	100000
+全靓	quan jing	100000
+全靓不带万	Gqyuon Gjien Gbet Gdai Gman	100000
+全靓不带万	Gqyuon Gjien Gbet Gdai Gwan	100000
+全靓不带万	Gqyuon Gjien bu Gdai Gwan	100000
+全靓不带万	Gqyuon jing Gbet Gdai Gwan	100000
+全靓不带万	Gqyuon jing bu Gdai Gwan	100000
+全靓不带万	quan Gjien Gbet Gdai Gwan	100000
+全靓不带万	quan Gjien bu Gdai Gwan	100000
+全靓不带万	quan jing Gbet Gdai Gwan	100000
+全靓不带万	quan jing bu Gdai Gwan	100000
+全靓不带万	quan jing bu dai wan	100000
 全面	Gqyuon Gmien	200000
 全面	Gqyuon mian	200000
 全面	quan Gmien	200000
@@ -120944,6 +120984,23 @@ use_preset_vocabulary: false
 冇大冇细	mao da Gmau Gxi	100000
 冇大冇细	mao da mao Gxi	100000
 冇大冇细	mao da mao xi	100000
+冇搭冇失	Gmau Gdat Gmau Gset	100000
+冇搭冇失	Gmau Gdat Gmau Gsik	100000
+冇搭冇失	Gmau Gdat Gmau shi	100000
+冇搭冇失	Gmau Gdat mao Gset	100000
+冇搭冇失	Gmau Gdat mao shi	100000
+冇搭冇失	Gmau da Gmau Gset	100000
+冇搭冇失	Gmau da Gmau shi	100000
+冇搭冇失	Gmau da mao Gset	100000
+冇搭冇失	Gmau da mao shi	100000
+冇搭冇失	mao Gdat Gmau Gset	100000
+冇搭冇失	mao Gdat Gmau shi	100000
+冇搭冇失	mao Gdat mao Gset	100000
+冇搭冇失	mao Gdat mao shi	100000
+冇搭冇失	mao da Gmau Gset	100000
+冇搭冇失	mao da Gmau shi	100000
+冇搭冇失	mao da mao Gset	100000
+冇搭冇失	mao da mao shi	100000
 冇有	Gmau Gyiu	200000
 冇有	Gmau you	200000
 冇有	mao Gyiu	200000
@@ -137010,7 +137067,6 @@ use_preset_vocabulary: false
 刢	Glin	5863
 刢	ling	5863
 判	Gpon	120000
-判	Gpong	120000
 判	pan	120000
 判令	Gpon Glin	13
 判令	Gpon ling	13
@@ -161644,6 +161700,9 @@ use_preset_vocabulary: false
 卖家	Gkok jia	104
 卖家	mai Gga	104
 卖家	mai jia	104
+卖屄崽	Gmai Gbiet Gzai	100000
+卖屄崽	Gmai bi Gzai	100000
+卖屄崽	mai bi zai	100000
 卖座	Gkok Gco	20
 卖座	Gkok zuo	20
 卖座	mai Gco	20
@@ -203962,8 +204021,12 @@ use_preset_vocabulary: false
 嘞	Gle	200000
 嘞	lei	200000
 嘟	Gdu	10002
+嘢	Gye	100000
 嘢	Gyue	100000
 嘢	ye	100000
+嘢哩嘢屑	Gye Gli Gye Gxiet	100000
+嘢哩嘢屑	Gye Gli Gyue Gxiet	100000
+嘢哩嘢屑	Gyue Gli Gye Gxiet	100000
 嘢哩嘢屑	Gyue Gli Gyue Gxiet	100000
 嘢哩嘢屑	Gyue Gli Gyue xie	100000
 嘢哩嘢屑	Gyue Gli ye Gxiet	100000
@@ -203973,6 +204036,7 @@ use_preset_vocabulary: false
 嘢哩嘢屑	ye Gli ye Gxiet	100000
 嘢哩嘢屑	ye Gli ye xie	100000
 嘢哩嘢屑	ye li ye xie	100000
+嘢屑	Gye Gxiet	160000
 嘢屑	Gyue Gxiet	160000
 嘢屑	Gyue xie	160000
 嘢屑	ye Gxiet	160000
@@ -232714,6 +232778,11 @@ use_preset_vocabulary: false
 大批量	da Gpi Gliong	97
 大批量	da Gpi liang	97
 大批量	da pi liang	97
+大把神	Gto Gba Gsen	100000
+大把神	Gto Gba shen	100000
+大把神	da Gba Gsen	100000
+大把神	da Gba shen	100000
+大把神	da ba shen	100000
 大报	Gtai Gbau	14
 大报	Gtai bao	14
 大报	da Gbau	14
@@ -246166,6 +246235,10 @@ use_preset_vocabulary: false
 好闻	Ghau wen	19
 好闻	hao Gwun	19
 好闻	hao wen	19
+好靓	Ghau Gjien	100000
+好靓	Ghau jing	100000
+好靓	hao Gjien	100000
+好靓	hao jing	100000
 好高骛远	Ghau Ggau Gwu Gyuon	31
 好高骛远	Ghau Ggau Gwu yuan	31
 好高骛远	Ghau gao Gwu Gyuon	31
@@ -303473,12 +303546,12 @@ use_preset_vocabulary: false
 张雪梅	zhang Gxyuot mei	43
 张雪梅	zhang xue Gmi	43
 张雪梅	zhang xue mei	43
-张靓颖	Gzong Gqin Gyin	8
-张靓颖	Gzong Gqin ying	8
+张靓颖	Gzong Gjien Gyin	8
+张靓颖	Gzong Gjien ying	8
 张靓颖	Gzong liang Gyin	8
 张靓颖	Gzong liang ying	8
-张靓颖	zhang Gqin Gyin	8
-张靓颖	zhang Gqin ying	8
+张靓颖	zhang Gjien Gyin	8
+张靓颖	zhang Gjien ying	8
 张靓颖	zhang liang Gyin	8
 张靓颖	zhang liang ying	8
 张静江	Gzong Gqin Ggong	7
@@ -334188,7 +334261,10 @@ use_preset_vocabulary: false
 把头	Gba Gteu	412
 把头	Gba tou	412
 把头	ba tou	412
-把子	Gba Gzi	120
+把子	Gba Gzi	125460
+把子大	Gba Gzi Gto	100000
+把子大	Gba Gzi da	100000
+把子大	ba zi da	100000
 把守	Gba Gseu	246
 把守	Gba Gxiu	246
 把守	Gba shou	246
@@ -490238,6 +490314,42 @@ use_preset_vocabulary: false
 瘝	Gguan	5156
 瘟	Gwun	120000
 瘟	wen	120000
+瘟猪哩寻水喫	Gwun Gjyu Gli Gqin Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gjyu Gli Gxyun Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gzu Gli Gqin Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gzu Gli Gqin Gsui chi	100000
+瘟猪哩寻水喫	Gwun Gzu Gli Gqin shui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gzu Gli Gqin shui chi	100000
+瘟猪哩寻水喫	Gwun Gzu Gli Gxyun Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gzu Gli xun Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gzu Gli xun Gsui chi	100000
+瘟猪哩寻水喫	Gwun Gzu Gli xun shui Gqiak	100000
+瘟猪哩寻水喫	Gwun Gzu Gli xun shui chi	100000
+瘟猪哩寻水喫	Gwun zhu Gli Gqin Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun zhu Gli Gqin Gsui chi	100000
+瘟猪哩寻水喫	Gwun zhu Gli Gqin shui Gqiak	100000
+瘟猪哩寻水喫	Gwun zhu Gli Gqin shui chi	100000
+瘟猪哩寻水喫	Gwun zhu Gli xun Gsui Gqiak	100000
+瘟猪哩寻水喫	Gwun zhu Gli xun Gsui chi	100000
+瘟猪哩寻水喫	Gwun zhu Gli xun shui Gqiak	100000
+瘟猪哩寻水喫	Gwun zhu Gli xun shui chi	100000
+瘟猪哩寻水喫	wen Gzu Gli Gqin Gsui Gqiak	100000
+瘟猪哩寻水喫	wen Gzu Gli Gqin Gsui chi	100000
+瘟猪哩寻水喫	wen Gzu Gli Gqin shui Gqiak	100000
+瘟猪哩寻水喫	wen Gzu Gli Gqin shui chi	100000
+瘟猪哩寻水喫	wen Gzu Gli xun Gsui Gqiak	100000
+瘟猪哩寻水喫	wen Gzu Gli xun Gsui chi	100000
+瘟猪哩寻水喫	wen Gzu Gli xun shui Gqiak	100000
+瘟猪哩寻水喫	wen Gzu Gli xun shui chi	100000
+瘟猪哩寻水喫	wen zhu Gli Gqin Gsui Gqiak	100000
+瘟猪哩寻水喫	wen zhu Gli Gqin Gsui chi	100000
+瘟猪哩寻水喫	wen zhu Gli Gqin shui Gqiak	100000
+瘟猪哩寻水喫	wen zhu Gli Gqin shui chi	100000
+瘟猪哩寻水喫	wen zhu Gli xun Gsui Gqiak	100000
+瘟猪哩寻水喫	wen zhu Gli xun Gsui chi	100000
+瘟猪哩寻水喫	wen zhu Gli xun shui Gqiak	100000
+瘟猪哩寻水喫	wen zhu Gli xun shui chi	100000
+瘟猪哩寻水喫	wen zhu li xun shui chi	100000
 瘟猪寻水	Gwun Gjyu Gqin Gsui	100000
 瘟猪寻水	Gwun Gjyu Gqin shui	100000
 瘟猪寻水	Gwun Gjyu Gxyun Gsui	100000
@@ -573680,6 +573792,23 @@ use_preset_vocabulary: false
 脱骨	Gtot gu	135206
 脱骨	tuo Ggut	135206
 脱骨	tuo gu	135206
+脱骨脱大	Gtot Gguet Gtot Gto	100000
+脱骨脱大	Gtot Ggut Gtot Gto	100000
+脱骨脱大	Gtot Ggut Gtot da	100000
+脱骨脱大	Gtot Ggut tuo Gto	100000
+脱骨脱大	Gtot Ggut tuo da	100000
+脱骨脱大	Gtot gu Gtot Gto	100000
+脱骨脱大	Gtot gu Gtot da	100000
+脱骨脱大	Gtot gu tuo Gto	100000
+脱骨脱大	Gtot gu tuo da	100000
+脱骨脱大	tuo Ggut Gtot Gto	100000
+脱骨脱大	tuo Ggut Gtot da	100000
+脱骨脱大	tuo Ggut tuo Gto	100000
+脱骨脱大	tuo Ggut tuo da	100000
+脱骨脱大	tuo gu Gtot Gto	100000
+脱骨脱大	tuo gu Gtot da	100000
+脱骨脱大	tuo gu tuo Gto	100000
+脱骨脱大	tuo gu tuo da	100000
 脱髓鞘	Gtot Gsui Gsau	13
 脱髓鞘	Gtot Gsui qiao	13
 脱髓鞘	tuo Gsui Gsau	13
@@ -617876,11 +618005,9 @@ use_preset_vocabulary: false
 译音	yi Gyin	46
 译音	yi yin	46
 诒	Gyi	75421
-诓	Gkuong	70321
-诓	kuang	70321
-诓骗	Gkuong Gpien	24
-诓骗	Gkuong pian	24
-诓骗	kuang Gpien	24
+诓	Gkuang	126530
+诓骗	Gkuang Gpien	24
+诓骗	Gkuang pian	24
 诓骗	kuang pian	24
 诔	Glei	75793
 诔	Glui	75793
@@ -630663,6 +630790,9 @@ use_preset_vocabulary: false
 赖特	Glai te	86
 赖特	lai te	86
 赖皮	Glai Gpi	20
+赖盆赖钵	Glai Gpen Glai Gbot	100000
+赖盆赖钵	Glai Gpen Glai bo	100000
+赖盆赖钵	lai pen lai bo	100000
 赖秀英	Glai Gxiu Gyin	18
 赖秀英	Glai Gxiu ying	18
 赖秀英	lai xiu ying	18
@@ -692998,13 +693128,13 @@ use_preset_vocabulary: false
 青龙镇	qing Glung zhen	11
 青龙镇	qing long Gzen	11
 青龙镇	qing long zhen	11
-靓	Gqin	77252
-靓	jing	77252
-靓丽	Gqin Gli	32
+靓	Gjien	177252
+靓	jing	177252
+靓丽	Gjien Gli	32
 靓丽	liang Gli	32
 靓丽	liang li	32
-靓女	Gqin Gnyu	13
-靓女	Gqin nv	13
+靓女	Gjien Gnyu	13
+靓女	Gjien nv	13
 靓女	liang Gnyu	13
 靓女	liang nv	13
 靖	Gqin	100937

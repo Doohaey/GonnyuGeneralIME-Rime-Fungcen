@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_lancong
-version: "0.2.4-pre.17"
+version: "1.0.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -5720,7 +5720,6 @@ use_preset_vocabulary: false
 一上午	yi Gsong Gwu	53
 一上午	yi shang Gwu	53
 一上午	yi shang wu	53
-一下	Gya	200000
 一下	Gyit Gga	200000
 一下	Gyit Gha	200000
 一下	Gyit xia	200000
@@ -9332,10 +9331,6 @@ use_preset_vocabulary: false
 一则	Gyit ze	851
 一则	yi Gzet	851
 一则	yi ze	851
-一到	Gyit Gdau	100000
-一到	Gyit dao	100000
-一到	yi Gdau	100000
-一到	yi dao	100000
 一刹那	Gyit Gsat Gla	212
 一刹那	Gyit Gsat na	212
 一刹那	Gyit cha Gla	212
@@ -20290,14 +20285,10 @@ use_preset_vocabulary: false
 一锤	Gyit chui	34
 一锤	yi Gcui	34
 一锤	yi chui	34
-一锤子买卖	Gyit Gcui Gzi Gmai Gkok	8
-一锤子买卖	Gyit Gcui Gzi Gmai mai	8
-一锤子买卖	Gyit chui Gzi Gmai Gkok	8
-一锤子买卖	Gyit chui Gzi Gmai mai	8
-一锤子买卖	yi Gcui Gzi Gmai Gkok	8
-一锤子买卖	yi Gcui Gzi Gmai mai	8
-一锤子买卖	yi chui Gzi Gmai Gkok	8
-一锤子买卖	yi chui Gzi Gmai mai	8
+一锤子买卖	Gyit Gcui Gzi Gmai Gmai	8
+一锤子买卖	Gyit chui Gzi Gmai Gmai	8
+一锤子买卖	yi Gcui Gzi Gmai Gmai	8
+一锤子买卖	yi chui Gzi Gmai Gmai	8
 一锤子买卖	yi chui zi mai mai	8
 一锤定音	Gyit Gcui Gtiang Gyin	46
 一锤定音	Gyit Gcui Gtin Gyin	46
@@ -21251,10 +21242,12 @@ use_preset_vocabulary: false
 丁磊	Gdin Glui	24
 丁磊	ding Glui	24
 丁磊	ding lei	24
+丁祥瑞	Gdiang Gxiong Glui	23
 丁祥瑞	Gdiang Gxiong Gsui	23
 丁祥瑞	Gdiang Gxiong rui	23
 丁祥瑞	Gdiang xiang Gsui	23
 丁祥瑞	Gdiang xiang rui	23
+丁祥瑞	Gdin Gxiong Glui	23
 丁祥瑞	Gdin Gxiong Gsui	23
 丁祥瑞	ding Gxiong Gsui	23
 丁祥瑞	ding Gxiong rui	23
@@ -23180,7 +23173,9 @@ use_preset_vocabulary: false
 万事	Gwan Gsi	303
 万事	Gwan shi	303
 万事	wan shi	303
+万事俱备	Gman Gsi Gjyu Gpei	27
 万事俱备	Gman Gsi Gjyu Gpi	27
+万事俱备	Gwan Gsi Gjyu Gpei	27
 万事俱备	Gwan Gsi Gjyu Gpi	27
 万事俱备	Gwan Gsi Gjyu bei	27
 万事俱备	Gwan Gsi ju Gpi	27
@@ -33228,6 +33223,7 @@ use_preset_vocabulary: false
 不伦不类	bu Glun bu Glui	98
 不伦不类	bu Glun bu lei	98
 不伦不类	bu lun bu lei	98
+不伦瑞克	Gbet Glun Glui Gkiet	19
 不伦瑞克	Gbet Glun Gsui Gkiet	19
 不伦瑞克	Gbet Glun Gsui ke	19
 不伦瑞克	Gbet Glun rui Gkiet	19
@@ -34732,6 +34728,7 @@ use_preset_vocabulary: false
 不处理	Gbet Gcu Gli	13031
 不处理	Gbet Gqyu Gli	13031
 不处理	bu	13031
+不备	Gbet Gpei	99
 不备	Gbet Gpi	99
 不备	Gbet bei	99
 不备	bu Gpi	99
@@ -39014,34 +39011,24 @@ use_preset_vocabulary: false
 专区	Gzon qu	942
 专区	zhuan Gqyu	942
 专区	zhuan qu	942
-专卖	Gzon Gkok	213
-专卖	Gzon mai	213
-专卖	zhuan Gkok	213
+专卖	Gzon Gmai	213
+专卖	zhuan Gmai	213
 专卖	zhuan mai	213
-专卖局	Gzon Gkok Gjyut	9
-专卖局	Gzon Gkok Gqyut	9
-专卖局	Gzon Gkok ju	9
-专卖局	Gzon mai Gqyut	9
-专卖局	Gzon mai ju	9
-专卖局	zhuan Gkok Gqyut	9
-专卖局	zhuan Gkok ju	9
-专卖局	zhuan mai Gqyut	9
+专卖局	Gzon Gmai Gjyut	9
+专卖局	Gzon Gmai Gqyut	9
+专卖局	Gzon Gmai ju	9
+专卖局	zhuan Gmai Gqyut	9
+专卖局	zhuan Gmai ju	9
 专卖局	zhuan mai ju	9
-专卖店	Gzon Gkok Gdien	156
-专卖店	Gzon Gkok dian	156
-专卖店	Gzon mai Gdien	156
-专卖店	Gzon mai dian	156
-专卖店	zhuan Gkok Gdien	156
-专卖店	zhuan Gkok dian	156
-专卖店	zhuan mai Gdien	156
+专卖店	Gzon Gmai Gdien	156
+专卖店	Gzon Gmai dian	156
+专卖店	zhuan Gmai Gdien	156
+专卖店	zhuan Gmai dian	156
 专卖店	zhuan mai dian	156
-专卖权	Gzon Gkok Gqyuon	9
-专卖权	Gzon Gkok quan	9
-专卖权	Gzon mai Gqyuon	9
-专卖权	Gzon mai quan	9
-专卖权	zhuan Gkok Gqyuon	9
-专卖权	zhuan Gkok quan	9
-专卖权	zhuan mai Gqyuon	9
+专卖权	Gzon Gmai Gqyuon	9
+专卖权	Gzon Gmai quan	9
+专卖权	zhuan Gmai Gqyuon	9
+专卖权	zhuan Gmai quan	9
 专卖权	zhuan mai quan	9
 专号	Gzon Ghau	16
 专号	Gzon hao	16
@@ -52982,6 +52969,7 @@ use_preset_vocabulary: false
 中士	Gzung shi	44
 中士	zhong Gsi	44
 中士	zhong shi	44
+中备	Gzung Gpei	12
 中备	Gzung Gpi	12
 中备	Gzung bei	12
 中备	zhong Gpi	12
@@ -59949,10 +59937,9 @@ use_preset_vocabulary: false
 义勇队	yi Gyung Gdui	22
 义勇队	yi yong Gdui	22
 义勇队	yi yong dui	22
-义卖	Gni Gkok	27
-义卖	Gni mai	27
-义卖	Gyi Gkok	27
-义卖	yi Gkok	27
+义卖	Gni Gmai	27
+义卖	Gyi Gmai	27
+义卖	yi Gmai	27
 义卖	yi mai	27
 义县	Gni Gxien	36
 义县	Gni xian	36
@@ -61874,12 +61861,16 @@ use_preset_vocabulary: false
 乘兴而来	cheng xing Go lai	10
 乘兴而来	cheng xing er Glei	10
 乘兴而来	cheng xing er lai	10
+乘其不备	Gcen Gqi Gbet Gpei	11
 乘其不备	Gcen Gqi Gbet Gpi	11
+乘其不备	Gcen Gqie Gbet Gpei	11
 乘其不备	Gcen Gqie Gbet Gpi	11
+乘其不备	Gsen Gqi Gbet Gpei	11
 乘其不备	Gsen Gqi Gbet Gpi	11
 乘其不备	Gsen Gqi Gbet bei	11
 乘其不备	Gsen Gqi bu Gpi	11
 乘其不备	Gsen Gqi bu bei	11
+乘其不备	Gsen Gqie Gbet Gpei	11
 乘其不备	Gsen Gqie Gbet Gpi	11
 乘其不备	cheng Gqi Gbet Gpi	11
 乘其不备	cheng Gqi Gbet bei	11
@@ -64052,9 +64043,7 @@ use_preset_vocabulary: false
 买办	Gmai ban	251
 买办	mai ban	251
 买单	Gmai Gdan	97
-买卖	Gmai Gkok	36832
-买卖	Gmai mai	36832
-买卖	mai mai	36832
+买卖	Gmai Gmai	36832
 买卖人	Gmai Gmai Glen	20
 买卖人	Gmai Gmai Gnin	20
 买卖人	Gmai Gmai ren	20
@@ -64109,14 +64098,10 @@ use_preset_vocabulary: false
 买票	Gmai Gpieu	83
 买票	Gmai piao	83
 买票	mai piao	83
-买空卖空	Gmai Gkung Gkok Gkung	7
-买空卖空	Gmai Gkung Gkok kong	7
-买空卖空	Gmai Gkung mai Gkung	7
-买空卖空	Gmai Gkung mai kong	7
-买空卖空	Gmai kong Gkok Gkung	7
-买空卖空	Gmai kong Gkok kong	7
-买空卖空	Gmai kong mai Gkung	7
-买空卖空	Gmai kong mai kong	7
+买空卖空	Gmai Gkung Gmai Gkung	7
+买空卖空	Gmai Gkung Gmai kong	7
+买空卖空	Gmai kong Gmai Gkung	7
+买空卖空	Gmai kong Gmai kong	7
 买空卖空	mai kong mai kong	7
 买者	Gmai Gza	293
 买者	Gmai zhe	293
@@ -69838,6 +69823,7 @@ use_preset_vocabulary: false
 于善德	Gyu shan Gdet	32
 于善德	Gyu shan de	32
 于善德	yu shan de	32
+于嘉瑞	Gyu Gga Glui	16
 于嘉瑞	Gyu Gga Gsui	16
 于嘉瑞	Gyu Gga rui	16
 于嘉瑞	Gyu jia Gsui	16
@@ -84940,9 +84926,11 @@ use_preset_vocabulary: false
 以国防部	Gyi guo fang bu	7
 以国防部	yi guo fang bu	7
 以图	Gyi Gtu	150
+以备	Gyi Gpei	280
 以备	Gyi Gpi	280
 以备	Gyi bei	280
 以备	yi bei	280
+以备不测	Gyi Gpei Gbet Gcet	11
 以备不测	Gyi Gpi Gbet Gcet	11
 以备不测	Gyi Gpi Gbet ce	11
 以备不测	Gyi Gpi bu Gcet	11
@@ -94126,6 +94114,22 @@ use_preset_vocabulary: false
 作壁上观	zuo bi Gsong guan	23
 作壁上观	zuo bi shang Gguon	23
 作壁上观	zuo bi shang guan	23
+作天作地	Gzok Gtien Gzok Gti	100000
+作天作地	Gzok Gtien Gzok di	100000
+作天作地	Gzok Gtien zuo Gti	100000
+作天作地	Gzok Gtien zuo di	100000
+作天作地	Gzok tian Gzok Gti	100000
+作天作地	Gzok tian Gzok di	100000
+作天作地	Gzok tian zuo Gti	100000
+作天作地	Gzok tian zuo di	100000
+作天作地	zuo Gtien Gzok Gti	100000
+作天作地	zuo Gtien Gzok di	100000
+作天作地	zuo Gtien zuo Gti	100000
+作天作地	zuo Gtien zuo di	100000
+作天作地	zuo tian Gzok Gti	100000
+作天作地	zuo tian Gzok di	100000
+作天作地	zuo tian zuo Gti	100000
+作天作地	zuo tian zuo di	100000
 作奸犯科	Gzok Ggan Gfan Gkuo	25
 作奸犯科	Gzok Ggan Gfan ke	25
 作奸犯科	Gzok jian Gfan Gkuo	25
@@ -96676,6 +96680,7 @@ use_preset_vocabulary: false
 侯君集	hou Gjyun ji	16
 侯君集	hou jun Gjit	16
 侯君集	hou jun ji	16
+侯喜瑞	Gheu Gxi Glui	9
 侯喜瑞	Gheu Gxi Gsui	9
 侯喜瑞	Gheu Gxi rui	9
 侯喜瑞	hou Gxi Gsui	9
@@ -97079,6 +97084,7 @@ use_preset_vocabulary: false
 便益	bian Gyit	7
 便益	bian yi	7
 便秘	Gpien Gbi	269
+便秘	Gpien Gmit	269
 便秘	Gpien mi	269
 便秘	bian Gbi	269
 便秘	bian mi	269
@@ -100632,6 +100638,7 @@ use_preset_vocabulary: false
 俱全	Gjyu quan	362
 俱全	ju Gqyuon	362
 俱全	ju quan	362
+俱备	Gjyu Gpei	34
 俱备	Gjyu Gpi	34
 俱备	Gjyu bei	34
 俱备	ju Gpi	34
@@ -100834,9 +100841,8 @@ use_preset_vocabulary: false
 倒刺	Gdau Gci	46
 倒刺	dao Gci	46
 倒刺	dao ci	46
-倒卖	Gdau Gkok	25069
-倒卖	Gdau mai	25069
-倒卖	dao Gkok	25069
+倒卖	Gdau Gmai	25069
+倒卖	dao Gmai	25069
 倒卖	dao mai	25069
 倒卵形	Gdau Glon Gxin	50
 倒卵形	Gdau Glon xing	50
@@ -101251,14 +101257,10 @@ use_preset_vocabulary: false
 倚天剑	Gyi tian Gjien	134
 倚天剑	Gyi tian jian	134
 倚天剑	yi tian jian	134
-倚老卖老	Gyi Glau Gkok Glau	45
-倚老卖老	Gyi Glau Gkok lao	45
-倚老卖老	Gyi Glau mai Glau	45
-倚老卖老	Gyi Glau mai lao	45
-倚老卖老	Gyi lao Gkok Glau	45
-倚老卖老	Gyi lao Gkok lao	45
-倚老卖老	Gyi lao mai Glau	45
-倚老卖老	Gyi lao mai lao	45
+倚老卖老	Gyi Glau Gmai Glau	45
+倚老卖老	Gyi Glau Gmai lao	45
+倚老卖老	Gyi lao Gmai Glau	45
+倚老卖老	Gyi lao Gmai lao	45
 倚老卖老	yi lao mai lao	45
 倚赖	Gyi Glai	23
 倚重	Gyi Gcung	148
@@ -103101,6 +103103,11 @@ use_preset_vocabulary: false
 做梦	Gzu meng	492
 做梦	zuo Gmung	492
 做梦	zuo meng	492
+做正	Gzu Gzang	100000
+做正	Gzu Gzen	100000
+做正	Gzu zheng	100000
+做正	zuo Gzang	100000
+做正	zuo zheng	100000
 做法	Gzu Gfat	53412
 做法	Gzu fa	53412
 做法	zuo Gfat	53412
@@ -104123,18 +104130,24 @@ use_preset_vocabulary: false
 储君	Gqyu jun	23
 储君	chu Gjyun	23
 储君	chu jun	23
+储备	Gcu Gpei	1263
 储备	Gcu Gpi	1263
+储备	Gqyu Gpei	1263
 储备	Gqyu Gpi	1263
 储备	Gqyu bei	1263
 储备	chu Gpi	1263
 储备	chu bei	1263
+储备库	Gcu Gpei Gku	10
 储备库	Gcu Gpi Gku	10
+储备库	Gqyu Gpei Gku	10
 储备库	Gqyu Gpi Gku	10
 储备库	Gqyu bei Gku	10
 储备库	chu Gpi Gku	10
 储备库	chu bei Gku	10
 储备库	chu bei ku	10
+储备粮	Gcu Gpei Gliong	15
 储备粮	Gcu Gpi Gliong	15
+储备粮	Gqyu Gpei Gliong	15
 储备粮	Gqyu Gpi Gliong	15
 储备粮	Gqyu Gpi liang	15
 储备粮	Gqyu bei Gliong	15
@@ -104143,7 +104156,9 @@ use_preset_vocabulary: false
 储备粮	chu Gpi liang	15
 储备粮	chu bei Gliong	15
 储备粮	chu bei liang	15
+储备量	Gcu Gpei Gliong	10
 储备量	Gcu Gpi Gliong	10
+储备量	Gqyu Gpei Gliong	10
 储备量	Gqyu Gpi Gliong	10
 储备量	Gqyu Gpi liang	10
 储备量	Gqyu bei Gliong	10
@@ -107828,6 +107843,8 @@ use_preset_vocabulary: false
 克特	Gkiet te	13
 克特	ke Gtet	13
 克特	ke te	13
+克瑞格	Gkiet Glui Ggak	14
+克瑞格	Gkiet Glui Ggiet	14
 克瑞格	Gkiet Gsui Ggak	14
 克瑞格	Gkiet Gsui Ggiet	14
 克瑞格	Gkiet Gsui ge	14
@@ -110316,6 +110333,7 @@ use_preset_vocabulary: false
 全境	Gqyuon jing	1460
 全境	quan Gjin	1460
 全境	quan jing	1460
+全备	Gqyuon Gpei	17
 全备	Gqyuon Gpi	17
 全备	Gqyuon bei	17
 全备	quan Gpi	17
@@ -116198,10 +116216,12 @@ use_preset_vocabulary: false
 共价	Gqiung Gga	15
 共价	gong Gga	15
 共价	gong jia	15
+共价键	Gkung Gga Gjien	76
 共价键	Gkung Gga Gqien	76
 共价键	Gkung Gga jian	76
 共价键	Gkung jia Gqien	76
 共价键	Gkung jia jian	76
+共价键	Gqiung Gga Gjien	76
 共价键	Gqiung Gga Gqien	76
 共价键	gong Gga Gqien	76
 共价键	gong Gga jian	76
@@ -116947,10 +116967,12 @@ use_preset_vocabulary: false
 关怀	Gguan Gwai	697
 关怀	Gguan huai	697
 关怀	guan huai	697
+关怀备至	Gguan Gfai Gpei Gzi	16
 关怀备至	Gguan Gfai Gpi Gzi	16
 关怀备至	Gguan Gfai Gpi zhi	16
 关怀备至	Gguan Gfai bei Gzi	16
 关怀备至	Gguan Gfai bei zhi	16
+关怀备至	Gguan Gwai Gpei Gzi	16
 关怀备至	Gguan Gwai Gpi Gzi	16
 关怀备至	Gguan huai Gpi Gzi	16
 关怀备至	Gguan huai Gpi zhi	16
@@ -117237,26 +117259,34 @@ use_preset_vocabulary: false
 关锋	Gguan Gfung	13
 关锋	Gguan feng	13
 关锋	guan feng	13
+关键	Gguan Gjien	170721
 关键	Gguan Gqien	170721
 关键	Gguan jian	170721
 关键	guan jian	170721
+关键处	Gguan Gjien Gcu	7
+关键处	Gguan Gjien Gqyu	7
 关键处	Gguan Gqien Gcu	7
 关键处	Gguan Gqien Gqyu	7
 关键处	Gguan Gqien chu	7
 关键处	Gguan jian Gcu	7
 关键处	Gguan jian chu	7
 关键处	guan jian chu	7
+关键字	Gguan Gjien Gci	151
 关键字	Gguan Gqien Gci	151
 关键字	Gguan Gqien zi	151
 关键字	Gguan jian Gci	151
 关键字	Gguan jian zi	151
 关键字	guan jian zi	151
+关键性	Gguan Gjien Gxiang	111
+关键性	Gguan Gjien Gxin	111
 关键性	Gguan Gqien Gxiang	111
 关键性	Gguan Gqien Gxin	111
 关键性	Gguan Gqien xing	111
 关键性	Gguan jian Gxin	111
 关键性	Gguan jian xing	111
 关键性	guan jian xing	111
+关键技术	Gguan Gjien Gqi Gsuet	7
+关键技术	Gguan Gjien Gqi Gsuk	7
 关键技术	Gguan Gqien Gqi Gsuet	7
 关键技术	Gguan Gqien Gqi Gsuk	7
 关键技术	Gguan Gqien Gqi shu	7
@@ -117267,23 +117297,30 @@ use_preset_vocabulary: false
 关键技术	Gguan jian ji Gsuet	7
 关键技术	Gguan jian ji shu	7
 关键技术	guan jian ji shu	7
+关键是	Gguan Gjien Gsi	45000
+关键是	Gguan Gjien Gxi	45000
 关键是	Gguan Gqien Gsi	45000
 关键是	Gguan Gqien Gxi	45000
 关键是	Gguan Gqien shi	45000
 关键是	Gguan jian Gsi	45000
 关键是	Gguan jian shi	45000
 关键是	guan jian shi	45000
+关键期	Gguan Gjien Gqi	13
 关键期	Gguan Gqien Gqi	13
 关键期	Gguan jian Gqi	13
 关键期	guan jian qi	13
+关键点	Gguan Gjien Gdien	36
 关键点	Gguan Gqien Gdien	36
 关键点	Gguan Gqien dian	36
 关键点	Gguan jian Gdien	36
 关键点	Gguan jian dian	36
 关键点	guan jian dian	36
+关键词	Gguan Gjien Gci	116
 关键词	Gguan Gqien Gci	116
 关键词	Gguan jian Gci	116
 关键词	guan jian ci	116
+关键问题	Gguan Gjien Gmen Gti	8
+关键问题	Gguan Gjien Gwun Gti	8
 关键问题	Gguan Gqien Gmen Gti	8
 关键问题	Gguan Gqien Gwun Gti	8
 关键问题	Gguan Gqien wen Gti	8
@@ -117985,7 +118022,9 @@ use_preset_vocabulary: false
 兵士	Gbin shi	414
 兵士	bing Gsi	414
 兵士	bing shi	414
+兵备道	Gbiang Gpei Gtau	26
 兵备道	Gbiang Gpi Gtau	26
+兵备道	Gbin Gpei Gtau	26
 兵备道	Gbin Gpi Gtau	26
 兵备道	Gbin Gpi dao	26
 兵备道	Gbin bei Gtau	26
@@ -118623,7 +118662,9 @@ use_preset_vocabulary: false
 具名	Gqyu ming	93
 具名	ju Gmin	93
 具名	ju ming	93
+具备	Gjyu Gpei	4224
 具备	Gjyu Gpi	4224
+具备	Gqyu Gpei	4224
 具备	Gqyu Gpi	4224
 具备	Gqyu bei	4224
 具备	ju Gpi	4224
@@ -118645,9 +118686,8 @@ use_preset_vocabulary: false
 具象	ju xiang	32
 典	Gdien	180000
 典	dian	180000
-典卖	Gdien Gkok	13
-典卖	Gdien mai	13
-典卖	dian Gkok	13
+典卖	Gdien Gmai	13
+典卖	dian Gmai	13
 典卖	dian mai	13
 典型	Gdien Gxin	3430
 典型	Gdien xing	3430
@@ -119247,6 +119287,7 @@ use_preset_vocabulary: false
 兼及	Ggan ji	97
 兼及	jian Gjit	97
 兼及	jian ji	97
+兼备	Ggan Gpei	1063
 兼备	Ggan Gpi	1063
 兼备	Ggan bei	1063
 兼备	jian Gpi	1063
@@ -122315,6 +122356,7 @@ use_preset_vocabulary: false
 军士长	jun Gsi zhang	13
 军士长	jun shi Gzong	13
 军士长	jun shi zhang	13
+军备	Gjyun Gpei	362
 军备	Gjyun Gpi	362
 军备	Gjyun bei	362
 军备	jun Gpi	362
@@ -126852,10 +126894,12 @@ use_preset_vocabulary: false
 准则	Gzun ze	894
 准则	zhun Gzet	894
 准则	zhun ze	894
+准备	Gzun Gpei	200000
 准备	Gzun Gpi	200000
 准备	Gzun bei	200000
 准备	zhun Gpi	200000
 准备	zhun bei	200000
+准备会	Gzun Gpei Gfei	37
 准备会	Gzun Gpi Gfei	37
 准备会	Gzun Gpi hui	37
 准备会	Gzun bei Gfei	37
@@ -126864,11 +126908,13 @@ use_preset_vocabulary: false
 准备会	zhun Gpi hui	37
 准备会	zhun bei Gfei	37
 准备会	zhun bei hui	37
+准备金	Gzun Gpei Gjin	239
 准备金	Gzun Gpi Gjin	239
 准备金	Gzun bei Gjin	239
 准备金	zhun Gpi Gjin	239
 准备金	zhun bei Gjin	239
 准备金	zhun bei jin	239
+准备金率	Gzun Gpei Gjin Glyut	18
 准备金率	Gzun Gpi Gjin Glyut	18
 准备金率	Gzun Gpi Gjin lv	18
 准备金率	Gzun bei Gjin Glyut	18
@@ -130741,7 +130787,9 @@ use_preset_vocabulary: false
 出处	Gcuk chu	25095
 出处	chu Gqyu	25095
 出处	chu chu	25095
+出备	Gcet Gpei	7
 出备	Gcet Gpi	7
+出备	Gcuk Gpei	7
 出备	Gcuk Gpi	7
 出备	Gcuk bei	7
 出备	chu Gpi	7
@@ -134821,9 +134869,12 @@ use_preset_vocabulary: false
 刘处玄	Gliu chu Gxyuon	81
 刘处玄	Gliu chu xuan	81
 刘处玄	liu chu xuan	81
+刘备	Gliu Gpei	1753
 刘备	Gliu Gpi	1753
 刘备	Gliu bei	1753
 刘备	liu bei	1753
+刘备入	Gliu Gpei Glet	8
+刘备入	Gliu Gpei Gluk	8
 刘备入	Gliu Gpi Glet	8
 刘备入	Gliu Gpi Gluk	8
 刘备入	Gliu Gpi ru	8
@@ -138353,6 +138404,7 @@ use_preset_vocabulary: false
 制图	Gzi Gtu	107
 制图	zhi Gtu	107
 制图	zhi tu	107
+制备	Gzi Gpei	421
 制备	Gzi Gpi	421
 制备	Gzi bei	421
 制备	zhi Gpi	421
@@ -140914,6 +140966,8 @@ use_preset_vocabulary: false
 劁	qiao	90000
 劂	Gjyuot	10806
 劂	jue	10806
+劃	Gkuak	100000
+劃	hua	100000
 劄	Gzat	5115
 劄	zha	5115
 劈	Gpiak	145000
@@ -147274,6 +147328,7 @@ use_preset_vocabulary: false
 化学药品	hua xue Gyok Gpin	61
 化学药品	hua xue yao Gpin	61
 化学药品	hua xue yao pin	61
+化学键	Gfa Ghok Gjien	96
 化学键	Gfa Ghok Gqien	96
 化学键	Gfa Ghok jian	96
 化学键	Gfa xue Gqien	96
@@ -157449,8 +157504,8 @@ use_preset_vocabulary: false
 卄	nian	5125
 卅	Gsat	4980
 卅	sa	4980
-升	Gsen	120000
-升	sheng	120000
+升	Gsen	200000
+升	sheng	200000
 升任	Gsen Glen	334
 升任	Gsen ren	334
 升任	sheng Glen	334
@@ -160104,6 +160159,7 @@ use_preset_vocabulary: false
 华特尔	hua Gtet er	68
 华特尔	hua te Go	68
 华特尔	hua te er	68
+华瑞	Gfa Glui	364
 华瑞	Gfa Gsui	364
 华瑞	Gfa rui	364
 华瑞	hua Gsui	364
@@ -161543,6 +161599,7 @@ use_preset_vocabulary: false
 单链	Gdan Glien	31
 单链	Gdan lian	31
 单链	dan lian	31
+单键	Gdan Gjien	19
 单键	Gdan Gqien	19
 单键	Gdan jian	19
 单键	dan jian	19
@@ -161571,40 +161628,27 @@ use_preset_vocabulary: false
 单项赛	dan xiang sai	10
 单飞	Gdan Gfei	29
 单骑	Gdan Gqi	86
-卖	Gkok	175000
 卖	Gmai	175000
-卖	mai	175000
-卖主	Gkok Gjyu	35
-卖主	Gkok Gzu	35
-卖主	Gkok zhu	35
-卖主	mai Gzu	35
+卖主	Gmai Gjyu	35
+卖主	Gmai Gzu	35
+卖主	Gmai zhu	35
 卖主	mai zhu	35
-卖主求荣	Gkok Gjyu Gqiu Glung	13
-卖主求荣	Gkok Gjyu Gqiu Gyung	13
-卖主求荣	Gkok Gzu Gqiu Glung	13
-卖主求荣	Gkok Gzu Gqiu Gyung	13
-卖主求荣	Gkok Gzu Gqiu rong	13
-卖主求荣	Gkok zhu Gqiu Gyung	13
-卖主求荣	Gkok zhu Gqiu rong	13
-卖主求荣	mai Gzu Gqiu Gyung	13
-卖主求荣	mai Gzu Gqiu rong	13
-卖主求荣	mai zhu Gqiu Gyung	13
-卖主求荣	mai zhu Gqiu rong	13
+卖主求荣	Gmai Gjyu Gqiu Glung	13
+卖主求荣	Gmai Gjyu Gqiu Gyung	13
+卖主求荣	Gmai Gzu Gqiu Glung	13
+卖主求荣	Gmai Gzu Gqiu Gyung	13
+卖主求荣	Gmai Gzu Gqiu rong	13
+卖主求荣	Gmai zhu Gqiu Gyung	13
+卖主求荣	Gmai zhu Gqiu rong	13
 卖主求荣	mai zhu qiu rong	13
-卖乖	Gkok Gguai	41
-卖乖	mai Gguai	41
-卖乖	mai guai	41
-卖价	Gkok Gga	17
-卖价	Gkok jia	17
-卖价	mai Gga	17
+卖乖	Gmai Gguai	41
+卖价	Gmai Gga	17
+卖价	Gmai jia	17
 卖价	mai jia	17
-卖假	Gkok Gga	19
-卖假	Gkok jia	19
-卖假	mai Gga	19
+卖假	Gmai Gga	19
+卖假	Gmai jia	19
 卖假	mai jia	19
-卖关子	Gkok Gguan Gzi	52
-卖关子	mai Gguan Gzi	52
-卖关子	mai guan zi	52
+卖关子	Gmai Gguan Gzi	52
 卖出	Gmai Gcet	120339
 卖出	Gmai Gcuk	120339
 卖出	Gmai chu	120339
@@ -161615,167 +161659,114 @@ use_preset_vocabulary: false
 卖出价	Gmai chu Gga	9
 卖出价	Gmai chu jia	9
 卖出价	mai chu jia	9
-卖力	Gkok Glit	145
-卖力	Gkok li	145
-卖力	mai Glit	145
+卖力	Gmai Glit	145
+卖力	Gmai li	145
 卖力	mai li	145
-卖力气	Gkok Glit Gqi	15
-卖力气	Gkok li Gqi	15
-卖力气	mai Glit Gqi	15
-卖力气	mai li Gqi	15
+卖力气	Gmai Glit Gqi	15
+卖力气	Gmai li Gqi	15
 卖力气	mai li qi	15
-卖劲	Gkok Gjin	11
-卖劲	mai Gjin	11
-卖劲	mai jin	11
-卖友求荣	Gkok Gyiu Gqiu Glung	8
-卖友求荣	Gkok Gyiu Gqiu Gyung	8
-卖友求荣	Gkok Gyiu Gqiu rong	8
-卖友求荣	Gkok you Gqiu Gyung	8
-卖友求荣	Gkok you Gqiu rong	8
-卖友求荣	mai Gyiu Gqiu Gyung	8
-卖友求荣	mai Gyiu Gqiu rong	8
-卖友求荣	mai you Gqiu Gyung	8
-卖友求荣	mai you Gqiu rong	8
+卖劲	Gmai Gjin	11
+卖友求荣	Gmai Gyiu Gqiu Glung	8
+卖友求荣	Gmai Gyiu Gqiu Gyung	8
+卖友求荣	Gmai Gyiu Gqiu rong	8
+卖友求荣	Gmai you Gqiu Gyung	8
+卖友求荣	Gmai you Gqiu rong	8
 卖友求荣	mai you qiu rong	8
-卖命	Gkok Gmiang	68
-卖命	Gkok Gmin	68
-卖命	Gkok ming	68
-卖命	mai Gmin	68
+卖命	Gmai Gmiang	68
+卖命	Gmai Gmin	68
+卖命	Gmai ming	68
 卖命	mai ming	68
-卖唱	Gkok Gcong	26
-卖唱	Gkok chang	26
-卖唱	mai Gcong	26
+卖唱	Gmai Gcong	26
+卖唱	Gmai chang	26
 卖唱	mai chang	26
-卖国	Gkok Gguet	864
-卖国	Gkok guo	864
-卖国	mai Gguet	864
+卖国	Gmai Gguet	864
+卖国	Gmai guo	864
 卖国	mai guo	864
-卖国求荣	Gkok Gguet Gqiu Glung	272
-卖国求荣	Gkok Gguet Gqiu Gyung	272
-卖国求荣	Gkok Gguet Gqiu rong	272
-卖国求荣	Gkok guo Gqiu Gyung	272
-卖国求荣	Gkok guo Gqiu rong	272
-卖国求荣	mai Gguet Gqiu Gyung	272
-卖国求荣	mai Gguet Gqiu rong	272
-卖国求荣	mai guo Gqiu Gyung	272
-卖国求荣	mai guo Gqiu rong	272
+卖国求荣	Gmai Gguet Gqiu Glung	272
+卖国求荣	Gmai Gguet Gqiu Gyung	272
+卖国求荣	Gmai Gguet Gqiu rong	272
+卖国求荣	Gmai guo Gqiu Gyung	272
+卖国求荣	Gmai guo Gqiu rong	272
 卖国求荣	mai guo qiu rong	272
-卖国贼	Gkok Gguet Gcet	1364
-卖国贼	Gkok Gguet zei	1364
-卖国贼	Gkok guo Gcet	1364
-卖国贼	Gkok guo zei	1364
-卖国贼	mai Gguet Gcet	1364
-卖国贼	mai Gguet zei	1364
-卖国贼	mai guo Gcet	1364
+卖国贼	Gmai Gguet Gcet	1364
+卖国贼	Gmai Gguet zei	1364
+卖国贼	Gmai guo Gcet	1364
+卖国贼	Gmai guo zei	1364
 卖国贼	mai guo zei	1364
-卖地	Gkok Gti	74
-卖地	Gkok di	74
-卖地	mai Gti	74
+卖地	Gmai Gti	74
+卖地	Gmai di	74
 卖地	mai di	74
-卖场	Gkok Gcong	159
-卖场	Gkok chang	159
-卖场	mai Gcong	159
+卖场	Gmai Gcong	159
+卖场	Gmai chang	159
 卖场	mai chang	159
-卖好	Gkok Ghau	17
-卖好	Gkok hao	17
-卖好	mai Ghau	17
+卖好	Gmai Ghau	17
+卖好	Gmai hao	17
 卖好	mai hao	17
-卖官鬻爵	Gkok Gguon Gyut Gjiok	28
-卖官鬻爵	Gkok Gguon Gyut jue	28
-卖官鬻爵	Gkok Gguon yu Gjiok	28
-卖官鬻爵	Gkok Gguon yu jue	28
-卖官鬻爵	Gkok guan Gyut Gjiok	28
-卖官鬻爵	Gkok guan Gyut jue	28
-卖官鬻爵	Gkok guan yu Gjiok	28
-卖官鬻爵	Gkok guan yu jue	28
-卖官鬻爵	mai Gguon Gyut Gjiok	28
-卖官鬻爵	mai Gguon Gyut jue	28
-卖官鬻爵	mai Gguon yu Gjiok	28
-卖官鬻爵	mai Gguon yu jue	28
-卖官鬻爵	mai guan Gyut Gjiok	28
-卖官鬻爵	mai guan Gyut jue	28
-卖官鬻爵	mai guan yu Gjiok	28
+卖官鬻爵	Gmai Gguon Gyut Gjiok	28
+卖官鬻爵	Gmai Gguon Gyut jue	28
+卖官鬻爵	Gmai Gguon yu Gjiok	28
+卖官鬻爵	Gmai Gguon yu jue	28
+卖官鬻爵	Gmai guan Gyut Gjiok	28
+卖官鬻爵	Gmai guan Gyut jue	28
+卖官鬻爵	Gmai guan yu Gjiok	28
+卖官鬻爵	Gmai guan yu jue	28
 卖官鬻爵	mai guan yu jue	28
-卖家	Gkok Gga	104
-卖家	Gkok jia	104
-卖家	mai Gga	104
+卖家	Gmai Gga	104
+卖家	Gmai jia	104
 卖家	mai jia	104
 卖屄崽	Gmai Gbiet Gzai	100000
 卖屄崽	Gmai bi Gzai	100000
 卖屄崽	mai bi zai	100000
-卖座	Gkok Gco	20
-卖座	Gkok zuo	20
-卖座	mai Gco	20
+卖座	Gmai Gco	20
+卖座	Gmai zuo	20
 卖座	mai zuo	20
-卖弄	Gkok Glung	152
-卖弄	Gkok nong	152
-卖弄	mai Glung	152
+卖弄	Gmai Glung	152
+卖弄	Gmai nong	152
 卖弄	mai nong	152
-卖报	Gkok Gbau	18
-卖报	Gkok bao	18
-卖报	mai Gbau	18
+卖报	Gmai Gbau	18
+卖报	Gmai bao	18
 卖报	mai bao	18
-卖掉	Gkok Gdieu	278
-卖掉	Gkok Gtieu	278
-卖掉	Gkok diao	278
-卖掉	mai Gtieu	278
+卖掉	Gmai Gdieu	278
+卖掉	Gmai Gtieu	278
+卖掉	Gmai diao	278
 卖掉	mai diao	278
-卖方	Gkok Gfong	179
-卖方	Gkok fang	179
-卖方	mai Gfong	179
+卖方	Gmai Gfong	179
+卖方	Gmai fang	179
 卖方	mai fang	179
-卖淫	Gkok Gyin	50115
-卖淫	mai Gyin	50115
-卖淫	mai yin	50115
-卖点	Gkok Gdien	90
-卖点	Gkok dian	90
-卖点	mai Gdien	90
+卖淫	Gmai Gyin	50115
+卖点	Gmai Gdien	90
+卖点	Gmai dian	90
 卖点	mai dian	90
-卖相	Gkok Gxiong	10
-卖相	Gkok xiang	10
-卖相	mai Gxiong	10
+卖相	Gmai Gxiong	10
+卖相	Gmai xiang	10
 卖相	mai xiang	10
-卖票	Gkok Gpieu	22
-卖票	Gkok piao	22
-卖票	mai Gpieu	22
+卖票	Gmai Gpieu	22
+卖票	Gmai piao	22
 卖票	mai piao	22
-卖笑	Gkok Gxieu	22
-卖笑	Gkok xiao	22
-卖笑	mai Gxieu	22
+卖笑	Gmai Gxieu	22
+卖笑	Gmai xiao	22
 卖笑	mai xiao	22
-卖艺	Gkok Gni	79
-卖艺	Gkok Gyi	79
-卖艺	Gkok yi	79
-卖艺	mai Gni	79
+卖艺	Gmai Gni	79
+卖艺	Gmai Gyi	79
+卖艺	Gmai yi	79
 卖艺	mai yi	79
-卖花	Gkok Gfa	16
-卖花	Gkok hua	16
-卖花	mai Gfa	16
+卖花	Gmai Gfa	16
+卖花	Gmai hua	16
 卖花	mai hua	16
-卖身	Gkok Gsen	74
-卖身	Gkok shen	74
-卖身	mai Gsen	74
+卖身	Gmai Gsen	74
+卖身	Gmai shen	74
 卖身	mai shen	74
-卖身契	Gkok Gsen Gqi	11
-卖身契	Gkok shen Gqi	11
-卖身契	mai Gsen Gqi	11
-卖身契	mai shen Gqi	11
+卖身契	Gmai Gsen Gqi	11
+卖身契	Gmai shen Gqi	11
 卖身契	mai shen qi	11
-卖身投靠	Gkok Gsen Gteu Gkau	15
-卖身投靠	Gkok Gsen Gteu kao	15
-卖身投靠	Gkok Gsen tou Gkau	15
-卖身投靠	Gkok Gsen tou kao	15
-卖身投靠	Gkok shen Gteu Gkau	15
-卖身投靠	Gkok shen Gteu kao	15
-卖身投靠	Gkok shen tou Gkau	15
-卖身投靠	Gkok shen tou kao	15
-卖身投靠	mai Gsen Gteu Gkau	15
-卖身投靠	mai Gsen Gteu kao	15
-卖身投靠	mai Gsen tou Gkau	15
-卖身投靠	mai Gsen tou kao	15
-卖身投靠	mai shen Gteu Gkau	15
-卖身投靠	mai shen Gteu kao	15
-卖身投靠	mai shen tou Gkau	15
+卖身投靠	Gmai Gsen Gteu Gkau	15
+卖身投靠	Gmai Gsen Gteu kao	15
+卖身投靠	Gmai Gsen tou Gkau	15
+卖身投靠	Gmai Gsen tou kao	15
+卖身投靠	Gmai shen Gteu Gkau	15
+卖身投靠	Gmai shen Gteu kao	15
+卖身投靠	Gmai shen tou Gkau	15
+卖身投靠	Gmai shen tou kao	15
 卖身投靠	mai shen tou kao	15
 南	Glan	180001
 南	nan	180001
@@ -165906,6 +165897,7 @@ use_preset_vocabulary: false
 卢照邻	Glu Gzeu Glin	13
 卢照邻	Glu zhao Glin	13
 卢照邻	lu zhao lin	13
+卢瑞华	Glu Glui Gfa	259
 卢瑞华	Glu Gsui Gfa	259
 卢瑞华	Glu Gsui hua	259
 卢瑞华	Glu rui Gfa	259
@@ -172047,6 +172039,7 @@ use_preset_vocabulary: false
 双锥	Gsong zhui	21
 双锥	shuang Gzui	21
 双锥	shuang zhui	21
+双键	Gsong Gjien	74
 双键	Gsong Gqien	74
 双键	Gsong jian	74
 双键	shuang Gqien	74
@@ -175392,9 +175385,8 @@ use_preset_vocabulary: false
 变化莫测	bian hua Gmot ce	32
 变化莫测	bian hua mo Gcet	32
 变化莫测	bian hua mo ce	32
-变卖	Gbien Gkok	119
-变卖	Gbien mai	119
-变卖	bian Gkok	119
+变卖	Gbien Gmai	119
+变卖	bian Gmai	119
 变卖	bian mai	119
 变卦	Gbien Ggua	109
 变卦	bian Ggua	109
@@ -175913,9 +175905,8 @@ use_preset_vocabulary: false
 叛匪	Gpon Gfei	25
 叛匪	pan Gfei	25
 叛匪	pan fei	25
-叛卖	Gpon Gkok	12
-叛卖	Gpon mai	12
-叛卖	pan Gkok	12
+叛卖	Gpon Gmai	12
+叛卖	pan Gmai	12
 叛卖	pan mai	12
 叛变	Gpon Gbien	276
 叛变	Gpon bian	276
@@ -177992,18 +177983,14 @@ use_preset_vocabulary: false
 叫化子	jiao Gfa Gzi	140
 叫化子	jiao hua Gzi	140
 叫化子	jiao hua zi	140
-叫卖	Gjieu Gkok	602
-叫卖	Gjieu mai	602
-叫卖	jiao Gkok	602
+叫卖	Gjieu Gmai	602
+叫卖	jiao Gmai	602
 叫卖	jiao mai	602
-叫卖声	Gjieu Gkok Gsang	26
-叫卖声	Gjieu Gkok Gsen	26
-叫卖声	Gjieu Gkok sheng	26
-叫卖声	Gjieu mai Gsang	26
-叫卖声	Gjieu mai sheng	26
-叫卖声	jiao Gkok Gsang	26
-叫卖声	jiao Gkok sheng	26
-叫卖声	jiao mai Gsang	26
+叫卖声	Gjieu Gmai Gsang	26
+叫卖声	Gjieu Gmai Gsen	26
+叫卖声	Gjieu Gmai sheng	26
+叫卖声	jiao Gmai Gsang	26
+叫卖声	jiao Gmai sheng	26
 叫卖声	jiao mai sheng	26
 叫响	Gjieu Gxiong	18
 叫响	Gjieu xiang	18
@@ -181373,9 +181360,11 @@ use_preset_vocabulary: false
 司一正	Gsi yi zheng	16
 司一正	si yi zheng	16
 司三秘	Gsi Gsan Gbi	12
+司三秘	Gsi Gsan Gmit	12
 司三秘	Gsi Gsan mi	12
 司三秘	si san mi	12
 司二秘	Gsi Go Gbi	8
+司二秘	Gsi Go Gmit	8
 司二秘	Gsi Go mi	8
 司二秘	Gsi er Gbi	8
 司二秘	Gsi er mi	8
@@ -184421,6 +184410,8 @@ use_preset_vocabulary: false
 吉士	Gjit shi	79
 吉士	ji Gsi	79
 吉士	ji shi	79
+吉备真	Gjit Gpei Gjin	13
+吉备真	Gjit Gpei Gzen	13
 吉备真	Gjit Gpi Gjin	13
 吉备真	Gjit Gpi Gzen	13
 吉备真	Gjit Gpi zhen	13
@@ -187601,10 +187592,12 @@ use_preset_vocabulary: false
 后处理	hou Gcu Gli	33
 后处理	hou chu Gli	33
 后处理	hou chu li	33
+后备	Gheu Gpei	517
 后备	Gheu Gpi	517
 后备	Gheu bei	517
 后备	hou Gpi	517
 后备	hou bei	517
+后备军	Gheu Gpei Gjyun	90
 后备军	Gheu Gpi Gjyun	90
 后备军	Gheu Gpi jun	90
 后备军	Gheu bei Gjyun	90
@@ -197879,8 +197872,7 @@ use_preset_vocabulary: false
 哎哟	ai yo	50236
 哏	Ghen	5442
 哏	gen	5442
-哐	Gkuong	4465
-哐	kuang	4465
+哐	Gkuang	4465
 哑	Gnga	120000
 哑	ya	120000
 哑剧	Gnga Gjyu	33
@@ -199928,10 +199920,9 @@ use_preset_vocabulary: false
 售出	Gxiu Gcuk	97
 售出	shou Gcuk	97
 售出	shou chu	97
-售卖	Gseu Gkok	25058
-售卖	Gseu mai	25058
-售卖	Gxiu Gkok	25058
-售卖	shou Gkok	25058
+售卖	Gseu Gmai	25058
+售卖	Gxiu Gmai	25058
+售卖	shou Gmai	25058
 售卖	shou mai	25058
 售后	Gseu Gheu	27
 售后	Gseu hou	27
@@ -206519,6 +206510,7 @@ use_preset_vocabulary: false
 四部丛刊	Gsi bu cong Gkon	55
 四部丛刊	Gsi bu cong kan	55
 四部丛刊	si bu cong kan	55
+四部备要	Gsi Gpu Gpei Gyeu	14
 四部备要	Gsi Gpu Gpi Gyeu	14
 四部备要	Gsi Gpu Gpi yao	14
 四部备要	Gsi Gpu bei Gyeu	14
@@ -216799,6 +216791,7 @@ use_preset_vocabulary: false
 坐墩	Gco dun	9
 坐墩	zuo Gden	9
 坐墩	zuo dun	9
+坐备	Gco Gpei	60000
 坐备	Gco Gpi	60000
 坐备	Gco bei	60000
 坐备	zuo Gpi	60000
@@ -224243,8 +224236,11 @@ use_preset_vocabulary: false
 夆	Gfung	5592
 夆	Ghai	5067
 夆	feng	5592
+备	Gpei	100000
 备	Gpi	120000
 备	bei	120000
+备不住	Gpei Gbet Gcu	8
+备不住	Gpei Gbet Gqyu	8
 备不住	Gpi Gbet Gcu	8
 备不住	Gpi Gbet Gqyu	8
 备不住	Gpi Gbet zhu	8
@@ -224254,29 +224250,40 @@ use_preset_vocabulary: false
 备不住	bei Gbet zhu	8
 备不住	bei bu Gcu	8
 备不住	bei bu zhu	8
+备件	Gpei Gjien	37
+备件	Gpei Gqien	37
 备件	Gpi Gjien	37
 备件	Gpi Gqien	37
 备件	Gpi jian	37
 备件	bei Gqien	37
 备件	bei jian	37
+备份	Gpei Gfen	70116
 备份	Gpi Gfen	70116
 备份	bei Gfen	70116
 备份	bei fen	70116
+备办	Gpei Gban	48
+备办	Gpei Gpan	48
 备办	Gpi Gban	48
 备办	Gpi Gpan	48
 备办	Gpi ban	48
 备办	bei Gpan	48
 备办	bei ban	48
+备受	Gpei Gseu	408
+备受	Gpei Gxiu	408
 备受	Gpi Gseu	408
 备受	Gpi Gxiu	408
 备受	Gpi shou	408
 备受	bei Gseu	408
 备受	bei shou	408
+备忘	Gpei Gmong	12
+备忘	Gpei Gwong	12
 备忘	Gpi Gmong	12
 备忘	Gpi Gwong	12
 备忘	Gpi wang	12
 备忘	bei Gmong	12
 备忘	bei wang	12
+备忘录	Gpei Gmong Gluk	214
+备忘录	Gpei Gwong Gluk	214
 备忘录	Gpi Gmong Gluk	214
 备忘录	Gpi Gmong lu	214
 备忘录	Gpi Gwong Gluk	214
@@ -224286,43 +224293,54 @@ use_preset_vocabulary: false
 备忘录	bei Gmong lu	214
 备忘录	bei wang Gluk	214
 备忘录	bei wang lu	214
+备感	Gpei Ggon	21
 备感	Gpi Ggon	21
 备感	Gpi gan	21
 备感	bei Ggon	21
 备感	bei gan	21
+备战	Gpei Gzen	380
 备战	Gpi Gzen	380
 备战	Gpi zhan	380
 备战	bei Gzen	380
 备战	bei zhan	380
+备料	Gpei Glieu	17
 备料	Gpi Glieu	17
 备料	Gpi liao	17
 备料	bei Glieu	17
 备料	bei liao	17
+备有	Gpei Gyiu	311
 备有	Gpi Gyiu	311
 备有	Gpi you	311
 备有	bei Gyiu	311
 备有	bei you	311
+备查	Gpei Gca	89
 备查	Gpi Gca	89
 备查	Gpi cha	89
 备查	bei Gca	89
 备查	bei cha	89
+备案	Gpei Gngon	3491
 备案	Gpi Gngon	3491
 备案	Gpi an	3491
 备案	bei Gngon	3491
 备案	bei an	3491
+备注	Gpei Gjyu	54
+备注	Gpei Gzu	54
 备注	Gpi Gjyu	54
 备注	Gpi Gzu	54
 备注	Gpi zhu	54
 备注	bei Gjyu	54
 备注	bei zhu	54
+备用	Gpei Gyung	5208
 备用	Gpi Gyung	5208
 备用	Gpi yong	5208
 备用	bei Gyung	5208
 备用	bei yong	5208
+备考	Gpei Gkau	262
 备考	Gpi Gkau	262
 备考	Gpi kao	262
 备考	bei Gkau	262
 备考	bei kao	262
+备而不用	Gpei Go Gbet Gyung	10
 备而不用	Gpi Go Gbet Gyung	10
 备而不用	Gpi Go Gbet yong	10
 备而不用	Gpi Go bu Gyung	10
@@ -224339,47 +224357,60 @@ use_preset_vocabulary: false
 备而不用	bei er Gbet yong	10
 备而不用	bei er bu Gyung	10
 备而不用	bei er bu yong	10
+备耕	Gpei Ggang	12
+备耕	Gpei Ggien	12
 备耕	Gpi Ggang	12
 备耕	Gpi Ggien	12
 备耕	Gpi geng	12
 备耕	bei Ggang	12
 备耕	bei geng	12
+备胎	Gpei Gtai	18
 备胎	Gpi Gtai	18
 备胎	bei Gtai	18
 备胎	bei tai	18
+备至	Gpei Gzi	35
 备至	Gpi Gzi	35
 备至	Gpi zhi	35
 备至	bei Gzi	35
 备至	bei zhi	35
+备荒	Gpei Gfong	28
 备荒	Gpi Gfong	28
 备荒	Gpi huang	28
 备荒	bei Gfong	28
 备荒	bei huang	28
+备要	Gpei Gyeu	7
 备要	Gpi Gyeu	7
 备要	Gpi yao	7
 备要	bei Gyeu	7
 备要	bei yao	7
+备课	Gpei Gkuo	64
 备课	Gpi Gkuo	64
 备课	Gpi ke	64
 备课	bei Gkuo	64
 备课	bei ke	64
+备货	Gpei Gfo	8
 备货	Gpi Gfo	8
 备货	Gpi huo	8
 备货	bei Gfo	8
 备货	bei huo	8
+备足	Gpei Gjiuk	14
+备足	Gpei Gzuk	14
 备足	Gpi Gjiuk	14
 备足	Gpi Gzuk	14
 备足	Gpi zu	14
 备足	bei Gjiuk	14
 备足	bei zu	14
+备选	Gpei Gxyuon	15063
 备选	Gpi Gxyuon	15063
 备选	Gpi xuan	15063
 备选	bei Gxyuon	15063
 备选	bei xuan	15063
+备降	Gpei Ggong	258
 备降	Gpi Ggong	258
 备降	Gpi jiang	258
 备降	bei Ggong	258
 备降	bei jiang	258
+备齐	Gpei Gqi	22
 备齐	Gpi Gqi	22
 备齐	bei Gqi	22
 备齐	bei qi	22
@@ -225837,9 +225868,7 @@ use_preset_vocabulary: false
 外化	Gwai Gfa	12
 外化	Gwai hua	12
 外化	wai hua	12
-外卖	Gwai Gkok	25020
-外卖	Gwai mai	25020
-外卖	wai mai	25020
+外卖	Gwai Gmai	25020
 外卡	Gwai Gka	8
 外县	Gwai Gxien	36
 外县	Gwai xian	36
@@ -242330,6 +242359,7 @@ use_preset_vocabulary: false
 奇珍异宝	Gqi zhen Gyi Gbau	50
 奇珍异宝	Gqi zhen Gyi bao	50
 奇珍异宝	qi zhen yi bao	50
+奇瑞	Gqi Glui	51
 奇瑞	Gqi Gsui	51
 奇瑞	Gqi rui	51
 奇瑞	qi rui	51
@@ -243974,6 +244004,7 @@ use_preset_vocabulary: false
 奥狄浦	ao Gtit Gpu	16
 奥狄浦	ao di Gpu	16
 奥狄浦	ao di pu	16
+奥瑞纳	Gngau Glui Glat	16
 奥瑞纳	Gngau Gsui Glat	16
 奥瑞纳	Gngau Gsui na	16
 奥瑞纳	Gngau rui Glat	16
@@ -243988,6 +244019,7 @@ use_preset_vocabulary: false
 奥的斯	ao de Gsi	13
 奥的斯	ao de si	13
 奥秘	Gngau Gbi	262
+奥秘	Gngau Gmit	262
 奥秘	Gngau mi	262
 奥秘	ao Gbi	262
 奥秘	ao mi	262
@@ -248179,7 +248211,9 @@ use_preset_vocabulary: false
 委会	Gwui hui	18
 委会	wei Gfei	18
 委会	wei hui	18
+委内瑞拉	Gwui Glei Glui Gla	530
 委内瑞拉	Gwui Glei Gsui Gla	530
+委内瑞拉	Gwui Glui Glui Gla	530
 委内瑞拉	Gwui Glui Gsui Gla	530
 委内瑞拉	Gwui Glui rui Gla	530
 委内瑞拉	Gwui nei Gsui Gla	530
@@ -248189,8 +248223,12 @@ use_preset_vocabulary: false
 委内瑞拉	wei nei Gsui Gla	530
 委内瑞拉	wei nei rui Gla	530
 委内瑞拉	wei nei rui la	530
+委内瑞拉人	Gwui Glei Glui Gla Glen	12
+委内瑞拉人	Gwui Glei Glui Gla Gnin	12
 委内瑞拉人	Gwui Glei Gsui Gla Glen	12
 委内瑞拉人	Gwui Glei Gsui Gla Gnin	12
+委内瑞拉人	Gwui Glui Glui Gla Glen	12
+委内瑞拉人	Gwui Glui Glui Gla Gnin	12
 委内瑞拉人	Gwui Glui Gsui Gla Glen	12
 委内瑞拉人	Gwui Glui Gsui Gla Gnin	12
 委内瑞拉人	Gwui Glui Gsui Gla ren	12
@@ -248209,10 +248247,18 @@ use_preset_vocabulary: false
 委内瑞拉人	wei nei rui Gla Gnin	12
 委内瑞拉人	wei nei rui Gla ren	12
 委内瑞拉人	wei nei rui la ren	12
+委内瑞拉共和国	Gwui Glei Glui Gla Gkung Gfo Gguet	10
+委内瑞拉共和国	Gwui Glei Glui Gla Gkung Gho Gguet	10
+委内瑞拉共和国	Gwui Glei Glui Gla Gqiung Gfo Gguet	10
+委内瑞拉共和国	Gwui Glei Glui Gla Gqiung Gho Gguet	10
 委内瑞拉共和国	Gwui Glei Gsui Gla Gkung Gfo Gguet	10
 委内瑞拉共和国	Gwui Glei Gsui Gla Gkung Gho Gguet	10
 委内瑞拉共和国	Gwui Glei Gsui Gla Gqiung Gfo Gguet	10
 委内瑞拉共和国	Gwui Glei Gsui Gla Gqiung Gho Gguet	10
+委内瑞拉共和国	Gwui Glui Glui Gla Gkung Gfo Gguet	10
+委内瑞拉共和国	Gwui Glui Glui Gla Gkung Gho Gguet	10
+委内瑞拉共和国	Gwui Glui Glui Gla Gqiung Gfo Gguet	10
+委内瑞拉共和国	Gwui Glui Glui Gla Gqiung Gho Gguet	10
 委内瑞拉共和国	Gwui Glui Gsui Gla Gkung Gfo Gguet	10
 委内瑞拉共和国	Gwui Glui Gsui Gla Gkung Gfo guo	10
 委内瑞拉共和国	Gwui Glui Gsui Gla Gkung Gho Gguet	10
@@ -255108,13 +255154,17 @@ use_preset_vocabulary: false
 守城	Gxiu Gsang	789
 守城	shou Gcen	789
 守城	shou cheng	789
+守备	Gseu Gpei	266
 守备	Gseu Gpi	266
 守备	Gseu bei	266
+守备	Gxiu Gpei	266
 守备	Gxiu Gpi	266
 守备	shou Gpi	266
 守备	shou bei	266
+守备队	Gseu Gpei Gdui	21
 守备队	Gseu Gpi Gdui	21
 守备队	Gseu bei Gdui	21
+守备队	Gxiu Gpei Gdui	21
 守备队	Gxiu Gpi Gdui	21
 守备队	shou Gpi Gdui	21
 守备队	shou bei Gdui	21
@@ -258654,8 +258704,10 @@ use_preset_vocabulary: false
 完善	Gyuon Gsen	88085
 完善	wan Gsen	88085
 完善	wan shan	88085
+完备	Gwon Gpei	100958
 完备	Gwon Gpi	100958
 完备	Gwon bei	100958
+完备	Gyuon Gpei	100958
 完备	Gyuon Gpi	100958
 完备	wan Gpi	100958
 完备	wan bei	100958
@@ -259589,6 +259641,7 @@ use_preset_vocabulary: false
 官儿	Gguon er	376
 官儿	guan Go	376
 官儿	guan er	376
+官克瑞	Gguon Gkiet Glui	8
 官克瑞	Gguon Gkiet Gsui	8
 官克瑞	Gguon Gkiet rui	8
 官克瑞	Gguon ke Gsui	8
@@ -269863,10 +269916,8 @@ use_preset_vocabulary: false
 小九九	Gxieu Gjiu Gjiu	9
 小九九	xiao Gjiu Gjiu	9
 小九九	xiao jiu jiu	9
-小买卖	Gxieu Gmai Gkok	14
-小买卖	Gxieu Gmai mai	14
-小买卖	xiao Gmai Gkok	14
-小买卖	xiao Gmai mai	14
+小买卖	Gxieu Gmai Gmai	14
+小买卖	xiao Gmai Gmai	14
 小买卖	xiao mai mai	14
 小事	Gxieu Gsi	1017
 小事	Gxieu shi	1017
@@ -270319,13 +270370,10 @@ use_preset_vocabulary: false
 小卒	Gxieu zu	54
 小卒	xiao Gzuet	54
 小卒	xiao zu	54
-小卖部	Gxieu Gkok Gpu	28
-小卖部	Gxieu Gkok bu	28
-小卖部	Gxieu mai Gpu	28
-小卖部	Gxieu mai bu	28
-小卖部	xiao Gkok Gpu	28
-小卖部	xiao Gkok bu	28
-小卖部	xiao mai Gpu	28
+小卖部	Gxieu Gmai Gpu	28
+小卖部	Gxieu Gmai bu	28
+小卖部	xiao Gmai Gpu	28
+小卖部	xiao Gmai bu	28
 小卖部	xiao mai bu	28
 小博尔	Gxieu Gbok Go	71
 小博尔	Gxieu Gbok er	71
@@ -280015,6 +280063,7 @@ use_preset_vocabulary: false
 嵋	Gmi	73978
 嵋	mei	73978
 嵌	Gkan	120000
+嵌	Gkang	100000
 嵌	qian	120000
 嵌入	Gkan Glet	180
 嵌入	Gkan Gluk	180
@@ -280157,6 +280206,15 @@ use_preset_vocabulary: false
 嵌套	Gkan tao	18
 嵌套	qian Gtau	18
 嵌套	qian tao	18
+嵌得里边	Gkang Gdet Gli Gbien	100000
+嵌得里边	Gkang Gdet Gli bian	100000
+嵌得里边	Gkang de Gli Gbien	100000
+嵌得里边	Gkang de Gli bian	100000
+嵌得里边	qian Gdet Gli Gbien	100000
+嵌得里边	qian Gdet Gli bian	100000
+嵌得里边	qian de Gli Gbien	100000
+嵌得里边	qian de Gli bian	100000
+嵌得里边	qian de li bian	100000
 嵌镶	Gkan Gxiong	9
 嵌镶	Gkan xiang	9
 嵌镶	qian Gxiong	9
@@ -287942,12 +288000,16 @@ use_preset_vocabulary: false
 常压	Gsong ya	69
 常压	chang Gngat	69
 常压	chang ya	69
+常备	Gcong Gpei	84
 常备	Gcong Gpi	84
+常备	Gsong Gpei	84
 常备	Gsong Gpi	84
 常备	Gsong bei	84
 常备	chang Gpi	84
 常备	chang bei	84
+常备军	Gcong Gpei Gjyun	89
 常备军	Gcong Gpi Gjyun	89
+常备军	Gsong Gpei Gjyun	89
 常备军	Gsong Gpi Gjyun	89
 常备军	Gsong Gpi jun	89
 常备军	Gsong bei Gjyun	89
@@ -297332,6 +297394,7 @@ use_preset_vocabulary: false
 廖汉生	liao Ghon sheng	8
 廖汉生	liao han Gsen	8
 廖汉生	liao han sheng	8
+廖瑞鸿	Glieu Glui Gfung	15
 廖瑞鸿	Glieu Gsui Gfung	15
 廖瑞鸿	Glieu Gsui hong	15
 廖瑞鸿	Glieu rui Gfung	15
@@ -300459,14 +300522,10 @@ use_preset_vocabulary: false
 引路人	Gyin Glu Gnin	12
 引路人	Gyin Glu ren	12
 引路人	yin lu ren	12
-引车卖浆	Gyin Gca Gkok Gjiong	10
-引车卖浆	Gyin Gca Gkok jiang	10
-引车卖浆	Gyin Gca mai Gjiong	10
-引车卖浆	Gyin Gca mai jiang	10
-引车卖浆	Gyin che Gkok Gjiong	10
-引车卖浆	Gyin che Gkok jiang	10
-引车卖浆	Gyin che mai Gjiong	10
-引车卖浆	Gyin che mai jiang	10
+引车卖浆	Gyin Gca Gmai Gjiong	10
+引车卖浆	Gyin Gca Gmai jiang	10
+引车卖浆	Gyin che Gmai Gjiong	10
+引车卖浆	Gyin che Gmai jiang	10
 引车卖浆	yin che mai jiang	10
 引进	Gyin Gjin	2375
 引述	Gyin Gsuk	101
@@ -301976,6 +302035,7 @@ use_preset_vocabulary: false
 张定边	zhang Gtin bian	18
 张定边	zhang ding Gbien	18
 张定边	zhang ding bian	18
+张宝瑞	Gzong Gbau Glui	14
 张宝瑞	Gzong Gbau Gsui	14
 张宝瑞	Gzong Gbau rui	14
 张宝瑞	Gzong bao Gsui	14
@@ -302202,6 +302262,7 @@ use_preset_vocabulary: false
 张广泗	zhang Gguong Gsi	35
 张广泗	zhang guang Gsi	35
 张广泗	zhang guang si	35
+张广瑞	Gzong Gguong Glui	9
 张广瑞	Gzong Gguong Gsui	9
 张广瑞	Gzong Gguong rui	9
 张广瑞	Gzong guang Gsui	9
@@ -303060,11 +303121,13 @@ use_preset_vocabulary: false
 张玉宁	zhang Gyu Glin	31
 张玉宁	zhang Gyu ning	31
 张玉宁	zhang yu ning	31
+张瑞敏	Gzong Glui Gmin	12
 张瑞敏	Gzong Gsui Gmin	12
 张瑞敏	Gzong rui Gmin	12
 张瑞敏	zhang Gsui Gmin	12
 张瑞敏	zhang rui Gmin	12
 张瑞敏	zhang rui min	12
+张瑞芳	Gzong Glui Gfong	8
 张瑞芳	Gzong Gsui Gfong	8
 张瑞芳	Gzong Gsui fang	8
 张瑞芳	Gzong rui Gfong	8
@@ -304291,14 +304354,10 @@ use_preset_vocabulary: false
 强中更有强中手	Gqiong Gzung Ggien Gyiu Gqiong Gzung Gseu	8
 强中更有强中手	Gqiong Gzung Ggien Gyiu Gqiong Gzung Gxiu	8
 强中更有强中手	qiang zhong geng you qiang zhong shou	8
-强买强卖	Gqiong Gmai Gqiong Gkok	8
-强买强卖	Gqiong Gmai Gqiong mai	8
-强买强卖	Gqiong Gmai qiang Gkok	8
-强买强卖	Gqiong Gmai qiang mai	8
-强买强卖	qiang Gmai Gqiong Gkok	8
-强买强卖	qiang Gmai Gqiong mai	8
-强买强卖	qiang Gmai qiang Gkok	8
-强买强卖	qiang Gmai qiang mai	8
+强买强卖	Gqiong Gmai Gqiong Gmai	8
+强买强卖	Gqiong Gmai qiang Gmai	8
+强买强卖	qiang Gmai Gqiong Gmai	8
+强买强卖	qiang Gmai qiang Gmai	8
 强买强卖	qiang mai qiang mai	8
 强于	Gqiong Gyu	25141
 强于	qiang Gyu	25141
@@ -311004,6 +311063,7 @@ use_preset_vocabulary: false
 德才	Gdet Gcai	15
 德才	de Gcai	15
 德才	de cai	15
+德才兼备	Gdet Gcai Ggan Gpei	62
 德才兼备	Gdet Gcai Ggan Gpi	62
 德才兼备	Gdet Gcai Ggan bei	62
 德才兼备	Gdet Gcai jian Gpi	62
@@ -312733,6 +312793,7 @@ use_preset_vocabulary: false
 必先利其器	bi Gxien Gli Gqi Gqi	8
 必先利其器	bi xian Gli Gqi Gqi	8
 必先利其器	bi xian li qi qi	8
+必备	Gbit Gpei	1542
 必备	Gbit Gpi	1542
 必备	Gbit bei	1542
 必备	bi Gpi	1542
@@ -317341,6 +317402,7 @@ use_preset_vocabulary: false
 总装	Gzung zhuang	86
 总装	zong Gzong	86
 总装	zong zhuang	86
+总装备部	Gzung Gzong Gpei Gpu	61
 总装备部	Gzung Gzong Gpi Gpu	61
 总装备部	Gzung Gzong Gpi bu	61
 总装备部	Gzung Gzong bei Gpu	61
@@ -326452,8 +326514,10 @@ use_preset_vocabulary: false
 成钢	Gsang Ggong	11
 成钢	cheng Ggong	11
 成钢	cheng gang	11
+成键	Gcen Gjien	19
 成键	Gcen Gqien	19
 成键	Gcen jian	19
+成键	Gsang Gjien	19
 成键	Gsang Gqien	19
 成键	cheng Gqien	19
 成键	cheng jian	19
@@ -326733,10 +326797,13 @@ use_preset_vocabulary: false
 戒坛	Ggai Gtan	8
 戒坛	jie Gtan	8
 戒坛	jie tan	8
+戒备	Ggai Gpei	366
 戒备	Ggai Gpi	366
 戒备	Ggai bei	366
 戒备	jie Gpi	366
 戒备	jie bei	366
+戒备森严	Ggai Gpei Gsen Gnien	194
+戒备森严	Ggai Gpei Gsen Gyen	194
 戒备森严	Ggai Gpi Gsen Gnien	194
 戒备森严	Ggai Gpi Gsen Gyen	194
 戒备森严	Ggai Gpi Gsen yan	194
@@ -327103,6 +327170,7 @@ use_preset_vocabulary: false
 战士	Gzen shi	3613
 战士	zhan Gsi	3613
 战士	zhan shi	3613
+战备	Gzen Gpei	510
 战备	Gzen Gpi	510
 战备	Gzen bei	510
 战备	zhan Gpi	510
@@ -331186,6 +331254,9 @@ use_preset_vocabulary: false
 打转转	Gda zhuan Gzon	20
 打转转	Gda zhuan zhuan	20
 打转转	da zhuan zhuan	20
+打连	Gda Glien	100000
+打连	Gda lian	100000
+打连	da lian	100000
 打退	Gda Gtui	144
 打退堂鼓	Gda Gtui Gtong Ggu	40
 打退堂鼓	Gda Gtui tang Ggu	40
@@ -332252,6 +332323,7 @@ use_preset_vocabulary: false
 扩军	Gkuok jun	55
 扩军	kuo Gjyun	55
 扩军	kuo jun	55
+扩军备战	Gkuok Gjyun Gpei Gzen	29
 扩军备战	Gkuok Gjyun Gpi Gzen	29
 扩军备战	Gkuok Gjyun Gpi zhan	29
 扩军备战	Gkuok Gjyun bei Gzen	29
@@ -334071,10 +334143,12 @@ use_preset_vocabulary: false
 技术类	ji Gsuet lei	28
 技术类	ji shu Glui	28
 技术类	ji shu lei	28
+技术装备	Gqi Gsuet Gzong Gpei	106
 技术装备	Gqi Gsuet Gzong Gpi	106
 技术装备	Gqi Gsuet Gzong bei	106
 技术装备	Gqi Gsuet zhuang Gpi	106
 技术装备	Gqi Gsuet zhuang bei	106
+技术装备	Gqi Gsuk Gzong Gpei	106
 技术装备	Gqi Gsuk Gzong Gpi	106
 技术装备	Gqi shu Gzong Gpi	106
 技术装备	Gqi shu Gzong bei	106
@@ -334088,10 +334162,12 @@ use_preset_vocabulary: false
 技术装备	ji shu Gzong bei	106
 技术装备	ji shu zhuang Gpi	106
 技术装备	ji shu zhuang bei	106
+技术设备	Gqi Gsuet Gset Gpei	10
 技术设备	Gqi Gsuet Gset Gpi	10
 技术设备	Gqi Gsuet Gset bei	10
 技术设备	Gqi Gsuet she Gpi	10
 技术设备	Gqi Gsuet she bei	10
+技术设备	Gqi Gsuk Gset Gpei	10
 技术设备	Gqi Gsuk Gset Gpi	10
 技术设备	Gqi shu Gset Gpi	10
 技术设备	Gqi shu Gset bei	10
@@ -339343,9 +339419,8 @@ use_preset_vocabulary: false
 拍击	Gpak ji	87
 拍击	pai Gjit	87
 拍击	pai ji	87
-拍卖	Gpak Gkok	1067
-拍卖	Gpak mai	1067
-拍卖	pai Gkok	1067
+拍卖	Gpak Gmai	1067
+拍卖	pai Gmai	1067
 拍卖	pai mai	1067
 拍卖人	Gpak Gmai Glen	9
 拍卖人	Gpak Gmai Gnin	9
@@ -339358,22 +339433,16 @@ use_preset_vocabulary: false
 拍卖会	pai Gmai Gfei	81
 拍卖会	pai Gmai hui	81
 拍卖会	pai mai hui	81
-拍卖师	Gpak Gkok Gsi	9
-拍卖师	Gpak Gkok shi	9
-拍卖师	Gpak mai Gsi	9
-拍卖师	Gpak mai shi	9
-拍卖师	pai Gkok Gsi	9
-拍卖师	pai Gkok shi	9
-拍卖师	pai mai Gsi	9
+拍卖师	Gpak Gmai Gsi	9
+拍卖师	Gpak Gmai shi	9
+拍卖师	pai Gmai Gsi	9
+拍卖师	pai Gmai shi	9
 拍卖师	pai mai shi	9
-拍卖行	Gpak Gkok Ghen	72
-拍卖行	Gpak Gkok Gxin	72
-拍卖行	Gpak Gkok hang	72
-拍卖行	Gpak mai Gxin	72
-拍卖行	Gpak mai hang	72
-拍卖行	pai Gkok Gxin	72
-拍卖行	pai Gkok hang	72
-拍卖行	pai mai Gxin	72
+拍卖行	Gpak Gmai Ghen	72
+拍卖行	Gpak Gmai Gxin	72
+拍卖行	Gpak Gmai hang	72
+拍卖行	pai Gmai Gxin	72
+拍卖行	pai Gmai hang	72
 拍卖行	pai mai hang	72
 拍发	Gpak Gfat	9
 拍发	Gpak fa	9
@@ -339533,9 +339602,7 @@ use_preset_vocabulary: false
 拏	Gla	4511
 拏	na	4511
 拐	Gguai	120000
-拐卖	Gguai Gkok	34
-拐卖	Gguai mai	34
-拐卖	guai mai	34
+拐卖	Gguai Gmai	34
 拐子	Gguai Gzi	158
 拐带	Gguai Gdai	23
 拐弯	Gguai Gwan	171
@@ -342000,38 +342067,22 @@ use_preset_vocabulary: false
 挂纸	Ggua Gzi	100000
 挂纸	Ggua zhi	100000
 挂纸	gua zhi	100000
-挂羊头卖狗肉	Ggua Gyong Gteu Gkok Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua Gyong Gteu Gkok Ggieu rou	11
-挂羊头卖狗肉	Ggua Gyong Gteu Gkok gou Gniuk	11
-挂羊头卖狗肉	Ggua Gyong Gteu Gkok gou rou	11
-挂羊头卖狗肉	Ggua Gyong Gteu mai Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua Gyong Gteu mai Ggieu rou	11
-挂羊头卖狗肉	Ggua Gyong Gteu mai gou Gniuk	11
-挂羊头卖狗肉	Ggua Gyong Gteu mai gou rou	11
-挂羊头卖狗肉	Ggua Gyong tou Gkok Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua Gyong tou Gkok Ggieu rou	11
-挂羊头卖狗肉	Ggua Gyong tou Gkok gou Gniuk	11
-挂羊头卖狗肉	Ggua Gyong tou Gkok gou rou	11
-挂羊头卖狗肉	Ggua Gyong tou mai Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua Gyong tou mai Ggieu rou	11
-挂羊头卖狗肉	Ggua Gyong tou mai gou Gniuk	11
-挂羊头卖狗肉	Ggua Gyong tou mai gou rou	11
-挂羊头卖狗肉	Ggua yang Gteu Gkok Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua yang Gteu Gkok Ggieu rou	11
-挂羊头卖狗肉	Ggua yang Gteu Gkok gou Gniuk	11
-挂羊头卖狗肉	Ggua yang Gteu Gkok gou rou	11
-挂羊头卖狗肉	Ggua yang Gteu mai Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua yang Gteu mai Ggieu rou	11
-挂羊头卖狗肉	Ggua yang Gteu mai gou Gniuk	11
-挂羊头卖狗肉	Ggua yang Gteu mai gou rou	11
-挂羊头卖狗肉	Ggua yang tou Gkok Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua yang tou Gkok Ggieu rou	11
-挂羊头卖狗肉	Ggua yang tou Gkok gou Gniuk	11
-挂羊头卖狗肉	Ggua yang tou Gkok gou rou	11
-挂羊头卖狗肉	Ggua yang tou mai Ggieu Gniuk	11
-挂羊头卖狗肉	Ggua yang tou mai Ggieu rou	11
-挂羊头卖狗肉	Ggua yang tou mai gou Gniuk	11
-挂羊头卖狗肉	Ggua yang tou mai gou rou	11
+挂羊头卖狗肉	Ggua Gyong Gteu Gmai Ggieu Gniuk	11
+挂羊头卖狗肉	Ggua Gyong Gteu Gmai Ggieu rou	11
+挂羊头卖狗肉	Ggua Gyong Gteu Gmai gou Gniuk	11
+挂羊头卖狗肉	Ggua Gyong Gteu Gmai gou rou	11
+挂羊头卖狗肉	Ggua Gyong tou Gmai Ggieu Gniuk	11
+挂羊头卖狗肉	Ggua Gyong tou Gmai Ggieu rou	11
+挂羊头卖狗肉	Ggua Gyong tou Gmai gou Gniuk	11
+挂羊头卖狗肉	Ggua Gyong tou Gmai gou rou	11
+挂羊头卖狗肉	Ggua yang Gteu Gmai Ggieu Gniuk	11
+挂羊头卖狗肉	Ggua yang Gteu Gmai Ggieu rou	11
+挂羊头卖狗肉	Ggua yang Gteu Gmai gou Gniuk	11
+挂羊头卖狗肉	Ggua yang Gteu Gmai gou rou	11
+挂羊头卖狗肉	Ggua yang tou Gmai Ggieu Gniuk	11
+挂羊头卖狗肉	Ggua yang tou Gmai Ggieu rou	11
+挂羊头卖狗肉	Ggua yang tou Gmai gou Gniuk	11
+挂羊头卖狗肉	Ggua yang tou Gmai gou rou	11
 挂羊头卖狗肉	gua yang tou mai gou rou	11
 挂职	Ggua Gzet	52
 挂职	Ggua Gzik	52
@@ -343006,6 +343057,7 @@ use_preset_vocabulary: false
 按钮	Gngon Gniu	200000
 按钮	an Gniu	200000
 按钮	an niu	200000
+按键	Gngon Gjien	85
 按键	Gngon Gqien	85
 按键	Gngon jian	85
 按键	an Gqien	85
@@ -346344,6 +346396,7 @@ use_preset_vocabulary: false
 探矿	tan Gkuong	44
 探矿	tan kuang	44
 探秘	Gton Gbi	24
+探秘	Gton Gmit	24
 探秘	Gton mi	24
 探秘	tan Gbi	24
 探秘	tan mi	24
@@ -347529,6 +347582,7 @@ use_preset_vocabulary: false
 推崇	Gtui Gcung	379
 推崇	Gtui chong	379
 推崇	tui chong	379
+推崇备至	Gtui Gcung Gpei Gzi	16
 推崇备至	Gtui Gcung Gpi Gzi	16
 推崇备至	Gtui Gcung Gpi zhi	16
 推崇备至	Gtui Gcung bei Gzi	16
@@ -348804,6 +348858,7 @@ use_preset_vocabulary: false
 揭示	jie Gsi	26015
 揭示	jie shi	26015
 揭秘	Gjiet Gbi	54
+揭秘	Gjiet Gmit	54
 揭秘	Gjiet mi	54
 揭秘	jie Gbi	54
 揭秘	jie mi	54
@@ -353349,18 +353404,22 @@ use_preset_vocabulary: false
 攻关组	Ggung Gguan Gzu	20
 攻关组	gong Gguan Gzu	20
 攻关组	gong guan zu	20
+攻其不备	Ggung Gqi Gbet Gpei	11
 攻其不备	Ggung Gqi Gbet Gpi	11
 攻其不备	Ggung Gqi Gbet bei	11
 攻其不备	Ggung Gqi bu Gpi	11
 攻其不备	Ggung Gqi bu bei	11
+攻其不备	Ggung Gqie Gbet Gpei	11
 攻其不备	Ggung Gqie Gbet Gpi	11
 攻其不备	gong Gqi Gbet Gpi	11
 攻其不备	gong Gqi Gbet bei	11
 攻其不备	gong Gqi bu Gpi	11
 攻其不备	gong Gqi bu bei	11
 攻其不备	gong qi bu bei	11
+攻其无备	Ggung Gqi Gwu Gpei	17
 攻其无备	Ggung Gqi Gwu Gpi	17
 攻其无备	Ggung Gqi Gwu bei	17
+攻其无备	Ggung Gqie Gwu Gpei	17
 攻其无备	Ggung Gqie Gwu Gpi	17
 攻其无备	gong Gqi Gwu Gpi	17
 攻其无备	gong Gqi Gwu bei	17
@@ -356134,6 +356193,7 @@ use_preset_vocabulary: false
 教学网	jiao Ghok wang	9
 教学网	jiao xue Gwong	9
 教学网	jiao xue wang	9
+教学设备	Ggau Ghok Gset Gpei	10
 教学设备	Ggau Ghok Gset Gpi	10
 教学设备	Ggau Ghok Gset bei	10
 教学设备	Ggau Ghok she Gpi	10
@@ -360109,7 +360169,9 @@ use_preset_vocabulary: false
 整块	Gzen Gkuai	119
 整块	zheng Gkuai	119
 整块	zheng kuai	119
+整备	Gzang Gpei	43
 整备	Gzang Gpi	43
+整备	Gzen Gpei	43
 整备	Gzen Gpi	43
 整备	Gzen bei	43
 整备	zheng Gpi	43
@@ -361989,6 +362051,7 @@ use_preset_vocabulary: false
 文武全才	wen Gwu Gqyuon Gcai	65
 文武全才	wen Gwu quan Gcai	65
 文武全才	wen wu quan cai	65
+文武兼备	Gwun Gwu Ggan Gpei	8
 文武兼备	Gwun Gwu Ggan Gpi	8
 文武兼备	Gwun Gwu Ggan bei	8
 文武兼备	Gwun Gwu jian Gpi	8
@@ -362283,6 +362346,7 @@ use_preset_vocabulary: false
 文科生	wen ke Gsen	40
 文科生	wen ke sheng	40
 文秘	Gwun Gbi	102
+文秘	Gwun Gmit	102
 文秘	Gwun mi	102
 文秘	wen Gbi	102
 文秘	wen mi	102
@@ -364053,6 +364117,7 @@ use_preset_vocabulary: false
 斯普林菲尔德	Gsi Gpu Glin Gfei er Gdet	10
 斯普林菲尔德	Gsi Gpu Glin Gfei er de	10
 斯普林菲尔德	si pu lin fei er de	10
+斯普瑞	Gsi Gpu Glui	12
 斯普瑞	Gsi Gpu Gsui	12
 斯普瑞	Gsi Gpu rui	12
 斯普瑞	si pu rui	12
@@ -364325,6 +364390,7 @@ use_preset_vocabulary: false
 斯王	Gsi Gwong	16
 斯王	Gsi wang	16
 斯王	si wang	16
+斯瑞克	Gsi Glui Gkiet	63
 斯瑞克	Gsi Gsui Gkiet	63
 斯瑞克	Gsi Gsui ke	63
 斯瑞克	Gsi rui Gkiet	63
@@ -377773,6 +377839,7 @@ use_preset_vocabulary: false
 晁错	Gceu cuo	35
 晁错	chao Gco	35
 晁错	chao cuo	35
+晃	Gfang	100000
 晃	Gfong	106738
 晃	huang	106738
 晃动	Gfong Gtung	513
@@ -383325,6 +383392,7 @@ use_preset_vocabulary: false
 有声片	you Gsen pian	12
 有声片	you sheng Gpien	12
 有声片	you sheng pian	12
+有备无患	Gyiu Gpei Gwu Gfon	29
 有备无患	Gyiu Gpi Gwu Gfon	29
 有备无患	Gyiu Gpi Gwu huan	29
 有备无患	Gyiu bei Gwu Gfon	29
@@ -383334,6 +383402,7 @@ use_preset_vocabulary: false
 有备无患	you bei Gwu Gfon	29
 有备无患	you bei Gwu huan	29
 有备无患	you bei wu huan	29
+有备而来	Gyiu Gpei Go Glei	47
 有备而来	Gyiu Gpi Go Glei	47
 有备而来	Gyiu Gpi Go lai	47
 有备而来	Gyiu Gpi er Glei	47
@@ -390056,6 +390125,7 @@ use_preset_vocabulary: false
 机械论	Gji xie Glen	23
 机械论	Gji xie lun	23
 机械论	ji xie lun	23
+机械设备	Gji Gkai Gset Gpei	8
 机械设备	Gji Gkai Gset Gpi	8
 机械设备	Gji Gkai Gset bei	8
 机械设备	Gji Gkai she Gpi	8
@@ -391800,6 +391870,7 @@ use_preset_vocabulary: false
 李国柱	Gli guo Gqyu	18
 李国柱	Gli guo zhu	18
 李国柱	li guo zhu	18
+李国瑞	Gli Gguet Glui	114
 李国瑞	Gli Gguet Gsui	114
 李国瑞	Gli Gguet rui	114
 李国瑞	Gli guo Gsui	114
@@ -392509,7 +392580,9 @@ use_preset_vocabulary: false
 李明森	Gli Gmin Gsen	15
 李明森	Gli ming Gsen	15
 李明森	li ming sen	15
+李明瑞	Gli Gmiang Glui	7
 李明瑞	Gli Gmiang Gsui	7
+李明瑞	Gli Gmin Glui	7
 李明瑞	Gli Gmin Gsui	7
 李明瑞	Gli Gmin rui	7
 李明瑞	Gli ming Gsui	7
@@ -392768,6 +392841,8 @@ use_preset_vocabulary: false
 李珊	Gli Gsan	258
 李珊	Gli shan	258
 李珊	li shan	258
+李瑞环	Gli Glui Gfan	244
+李瑞环	Gli Glui Gwan	244
 李瑞环	Gli Gsui Gfan	244
 李瑞环	Gli Gsui Gwan	244
 李瑞环	Gli Gsui huan	244
@@ -396923,6 +396998,7 @@ use_preset_vocabulary: false
 杰琳	Gqiet Glin	18
 杰琳	jie Glin	18
 杰琳	jie lin	18
+杰瑞	Gqiet Glui	11
 杰瑞	Gqiet Gsui	11
 杰瑞	Gqiet rui	11
 杰瑞	jie Gsui	11
@@ -400890,6 +400966,7 @@ use_preset_vocabulary: false
 柯约瑟	ke Gyok se	256
 柯约瑟	ke yue Gset	256
 柯约瑟	ke yue se	256
+柯莱瑞	Gko Glai Glui	11
 柯莱瑞	Gko Glai Gsui	11
 柯莱瑞	Gko Glai rui	11
 柯莱瑞	ke Glai Gsui	11
@@ -402849,10 +402926,12 @@ use_preset_vocabulary: false
 核儿	Gwut Go	14
 核儿	hu Go	14
 核儿	hu er	14
+核军备	Ghet Gjyun Gpei	59
 核军备	Ghet Gjyun Gpi	59
 核军备	Ghet Gjyun bei	59
 核军备	Ghet jun Gpi	59
 核军备	Ghet jun bei	59
+核军备	Gwut Gjyun Gpei	59
 核军备	Gwut Gjyun Gpi	59
 核军备	he Gjyun Gpi	59
 核军备	he Gjyun bei	59
@@ -415826,6 +415905,7 @@ use_preset_vocabulary: false
 武士道	Gwu shi Gtau	45
 武士道	Gwu shi dao	45
 武士道	wu shi dao	45
+武备	Gwu Gpei	312
 武备	Gwu Gpi	312
 武备	Gwu bei	312
 武备	wu bei	312
@@ -415912,6 +415992,7 @@ use_preset_vocabulary: false
 武学深	Gwu xue shen	8
 武学深	wu xue shen	8
 武学秘	Gwu Ghok Gbi	20
+武学秘	Gwu Ghok Gmit	20
 武学秘	Gwu Ghok mi	20
 武学秘	Gwu xue Gbi	20
 武学秘	Gwu xue mi	20
@@ -417704,6 +417785,7 @@ use_preset_vocabulary: false
 段皇爷	duan Gfong ye	111
 段皇爷	duan huang Gya	111
 段皇爷	duan huang ye	111
+段祺瑞	Gton Gqi Glui	831
 段祺瑞	Gton Gqi Gsui	831
 段祺瑞	Gton Gqi rui	831
 段祺瑞	duan Gqi Gsui	831
@@ -419973,6 +420055,7 @@ use_preset_vocabulary: false
 毛玻璃	Gmau Gbo Gli	7
 毛玻璃	mao Gbo Gli	7
 毛玻璃	mao bo li	7
+毛瑞斯	Gmau Glui Gsi	20
 毛瑞斯	Gmau Gsui Gsi	20
 毛瑞斯	Gmau rui Gsi	20
 毛瑞斯	mao Gsui Gsi	20
@@ -422195,6 +422278,7 @@ use_preset_vocabulary: false
 氢能	Gqin neng	14
 氢能	qing Glen	14
 氢能	qing neng	14
+氢键	Gqin Gjien	46
 氢键	Gqin Gqien	46
 氢键	Gqin jian	46
 氢键	qing Gqien	46
@@ -424790,6 +424874,7 @@ use_preset_vocabulary: false
 永城	Gyung cheng	36
 永城	yong Gcen	36
 永城	yong cheng	36
+永备	Gyung Gpei	22
 永备	Gyung Gpi	22
 永备	Gyung bei	22
 永备	yong Gpi	22
@@ -425174,6 +425259,7 @@ use_preset_vocabulary: false
 求全	Gqiu Gqyuon	26
 求全	Gqiu quan	26
 求全	qiu quan	26
+求全责备	Gqiu Gqyuon Gzet Gpei	7
 求全责备	Gqiu Gqyuon Gzet Gpi	7
 求全责备	Gqiu Gqyuon Gzet bei	7
 求全责备	Gqiu Gqyuon ze Gpi	7
@@ -426723,6 +426809,10 @@ use_preset_vocabulary: false
 江口	Ggong kou	109
 江口	jiang Gkieu	109
 江口	jiang kou	109
+江右	Ggong Gyiu	200000
+江右	Ggong you	200000
+江右	jiang Gyiu	200000
+江右	jiang you	200000
 江城	Ggong Gcen	297
 江城	Ggong Gsang	297
 江城	Ggong cheng	297
@@ -442257,6 +442347,7 @@ use_preset_vocabulary: false
 海珠区	Ghai zhu Gqyu	10
 海珠区	Ghai zhu qu	10
 海珠区	hai zhu qu	10
+海瑞	Ghai Glui	403
 海瑞	Ghai Gsui	403
 海瑞	Ghai rui	403
 海瑞	hai rui	403
@@ -443603,6 +443694,7 @@ use_preset_vocabulary: false
 涤荡	di Gtong	10
 涤荡	di dang	10
 润	Glen	108696
+润	Glun	100000
 润	run	108696
 润喉	Glen Gheu	21
 润喉	Glen hou	21
@@ -457703,9 +457795,8 @@ use_preset_vocabulary: false
 炒制	Gcau zhi	265
 炒制	chao Gzi	265
 炒制	chao zhi	265
-炒卖	Gcau Gkok	19
-炒卖	Gcau mai	19
-炒卖	chao Gkok	19
+炒卖	Gcau Gmai	19
+炒卖	chao Gmai	19
 炒卖	chao mai	19
 炒家	Gcau Gga	20
 炒家	Gcau jia	20
@@ -459286,9 +459377,8 @@ use_preset_vocabulary: false
 烧化	Gseu hua	55
 烧化	shao Gfa	55
 烧化	shao hua	55
-烧卖	Gseu Gkok	8
-烧卖	Gseu mai	8
-烧卖	shao Gkok	8
+烧卖	Gseu Gmai	8
+烧卖	shao Gmai	8
 烧卖	shao mai	8
 烧坏	Gseu Gfai	32
 烧坏	Gseu huai	32
@@ -459636,9 +459726,8 @@ use_preset_vocabulary: false
 热区	Glet qu	8
 热区	re Gqyu	8
 热区	re qu	8
-热卖	Glet Gkok	15
-热卖	Glet mai	15
-热卖	re Gkok	15
+热卖	Glet Gmai	15
+热卖	re Gmai	15
 热卖	re mai	15
 热压	Glet Gngat	14
 热压	Glet ya	14
@@ -466712,6 +466801,7 @@ use_preset_vocabulary: false
 特烈大帝	te lie Gtai Gdi	13
 特烈大帝	te lie da Gdi	13
 特烈大帝	te lie da di	13
+特瑞维	Gtet Glui Gwui	10
 特瑞维	Gtet Gsui Gwui	10
 特瑞维	Gtet Gsui wei	10
 特瑞维	Gtet rui Gwui	10
@@ -474827,6 +474917,7 @@ use_preset_vocabulary: false
 王琦瑶	wang Gqi Gyeu	26997
 王琦瑶	wang Gqi yao	26997
 王琦瑶	wang qi yao	26997
+王瑞文	Gwong Glui Gwun	20
 王瑞文	Gwong Gsui Gwun	20
 王瑞文	Gwong Gsui wen	20
 王瑞文	Gwong rui Gwun	20
@@ -474835,16 +474926,20 @@ use_preset_vocabulary: false
 王瑞文	wang Gsui wen	20
 王瑞文	wang rui Gwun	20
 王瑞文	wang rui wen	20
+王瑞林	Gwong Glui Glin	7
 王瑞林	Gwong Gsui Glin	7
 王瑞林	Gwong rui Glin	7
 王瑞林	wang Gsui Glin	7
 王瑞林	wang rui Glin	7
 王瑞林	wang rui lin	7
+王瑞芬	Gwong Glui Gfen	236
 王瑞芬	Gwong Gsui Gfen	236
 王瑞芬	Gwong rui Gfen	236
 王瑞芬	wang Gsui Gfen	236
 王瑞芬	wang rui Gfen	236
 王瑞芬	wang rui fen	236
+王瑞领	Gwong Glui Gliang	128
+王瑞领	Gwong Glui Glin	128
 王瑞领	Gwong Gsui Gliang	128
 王瑞领	Gwong Gsui Glin	128
 王瑞领	Gwong Gsui ling	128
@@ -478656,6 +478751,7 @@ use_preset_vocabulary: false
 琴行	Gqin xing	13
 琴行	qin xing	13
 琴谱	Gqin Gpu	69
+琴键	Gqin Gjien	31
 琴键	Gqin Gqien	31
 琴键	Gqin jian	31
 琴键	qin jian	31
@@ -478831,20 +478927,26 @@ use_preset_vocabulary: false
 瑝	Gfen	4595
 瑝	Gwong	4261
 瑝	huang	4595
-瑞	Gsui	120000
-瑞	rui	120000
+瑞	Glui	153745
+瑞	Gsui	154739
+瑞	rui	154739
+瑞丽	Glui Gli	21
 瑞丽	Gsui Gli	21
 瑞丽	rui Gli	21
 瑞丽	rui li	21
+瑞丽市	Glui Gli Gsi	12
 瑞丽市	Gsui Gli Gsi	12
 瑞丽市	Gsui Gli shi	12
 瑞丽市	rui Gli Gsi	12
 瑞丽市	rui Gli shi	12
 瑞丽市	rui li shi	12
+瑞典	Glui Gdien	1343
 瑞典	Gsui Gdien	1343
 瑞典	Gsui dian	1343
 瑞典	rui Gdien	1343
 瑞典	rui dian	1343
+瑞典人	Glui Gdien Glen	48
+瑞典人	Glui Gdien Gnin	48
 瑞典人	Gsui Gdien Glen	48
 瑞典人	Gsui Gdien Gnin	48
 瑞典人	Gsui Gdien ren	48
@@ -478854,9 +478956,13 @@ use_preset_vocabulary: false
 瑞典人	rui Gdien ren	48
 瑞典人	rui dian Gnin	48
 瑞典人	rui dian ren	48
+瑞典皇家科学院	Glui Gdien Gfong Gga Gkuo Ghok Gyuon	12
+瑞典皇家科学院	Glui Gdien Gwong Gga Gkuo Ghok Gyuon	12
 瑞典皇家科学院	Gsui Gdien Gfong Gga Gkuo Ghok Gyuon	12
 瑞典皇家科学院	Gsui Gdien Gwong Gga Gkuo Ghok Gyuon	12
 瑞典皇家科学院	rui dian huang jia ke xue yuan	12
+瑞典语	Glui Gdien Gnyu	34
+瑞典语	Glui Gdien Gyu	34
 瑞典语	Gsui Gdien Gnyu	34
 瑞典语	Gsui Gdien Gyu	34
 瑞典语	Gsui Gdien yu	34
@@ -478866,18 +478972,23 @@ use_preset_vocabulary: false
 瑞典语	rui Gdien yu	34
 瑞典语	rui dian Gnyu	34
 瑞典语	rui dian yu	34
+瑞典队	Glui Gdien Gdui	54
 瑞典队	Gsui Gdien Gdui	54
 瑞典队	Gsui dian Gdui	54
 瑞典队	rui Gdien Gdui	54
 瑞典队	rui dian Gdui	54
 瑞典队	rui dian dui	54
+瑞利	Glui Gli	27
 瑞利	Gsui Gli	27
 瑞利	rui Gli	27
 瑞利	rui li	27
+瑞士	Glui Gsi	1585
 瑞士	Gsui Gsi	1585
 瑞士	Gsui shi	1585
 瑞士	rui Gsi	1585
 瑞士	rui shi	1585
+瑞士人	Glui Gsi Glen	32
+瑞士人	Glui Gsi Gnin	32
 瑞士人	Gsui Gsi Glen	32
 瑞士人	Gsui Gsi Gnin	32
 瑞士人	Gsui Gsi ren	32
@@ -478887,6 +478998,7 @@ use_preset_vocabulary: false
 瑞士人	rui Gsi ren	32
 瑞士人	rui shi Gnin	32
 瑞士人	rui shi ren	32
+瑞士法郎	Glui Gsi Gfat Glong	19
 瑞士法郎	Gsui Gsi Gfat Glong	19
 瑞士法郎	Gsui Gsi Gfat lang	19
 瑞士法郎	Gsui Gsi fa Glong	19
@@ -478903,6 +479015,7 @@ use_preset_vocabulary: false
 瑞士法郎	rui shi Gfat lang	19
 瑞士法郎	rui shi fa Glong	19
 瑞士法郎	rui shi fa lang	19
+瑞士联邦	Glui Gsi Glien Gbong	16
 瑞士联邦	Gsui Gsi Glien Gbong	16
 瑞士联邦	Gsui Gsi Glien bang	16
 瑞士联邦	Gsui Gsi lian Gbong	16
@@ -478919,77 +479032,98 @@ use_preset_vocabulary: false
 瑞士联邦	rui shi Glien bang	16
 瑞士联邦	rui shi lian Gbong	16
 瑞士联邦	rui shi lian bang	16
+瑞婆婆	Glui Gpo Gpo	16
 瑞婆婆	Gsui Gpo Gpo	16
 瑞婆婆	rui Gpo Gpo	16
 瑞婆婆	rui po po	16
+瑞安	Glui Gngon	35
 瑞安	Gsui Gngon	35
 瑞安	Gsui an	35
 瑞安	rui Gngon	35
 瑞安	rui an	35
+瑞宾	Glui Gbin	7
 瑞宾	Gsui Gbin	7
 瑞宾	rui Gbin	7
 瑞宾	rui bin	7
+瑞尔	Glui Go	7
 瑞尔	Gsui Go	7
 瑞尔	Gsui er	7
 瑞尔	rui Go	7
 瑞尔	rui er	7
+瑞德	Glui Gdet	10
 瑞德	Gsui Gdet	10
 瑞德	Gsui de	10
 瑞德	rui Gdet	10
 瑞德	rui de	10
+瑞拉	Glui Gla	8
 瑞拉	Gsui Gla	8
 瑞拉	rui Gla	8
 瑞拉	rui la	8
+瑞斯	Glui Gsi	8
 瑞斯	Gsui Gsi	8
 瑞斯	rui Gsi	8
 瑞斯	rui si	8
+瑞昌	Glui Gcong	21
 瑞昌	Gsui Gcong	21
 瑞昌	Gsui chang	21
 瑞昌	rui Gcong	21
 瑞昌	rui chang	21
+瑞星	Glui Gxiang	45
+瑞星	Glui Gxin	45
 瑞星	Gsui Gxiang	45
 瑞星	Gsui Gxin	45
 瑞星	Gsui xing	45
 瑞星	rui Gxin	45
 瑞星	rui xing	45
+瑞气	Glui Gqi	45
 瑞气	Gsui Gqi	45
 瑞气	rui Gqi	45
 瑞气	rui qi	45
+瑞芳	Glui Gfong	19
 瑞芳	Gsui Gfong	19
 瑞芳	Gsui fang	19
 瑞芳	rui Gfong	19
 瑞芳	rui fang	19
+瑞蚨祥	Glui Gfu Gxiong	7
 瑞蚨祥	Gsui Gfu Gxiong	7
 瑞蚨祥	Gsui Gfu xiang	7
 瑞蚨祥	rui Gfu Gxiong	7
 瑞蚨祥	rui Gfu xiang	7
 瑞蚨祥	rui fu xiang	7
+瑞贝卡	Glui Gbi Gka	14
 瑞贝卡	Gsui Gbi Gka	14
 瑞贝卡	Gsui bei Gka	14
 瑞贝卡	rui Gbi Gka	14
 瑞贝卡	rui bei Gka	14
 瑞贝卡	rui bei ka	14
+瑞金	Glui Gjin	134
 瑞金	Gsui Gjin	134
 瑞金	rui Gjin	134
 瑞金	rui jin	134
+瑞金市	Glui Gjin Gsi	9
 瑞金市	Gsui Gjin Gsi	9
 瑞金市	Gsui Gjin shi	9
 瑞金市	rui Gjin Gsi	9
 瑞金市	rui Gjin shi	9
 瑞金市	rui jin shi	9
+瑞银	Glui Gnin	38
+瑞银	Glui Gyin	38
 瑞银	Gsui Gnin	38
 瑞银	Gsui Gyin	38
 瑞银	Gsui yin	38
 瑞银	rui Gnin	38
 瑞银	rui yin	38
+瑞雪	Glui Gxyuot	30
 瑞雪	Gsui Gxyuot	30
 瑞雪	Gsui xue	30
 瑞雪	rui Gxyuot	30
 瑞雪	rui xue	30
+瑞顿	Glui Gden	7
 瑞顿	Gsui Gden	7
 瑞顿	Gsui dun	7
 瑞顿	rui Gden	7
 瑞顿	rui dun	7
+瑞香	Glui Gxiong	12
 瑞香	Gsui Gxiong	12
 瑞香	Gsui xiang	12
 瑞香	rui Gxiong	12
@@ -483306,10 +483440,10 @@ use_preset_vocabulary: false
 用餐	yong Gcan	167
 用餐	yong can	167
 甩	Gsai	145000
+甩	Gsuai	100000
 甩	shuai	145000
-甩卖	Gsai Gkok	12
-甩卖	Gsai mai	12
-甩卖	shuai Gkok	12
+甩卖	Gsai Gmai	12
+甩卖	shuai Gmai	12
 甩卖	shuai mai	12
 甩头	Gsai Gteu	22
 甩头	Gsai tou	22
@@ -485447,6 +485581,7 @@ use_preset_vocabulary: false
 电子论	dian Gzi Glen	27
 电子论	dian Gzi lun	27
 电子论	dian zi lun	27
+电子设备	Gtien Gzi Gset Gpei	10
 电子设备	Gtien Gzi Gset Gpi	10
 电子设备	Gtien Gzi Gset bei	10
 电子设备	Gtien Gzi she Gpi	10
@@ -486646,6 +486781,7 @@ use_preset_vocabulary: false
 电铃	Gtien ling	16
 电铃	dian Gliang	16
 电铃	dian ling	16
+电键	Gtien Gjien	10
 电键	Gtien Gqien	10
 电键	Gtien jian	10
 电键	dian Gqien	10
@@ -498126,9 +498262,8 @@ use_preset_vocabulary: false
 盗匪	Gtau Gfei	59
 盗匪	dao Gfei	59
 盗匪	dao fei	59
-盗卖	Gtau Gkok	43
-盗卖	Gtau mai	43
-盗卖	dao Gkok	43
+盗卖	Gtau Gmai	43
+盗卖	dao Gmai	43
 盗卖	dao mai	43
 盗印	Gtau Gyin	9
 盗印	dao Gyin	9
@@ -509113,21 +509248,14 @@ use_preset_vocabulary: false
 砸锅	Gcat guo	14
 砸锅	za Gwo	14
 砸锅	za guo	14
-砸锅卖铁	Gcat Gwo Gkok Gtiet	9
-砸锅卖铁	Gcat Gwo Gkok tie	9
-砸锅卖铁	Gcat Gwo mai Gtiet	9
-砸锅卖铁	Gcat Gwo mai tie	9
-砸锅卖铁	Gcat guo Gkok Gtiet	9
-砸锅卖铁	Gcat guo Gkok tie	9
-砸锅卖铁	Gcat guo mai Gtiet	9
-砸锅卖铁	Gcat guo mai tie	9
-砸锅卖铁	za Gwo Gkok Gtiet	9
-砸锅卖铁	za Gwo Gkok tie	9
-砸锅卖铁	za Gwo mai Gtiet	9
-砸锅卖铁	za Gwo mai tie	9
-砸锅卖铁	za guo Gkok Gtiet	9
-砸锅卖铁	za guo Gkok tie	9
-砸锅卖铁	za guo mai Gtiet	9
+砸锅卖铁	Gcat Gwo Gmai Gtiet	9
+砸锅卖铁	Gcat Gwo Gmai tie	9
+砸锅卖铁	Gcat guo Gmai Gtiet	9
+砸锅卖铁	Gcat guo Gmai tie	9
+砸锅卖铁	za Gwo Gmai Gtiet	9
+砸锅卖铁	za Gwo Gmai tie	9
+砸锅卖铁	za guo Gmai Gtiet	9
+砸锅卖铁	za guo Gmai tie	9
 砸锅卖铁	za guo mai tie	9
 砹	Gngai	5716
 砹	ai	5716
@@ -512769,6 +512897,7 @@ use_preset_vocabulary: false
 祖传	zu chuan	148
 祖传秘方	Gzu Gcon Gbi Gfong	19
 祖传秘方	Gzu Gcon Gbi fang	19
+祖传秘方	Gzu Gcon Gmit Gfong	19
 祖传秘方	Gzu Gcon mi Gfong	19
 祖传秘方	Gzu Gcon mi fang	19
 祖传秘方	Gzu chuan Gbi Gfong	19
@@ -513909,7 +514038,10 @@ use_preset_vocabulary: false
 神祗	shen Gzi	117
 神祗	shen zhi	117
 神神秘秘	Gsen Gsen Gbi Gbi	22
+神神秘秘	Gsen Gsen Gbi Gmit	22
 神神秘秘	Gsen Gsen Gbi mi	22
+神神秘秘	Gsen Gsen Gmit Gbi	22
+神神秘秘	Gsen Gsen Gmit Gmit	22
 神神秘秘	Gsen Gsen mi Gbi	22
 神神秘秘	Gsen Gsen mi mi	22
 神神秘秘	Gsen shen Gbi Gbi	22
@@ -513931,6 +514063,7 @@ use_preset_vocabulary: false
 神秀	shen Gxiu	8
 神秀	shen xiu	8
 神秘	Gsen Gbi	2108
+神秘	Gsen Gmit	2108
 神秘	Gsen mi	2108
 神秘	shen Gbi	2108
 神秘	shen mi	2108
@@ -513941,6 +514074,10 @@ use_preset_vocabulary: false
 神秘主义	Gsen Gbi Gzu yi	25092
 神秘主义	Gsen Gbi zhu Gni	25092
 神秘主义	Gsen Gbi zhu yi	25092
+神秘主义	Gsen Gmit Gjyu Gni	25092
+神秘主义	Gsen Gmit Gjyu Gyi	25092
+神秘主义	Gsen Gmit Gzu Gni	25092
+神秘主义	Gsen Gmit Gzu Gyi	25092
 神秘主义	Gsen mi Gzu Gni	25092
 神秘主义	Gsen mi Gzu yi	25092
 神秘主义	Gsen mi zhu Gni	25092
@@ -513954,12 +514091,14 @@ use_preset_vocabulary: false
 神秘主义	shen mi zhu Gni	25092
 神秘主义	shen mi zhu yi	25092
 神秘兮兮	Gsen Gbi Gxi Gxi	17
+神秘兮兮	Gsen Gmit Gxi Gxi	17
 神秘兮兮	Gsen mi Gxi Gxi	17
 神秘兮兮	shen Gbi Gxi Gxi	17
 神秘兮兮	shen mi Gxi Gxi	17
 神秘兮兮	shen mi xi xi	17
 神秘化	Gsen Gbi Gfa	48
 神秘化	Gsen Gbi hua	48
+神秘化	Gsen Gmit Gfa	48
 神秘化	Gsen mi Gfa	48
 神秘化	Gsen mi hua	48
 神秘化	shen Gbi Gfa	48
@@ -513969,6 +514108,8 @@ use_preset_vocabulary: false
 神秘性	Gsen Gbi Gxiang	16
 神秘性	Gsen Gbi Gxin	16
 神秘性	Gsen Gbi xing	16
+神秘性	Gsen Gmit Gxiang	16
+神秘性	Gsen Gmit Gxin	16
 神秘性	Gsen mi Gxin	16
 神秘性	Gsen mi xing	16
 神秘性	shen Gbi Gxin	16
@@ -513977,6 +514118,7 @@ use_preset_vocabulary: false
 神秘性	shen mi xing	16
 神秘感	Gsen Gbi Ggon	47
 神秘感	Gsen Gbi gan	47
+神秘感	Gsen Gmit Ggon	47
 神秘感	Gsen mi Ggon	47
 神秘感	Gsen mi gan	47
 神秘感	shen Gbi Ggon	47
@@ -513984,6 +514126,7 @@ use_preset_vocabulary: false
 神秘感	shen mi Ggon	47
 神秘感	shen mi gan	47
 神秘果	Gsen Gbi Gguo	10
+神秘果	Gsen Gmit Gguo	10
 神秘果	Gsen mi Gguo	10
 神秘果	shen Gbi Gguo	10
 神秘果	shen mi Gguo	10
@@ -513992,6 +514135,7 @@ use_preset_vocabulary: false
 神秘莫测	Gsen Gbi Gmot ce	60
 神秘莫测	Gsen Gbi mo Gcet	60
 神秘莫测	Gsen Gbi mo ce	60
+神秘莫测	Gsen Gmit Gmot Gcet	60
 神秘莫测	Gsen mi Gmot Gcet	60
 神秘莫测	Gsen mi Gmot ce	60
 神秘莫测	Gsen mi mo Gcet	60
@@ -514592,6 +514736,7 @@ use_preset_vocabulary: false
 祥林	Gxiong Glin	14
 祥林	xiang Glin	14
 祥林	xiang lin	14
+祥瑞	Gxiong Glui	58
 祥瑞	Gxiong Gsui	58
 祥瑞	Gxiong rui	58
 祥瑞	xiang Gsui	58
@@ -515908,6 +516053,7 @@ use_preset_vocabulary: false
 离子束	Gli Gzi Gsuk	12
 离子束	Gli Gzi shu	12
 离子束	li zi shu	12
+离子键	Gli Gzi Gjien	31
 离子键	Gli Gzi Gqien	31
 离子键	Gli Gzi jian	31
 离子键	li zi jian	31
@@ -516182,9 +516328,7 @@ use_preset_vocabulary: false
 私刑	si xing	7
 私利	Gsi Gli	286
 私募	Gsi Gmu	33
-私卖	Gsi Gkok	19
-私卖	Gsi mai	19
-私卖	si mai	19
+私卖	Gsi Gmai	19
 私吞	Gsi Gten	11
 私吞	Gsi Gtun	11
 私吞	Gsi tun	11
@@ -518229,6 +518373,7 @@ use_preset_vocabulary: false
 秔	jing	4578
 秕	Gbi	71935
 秘	Gbi	145000
+秘	Gmit	100000
 秘	mi	145000
 秘不示人	Gbi Gbet Gsi Glen	9
 秘不示人	Gbi Gbet Gsi Gnin	9
@@ -518239,6 +518384,8 @@ use_preset_vocabulary: false
 秘不示人	Gbi bu Gsi ren	9
 秘不示人	Gbi bu shi Gnin	9
 秘不示人	Gbi bu shi ren	9
+秘不示人	Gmit Gbet Gsi Glen	9
+秘不示人	Gmit Gbet Gsi Gnin	9
 秘不示人	mi Gbet Gsi Gnin	9
 秘不示人	mi Gbet Gsi ren	9
 秘不示人	mi Gbet shi Gnin	9
@@ -518250,6 +518397,8 @@ use_preset_vocabulary: false
 秘书	Gbi Gsu	2921
 秘书	Gbi Gxyu	2921
 秘书	Gbi shu	2921
+秘书	Gmit Gsu	2921
+秘书	Gmit Gxyu	2921
 秘书	mi Gsu	2921
 秘书	mi shu	2921
 秘书处	Gbi Gsu Gcu	176
@@ -518259,6 +518408,10 @@ use_preset_vocabulary: false
 秘书处	Gbi Gxyu Gqyu	176
 秘书处	Gbi shu Gcu	176
 秘书处	Gbi shu chu	176
+秘书处	Gmit Gsu Gcu	176
+秘书处	Gmit Gsu Gqyu	176
+秘书处	Gmit Gxyu Gcu	176
+秘书处	Gmit Gxyu Gqyu	176
 秘书处	mi Gsu Gcu	176
 秘书处	mi Gsu chu	176
 秘书处	mi shu Gcu	176
@@ -518270,6 +518423,10 @@ use_preset_vocabulary: false
 秘书室	Gbi Gxyu Gsik	33
 秘书室	Gbi shu Gset	33
 秘书室	Gbi shu shi	33
+秘书室	Gmit Gsu Gset	33
+秘书室	Gmit Gsu Gsik	33
+秘书室	Gmit Gxyu Gset	33
+秘书室	Gmit Gxyu Gsik	33
 秘书室	mi Gsu Gset	33
 秘书室	mi Gsu shi	33
 秘书室	mi shu Gset	33
@@ -518279,54 +518436,70 @@ use_preset_vocabulary: false
 秘书长	Gbi Gxyu Gzong	5821
 秘书长	Gbi shu Gzong	5821
 秘书长	Gbi shu zhang	5821
+秘书长	Gmit Gsu Gzong	5821
+秘书长	Gmit Gxyu Gzong	5821
 秘书长	mi Gsu Gzong	5821
 秘书长	mi Gsu zhang	5821
 秘书长	mi shu Gzong	5821
 秘书长	mi shu zhang	5821
 秘事	Gbi Gsi	16
 秘事	Gbi shi	16
+秘事	Gmit Gsi	16
 秘事	mi Gsi	16
 秘事	mi shi	16
 秘传	Gbi Gcon	58
 秘传	Gbi chuan	58
+秘传	Gmit Gcon	58
 秘传	mi Gcon	58
 秘传	mi chuan	58
 秘史	Gbi Gsi	91
 秘史	Gbi shi	91
+秘史	Gmit Gsi	91
 秘史	mi Gsi	91
 秘史	mi shi	91
 秘宝	Gbi Gbau	9
 秘宝	Gbi bao	9
+秘宝	Gmit Gbau	9
 秘宝	mi Gbau	9
 秘宝	mi bao	9
 秘室	Gbi Gset	9
 秘室	Gbi Gsik	9
 秘室	Gbi shi	9
+秘室	Gmit Gset	9
+秘室	Gmit Gsik	9
 秘室	mi Gset	9
 秘室	mi shi	9
 秘密	Gbi Gmet	28833
 秘密	Gbi Gmit	28833
 秘密	Gbi mi	28833
+秘密	Gmit Gmet	28833
+秘密	Gmit Gmit	28833
 秘密	mi Gmet	28833
 秘密	mi mi	28833
 秘技	Gbi Gqi	13
 秘技	Gbi ji	13
+秘技	Gmit Gqi	13
 秘技	mi Gqi	13
 秘技	mi ji	13
 秘方	Gbi Gfong	121
 秘方	Gbi fang	121
+秘方	Gmit Gfong	121
 秘方	mi Gfong	121
 秘方	mi fang	121
 秘本	Gbi Gben	20
+秘本	Gmit Gben	20
 秘本	mi Gben	20
 秘本	mi ben	20
 秘笈	Gbi Gcat	174
 秘笈	Gbi ji	174
+秘笈	Gmit Gcat	174
 秘笈	mi Gcat	174
 秘笈	mi ji	174
 秘籍	Gbi Gjit	66
 秘籍	Gbi Gqit	66
 秘籍	Gbi ji	66
+秘籍	Gmit Gjit	66
+秘籍	Gmit Gqit	66
 秘籍	mi Gjit	66
 秘籍	mi ji	66
 秘而不宣	Gbi Go Gbet Gxyuon	26
@@ -518337,6 +518510,7 @@ use_preset_vocabulary: false
 秘而不宣	Gbi er Gbet xuan	26
 秘而不宣	Gbi er bu Gxyuon	26
 秘而不宣	Gbi er bu xuan	26
+秘而不宣	Gmit Go Gbet Gxyuon	26
 秘而不宣	mi Go Gbet Gxyuon	26
 秘而不宣	mi Go Gbet xuan	26
 秘而不宣	mi Go bu Gxyuon	26
@@ -518347,24 +518521,31 @@ use_preset_vocabulary: false
 秘而不宣	mi er bu xuan	26
 秘药	Gbi Gyok	30
 秘药	Gbi yao	30
+秘药	Gmit Gyok	30
 秘药	mi Gyok	30
 秘药	mi yao	30
 秘藏	Gbi Gcong	14
 秘藏	Gbi cang	14
+秘藏	Gmit Gcong	14
 秘藏	mi Gcong	14
 秘藏	mi cang	14
 秘诀	Gbi Gjyuot	326
 秘诀	Gbi jue	326
+秘诀	Gmit Gjyuot	326
 秘诀	mi Gjyuot	326
 秘诀	mi jue	326
 秘闻	Gbi Gwun	29
 秘闻	Gbi wen	29
+秘闻	Gmit Gwun	29
 秘闻	mi Gwun	29
 秘闻	mi wen	29
 秘鲁	Gbi Glu	563
+秘鲁	Gmit Glu	563
 秘鲁人	Gbi Glu Glen	10
 秘鲁人	Gbi Glu Gnin	10
 秘鲁人	Gbi Glu ren	10
+秘鲁人	Gmit Glu Glen	10
+秘鲁人	Gmit Glu Gnin	10
 秘鲁人	bi lu ren	10
 秛	Gpi	5973
 秜	Gli	5819
@@ -526241,6 +526422,7 @@ use_preset_vocabulary: false
 符滕堡	Gfu teng Gbau	7
 符滕堡	Gfu teng bao	7
 符滕堡	fu teng bao	7
+符瑞	Gfu Glui	9
 符瑞	Gfu Gsui	9
 符瑞	Gfu rui	9
 符瑞	fu rui	9
@@ -535441,10 +535623,12 @@ use_preset_vocabulary: false
 筹募	Gceu Gmu	7
 筹募	chou Gmu	7
 筹募	chou mu	7
+筹备	Gceu Gpei	837
 筹备	Gceu Gpi	837
 筹备	Gceu bei	837
 筹备	chou Gpi	837
 筹备	chou bei	837
+筹备会	Gceu Gpei Gfei	186
 筹备会	Gceu Gpi Gfei	186
 筹备会	Gceu Gpi hui	186
 筹备会	Gceu bei Gfei	186
@@ -535453,6 +535637,8 @@ use_preset_vocabulary: false
 筹备会	chou Gpi hui	186
 筹备会	chou bei Gfei	186
 筹备会	chou bei hui	186
+筹备处	Gceu Gpei Gcu	24
+筹备处	Gceu Gpei Gqyu	24
 筹备处	Gceu Gpi Gcu	24
 筹备处	Gceu Gpi Gqyu	24
 筹备处	Gceu Gpi chu	24
@@ -535462,6 +535648,7 @@ use_preset_vocabulary: false
 筹备处	chou Gpi chu	24
 筹备处	chou bei Gcu	24
 筹备处	chou bei chu	24
+筹备组	Gceu Gpei Gzu	10
 筹备组	Gceu Gpi Gzu	10
 筹备组	Gceu bei Gzu	10
 筹备组	chou Gpi Gzu	10
@@ -536017,6 +536204,8 @@ use_preset_vocabulary: false
 箇	Ggo	200000
 箇	Ggon	200000
 箇	ge	200000
+箇一	Ggo Gyit	100000
+箇一	gei	100000
 箇一下	Ggo Gyit Gga	800
 箇一下	Ggo Gyit Gha	800
 箇一下	Ggo Gyit xia	800
@@ -537058,6 +537247,7 @@ use_preset_vocabulary: false
 管道网	guan Gtau wang	7
 管道网	guan dao Gwong	7
 管道网	guan dao wang	7
+管键琴	Gguon Gjien Gqin	24
 管键琴	Gguon Gqien Gqin	24
 管键琴	Gguon jian Gqin	24
 管键琴	guan Gqien Gqin	24
@@ -540966,10 +541156,12 @@ use_preset_vocabulary: false
 索然无味	suo ran Gwu Gwui	34
 索然无味	suo ran Gwu wei	34
 索然无味	suo ran wu wei	34
+索瑞姆	Gsok Glui Gm	8
 索瑞姆	Gsok Gsui Gm	8
 索瑞姆	Gsok Gsui mu	8
 索瑞姆	Gsok rui Gm	8
 索瑞姆	Gsok rui mu	8
+索瑞姆	Gxyuot Glui Gm	8
 索瑞姆	Gxyuot Gsui Gm	8
 索瑞姆	suo Gsui Gm	8
 索瑞姆	suo Gsui mu	8
@@ -543893,6 +544085,16 @@ use_preset_vocabulary: false
 约尔	Gyok er	12
 约尔	yue Go	12
 约尔	yue er	12
+约手哐脚	Gyok Gseu Gkuang Gjiok	100000
+约手哐脚	Gyok Gseu Gkuang jiao	100000
+约手哐脚	Gyok Gxiu Gkuang Gjiok	100000
+约手哐脚	Gyok shou Gkuang Gjiok	100000
+约手哐脚	Gyok shou Gkuang jiao	100000
+约手哐脚	yue Gseu Gkuang Gjiok	100000
+约手哐脚	yue Gseu Gkuang jiao	100000
+约手哐脚	yue shou Gkuang Gjiok	100000
+约手哐脚	yue shou Gkuang jiao	100000
+约手哐脚	yue shou kuang jiao	100000
 约手约脚	Gyok Gseu Gyok Gjiok	100000
 约手约脚	Gyok Gxiu Gyok Gjiok	100000
 约手约脚	Gyok Gxiu Gyok jiao	100000
@@ -545762,8 +545964,10 @@ use_preset_vocabulary: false
 纽伦堡	Gniu Glun Gbau	128
 纽伦堡	Gniu Glun bao	128
 纽伦堡	niu lun bao	128
+纽伯瑞	Gniu Gbak Glui	10
 纽伯瑞	Gniu Gbak Gsui	10
 纽伯瑞	Gniu Gbak rui	10
+纽伯瑞	Gniu Gbet Glui	10
 纽伯瑞	Gniu Gbet Gsui	10
 纽伯瑞	Gniu bo Gsui	10
 纽伯瑞	Gniu bo rui	10
@@ -555582,6 +555786,7 @@ use_preset_vocabulary: false
 罗琳	Glo Glin	10
 罗琳	luo Glin	10
 罗琳	luo lin	10
+罗瑞卿	Glo Glui Gqin	110
 罗瑞卿	Glo Gsui Gqin	110
 罗瑞卿	Glo Gsui qing	110
 罗瑞卿	Glo rui Gqin	110
@@ -556487,6 +556692,7 @@ use_preset_vocabulary: false
 置地	Gzi di	21
 置地	zhi Gti	21
 置地	zhi di	21
+置备	Gzi Gpei	62
 置备	Gzi Gpi	62
 置备	Gzi bei	62
 置备	zhi Gpi	62
@@ -565895,6 +566101,10 @@ use_preset_vocabulary: false
 联合国秘书处	Glien Ggot Gguet Gbi Gsu Gqyu	8
 联合国秘书处	Glien Ggot Gguet Gbi Gxyu Gcu	8
 联合国秘书处	Glien Ggot Gguet Gbi Gxyu Gqyu	8
+联合国秘书处	Glien Ggot Gguet Gmit Gsu Gcu	8
+联合国秘书处	Glien Ggot Gguet Gmit Gsu Gqyu	8
+联合国秘书处	Glien Ggot Gguet Gmit Gxyu Gcu	8
+联合国秘书处	Glien Ggot Gguet Gmit Gxyu Gqyu	8
 联合国秘书处	Glien Ghot Gguet Gbi Gsu Gcu	8
 联合国秘书处	Glien Ghot Gguet Gbi Gsu Gqyu	8
 联合国秘书处	Glien Ghot Gguet Gbi Gsu chu	8
@@ -565902,6 +566112,10 @@ use_preset_vocabulary: false
 联合国秘书处	Glien Ghot Gguet Gbi Gxyu Gqyu	8
 联合国秘书处	Glien Ghot Gguet Gbi shu Gcu	8
 联合国秘书处	Glien Ghot Gguet Gbi shu chu	8
+联合国秘书处	Glien Ghot Gguet Gmit Gsu Gcu	8
+联合国秘书处	Glien Ghot Gguet Gmit Gsu Gqyu	8
+联合国秘书处	Glien Ghot Gguet Gmit Gxyu Gcu	8
+联合国秘书处	Glien Ghot Gguet Gmit Gxyu Gqyu	8
 联合国秘书处	Glien Ghot Gguet mi Gsu Gcu	8
 联合国秘书处	Glien Ghot Gguet mi Gsu chu	8
 联合国秘书处	Glien Ghot Gguet mi shu Gcu	8
@@ -574731,6 +574945,7 @@ use_preset_vocabulary: false
 腺苷酸	xian Ggon suan	9
 腺苷酸	xian gan Gson	9
 腺苷酸	xian gan suan	9
+腻	Gni	100000
 腻	Gnia	101065
 腻	ni	101065
 腻味	Gnia Gwui	25
@@ -576073,6 +576288,7 @@ use_preset_vocabulary: false
 自在	Gci zai	1573
 自在	zi Gcai	1573
 自在	zi zai	1573
+自备	Gci Gpei	74
 自备	Gci Gpi	74
 自备	Gci bei	74
 自备	zi Gpi	74
@@ -583952,10 +584168,12 @@ use_preset_vocabulary: false
 花销	Gfa xiao	72
 花销	hua Gxieu	72
 花销	hua xiao	72
+花键	Gfa Gjien	7
 花键	Gfa Gqien	7
 花键	Gfa jian	7
 花键	hua Gqien	7
 花键	hua jian	7
+花键轴	Gfa Gjien Gcuk	8
 花键轴	Gfa Gqien Gcuk	8
 花键轴	Gfa Gqien zhou	8
 花键轴	Gfa jian Gcuk	8
@@ -594691,6 +594909,7 @@ use_preset_vocabulary: false
 董子将	dong Gzi Gjiong	7
 董子将	dong Gzi jiang	7
 董子将	dong zi jiang	7
+董存瑞	Gdung Gcun Glui	53
 董存瑞	Gdung Gcun Gsui	53
 董存瑞	Gdung Gcun rui	53
 董存瑞	dong Gcun Gsui	53
@@ -597382,6 +597601,7 @@ use_preset_vocabulary: false
 薄片	Gpo pian	104
 薄片	bao Gpien	104
 薄片	bao pian	104
+薄瑞光	Gpo Glui Gguong	16
 薄瑞光	Gpo Gsui Gguong	16
 薄瑞光	Gpo Gsui guang	16
 薄瑞光	Gpo rui Gguong	16
@@ -600628,8 +600848,8 @@ use_preset_vocabulary: false
 蝈蝈	Gguet guo	16
 蝈蝈	guo Gguet	16
 蝈蝈	guo guo	16
-蝉	Gsen	120000
-蝉	chan	120000
+蝉	Gsen	163845
+蝉	chan	163845
 蝉翼	Gsen Gyet	38
 蝉翼	Gsen yi	38
 蝉翼	chan Gyet	38
@@ -605961,15 +606181,18 @@ use_preset_vocabulary: false
 装填	Gzong tian	230
 装填	zhuang Gtien	230
 装填	zhuang tian	230
+装备	Gzong Gpei	7520
 装备	Gzong Gpi	7520
 装备	Gzong bei	7520
 装备	zhuang Gpi	7520
 装备	zhuang bei	7520
+装备费	Gzong Gpei Gfei	8
 装备费	Gzong Gpi Gfei	8
 装备费	Gzong bei Gfei	8
 装备费	zhuang Gpi Gfei	8
 装备费	zhuang bei Gfei	8
 装备费	zhuang bei fei	8
+装备部	Gzong Gpei Gpu	46
 装备部	Gzong Gpi Gpu	46
 装备部	Gzong Gpi bu	46
 装备部	Gzong bei Gpu	46
@@ -606112,21 +606335,14 @@ use_preset_vocabulary: false
 装甲运兵车	zhuang jia Gyun bing Gca	19
 装甲运兵车	zhuang jia Gyun bing che	19
 装甲运兵车	zhuang jia yun bing che	19
-装疯卖傻	Gzong Gfung Gkok Gsa	11
-装疯卖傻	Gzong Gfung Gkok sha	11
-装疯卖傻	Gzong Gfung mai Gsa	11
-装疯卖傻	Gzong Gfung mai sha	11
-装疯卖傻	Gzong feng Gkok Gsa	11
-装疯卖傻	Gzong feng Gkok sha	11
-装疯卖傻	Gzong feng mai Gsa	11
-装疯卖傻	Gzong feng mai sha	11
-装疯卖傻	zhuang Gfung Gkok Gsa	11
-装疯卖傻	zhuang Gfung Gkok sha	11
-装疯卖傻	zhuang Gfung mai Gsa	11
-装疯卖傻	zhuang Gfung mai sha	11
-装疯卖傻	zhuang feng Gkok Gsa	11
-装疯卖傻	zhuang feng Gkok sha	11
-装疯卖傻	zhuang feng mai Gsa	11
+装疯卖傻	Gzong Gfung Gmai Gsa	11
+装疯卖傻	Gzong Gfung Gmai sha	11
+装疯卖傻	Gzong feng Gmai Gsa	11
+装疯卖傻	Gzong feng Gmai sha	11
+装疯卖傻	zhuang Gfung Gmai Gsa	11
+装疯卖傻	zhuang Gfung Gmai sha	11
+装疯卖傻	zhuang feng Gmai Gsa	11
+装疯卖傻	zhuang feng Gmai sha	11
 装疯卖傻	zhuang feng mai sha	11
 装睡	Gzong Gsui	21
 装睡	Gzong shui	21
@@ -611506,6 +611722,7 @@ use_preset_vocabulary: false
 解放军总政治部	Ggai Gfong Gjyun Gzung Gzen Gci Gpu	37
 解放军总政治部	Ggai Gfong Gjyun Gzung Gzen Gzik Gpu	37
 解放军总政治部	jie fang jun zong zheng zhi bu	37
+解放军总装备部	Ggai Gfong Gjyun Gzung Gzong Gpei Gpu	8
 解放军总装备部	Ggai Gfong Gjyun Gzung Gzong Gpi Gpu	8
 解放军总装备部	jie fang jun zong zhuang bei bu	8
 解放军报	Ggai Gfong Gjyun Gbau	119
@@ -611866,6 +612083,7 @@ use_preset_vocabulary: false
 解离	jie Gli	9
 解离	jie li	9
 解秘	Ggai Gbi	10
+解秘	Ggai Gmit	10
 解秘	Ggai mi	10
 解秘	jie Gbi	10
 解秘	jie mi	10
@@ -613392,12 +613610,16 @@ use_preset_vocabulary: false
 警员	Gjin yuan	14
 警员	jing Gyuon	14
 警员	jing yuan	14
+警备	Gjiang Gpei	205
 警备	Gjiang Gpi	205
+警备	Gjin Gpei	205
 警备	Gjin Gpi	205
 警备	Gjin bei	205
 警备	jing Gpi	205
 警备	jing bei	205
+警备区	Gjiang Gpei Gqyu	60
 警备区	Gjiang Gpi Gqyu	60
+警备区	Gjin Gpei Gqyu	60
 警备区	Gjin Gpi Gqyu	60
 警备区	Gjin Gpi qu	60
 警备区	Gjin bei Gqyu	60
@@ -613406,7 +613628,9 @@ use_preset_vocabulary: false
 警备区	jing Gpi qu	60
 警备区	jing bei Gqyu	60
 警备区	jing bei qu	60
+警备队	Gjiang Gpei Gdui	46
 警备队	Gjiang Gpi Gdui	46
+警备队	Gjin Gpei Gdui	46
 警备队	Gjin Gpi Gdui	46
 警备队	Gjin bei Gdui	46
 警备队	jing Gpi Gdui	46
@@ -615173,7 +615397,7 @@ use_preset_vocabulary: false
 讯问	Gxyun Gwun	38
 讯问	xun Gwun	38
 讯问	xun wen	38
-记	Gji	120000
+记	Gji	163850
 记下	Gji Gga	168
 记下	Gji Gha	168
 记下	Gji xia	168
@@ -616647,10 +616871,12 @@ use_preset_vocabulary: false
 设在	Gset zai	1465
 设在	she Gcai	1465
 设在	she zai	1465
+设备	Gset Gpei	93176
 设备	Gset Gpi	93176
 设备	Gset bei	93176
 设备	she Gpi	93176
 设备	she bei	93176
+设备厂	Gset Gpei Gcong	11
 设备厂	Gset Gpi Gcong	11
 设备厂	Gset Gpi chang	11
 设备厂	Gset bei Gcong	11
@@ -619083,6 +619309,7 @@ use_preset_vocabulary: false
 诡异	Ggui Gyi	50426
 诡怪	Ggui Gguai	8
 诡秘	Ggui Gbi	161
+诡秘	Ggui Gmit	161
 诡秘	Ggui mi	161
 诡秘	gui mi	161
 诡计	Ggui Gji	403
@@ -619312,7 +619539,9 @@ use_preset_vocabulary: false
 详	Gqiong	120000
 详	Gxiong	120000
 详	xiang	120000
+详备	Gqiong Gpei	21
 详备	Gqiong Gpi	21
+详备	Gxiong Gpei	21
 详备	Gxiong Gpi	21
 详备	Gxiong bei	21
 详备	xiang Gpi	21
@@ -621994,14 +622223,10 @@ use_preset_vocabulary: false
 读出	Gtuk chu	104
 读出	du Gcuk	104
 读出	du chu	104
-读卖新闻	Gtuk Gkok Gxin Gwun	50
-读卖新闻	Gtuk Gkok Gxin wen	50
-读卖新闻	Gtuk mai Gxin Gwun	50
-读卖新闻	Gtuk mai Gxin wen	50
-读卖新闻	du Gkok Gxin Gwun	50
-读卖新闻	du Gkok Gxin wen	50
-读卖新闻	du mai Gxin Gwun	50
-读卖新闻	du mai Gxin wen	50
+读卖新闻	Gtuk Gmai Gxin Gwun	50
+读卖新闻	Gtuk Gmai Gxin wen	50
+读卖新闻	du Gmai Gxin Gwun	50
+读卖新闻	du Gmai Gxin wen	50
 读卖新闻	du mai xin wen	50
 读卡机	Gtuk Gka Gji	13
 读卡机	du Gka Gji	13
@@ -624716,6 +624941,8 @@ use_preset_vocabulary: false
 谷物	Gguk wu	696
 谷物	gu Gwut	696
 谷物	gu wu	696
+谷瑞玉	Gguk Glui Gniuk	7
+谷瑞玉	Gguk Glui Gyu	7
 谷瑞玉	Gguk Gsui Gniuk	7
 谷瑞玉	Gguk Gsui Gyu	7
 谷瑞玉	Gguk rui Gyu	7
@@ -627143,6 +627370,7 @@ use_preset_vocabulary: false
 责任险	ze Glen xian	15
 责任险	ze ren Gxien	15
 责任险	ze ren xian	15
+责备	Gzet Gpei	524
 责备	Gzet Gpi	524
 责备	Gzet bei	524
 责备	ze Gpi	524
@@ -627929,9 +628157,7 @@ use_preset_vocabulary: false
 质问	zhi Gwun	232
 质问	zhi wen	232
 贩	Gfan	120000
-贩卖	Gfan Gkok	737
-贩卖	Gfan mai	737
-贩卖	fan mai	737
+贩卖	Gfan Gmai	737
 贩夫走卒	Gfan Gfu Gzeu Gzuet	22
 贩夫走卒	Gfan Gfu Gzeu zu	22
 贩夫走卒	Gfan Gfu zou Gzuet	22
@@ -628434,8 +628660,10 @@ use_preset_vocabulary: false
 贮	Gqyu	120000
 贮	Gzu	100000
 贮	zhu	120000
+贮备	Gqyu Gpei	27
 贮备	Gqyu Gpi	27
 贮备	Gqyu bei	27
+贮备	Gzu Gpei	27
 贮备	Gzu Gpi	27
 贮备	zhu Gpi	27
 贮备	zhu bei	27
@@ -628532,10 +628760,8 @@ use_preset_vocabulary: false
 贰心	er xin	11
 贱	Gqien	120000
 贱	jian	120000
-贱买贵卖	Gqien Gmai Ggui Gkok	11
-贱买贵卖	Gqien Gmai Ggui mai	11
-贱买贵卖	jian Gmai Ggui Gkok	11
-贱买贵卖	jian Gmai Ggui mai	11
+贱买贵卖	Gqien Gmai Ggui Gmai	11
+贱买贵卖	jian Gmai Ggui Gmai	11
 贱买贵卖	jian mai gui mai	11
 贱人	Gqien Glen	277
 贱人	Gqien Gnin	277
@@ -628547,9 +628773,8 @@ use_preset_vocabulary: false
 贱内	Gqien nei	12
 贱内	jian Glui	12
 贱内	jian nei	12
-贱卖	Gqien Gkok	32
-贱卖	Gqien mai	32
-贱卖	jian Gkok	32
+贱卖	Gqien Gmai	32
+贱卖	jian Gmai	32
 贱卖	jian mai	32
 贱妾	Gqien Gqiet	54
 贱妾	Gqien qie	54
@@ -636069,14 +636294,10 @@ use_preset_vocabulary: false
 跑马	Gpau Gma	70
 跑马	pao Gma	70
 跑马	pao ma	70
-跑马卖解	Gpau Gma Gkok Ggai	10
-跑马卖解	Gpau Gma Gkok xie	10
-跑马卖解	Gpau Gma mai Ggai	10
-跑马卖解	Gpau Gma mai xie	10
-跑马卖解	pao Gma Gkok Ggai	10
-跑马卖解	pao Gma Gkok xie	10
-跑马卖解	pao Gma mai Ggai	10
-跑马卖解	pao Gma mai xie	10
+跑马卖解	Gpau Gma Gmai Ggai	10
+跑马卖解	Gpau Gma Gmai xie	10
+跑马卖解	pao Gma Gmai Ggai	10
+跑马卖解	pao Gma Gmai xie	10
 跑马卖解	pao ma mai xie	10
 跑龙套	Gpau Glung Gtau	26
 跑龙套	Gpau Glung tao	26
@@ -639147,9 +639368,8 @@ use_preset_vocabulary: false
 转化率	zhuan Gfa lv	23
 转化率	zhuan hua Glyut	23
 转化率	zhuan hua lv	23
-转卖	Gzon Gkok	59
-转卖	Gzon mai	59
-转卖	zhuan Gkok	59
+转卖	Gzon Gmai	59
+转卖	zhuan Gmai	59
 转卖	zhuan mai	59
 转印	Gzon Gyin	13
 转印	zhuan Gyin	13
@@ -641775,10 +641995,12 @@ use_preset_vocabulary: false
 辉煌	Gfei huang	1235
 辉煌	hui Gfong	1235
 辉煌	hui huang	1235
+辉瑞	Gfei Glui	29
 辉瑞	Gfei Gsui	29
 辉瑞	Gfei rui	29
 辉瑞	hui Gsui	29
 辉瑞	hui rui	29
+辉瑞公司	Gfei Glui Ggung Gsi	9
 辉瑞公司	Gfei Gsui Ggung Gsi	9
 辉瑞公司	Gfei Gsui gong Gsi	9
 辉瑞公司	Gfei rui Ggung Gsi	9
@@ -642472,6 +642694,7 @@ use_preset_vocabulary: false
 辛集市	Gxin ji Gsi	9
 辛集市	Gxin ji shi	9
 辛集市	xin ji shi	9
+辛黛瑞	Gxin Gtai Glui	7
 辛黛瑞	Gxin Gtai Gsui	7
 辛黛瑞	Gxin Gtai rui	7
 辛黛瑞	Gxin dai Gsui	7
@@ -642936,8 +643159,8 @@ use_preset_vocabulary: false
 辫子	bian zi	419
 辬	Gban	5741
 辰	Gcen	100000
-辰	Gsen	120000
-辰	chen	120000
+辰	Gsen	124678
+辰	chen	124678
 辰光	Gcen Gguong	14
 辰光	Gsen Gguong	14
 辰光	Gsen guang	14
@@ -660139,6 +660362,7 @@ use_preset_vocabulary: false
 配型	Gpi xing	41
 配型	pei Gxin	41
 配型	pei xing	41
+配备	Gpi Gpei	1119
 配备	Gpi Gpi	1119
 配备	Gpi bei	1119
 配备	pei Gpi	1119
@@ -664506,6 +664730,8 @@ use_preset_vocabulary: false
 金秘术	Gjin Gbi Gsuet	12
 金秘术	Gjin Gbi Gsuk	12
 金秘术	Gjin Gbi shu	12
+金秘术	Gjin Gmit Gsuet	12
+金秘术	Gjin Gmit Gsuk	12
 金秘术	Gjin mi Gsuet	12
 金秘术	Gjin mi shu	12
 金秘术	jin mi shu	12
@@ -664606,6 +664832,7 @@ use_preset_vocabulary: false
 金蛇剑	Gjin she jian	60
 金蛇剑	jin she jian	60
 金蛇秘	Gjin Gsa Gbi	22
+金蛇秘	Gjin Gsa Gmit	22
 金蛇秘	Gjin Gsa mi	22
 金蛇秘	Gjin she Gbi	22
 金蛇秘	Gjin she mi	22
@@ -670930,25 +671157,33 @@ use_preset_vocabulary: false
 锭子	Gtin Gzi	33
 锭子	ding Gzi	33
 锭子	ding zi	33
+键	Gjien	173485
 键	Gqien	163920
-键	jian	163920
+键	jian	173485
+键入	Gjien Glet	17
+键入	Gjien Gluk	17
 键入	Gqien Glet	17
 键入	Gqien Gluk	17
 键入	Gqien ru	17
 键入	jian Gluk	17
 键入	jian ru	17
+键控	Gjien Gkung	10
 键控	Gqien Gkung	10
 键控	Gqien kong	10
 键控	jian Gkung	10
 键控	jian kong	10
+键槽	Gjien Gcau	7
 键槽	Gqien Gcau	7
 键槽	Gqien cao	7
 键槽	jian Gcau	7
 键槽	jian cao	7
+键盘	Gjien Gpon	140378
 键盘	Gqien Gpon	140378
 键盘	Gqien pan	140378
 键盘	jian Gpon	140378
 键盘	jian pan	140378
+键盘乐器	Gjien Gpon Gngok Gqi	24
+键盘乐器	Gjien Gpon Gyok Gqi	24
 键盘乐器	Gqien Gpon Gngok Gqi	24
 键盘乐器	Gqien Gpon Gyok Gqi	24
 键盘乐器	Gqien Gpon yue Gqi	24
@@ -670959,6 +671194,7 @@ use_preset_vocabulary: false
 键盘乐器	jian pan Gyok Gqi	24
 键盘乐器	jian pan yue Gqi	24
 键盘乐器	jian pan yue qi	24
+键钮	Gjien Gniu	9
 键钮	Gqien Gniu	9
 键钮	jian Gniu	9
 键钮	jian niu	9
@@ -674040,8 +674276,8 @@ use_preset_vocabulary: false
 闩	Gson	4993
 闩	Gsuan	4994
 闩	shuan	4994
-闪	Gsen	120000
-闪	shan	120000
+闪	Gsen	135907
+闪	shan	135907
 闪亮	Gsen Gliong	25206
 闪亮	Gsen liang	25206
 闪亮	shan Gliong	25206
@@ -676629,6 +676865,7 @@ use_preset_vocabulary: false
 防堵	Gfong Gdu	7
 防堵	fang Gdu	7
 防堵	fang du	7
+防备	Gfong Gpei	543
 防备	Gfong Gpi	543
 防备	Gfong bei	543
 防备	fang Gpi	543
@@ -680788,6 +681025,7 @@ use_preset_vocabulary: false
 阿玛尼	Gnga Gma Gni	20
 阿玛尼	a Gma Gni	20
 阿玛尼	a ma ni	20
+阿瑞斯	Gnga Glui Gsi	11
 阿瑞斯	Gnga Gsui Gsi	11
 阿瑞斯	Gnga rui Gsi	11
 阿瑞斯	a Gsui Gsi	11
@@ -681707,10 +681945,8 @@ use_preset_vocabulary: false
 陆凉州	lu Gliong zhou	7
 陆凉州	lu liang Gzeu	7
 陆凉州	lu liang zhou	7
-陆卖婆	Gluk Gkok Gpo	41
-陆卖婆	Gluk mai Gpo	41
-陆卖婆	lu Gkok Gpo	41
-陆卖婆	lu mai Gpo	41
+陆卖婆	Gluk Gmai Gpo	41
+陆卖婆	lu Gmai Gpo	41
 陆卖婆	lu mai po	41
 陆博飞	Gluk Gbok Gfei	30
 陆博飞	Gluk bo Gfei	30
@@ -683718,6 +683954,7 @@ use_preset_vocabulary: false
 陈玉银	chen Gyu Gnin	20
 陈玉银	chen Gyu yin	20
 陈玉银	chen yu yin	20
+陈瑞华	Gcen Glui Gfa	11
 陈瑞华	Gcen Gsui Gfa	11
 陈瑞华	Gcen Gsui hua	11
 陈瑞华	Gcen rui Gfa	11
@@ -686586,6 +686823,7 @@ use_preset_vocabulary: false
 隐私权	Gyin Gsi quan	22
 隐私权	yin si quan	22
 隐秘	Gyin Gbi	333
+隐秘	Gyin Gmit	333
 隐秘	Gyin mi	333
 隐秘	yin mi	333
 隐约	Gyin Gyok	360
@@ -689664,8 +689902,12 @@ use_preset_vocabulary: false
 零四架	ling Gsi Gga	18
 零四架	ling Gsi jia	18
 零四架	ling si jia	18
+零备件	Gliang Gpei Gjien	7
+零备件	Gliang Gpei Gqien	7
 零备件	Gliang Gpi Gjien	7
 零备件	Gliang Gpi Gqien	7
+零备件	Glin Gpei Gjien	7
+零备件	Glin Gpei Gqien	7
 零备件	Glin Gpi Gjien	7
 零备件	Glin Gpi Gqien	7
 零备件	Glin Gpi jian	7
@@ -691001,6 +691243,7 @@ use_preset_vocabulary: false
 霍利抢	huo Gli Gqiong	8
 霍利抢	huo Gli qiang	8
 霍利抢	huo li qiang	8
+霍勒瑞	Gfok Glet Glui	8
 霍勒瑞	Gfok Glet Gsui	8
 霍勒瑞	Gfok Glet rui	8
 霍勒瑞	Gfok lei Gsui	8
@@ -698491,23 +698734,29 @@ use_preset_vocabulary: false
 预处理	Gyu Gqyu Gli	33
 预处理	Gyu chu Gli	33
 预处理	yu chu li	33
+预备	Gyu Gpei	913
 预备	Gyu Gpi	913
 预备	Gyu bei	913
 预备	yu bei	913
+预备役	Gyu Gpei Gyut	350
 预备役	Gyu Gpi Gyut	350
 预备役	Gyu Gpi yi	350
 预备役	Gyu bei Gyut	350
 预备役	Gyu bei yi	350
 预备役	yu bei yi	350
+预备班	Gyu Gpei Gban	12
 预备班	Gyu Gpi Gban	12
 预备班	Gyu bei Gban	12
 预备班	yu bei ban	12
+预备生	Gyu Gpei Gsang	8
+预备生	Gyu Gpei Gsen	8
 预备生	Gyu Gpi Gsang	8
 预备生	Gyu Gpi Gsen	8
 预备生	Gyu Gpi sheng	8
 预备生	Gyu bei Gsen	8
 预备生	Gyu bei sheng	8
 预备生	yu bei sheng	8
+预备队	Gyu Gpei Gdui	212
 预备队	Gyu Gpi Gdui	212
 预备队	Gyu bei Gdui	212
 预备队	yu bei dui	212
@@ -706563,6 +706812,7 @@ use_preset_vocabulary: false
 马文普	Gma Gwun Gpu	7
 马文普	Gma wen Gpu	7
 马文普	ma wen pu	7
+马文瑞	Gma Gwun Glui	8
 马文瑞	Gma Gwun Gsui	8
 马文瑞	Gma Gwun rui	8
 马文瑞	Gma wen Gsui	8
@@ -713055,6 +713305,7 @@ use_preset_vocabulary: false
 魏收	Gwui shou	24
 魏收	wei Gseu	24
 魏收	wei shou	24
+魏敦瑞	Gwui Gden Glui	30
 魏敦瑞	Gwui Gden Gsui	30
 魏敦瑞	Gwui Gden rui	30
 魏敦瑞	Gwui dun Gsui	30
@@ -719175,7 +719426,9 @@ use_preset_vocabulary: false
 黄琪翔	huang Gqi Gxiong	18
 黄琪翔	huang Gqi xiang	18
 黄琪翔	huang qi xiang	18
+黄瑞兰	Gfong Glui Glan	52
 黄瑞兰	Gfong Gsui Glan	52
+黄瑞兰	Gwong Glui Glan	52
 黄瑞兰	Gwong Gsui Glan	52
 黄瑞兰	Gwong rui Glan	52
 黄瑞兰	huang Gsui Glan	52
@@ -723025,6 +723278,7 @@ use_preset_vocabulary: false
 齐声	Gqi Gsen	1544
 齐声	Gqi sheng	1544
 齐声	qi sheng	1544
+齐备	Gqi Gpei	173
 齐备	Gqi Gpi	173
 齐备	Gqi bei	173
 齐备	qi bei	173

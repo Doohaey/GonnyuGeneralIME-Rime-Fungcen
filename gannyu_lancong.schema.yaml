@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_lancong
   name: 赣语－南昌
-  version: "0.2.4-pre.17"
+  version: "1.0.0"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -33,7 +33,9 @@ engine:
     - punct_translator
     - script_translator
   filters:
-    - lua_filter@*gannyu_filter
+    - lua_filter@*gannyu_annotation_filter
+    - lua_filter@*gannyu_single_char_filter
+    - lua_filter@*gannyu_relation_filter
     - uniquifier
 
 speller:
@@ -146,6 +148,7 @@ speller:
     - fuzz/^Gfak$/Ffa/
     - fuzz/^Gfak$/Ffat/
     - derive/^Gfan$/Ffang/
+    - derive/^Gfang$/Ffan/
     - fuzz/^Gfat$/Ffa/
     - fuzz/^Gfat$/Ffak/
     - derive/^Gfei$/Ffi/
@@ -927,6 +930,7 @@ speller:
     - derive/^Gzung$/Fzun/
     - xform/^G//
     - xform/^F//
+    - abbrev/^([a-z]).+$/$1/
 
 translator:
   dictionary: gannyu_lancong

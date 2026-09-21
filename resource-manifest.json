@@ -2,23 +2,23 @@
   "files": [
     {
       "path": "default.custom.yaml",
-      "sha256": "79a6827cd63cba1ba23aaf3d9e821afadc092f19ace8d45b59383a7f57e62f4c",
+      "sha256": "751e8f55fdd789d3b394c92a37f4a2070ad12cd6de3ef1ecbf05318dc6a5000f",
       "size": 53
     },
     {
       "path": "default.yaml",
-      "sha256": "198095871612f2294149b4f4022ff8727e02497733e769f8f49d3f3e40f1a96d",
+      "sha256": "e82c3bc499c3162816036402ea9d37c2b7dace54d04338cc40f8af47e03c7101",
       "size": 585
     },
     {
-      "path": "gannyu_lancong.dict.yaml",
-      "sha256": "59ea9926bf24636c5ae0994b2beacd4a391aaa5a19e13ec22208067a0662b912",
-      "size": 20425741
+      "path": "gannyu_fungcen.dict.yaml",
+      "sha256": "29c4d971cc9be12923661d0d51debc498a9aa78921aadc2ecaaeaf6f13f2c2b3",
+      "size": 169708
     },
     {
-      "path": "gannyu_lancong.schema.yaml",
-      "sha256": "bc5d611150495577e176d49566cf1e9588b6fdacd679646faeadf2ebc1c678e7",
-      "size": 24484
+      "path": "gannyu_fungcen.schema.yaml",
+      "sha256": "a0c5302d967a99c6fecbe7fb3a1273b43573c9c2fc75dc0b55c1468657da31c2",
+      "size": 34710
     },
     {
       "path": "lua/gannyu_annotation_filter.lua",
@@ -26,9 +26,9 @@
       "size": 791
     },
     {
-      "path": "lua/gannyu_lancong_data.lua",
-      "sha256": "d6268e3f7deadf997ec0b13cdc03dc8b32186e74c6df9a927c95b75388bff646",
-      "size": 5664193
+      "path": "lua/gannyu_fungcen_data.lua",
+      "sha256": "65cc37076bdcd76a1e00d3f1a037031ebe38f016e90b0732d7bb1572afad8899",
+      "size": 258697
     },
     {
       "path": "lua/gannyu_relation_filter.lua",
@@ -41,13 +41,13 @@
       "size": 1566
     }
   ],
-  "product_version": "1.0.0",
+  "product_version": "1.0.1",
   "regions": [
     {
-      "id": "lancong",
-      "name_zh": "南昌",
-      "schema_id": "gannyu_lancong"
+      "id": "fungcen",
+      "name_zh": "丰城",
+      "schema_id": "gannyu_fungcen"
     }
   ],
-  "schema_version": "1.0.0"
+  "schema_version": "1.0.1"
 }

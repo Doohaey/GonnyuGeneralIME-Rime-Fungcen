@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fungcen
-version: "1.0.1"
+version: "1.0.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -3713,7 +3713,8 @@ use_preset_vocabulary: false
 掂	Gdien	170000
 掂	dian	170000
 掇	Gdok	132650
-掇	duo	132650
+掇	Gduet	138593
+掇	duo	138593
 授	Gsiu	145000
 授	shou	145000
 掉	Gdiek	200000

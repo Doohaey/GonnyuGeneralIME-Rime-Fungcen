@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fungcen
-version: "1.0.2"
+version: "1.0.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -461,6 +461,9 @@ use_preset_vocabulary: false
 何	Ghei	126127
 何	Gho	170000
 何	he	170000
+何里	Ghei Gli	100000
+何里	he Gli	100000
+何里	he li	100000
 余	Gni	175000
 余	Gyi	175000
 余	Gyu	175000

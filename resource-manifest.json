@@ -12,12 +12,12 @@
     },
     {
       "path": "gannyu_fungcen.dict.yaml",
-      "sha256": "2c107d867e555cccd2697ed52349366305e3ae10971104b132aeff3be4362c32",
-      "size": 169725
+      "sha256": "97c7ee08e92f8709852b9d0c3d73fb53ebec1f64557f6cde875b5fca4949b848",
+      "size": 169789
     },
     {
       "path": "gannyu_fungcen.schema.yaml",
-      "sha256": "5c158f7b5107f582148438b832560775309e497cfa1592dc0aab64b38483c3fe",
+      "sha256": "4bd48caa111323b9792593449ec1b368f40b9fe2dfb71f6917fdd157d6541265",
       "size": 34787
     },
     {
@@ -27,8 +27,8 @@
     },
     {
       "path": "lua/gannyu_fungcen_data.lua",
-      "sha256": "dc69cc8acc08c468e4f715c398c226d45b4b05e71f7c5e90db1067816883c274",
-      "size": 258799
+      "sha256": "5c1225edb9b28b1181ed5f4ad7c1cfbf244649c0110cfbb2a98bc29b816b0549",
+      "size": 258897
     },
     {
       "path": "lua/gannyu_relation_filter.lua",
@@ -41,7 +41,7 @@
       "size": 1566
     }
   ],
-  "product_version": "1.0.2",
+  "product_version": "1.0.3",
   "regions": [
     {
       "id": "fungcen",
@@ -49,5 +49,5 @@
       "schema_id": "gannyu_fungcen"
     }
   ],
-  "schema_version": "1.0.2"
+  "schema_version": "1.0.3"
 }

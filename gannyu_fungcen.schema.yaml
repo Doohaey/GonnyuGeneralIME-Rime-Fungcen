@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fungcen
   name: 赣语－丰城
-  version: "1.0.2"
+  version: "1.0.3"
   author:
     - GannyuInputMethod contributors
   description: |

@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fungcen
   name: 赣语－丰城
-  version: "1.0.3"
+  version: "1.0.4"
   author:
     - GannyuInputMethod contributors
   description: |
@@ -308,6 +308,9 @@ speller:
     - fuzz/^Gguek$/Fgue/
     - fuzz/^Gguek$/Fguep/
     - fuzz/^Gguek$/Fguet/
+    - fuzz/^Gguep$/Fgue/
+    - fuzz/^Gguep$/Fguek/
+    - fuzz/^Gguep$/Fguet/
     - fuzz/^Gguet$/Fgue/
     - fuzz/^Gguet$/Fguek/
     - fuzz/^Gguet$/Fguep/
@@ -515,6 +518,9 @@ speller:
     - fuzz/^Glaet$/Flae/
     - fuzz/^Glaet$/Flaek/
     - fuzz/^Glaet$/Flaep/
+    - fuzz/^Glak$/Fla/
+    - fuzz/^Glak$/Flap/
+    - fuzz/^Glak$/Flat/
     - derive/^Glan$/Flang/
     - derive/^Glang$/Flan/
     - derive/^Glau$/Flao/

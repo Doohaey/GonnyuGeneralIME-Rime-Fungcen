@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fungcen
-version: "1.2.1"
+version: "1.2.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -2603,7 +2603,7 @@ use_preset_vocabulary: false
 婚	Gfin	120000
 婚	hun	120000
 婴	Gyang	145000
-婴	Gyen	145000
+婴	Gyin	145000
 婴	ying	145000
 婶	Gsin	145000
 婶	shen	145000
@@ -3190,7 +3190,6 @@ use_preset_vocabulary: false
 序	xu	170000
 庐	Glu	120000
 库	Gku	200000
-应	Gyen	30000
 应	Gyin	30000
 应	ying	30000
 底	Gdi	200000
@@ -3349,7 +3348,6 @@ use_preset_vocabulary: false
 彭	Gpang	100000
 彭	peng	100000
 影	Gyang	120000
-影	Gyen	120000
 影	Gyin	120000
 影	ying	120000
 役	Gni	120000
@@ -8371,7 +8369,6 @@ use_preset_vocabulary: false
 苦	Gku	120000
 苫	Gsiên	78436
 苫	shan	78436
-英	Gyen	120000
 英	Gyin	120000
 英	ying	120000
 苹	Gpen	160000
@@ -8549,7 +8546,7 @@ use_preset_vocabulary: false
 萝	luo	120000
 萤	Gyin	120000
 萤	ying	120000
-营	Gyen	120000
+营	Gyin	120000
 营	Gyung	120000
 营	ying	120000
 萦	Gyang	20000
@@ -9546,7 +9543,6 @@ use_preset_vocabulary: false
 迈	Gmak	120000
 迈	mai	120000
 迎	Gnen	136501
-迎	Gyen	136501
 迎	Gyin	136501
 迎	ying	136501
 运	Gyun	135000

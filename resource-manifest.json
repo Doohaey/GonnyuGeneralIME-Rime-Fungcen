@@ -1,14 +1,14 @@
 {
   "files": [
     {
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
       "path": "default.custom.yaml",
       "sha256": "751e8f55fdd789d3b394c92a37f4a2070ad12cd6de3ef1ecbf05318dc6a5000f",
       "size": 53
-    },
-    {
-      "path": "default.yaml",
-      "sha256": "b93f08723fa7e22ef2c6caeece6c9a3eb26145d71ef04a85244541131f21381b",
-      "size": 585
     },
     {
       "path": "gannyu_fungcen.dict.yaml",

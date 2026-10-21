@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fungcen
-version: "1.2.2"
+version: "1.2.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -540,6 +540,13 @@ use_preset_vocabulary: false
 你	Gni	200000
 你	Gnêi	200000
 你	ni	200000
+佢	Ggiê	123811
+佢	Gjiê	123811
+佢	Gkiê	123811
+佢	Gqi	123811
+佢	Gqiuk	123811
+佢	Gqiê	123811
+佢	qu	123811
 佣	Gyung	120000
 佣	yong	120000
 佩	Gpi	120000
@@ -4894,6 +4901,9 @@ use_preset_vocabulary: false
 星	Gxiang	30000
 星	Gxin	30000
 星	xing	30000
+星子	Gxin Gzi	100000
+星子	xing Gzi	100000
+星子	xing zi	100000
 星星	Gxin Gxin	25398
 星星	Gxin xing	25398
 星星	xing Gxin	25398
@@ -7515,7 +7525,11 @@ use_preset_vocabulary: false
 筝	Gzên	109332
 筝	zheng	109332
 筠	Gjyun	77631
+筠	Gyun	100000
 筠	yun	77631
+筠阳	Gyun Gyong	100000
+筠阳	Gyun yang	100000
+筠阳	yun yang	100000
 筲	Gsau	90000
 筲	shao	90000
 筷	Gkuai	120000
@@ -9642,6 +9656,12 @@ use_preset_vocabulary: false
 逼迫	Gbek po	123234
 逼迫	bi Gpêk	123234
 逼迫	bi po	123234
+遂	Gsêi	100000
+遂	sui	100000
+遂川	Gsêi Gcon	100000
+遂川	Gsêi chuan	100000
+遂川	sui Gcon	100000
+遂川	sui chuan	100000
 遇	Gni	120000
 遇	Gnyu	120000
 遇	Gyu	120000
@@ -10404,6 +10424,10 @@ use_preset_vocabulary: false
 髓	sui	109275
 高	Ggau	200000
 高	gao	200000
+高安	Ggau Gngon	100000
+高安	Ggau an	100000
+高安	gao Gngon	100000
+高安	gao an	100000
 鬃	Gzung	90000
 鬃	zong	90000
 鬼	Ggui	120000

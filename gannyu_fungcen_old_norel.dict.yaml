@@ -1,0 +1,9318 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: gannyu_fungcen_old_norel
+version: "1.2.4"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+㔢	Gjyueok	4743
+㔢	jue	4743
+㔶	Ggon	127698
+㔶	gong	127698
+㔶到菜	Ggon Gdau Gcêi	122492
+㔶到菜	Ggon Gdau cai	122492
+㔶到菜	Ggon dao Gcêi	122492
+㔶到菜	Ggon dao cai	122492
+㔶到菜	gong Gdau Gcêi	122492
+㔶到菜	gong Gdau cai	122492
+㔶到菜	gong dao Gcêi	122492
+㔶到菜	gong dao cai	122492
+㔶好	Ggon Ghau	126592
+㔶好	Ggon hao	126592
+㔶好	gong Ghau	126592
+㔶好	gong hao	126592
+㞘	Gduk	10001
+㞘	du	10001
+㦜	Gfok	124290
+㦜	huo	124290
+㦿	Gkam	122122
+㦿	Gkan	122122
+㦿	qian	122122
+㦿子	Gkan Gzi	125628
+㦿子	qian Gzi	125628
+㦿子	qian zi	125628
+㧐	Gcung	100000
+㧐	song	100000
+㧦	Gfang	125494
+㧦	xuan	125494
+㨘	Gsang	127010
+㨘	xing	127010
+㩃	Gqiên	123334
+㩃	qian	123334
+㩃毛	Gqiên Gmau	126709
+㩃毛	Gqiên mao	126709
+㩃毛	qian Gmau	126709
+㩃毛	qian mao	126709
+㩉	Gdaep	125498
+㩉	da	125498
+㪗	Gteu	122825
+㪗	tou	122825
+㪗开	Gteu Gkêi	122159
+㪗开	Gteu kai	122159
+㪗开	tou Gkêi	122159
+㪗开	tou kai	122159
+㪗被袱	Gteu Gpi Gfuk	125044
+㪗被袱	Gteu Gpi fu	125044
+㪗被袱	Gteu bei Gfuk	125044
+㪗被袱	Gteu bei fu	125044
+㪗被袱	tou Gpi Gfuk	125044
+㪗被袱	tou Gpi fu	125044
+㪗被袱	tou bei Gfuk	125044
+㪗被袱	tou bei fu	125044
+䅴	Gsak	126997
+䅴	suo	126997
+䞀	Ghêu	126891
+䞀	hou	126891
+䟕	Gca	122094
+䟕	cha	122094
+䟕泥巴	Gca Gni Gba	122447
+䟕泥巴	cha Gni Gba	122447
+䟕泥巴	cha ni ba	122447
+䟕渠一脚	Gca Gjiê Gyit Gjiok	123982
+䟕渠一脚	Gca Gjiê Gyit jiao	123982
+䟕渠一脚	Gca Gjiê yi Gjiok	123982
+䟕渠一脚	Gca Gjiê yi jiao	123982
+䟕渠一脚	Gca qu Gyit Gjiok	123982
+䟕渠一脚	Gca qu Gyit jiao	123982
+䟕渠一脚	Gca qu yi Gjiok	123982
+䟕渠一脚	Gca qu yi jiao	123982
+䟕渠一脚	cha Gjiê Gyit Gjiok	123982
+䟕渠一脚	cha Gjiê Gyit jiao	123982
+䟕渠一脚	cha Gjiê yi Gjiok	123982
+䟕渠一脚	cha Gjiê yi jiao	123982
+䟕渠一脚	cha qu Gyit Gjiok	123982
+䟕渠一脚	cha qu Gyit jiao	123982
+䟕渠一脚	cha qu yi Gjiok	123982
+䟕渠一脚	cha qu yi jiao	123982
+一	Gyit	200000
+一	yi	200000
+丁	Gden	140000
+丁	Gdiang	140000
+丁	ding	140000
+七	Gqit	200000
+七	qi	200000
+万	Gwan	200000
+丈	Gcong	120000
+丈	zhang	120000
+三	Gsam	200000
+三	Gsan	200000
+三	san	200000
+上	Gsong	200000
+上	shang	200000
+上昼	Gsong Gziu	93117
+上昼	Gsong zhou	93117
+上昼	shang Gziu	93117
+上昼	shang zhou	93117
+上高	Gsong Ggau	125534
+上高	Gsong gao	125534
+上高	shang Ggau	125534
+上高	shang gao	125534
+下	Gha	200000
+下	xia	200000
+下昼	Gha Gziu	90527
+下昼	Gha zhou	90527
+下昼	xia Gziu	90527
+下昼	xia zhou	90527
+不	Gbek	200000
+不	Gbit	200000
+不	Gmok	122000
+不	bu	200000
+与	Gni	200000
+与	yu	200000
+丑	Gceu	130000
+丑	chou	130000
+专	Gzon	170000
+专	zhuan	170000
+且	Gqia	200000
+且	qie	200000
+世	Gsi	120000
+世	shi	120000
+世纪	Gsi Gji	131100
+世纪	shi Gji	131100
+世纪	shi ji	131100
+丘	Gkiêu	145000
+丘	Gqieu	145000
+丘	Gqiu	145000
+丘	qiu	145000
+丙	Gben	200000
+丙	Gbin	200000
+丙	bing	200000
+业	Gniêp	133000
+业	ye	133000
+丛	Gcung	200000
+丛	cong	200000
+东	Gdung	200000
+东	Gtung	127824
+东	dong	200000
+丝	Gsi	120000
+丞	Gcen	125000
+丞	cheng	125000
+丢	Gdieu	130000
+丢	Gdiu	130000
+丢	diu	130000
+两	Gliong	200000
+两	liang	200000
+严	Gngan	170000
+严	Gniên	170000
+严	Gyên	170000
+严	yan	170000
+丧	Gsong	125000
+丧	sang	125000
+个	Ggo	125017
+个	Ggêi	125017
+个	ge	125017
+个件衣裳	Ggêi Gqiên Gyi Gsong	125706
+个件衣裳	Ggêi Gqiên Gyi shang	125706
+个件衣裳	Ggêi jian Gyi Gsong	125706
+个件衣裳	Ggêi jian Gyi shang	125706
+个件衣裳	ge Gqiên Gyi Gsong	125706
+个件衣裳	ge Gqiên Gyi shang	125706
+个件衣裳	ge jian Gyi Gsong	125706
+个件衣裳	ge jian Gyi shang	125706
+个件衣裳	ge jian yi shang	125706
+丫	Gnga	120000
+丫	ya	120000
+中	Gzung	200000
+中	zhong	200000
+丰	Gfung	120000
+丰	feng	120000
+丰城	Gfung Gcen	121750
+丰城	Gfung cheng	121750
+丰城	feng Gcen	121750
+丰城	feng cheng	121750
+串	Gcon	200000
+串	chuan	200000
+临	Glen	120000
+临	Glin	120000
+临	lin	120000
+丸	Gnyuon	120000
+丸	Gyuon	120000
+丸	wan	120000
+丹	Gdan	120000
+为	Gvi	200000
+为	wei	200000
+主	Gjyu	200000
+主	Gzyu	200000
+主	zhu	200000
+丽	Gli	120000
+举	Gji	155000
+举	Gjyu	155000
+举	ju	155000
+乃	Gnêi	120000
+乃	nai	120000
+久	Gjieu	200000
+久	Gjiu	200000
+久	jiu	200000
+么	Gmo	100000
+么	me	100000
+义	Gni	195000
+义	yi	195000
+之	Gzi	200000
+之	zhi	200000
+乌	Gwu	145000
+乍	Gza	120000
+乍	zha	120000
+乎	Gfu	175000
+乎	hu	175000
+乏	Gfaet	127351
+乏	fa	127351
+乐	Glok	180000
+乐	Gngok	180000
+乐	le	180000
+乒	Gben	109404
+乒	ping	109404
+乓	Gbong	107515
+乓	pang	107515
+乔	Gqiau	120000
+乔	Gqiêu	120000
+乔	qiao	120000
+乖	Gguai	120000
+乘	Gcen	175000
+乘	cheng	175000
+乙	Gyit	120000
+乙	yi	120000
+九	Gjieu	200000
+九	Gjiu	200000
+九	Gniu	200000
+九	Gyiu	200000
+九	jiu	200000
+乞	Gqi	120000
+也	Ga	200000
+也	Gya	200000
+也	ye	200000
+习	Gxip	170000
+习	xi	170000
+乡	Gxiong	120000
+乡	xiang	120000
+书	Gsyu	200000
+书	Gxyu	200000
+书	shu	200000
+买	Gmai	200000
+乱	Glon	200000
+乱	luan	200000
+乳	Glu	125000
+乳	Gnu	125000
+乳	ru	125000
+了	Gliau	200000
+了	Gliêu	200000
+了	le	200000
+予	Gyi	104480
+予	Gyu	104480
+予	yu	104480
+争	Gzang	200000
+争	Gzen	200000
+争	Gziên	200000
+争	Gzên	200000
+争	zheng	200000
+事	Gsi	200000
+事	shi	200000
+二	Geo	200000
+二	er	200000
+于	Gyi	200000
+于	yu	200000
+亏	Gkui	125000
+云	Gyin	200000
+云	Gyun	200000
+云	yun	200000
+云彩	Gyin Gcêi	137
+云彩	Gyin cai	137
+云彩	yun Gcêi	137
+云彩	yun cai	137
+互	Gfu	125000
+互	hu	125000
+五	Gng	200000
+五	wu	200000
+井	Gjiang	155000
+井	Gjin	155000
+井	jing	155000
+亚	Gnga	120000
+亚	ya	120000
+些	Gxiê	200000
+些	xie	200000
+亡	Gmong	109629
+亡	Gwong	109629
+亡	wang	109629
+交	Ggau	120000
+交	jiao	120000
+亥	Ghêi	145000
+亥	hai	145000
+亦	Gni	120000
+亦	Gyi	120000
+亦	yi	120000
+产	Gcan	120000
+产	Gciên	120000
+产	chan	120000
+亩	Gmiau	120000
+亩	Gmêu	120000
+亩	mu	120000
+享	Gxiong	120000
+享	xiang	120000
+京	Gjen	145000
+京	Gjin	145000
+京	jing	145000
+亭	Gten	145000
+亭	Gtiang	145000
+亭	ting	145000
+亮	Gliong	120000
+亮	liang	120000
+亲	Gqin	120000
+人	Gnin	200000
+人	ren	200000
+亿	Gyik	145000
+亿	yi	145000
+什	Gsek	200000
+什	Gsik	200000
+什	shen	200000
+仁	Glen	125000
+仁	Gnin	125000
+仁	ren	125000
+仅	Gjin	130000
+仆	Gpu	120000
+仇	Gceu	155000
+仇	Gciu	155000
+仇	chou	155000
+今	Ggin	120000
+今	Gji	120000
+今	Gjin	120000
+今	jin	120000
+今日	Ggin Gyat	101488
+今日	Ggin ri	101488
+今日	jin Gyat	101488
+今日	jin ri	101488
+今朝	Ggin Gzêu	98087
+今朝	Ggin zhao	98087
+今朝	jin Gzêu	98087
+今朝	jin zhao	98087
+介	Ggai	120000
+介	jie	120000
+仍	Gnen	120000
+仍	reng	120000
+从	Gqiung	200000
+从	cong	200000
+仑	Glun	110671
+仓	Gcong	155000
+仓	cang	155000
+仔	Gzi	120000
+仔	Gzêi	120000
+仔	zai	120000
+仕	Gsi	120000
+仕	shi	120000
+他	Gjiê	200000
+他	Gta	200000
+他	ta	200000
+仗	Gzong	120000
+仗	zhang	120000
+付	Gfu	120000
+仙	Gxiên	120000
+仙	xian	120000
+代	Gtêi	200000
+代	dai	200000
+令	Glen	175000
+令	ling	175000
+以	Gni	200000
+以	Gyi	200000
+以	yi	200000
+仪	Gni	120000
+仪	Gyi	120000
+仪	yi	120000
+们	Gmin	200000
+们	men	200000
+仰	Gngong	195000
+仰	Gniong	195000
+仰	yang	195000
+仲	Gzung	120000
+仲	zhong	120000
+件	Gqiên	170000
+件	jian	170000
+价	Gga	145000
+价	jia	145000
+任	Glen	120000
+任	Glin	120000
+任	ren	120000
+份	Gfen	195000
+份	Gfin	195000
+份	fen	195000
+仿	Gfong	120000
+仿	fang	120000
+伊	Gni	103663
+伊	Gyi	103663
+伊	yi	103663
+伍	Gng	120000
+伍	Gwu	120000
+伍	wu	120000
+伏	Gfuk	120000
+伏	fu	120000
+伐	Gfa	120000
+伐	Gfaet	120000
+伐	fa	120000
+休	Gxieu	125000
+休	Gxiu	125000
+休	xiu	125000
+众	Gcung	120000
+众	Gzung	120000
+众	zhong	120000
+优	Gyeu	120000
+优	Gyiu	120000
+优	you	120000
+伙	Gfo	120000
+伙	huo	120000
+会	Gfêi	200000
+会	Gkuai	200000
+会	Gwêi	200000
+会	hui	200000
+伞	Gsan	120000
+伟	Gvi	120000
+伟	wei	120000
+传	Gcon	120000
+传	chuan	120000
+伢	Gnga	145000
+伢	ya	145000
+伤	Gsong	120000
+伤	shang	120000
+伦	Glun	120000
+伪	Gvi	134743
+伪	wei	134743
+伯	Gbak	120000
+伯	bo	120000
+估	Ggu	30000
+伴	Gpiên	120000
+伴	Gpên	120000
+伴	ban	120000
+伶	Gliang	120000
+伶	ling	120000
+伸	Gsen	120000
+伸	Gsin	120000
+伸	shen	120000
+伺	Gci	150000
+似	Gsi	120000
+似	shi	120000
+佃	Gdian	101062
+佃	Gtian	101062
+佃	dian	101062
+但	Gtan	200000
+但	dan	200000
+位	Gvi	200000
+位	wei	200000
+低	Gdi	200000
+住	Gcyu	200000
+住	Gqyu	200000
+住	zhu	200000
+佑	Gyiu	105446
+佑	you	105446
+体	Gti	200000
+何	Gho	170000
+何	Ghêi	126127
+何	he	170000
+何里	Ghêi Gli	100000
+何里	he Gli	100000
+何里	he li	100000
+余	Gni	175000
+余	Gyi	175000
+余	Gyu	175000
+余	yu	175000
+佛	Gfek	130000
+佛	Gfo	130000
+佛	Gfuk	130000
+佛	fu	130000
+作	Gzok	200000
+作	zuo	200000
+你	Gni	200000
+你	Gnêi	200000
+你	ni	200000
+佢	Ggiê	123811
+佢	Gjiê	123811
+佢	Gkiê	123811
+佢	Gqi	123811
+佢	Gqiuk	123811
+佢	Gqiê	123811
+佢	qu	123811
+佣	Gyung	120000
+佣	yong	120000
+佩	Gpi	120000
+佩	Gpêi	120000
+佩	pei	120000
+佬	Glau	145000
+佬	lao	145000
+佮	Ggeok	125000
+佮	ge	125000
+佳	Gga	130000
+佳	jia	130000
+使	Gsi	120000
+使	shi	120000
+侄	Gcek	145000
+侄	Gcit	145000
+侄	zhi	145000
+侈	Gca	102544
+侈	Gci	102544
+侈	chi	102544
+例	Gli	150000
+侍	Gsi	120000
+侍	shi	120000
+供	Ggung	200000
+供	Gjiung	200000
+供	Gqiung	200000
+供	gong	200000
+依	Gyi	145000
+侠	Ghap	106969
+侠	xia	106969
+侣	Gli	109586
+侣	lv	109586
+侥	Gjiêu	60000
+侥	Gngiêu	60000
+侥	jiao	60000
+侦	Gzen	120000
+侦	zhen	120000
+侧	Gciêk	200000
+侧	Gcêk	200000
+侧	Gzêk	200000
+侧	ce	200000
+侨	Gqiau	120000
+侨	Gqiêu	120000
+侨	qiao	120000
+侮	Gfêi	107043
+侮	wu	107043
+侯	Ghêu	120000
+侯	hou	120000
+侵	Gqin	145000
+便	Gbiên	120000
+便	Gpiên	120000
+便	bian	120000
+促	Gcuk	120000
+促	cu	120000
+俄	Gngo	120000
+俄	e	120000
+俊	Gjin	120000
+俊	Gjyun	120000
+俊	jun	120000
+俏	Gqiau	120000
+俏	Gqiêu	120000
+俏	qiao	120000
+俐	Gli	104813
+俗	Gsuk	155000
+俗	Gxiuk	155000
+俗	su	155000
+俘	Gfuk	102061
+俘	fu	102061
+保	Gbau	145000
+保	bao	145000
+俞	Gyi	90000
+俞	yu	90000
+信	Gxin	200000
+俩	Gliong	102209
+俩	lia	102209
+俭	Ggan	120000
+俭	Gjiên	120000
+俭	jian	120000
+修	Gxieu	200000
+修	Gxiu	200000
+修	xiu	200000
+俯	Gfu	100625
+俱	Gji	103728
+俱	Gjyu	103728
+俱	ju	103728
+俺	Gngiên	106018
+俺	an	106018
+倍	Gpêi	145000
+倍	bei	145000
+倒	Gdau	195000
+倒	dao	195000
+倔	Gjyut	108890
+倔	Gjyuêt	108890
+倔	jue	108890
+倘	Gtong	125000
+倘	tang	125000
+候	Gheu	170000
+候	hou	170000
+倚	Gni	120000
+倚	Gyi	120000
+倚	yi	120000
+借	Gjia	150000
+借	jie	150000
+倡	Gcong	120000
+倡	chang	120000
+倦	Gjyuon	145000
+倦	juan	145000
+倪	Gni	73943
+债	Gcêi	125000
+债	Gzai	125000
+债	zhai	125000
+值	Gcek	200000
+值	Gcik	200000
+值	zhi	200000
+倾	Gqen	175000
+倾	Gqiang	175000
+倾	qing	175000
+假	Gga	115000
+假	jia	115000
+偏	Gpiên	120000
+偏	pian	120000
+做	Gzu	200000
+做	zuo	200000
+停	Gten	170000
+停	ting	170000
+健	Gjiên	120000
+健	Gqiên	120000
+健	jian	120000
+偶	Gngeu	120000
+偶	Gngiêu	120000
+偶	Gniau	120000
+偶	ou	120000
+偷	Gtêu	120000
+偷	tou	120000
+偿	Gcong	136769
+偿	Gsong	136769
+偿	chang	136769
+傅	Gfu	120000
+傍	Gpong	103993
+傍	bang	103993
+储	Gcuk	200000
+储	chu	200000
+催	Gcêi	145000
+催	cui	145000
+傲	Gngau	120000
+傲	ao	120000
+傻	Gsa	120000
+傻	Gsiên	120000
+傻	sha	120000
+像	Gqiong	200000
+像	Gxiong	200000
+像	xiang	200000
+僚	Gliau	109813
+僚	liao	109813
+僧	Gsen	120000
+僧	Gsiên	120000
+僧	seng	120000
+僵	Ggong	120000
+僵	Gjiong	120000
+僵	jiang	120000
+僻	Gpik	200000
+僻	pi	200000
+儆	Gqiang	125195
+儆	jing	125195
+儆口	Gqiang Gkiêu	125046
+儆口	Gqiang kou	125046
+儆口	jing Gkiêu	125046
+儆口	jing kou	125046
+儡	Glui	76977
+儡	lei	76977
+儿	Geo	160000
+儿	Gnin	160000
+儿	er	160000
+允	Gyin	120000
+允	Gyun	120000
+允	yun	120000
+元	Gnyuon	200000
+元	yuan	200000
+兄	Gxiang	170000
+兄	xiong	170000
+充	Gcung	120000
+充	chong	120000
+兆	Gcêu	120000
+兆	Gziêu	120000
+兆	zhao	120000
+先	Gxiên	200000
+先	xian	200000
+光	Gguang	104104
+光	Gguong	200000
+光	guang	200000
+克	Gkak	145000
+克	Gkiêk	145000
+克	Gkok	145000
+克	ke	145000
+免	Gmiên	120000
+免	mian	120000
+兑	Gdêi	120000
+兑	dui	120000
+兔	Gtu	120000
+党	Gdong	120000
+党	dang	120000
+兜	Gdêu	130000
+兜	dou	130000
+入	Glek	200000
+入	Gnip	200000
+入	ru	200000
+全	Gqyuon	200000
+全	quan	200000
+八	Gbaet	120873
+八	ba	120873
+八都	Gbaet Gdu	120000
+八都	Gbaet dou	120000
+八都	ba Gdu	120000
+八都	ba dou	120000
+公	Ggung	200000
+公	gong	200000
+六	Gliuk	200000
+六	liu	200000
+兰	Glan	120001
+共	Ggung	135000
+共	Gkung	135000
+共	Gqiung	135000
+共	gong	135000
+关	Gguan	180000
+关㦿子	Gguan Gkan Gzi	124708
+关㦿子	Gguan qian Gzi	124708
+关㦿子	guan qian zi	124708
+兴	Gxen	145000
+兴	Gxin	145000
+兴	xing	145000
+兵	Gben	180000
+兵	bing	180000
+其	Gqi	200000
+具	Gji	145000
+具	Gjyu	145000
+具	Gqi	145000
+具	ju	145000
+典	Gdian	180000
+典	Gdiên	180000
+典	dian	180000
+养	Gyong	200000
+养	yang	200000
+兼	Gjiên	120000
+兼	Gqiên	120000
+兼	jian	120000
+兽	Gseu	180000
+兽	shou	180000
+内	Glui	200000
+内	Gnêi	200000
+内	nei	200000
+冇	Gmau	200000
+冇	mao	200000
+冈	Ggong	120000
+冈	gang	120000
+册	Gciêk	145000
+册	Gcêk	145000
+册	ce	145000
+再	Gcêi	200000
+再	Gzêi	200000
+再	zai	200000
+冒	Gmau	120000
+冒	mao	120000
+冕	Gmiên	129240
+冕	mian	129240
+冗	Glung	145000
+冗	rong	145000
+写	Gxia	200000
+写	xie	200000
+军	Gjin	120000
+军	Gjyun	120000
+军	jun	120000
+农	Glung	145000
+农	Gniung	125309
+农	Gnung	145000
+农	nong	145000
+冠	Ggun	120000
+冠	Gguon	120000
+冠	guan	120000
+冤	Gnyuon	100164
+冤	Gyuon	100164
+冤	yuan	100164
+冬	Gdung	120000
+冬	dong	120000
+冬天	Gdung Gtiên	1194
+冬天	Gdung tian	1194
+冬天	dong Gtiên	1194
+冬天	dong tian	1194
+冯	Gfung	120000
+冯	feng	120000
+冰	Gben	200000
+冰	Gbiang	200000
+冰	Gbin	200000
+冰	bing	200000
+冰雪	Gben Gxyuêt	486
+冰雪	Gben xue	486
+冰雪	Gbin Gxyuêt	486
+冰雪	bing Gxyuêt	486
+冰雪	bing xue	486
+冲	Gcung	120000
+冲	chong	120000
+决	Gjyueok	170000
+决	Gkok	170000
+决	jue	170000
+况	Gkuong	120000
+况	kuang	120000
+冶	Gya	14977
+冶	ye	14977
+冷	Glang	145000
+冷	leng	145000
+冻	Gdung	145000
+冻	dong	145000
+净	Gqiang	186934
+净	jing	186934
+凄	Gqi	120000
+准	Gzin	120000
+准	Gzun	120000
+准	Gzyun	120000
+准	zhun	120000
+凉	Gliong	120000
+凉	liang	120000
+凌	Glen	120000
+凌	Gliên	120000
+凌	Glên	120000
+凌	ling	120000
+减	Ggan	155000
+减	Ggang	155000
+减	jian	155000
+凑	Gciu	200000
+凑	Gcêu	200000
+凑	cou	200000
+凝	Gnin	120000
+凝	ning	120000
+几	Gji	200000
+凡	Gfan	120000
+凡	Gfiên	120000
+凡	fan	120000
+凤	Gfung	120000
+凤	feng	120000
+凫	Gfu	107153
+凭	Gpen	155000
+凭	Gpiang	155000
+凭	ping	155000
+凯	Gkêi	120000
+凯	kai	120000
+凰	Gfong	120000
+凰	huang	120000
+凳	Gdiên	120000
+凳	deng	120000
+凶	Gxiung	120000
+凶	xiong	120000
+凸	Gtu	102774
+凸	Gtuk	102774
+凸	tu	102774
+凹	Gngau	120000
+凹	ao	120000
+出	Gcit	200000
+出	Gcyuk	200000
+出	chu	200000
+击	Gji	200000
+击	Gjik	200000
+击	ji	200000
+函	Ghon	120000
+函	han	120000
+凿	Gcok	145000
+凿	zao	145000
+刀	Gdau	120000
+刀	dao	120000
+刁	Gdiau	120000
+刁	Gdiêu	120000
+刁	diao	120000
+刃	Glin	108064
+刃	ren	108064
+分	Gfen	200000
+分	Gfin	200000
+分	fen	200000
+分宜	Gfen Gni	127029
+分宜	Gfen yi	127029
+分宜	fen yi	127029
+切	Gqiêt	200000
+切	qie	200000
+刊	Gkon	120000
+刊	kan	120000
+刑	Gxin	145000
+刑	xing	145000
+划	Gfa	120000
+划	Gwa	120000
+划	hua	120000
+列	Gliêt	200000
+列	lie	200000
+刘	Glieu	150000
+刘	Gliu	150000
+刘	liu	150000
+则	Gzak	200000
+则	Gzêk	200000
+则	ze	200000
+刚	Ggong	195000
+刚	gang	195000
+创	Gcong	200000
+创	chuang	200000
+初	Gcu	150000
+初	Gqyu	150000
+初	chu	150000
+删	Gsan	200000
+删	shan	200000
+判	Gpan	120000
+判	Gpiên	120000
+判	Gpên	120000
+判	pan	120000
+刨	Gpau	108066
+刨	pao	108066
+利	Gli	120000
+别	Gmok	123118
+别	Gpiêt	200000
+别	bie	200000
+刮	Gguaet	125000
+刮	gua	125000
+到	Gdau	200000
+到	dao	200000
+制	Gzi	145000
+制	Gzik	145000
+制	zhi	145000
+刷	Gseok	200000
+刷	Gsyuêt	200000
+刷	shua	200000
+刹	Gcaet	120000
+刹	Gsaet	120000
+刹	sha	120000
+刺	Gcam	127099
+刺	Gci	120000
+刺	Gcik	120000
+刺	ci	127099
+刻	Gkiêk	120000
+刻	Gkok	120000
+刻	ke	120000
+刽	Gkuai	90000
+刽	gui	90000
+剁	Gdo	5854
+剁	duo	5854
+剂	Gji	104868
+剃	Gti	120000
+削	Gxiau	175000
+削	Gxiok	175000
+削	Gxyueok	175000
+削	xue	175000
+前	Gqiên	200000
+前	qian	200000
+前日	Gqiên Gnit	109872
+前日	Gqiên ri	109872
+前日	qian Gnit	109872
+前日	qian ri	109872
+剐	Ggua	30000
+剑	Gjiên	120000
+剑	jian	120000
+剔	Gtik	145000
+剔	ti	145000
+剖	Gpo	108773
+剖	pou	108773
+剥	Gbok	120000
+剥	bo	120000
+剧	Gji	145000
+剧	Gjyu	145000
+剧	ju	145000
+剩	Gsen	145000
+剩	Gyin	125079
+剩	sheng	145000
+剪	Gjiên	120000
+剪	jian	120000
+副	Gfu	200000
+割	Ggeok	120000
+割	Ggyuêk	97216
+割	ge	120000
+割禾	Ggyuêk Gwo	91025
+割禾	Ggyuêk he	91025
+割禾	ge Gwo	91025
+割禾	ge he	91025
+劈	Gpiak	145000
+劈	Gzok	127488
+劈	pi	145000
+劖	Gcam	125710
+劖	Gcan	125710
+劖	chan	125710
+劖到手	Gcam Gdau Gseu	124980
+劖到手	Gcam Gdau shou	124980
+劖到手	Gcam dao Gseu	124980
+劖到手	Gcam dao shou	124980
+劖到手	chan Gdau Gseu	124980
+劖到手	chan Gdau shou	124980
+劖到手	chan dao Gseu	124980
+劖到手	chan dao shou	124980
+劖破	Gcam Gpo	127048
+劖破	chan Gpo	127048
+劖破	chan po	127048
+力	Glek	125000
+力	Glik	125000
+力	li	125000
+劝	Gqyuon	145000
+劝	quan	145000
+办	Gban	145000
+办	Gpan	145000
+办	ban	145000
+功	Ggung	150000
+功	gong	150000
+加	Gga	200000
+加	jia	200000
+务	Gmu	145000
+务	Gwu	145000
+务	wu	145000
+劣	Gliêt	120000
+劣	lie	120000
+动	Gtung	200000
+动	dong	200000
+助	Gcu	120000
+助	Gjyu	120000
+助	zhu	120000
+努	Glu	120000
+努	Gnu	120000
+努	nu	120000
+劫	Gjiêk	120000
+劫	Gqiêk	120000
+劫	jie	120000
+励	Glik	120000
+励	li	120000
+劲	Gjin	120000
+劳	Glau	145000
+劳	lao	145000
+势	Gsik	195000
+势	shi	195000
+勃	Gbok	120000
+勃	bo	120000
+勇	Gyung	120000
+勇	yong	120000
+勉	Gmiên	120000
+勉	mian	120000
+勋	Gxyun	120000
+勋	xun	120000
+勒	Glêt	195000
+勒	lei	195000
+勘	Gkon	106652
+勘	kan	106652
+勤	Gqiang	145000
+勤	Gqin	145000
+勤	qin	145000
+勦	Gcau	4980
+勦	chao	4980
+勺	Gsok	120000
+勺	shao	120000
+勾	Ggiêu	200000
+勾	Gjiau	200000
+勾	gou	200000
+勿	Gmu	120000
+勿	Gwu	120000
+勿	wu	120000
+匀	Gyin	120000
+匀	Gyun	120000
+匀	yun	120000
+包	Gbau	200000
+包	bao	200000
+匆	Gcung	145000
+匆	cong	145000
+匈	Gxiung	120000
+匈	xiong	120000
+化	Gfa	200000
+化	hua	200000
+北	Gbêk	200000
+北	bei	200000
+匙	Gsik	120000
+匙	shi	120000
+匠	Gjiong	120000
+匠	Gqiong	120000
+匠	jiang	120000
+匡	Gkong	90000
+匡	kuang	90000
+匣	Gha	120000
+匣	xia	120000
+匪	Gfi	145000
+匪	fei	145000
+匹	Gpi	120000
+区	Gqi	200000
+区	Gqiuk	200000
+区	Gqyu	200000
+区	qu	200000
+医	Gyi	120000
+匾	Gbiên	120000
+匾	bian	120000
+匿	Gnik	120000
+匿	ni	120000
+十	Gsek	190000
+十	Gsip	190000
+十	shi	190000
+千	Gqiên	160000
+千	qian	160000
+升	Gsen	200000
+升	sheng	200000
+午	Gwu	120000
+半	Gbên	125000
+半	Gpiên	125000
+半	ban	125000
+华	Gfa	200000
+华	hua	200000
+协	Gxia	120000
+协	Gxiê	120000
+协	xie	120000
+卑	Gbi	120000
+卑	bei	120000
+卒	Gqyut	120000
+卒	Gzut	120000
+卒	Gzyuk	120000
+卒	zu	120000
+卓	Gcok	133886
+卓	Gzok	133886
+卓	zhuo	133886
+单	Gdan	200000
+单	Gsên	200000
+单	dan	200000
+卖	Gmai	175000
+南	Glon	180001
+南	Gnon	180001
+南	nan	180001
+南昌	Glon Gcong	124703
+南昌	Glon chang	124703
+南昌	nan Gcong	124703
+南昌	nan chang	124703
+博	Gbok	120000
+博	bo	120000
+卜	Gbuk	120000
+卜	Gpek	120000
+卜	Gpok	120000
+卜	bo	120000
+占	Gzan	120000
+占	Gzên	120000
+占	zhan	120000
+卡	Gka	200000
+卢	Glu	120000
+卤	Glu	120000
+卦	Ggua	30000
+卧	Gngo	148010
+卧	Gwo	148010
+卧	wo	148010
+卫	Gvi	120000
+卫	wei	120000
+卯	Gmau	120000
+卯	mao	120000
+印	Gnin	120000
+印	Gyin	120000
+印	yin	120000
+危	Gvi	100000
+危	wei	100000
+即	Gjik	200000
+即	ji	200000
+却	Gkok	190000
+却	que	190000
+卵	Glo	200000
+卵	Glon	200000
+卵	luan	200000
+卷	Gjyuon	145000
+卷	juan	145000
+卸	Gxiak	104592
+卸	Gxiêk	104592
+卸	xie	104592
+卿	Gqin	120000
+卿	qing	120000
+厂	Gcong	184000
+厂	chang	184000
+厅	Gten	120000
+厅	Gtiang	120000
+厅	ting	120000
+历	Glek	145000
+历	Glik	145000
+历	li	145000
+厉	Gli	120000
+压	Gngaet	180000
+压	Gzak	122679
+压	ya	180000
+厌	Gniên	120000
+厌	Gyên	120000
+厌	yan	120000
+厕	Gciêk	170000
+厕	Gcêk	170000
+厕	ce	170000
+厘	Gli	120000
+厚	Ghêu	145000
+厚	hou	145000
+原	Gnyuon	180000
+原	Gyuon	180000
+原	yuan	180000
+厢	Gxiong	120000
+厢	xiang	120000
+厦	Gha	120000
+厦	sha	120000
+厨	Gcyu	120000
+厨	Gqyu	120000
+厨	chu	120000
+去	Gqiê	200000
+去	qu	200000
+去喡下渠	Gqiê Gwiê Gha Gjiê	123030
+去喡下渠	Gqiê Gwiê Gha qu	123030
+去喡下渠	Gqiê Gwiê xia Gjiê	123030
+去喡下渠	Gqiê Gwiê xia qu	123030
+去喡下渠	Gqiê wei Gha Gjiê	123030
+去喡下渠	Gqiê wei Gha qu	123030
+去喡下渠	Gqiê wei xia Gjiê	123030
+去喡下渠	Gqiê wei xia qu	123030
+去喡下渠	qu Gwiê Gha Gjiê	123030
+去喡下渠	qu Gwiê Gha qu	123030
+去喡下渠	qu Gwiê xia Gjiê	123030
+去喡下渠	qu Gwiê xia qu	123030
+去喡下渠	qu wei Gha Gjiê	123030
+去喡下渠	qu wei Gha qu	123030
+去喡下渠	qu wei xia Gjiê	123030
+去喡下渠	qu wei xia qu	123030
+厾	Gdu	123168
+厾	Gduk	123168
+厾	du	123168
+厾指头	Gdu Gzi Gtêu	122523
+厾指头	Gdu Gzi tou	122523
+厾指头	Gdu zhi Gtêu	122523
+厾指头	Gdu zhi tou	122523
+厾指头	du zhi tou	122523
+县	Gxyuon	120000
+县	xian	120000
+叁	Gsam	131131
+叁	Gsan	131131
+叁	san	131131
+参	Gcan	120000
+参	Gciên	120000
+参	Gsen	120000
+参	Gsên	120000
+参	can	120000
+又	Gyeu	200000
+又	Gyiu	200000
+又	you	200000
+叉	Gca	120000
+叉	Gcaet	120000
+叉	cha	120000
+及	Gjip	175000
+及	Gqik	175000
+及	ji	175000
+友	Gyeu	155000
+友	Gyiu	155000
+友	you	155000
+双	Gsong	120000
+双	shuang	120000
+反	Gfan	145000
+发	Gfaet	200000
+发	fa	200000
+叔	Gsuk	120000
+叔	shu	120000
+取	Gqi	190000
+取	qu	190000
+受	Gseu	155000
+受	Gsiu	155000
+受	Gto	123362
+受	shou	155000
+变	Gbiên	200000
+变	bian	200000
+叙	Gxyu	109332
+叙	xu	109332
+叛	Gpên	120000
+叛	pan	120000
+叠	Gdiêt	115724
+叠	die	115724
+口	Gkiêu	200000
+口	Gqiau	200000
+口	kou	200000
+古	Ggu	166302
+句	Gji	200000
+句	ju	200000
+另	Glen	102964
+另	ling	102964
+叨	Gdau	104761
+叨	dao	104761
+只	Gzak	200000
+只	Gzi	200000
+只	zhi	200000
+叫	Gjiau	200000
+叫	Gjiêu	200000
+叫	jiao	200000
+召	Gzêu	120000
+召	zhao	120000
+叭	Gba	170000
+叮	Gden	120000
+叮	Gdiang	120000
+叮	ding	120000
+可	Gko	200000
+可	ke	200000
+台	Gtêi	155000
+台	tai	155000
+史	Gsi	145000
+史	shi	145000
+右	Gyeu	150000
+右	Gyiu	150000
+右	you	150000
+叶	Gyêp	120000
+叶	ye	120000
+号	Ghau	200000
+号	hao	200000
+司	Gsi	120000
+叹	Gtan	120000
+叼	Gdiau	105798
+叼	diao	105798
+叽	Gji	120000
+吁	Gni	104996
+吁	Gxi	104996
+吁	xu	104996
+吃	Gci	124794
+吃	Gqiak	126939
+吃	chi	126939
+吃酒	Gqiak Gjieu	123363
+吃酒	Gqiak jiu	123363
+吃酒	chi Gjieu	123363
+吃酒	chi jiu	123363
+各	Ggok	140000
+各	ge	140000
+吆	Gyau	104620
+吆	yao	104620
+合	Gheot	200000
+合	Ghyuêt	127444
+合	he	200000
+吉	Gjit	175000
+吉	ji	175000
+吉安	Gjit Gngon	128996
+吉安	Gjit an	128996
+吉安	ji Gngon	128996
+吉安	ji an	128996
+吉水	Gjit Gsyu	120000
+吉水	Gjit shui	120000
+吉水	ji Gsyu	120000
+吉水	ji shui	120000
+吊	Gdiau	145000
+吊	Gdiêu	145000
+吊	diao	145000
+同	Gtung	200000
+同	tong	200000
+名	Gmen	200000
+名	Gmiang	200000
+名	ming	200000
+后	Ghêu	200000
+后	hou	200000
+后日	Ghêu Gnit	95405
+后日	Ghêu ri	95405
+后日	hou Gnit	95405
+后日	hou ri	95405
+后生	Ghêu Gsang	104653
+后生	Ghêu sheng	104653
+后生	hou Gsang	104653
+后生	hou sheng	104653
+吏	Glik	103563
+吏	li	103563
+吐	Gtu	170000
+向	Gqiong	200000
+向	Gxiong	200000
+向	xiang	200000
+吓	Ghak	145000
+吓	xia	145000
+吕	Gli	120000
+吕	Glyu	120000
+吕	lv	120000
+吗	Gma	200000
+君	Gjin	120000
+君	Gjyun	120000
+君	jun	120000
+吝	Glin	102803
+吞	Gtiên	160000
+吞	Gtên	160000
+吞	tun	160000
+吟	Gnin	109578
+吟	Gyin	109578
+吟	yin	109578
+吠	Gfi	100574
+吠	fei	100574
+否	Gfiêu	155000
+否	Gfêu	155000
+否	fou	155000
+吧	Gba	200000
+吨	Gdin	101119
+吨	Gdun	101119
+吨	dun	101119
+吩	Gfen	120000
+吩	Gfin	120000
+吩	fen	120000
+含	Ghon	130000
+含	han	130000
+听	Gtiang	200000
+听	ting	200000
+吭	Ghong	108120
+吭	Gkiên	108120
+吭	keng	108120
+吮	Gsun	103025
+吮	shun	103025
+启	Gqi	120000
+吱	Gzi	103969
+吱	zhi	103969
+吴	Gwu	200000
+吵	Gcau	120000
+吵	Gzau	120000
+吵	chao	120000
+吸	Gjip	120000
+吸	Gxip	120000
+吸	xi	120000
+吹	Gcyu	120000
+吹	Gqyu	120000
+吹	chui	120000
+吻	Gwin	145000
+吻	Gwiên	145000
+吻	Gwên	145000
+吻	wen	145000
+吼	Ghong	130000
+吼	hou	130000
+呀	Gnga	200000
+呀	ya	200000
+呆	Gdai	170000
+呆	Gdêi	170000
+呆	Gngêi	170000
+呆	dai	170000
+呈	Gcen	125000
+呈	cheng	125000
+告	Ggau	120000
+告	gao	120000
+呕	Gngiêu	170000
+呕	Gniau	170000
+呕	ou	170000
+员	Gnyuon	200000
+员	Gyuon	200000
+员	yuan	200000
+呛	Gqiong	120000
+呛	qiang	120000
+呜	Gwu	120000
+呢	Gnê	200000
+呢	ne	200000
+周	Gzeu	200000
+周	Gziu	200000
+周	zhou	200000
+味	Gmi	145000
+味	Gvi	145000
+味	wei	145000
+呵	Gho	120000
+呵	he	120000
+呻	Gsin	104829
+呻	shen	104829
+呼	Gfu	120000
+呼	hu	120000
+命	Gmen	200000
+命	Gmiang	200000
+命	ming	200000
+咆	Gpau	75949
+咆	pao	75949
+和	Gfo	200000
+和	Gfu	200000
+和	Gho	200000
+和	Gwo	200000
+和	he	200000
+咏	Gyung	120000
+咏	yong	120000
+咐	Gfuk	120000
+咐	fu	120000
+咒	Gzeu	145000
+咒	Gziu	145000
+咒	zhou	145000
+咕	Ggu	104335
+咖	Gga	101072
+咖	Gka	101072
+咖	ka	101072
+咙	Glung	120000
+咙	long	120000
+咚	Gdung	100000
+咚	dong	100000
+咧	Gliêt	130558
+咧	lie	130558
+咨	Gzi	102506
+咪	Gmi	105952
+咬	Gngaet	127851
+咬	Gngau	120000
+咬	yao	127851
+咱	Gzen	157973
+咱	zan	157973
+咳	Gkiêk	120000
+咳	Gkot	120000
+咳	ke	120000
+咸	Ghan	120000
+咸	Ghang	120000
+咸	Gxiên	120000
+咸	xian	120000
+咽	Gniên	104563
+咽	Gyên	104563
+咽	yan	104563
+哀	Gngêi	120000
+哀	ai	120000
+品	Gpen	145000
+品	Gpin	145000
+品	pin	145000
+哄	Gfung	125000
+哄	hong	125000
+哆	Gdo	103112
+哆	duo	103112
+哇	Gwa	107830
+哈	Gha	190000
+响	Ghong	120000
+响	Gxiong	120000
+响	xiang	120000
+哎	Gngêi	129707
+哎	ai	129707
+哑	Gnga	120000
+哑	ya	120000
+哗	Gfa	108070
+哗	hua	108070
+哟	Gyo	102278
+哥	Ggo	145000
+哥	ge	145000
+哦	Gngo	100000
+哦	Go	100000
+哦	o	100000
+哨	Gjiau	125000
+哨	Gsau	125000
+哨	Gseu	125000
+哨	shao	125000
+哩	Gli	200000
+哪	Ghêi	200000
+哪	Gla	200000
+哪	Gna	200000
+哪	na	200000
+哭	Gkuk	145000
+哭	ku	145000
+哮	Ghau	105535
+哮	xiao	105535
+哲	Gziêt	124000
+哲	Gzêk	124000
+哲	zhe	124000
+哺	Gpu	109543
+哺	bu	109543
+哼	Ghiên	120000
+哼	Ghên	120000
+哼	heng	120000
+哽	Ggiên	90000
+哽	geng	90000
+唁	Gniên	103728
+唁	yan	103728
+唆	Gso	175000
+唆	suo	175000
+唇	Gcin	150000
+唇	Gsen	150000
+唇	Gsyun	150000
+唇	chun	150000
+唉	Gngai	107022
+唉	Gngêi	107022
+唉	ai	107022
+唐	Gtong	120000
+唐	tang	120000
+唔	Gng	10000
+唔	wu	10000
+唠	Glau	160000
+唠	lao	160000
+唤	Gfun	120000
+唤	Gwon	120000
+唤	huan	120000
+唧	Gji	105335
+唬	Gfu	105711
+唬	hu	105711
+售	Gsiu	100000
+售	shou	100000
+唯	Gvi	105512
+唯	wei	105512
+唱	Gcong	120000
+唱	chang	120000
+唾	Gto	103590
+唾	tuo	103590
+啃	Gkiên	120000
+啃	Gngaet	126674
+啃	Gqiên	120000
+啃	ken	126674
+啄	Gcok	145000
+啄	Gdok	145000
+啄	Gzo	145000
+啄	zhuo	145000
+商	Gsong	120000
+商	shang	120000
+啊	Ga	200000
+啊	Gnga	200000
+啊	a	200000
+啜	Gcyuêt	126711
+啜	chuai	126711
+啜一口	Gcyuêt Gyit Gqiau	105366
+啜一口	Gcyuêt Gyit kou	105366
+啜一口	Gcyuêt yi Gqiau	105366
+啜一口	Gcyuêt yi kou	105366
+啜一口	chuai Gyit Gqiau	105366
+啜一口	chuai Gyit kou	105366
+啜一口	chuai yi Gqiau	105366
+啜一口	chuai yi kou	105366
+啜口水	Gcyuêt Gkiêu Gsyu	122222
+啜口水	Gcyuêt Gkiêu shui	122222
+啜口水	Gcyuêt kou Gsyu	122222
+啜口水	Gcyuêt kou shui	122222
+啜口水	chuai Gkiêu Gsyu	122222
+啜口水	chuai Gkiêu shui	122222
+啜口水	chuai kou Gsyu	122222
+啜口水	chuai kou shui	122222
+啜汤	Gcyuêt Gtong	106895
+啜汤	Gcyuêt tang	106895
+啜汤	chuai Gtong	106895
+啜汤	chuai tang	106895
+啜粥	Gcyuêt Gzuk	125158
+啜粥	Gcyuêt zhou	125158
+啜粥	chuai Gzuk	125158
+啜粥	chuai zhou	125158
+啜茶	Gcyuêt Gca	126689
+啜茶	Gcyuêt cha	126689
+啜茶	chuai Gca	126689
+啜茶	chuai cha	126689
+啡	Gfi	145000
+啡	fei	145000
+啤	Gpi	100695
+啥	Gsa	129630
+啥	sha	129630
+啦	Gla	200000
+啮	Gngaek	123865
+啮	Gngaet	123865
+啮	nie	123865
+啮人	Gngaet Gnin	125964
+啮人	Gngaet ren	125964
+啮人	nie Gnin	125964
+啮人	nie ren	125964
+啮破	Gngaet Gpo	123379
+啮破	nie Gpo	123379
+啮破	nie po	123379
+啮紧	Gngaet Gjin	127047
+啮紧	nie Gjin	127047
+啮紧	nie jin	127047
+啰	Glo	200000
+啰	luo	200000
+啸	Gxiau	100415
+啸	xiao	100415
+啼	Gti	120000
+喂	Gwi	120000
+喂	Gwêi	120000
+喂	wei	120000
+善	Gsiên	120000
+善	Gsên	120000
+善	shan	120000
+喇	Gla	145000
+喉	Ghêu	125000
+喉	hou	125000
+喊	Ghan	120000
+喊	Ghang	120000
+喊	han	120000
+喔	Gwo	100000
+喘	Gcon	145000
+喘	chuan	145000
+喜	Gxi	130000
+喝	Gcyuêt	125061
+喝	Gheok	135000
+喝	Ghyuêt	135000
+喝	he	135000
+喡	Gwiê	125354
+喡	wei	125354
+喡人	Gwiê Gnin	127873
+喡人	Gwiê ren	127873
+喡人	wei Gnin	127873
+喡人	wei ren	127873
+喫	Gqiak	94709
+喫	chi	94709
+喫饭	Gqiak Gfan	95411
+喫饭	chi Gfan	95411
+喫饭	chi fan	95411
+喷	Gpen	170000
+喷	Gpin	170000
+喷	Gpung	170000
+喷	pen	170000
+喻	Gyi	120000
+喻	yu	120000
+嗅	Gxiung	120000
+嗅	xiu	120000
+嗓	Gsong	120000
+嗓	sang	120000
+嗯	Gng	123456
+嗯	n	123456
+嗽	Gsu	102097
+嗽	sou	102097
+嘉	Gga	120000
+嘉	jia	120000
+嘟	Gdu	10002
+嘱	Gjyu	120000
+嘱	zhu	120000
+嘲	Gcêu	103240
+嘲	chao	103240
+嘲天	Gcêu Gtiên	102498
+嘲天	Gcêu tian	102498
+嘲天	chao Gtiên	102498
+嘲天	chao tian	102498
+嘴	Gji	120000
+嘴	zui	120000
+嘻	Gxi	120000
+噍	Gqiêu	90000
+噍	jiao	90000
+噙	Gjin	122843
+噙	qin	122843
+噙糖子	Gjin Gtong Gzi	125328
+噙糖子	Gjin tang Gzi	125328
+噙糖子	qin Gtong Gzi	125328
+噙糖子	qin tang Gzi	125328
+噙糖子	qin tang zi	125328
+器	Gqi	120000
+嚈	Gyêk	5668
+嚈	ye	5668
+嚷	Gniong	105287
+嚷	rang	105287
+嚼	Gqiau	200000
+嚼	Gqiok	200000
+嚼	jue	200000
+囚	Gqiu	120000
+四	Gsi	200000
+回	Gfêi	200000
+回	hui	200000
+因	Gyang	120000
+因	Gyin	120000
+因	yin	120000
+团	Gton	120000
+团	tuan	120000
+囤	Gdun	125000
+囤	Gtun	125000
+囤	dun	125000
+囥	Gkong	126346
+囥	kang	126346
+囥到	Gkong Gdau	122961
+囥到	Gkong dao	122961
+囥到	kang Gdau	122961
+囥到	kang dao	122961
+囥好	Gkong Ghau	124874
+囥好	Gkong hao	124874
+囥好	kang Ghau	124874
+囥好	kang hao	124874
+囥起来	Gkong Gqi Glêi	125493
+囥起来	Gkong Gqi lai	125493
+囥起来	kang Gqi Glêi	125493
+囥起来	kang Gqi lai	125493
+囥起来	kang qi lai	125493
+园	Gnyuon	145000
+园	Gyuon	145000
+园	yuan	145000
+困	Gkun	120000
+囱	Gcung	120000
+囱	cong	120000
+围	Gvi	120000
+围	wei	120000
+固	Ggu	135620
+国	Ggyuêk	200000
+国	guo	200000
+图	Gtu	165000
+圃	Gpu	104063
+圆	Gnyuon	170000
+圆	Gyuon	170000
+圆	yuan	170000
+圈	Gjyuon	200000
+圈	Gqyuon	200000
+圈	quan	200000
+土	Gtu	145000
+圣	Gsen	120000
+圣	Gsin	120000
+圣	sheng	120000
+在	Gcêi	200000
+在	zai	200000
+圭	Ggui	72578
+地	Ggêi	125842
+地	Gti	200000
+地	di	200000
+圳	Gzin	100000
+圳	zhen	100000
+场	Gcong	145000
+场	chang	145000
+圾	Gla	101059
+圾	Glaep	101059
+圾	ji	101059
+址	Gzi	120000
+址	zhi	120000
+均	Gjin	155000
+均	Gjyun	155000
+均	jun	155000
+坊	Gfong	130000
+坊	fang	130000
+坎	Gkan	120000
+坎	Gkiên	120000
+坎	Gkon	120000
+坎	kan	120000
+坏	Gfai	200000
+坏	huai	200000
+坐	Gco	175000
+坐	zuo	175000
+坐笡哩	Gco Gqia Gli	127917
+坐笡哩	Gco qie Gli	127917
+坐笡哩	zuo Gqia Gli	127917
+坐笡哩	zuo qie Gli	127917
+坐笡哩	zuo qie li	127917
+坑	Gkang	100000
+坑	Gkiên	100000
+坑	keng	100000
+块	Gkuai	170000
+坚	Ggan	120000
+坚	Gjiên	120000
+坚	jian	120000
+坛	Gten	120000
+坛	Gton	120000
+坛	tan	120000
+坝	Gbak	104794
+坝	Gpak	104794
+坝	ba	104794
+坞	Gwu	70980
+坟	Gfen	120000
+坟	Gfin	120000
+坟	fen	120000
+坠	Gcêi	120000
+坠	Gzêi	120000
+坠	zhui	120000
+坡	Gpo	120000
+坤	Gkuin	120000
+坤	Gkun	120000
+坤	kun	120000
+坦	Gtan	120000
+坪	Gpen	100000
+坪	ping	100000
+坯	Gpi	104096
+坯	Gpêi	104096
+坯	pi	104096
+坳	Gngau	72351
+坳	ao	72351
+坷	Gko	106334
+坷	ke	106334
+坼	Gcak	10000
+坼	che	10000
+垂	Gqyu	120000
+垂	chui	120000
+垃	Gla	100322
+垃	Glaep	100322
+垃	la	100322
+垄	Glung	120000
+垄	long	120000
+型	Gxen	106597
+型	Gxin	106597
+型	xing	106597
+垒	Glêi	102790
+垒	lei	102790
+垛	Gdo	120000
+垛	duo	120000
+垢	Ggiêu	120000
+垢	gou	120000
+垫	Gtiên	170000
+垫	dian	170000
+垮	Gkua	145000
+垱	Gdong	123476
+垱	dang	123476
+埂	Ggiên	150200
+埂	geng	150200
+埃	Gngêi	120000
+埃	ai	120000
+埋	Gmai	120000
+城	Gcen	80000
+城	cheng	80000
+域	Gnyu	195000
+域	Gyu	195000
+域	yu	195000
+埠	Gpu	145000
+埠	bu	145000
+培	Gpi	109684
+培	Gpêi	109684
+培	pei	109684
+基	Gji	120000
+堂	Gtong	120000
+堂	tang	120000
+堆	Gdêi	195000
+堆	dui	195000
+堡	Gbau	120000
+堡	bao	120000
+堤	Gti	120000
+堤	di	120000
+堪	Gkon	145000
+堪	kan	145000
+堵	Gdu	120000
+塌	Glaek	120000
+塌	Gtaep	120000
+塌	ta	120000
+塍	Gsen	120000
+塍	cheng	120000
+塑	Gsok	120000
+塑	su	120000
+塔	Gtaep	120000
+塔	ta	120000
+塘	Gtong	120000
+塘	tang	120000
+塞	Gsiêt	200000
+塞	Gsêk	200000
+塞	sai	200000
+填	Gtiên	180000
+填	tian	180000
+塳	Gpung	127109
+塳	peng	127109
+塾	Gsuk	90000
+塾	shu	90000
+境	Gjiang	120000
+境	Gjin	120000
+境	jing	120000
+墓	Gmu	120000
+墙	Gqiong	120000
+墙	qiang	120000
+增	Gziên	120000
+增	Gzên	120000
+增	zeng	120000
+墨	Gmêk	30000
+墨	mo	30000
+墩	Gdun	120000
+壁	Gbiak	200000
+壁	bi	200000
+壅	Gyung	90000
+壅	yong	90000
+士	Gsi	145000
+士	shi	145000
+壮	Gcong	120000
+壮	Gzong	120000
+壮	zhuang	120000
+声	Gsang	200000
+声	sheng	200000
+壳	Gkok	145000
+壳	Gqiau	145000
+壳	ke	145000
+壶	Gfu	120000
+壶	hu	120000
+处	Gcyu	200000
+处	Gqyu	200000
+处	chu	200000
+备	Gbi	120000
+备	Gpi	120000
+备	bei	120000
+复	Gfuk	195000
+复	fu	195000
+夏	Gha	120000
+夏	Gxia	120000
+夏	xia	120000
+夏天	Gha Gtiên	3821
+夏天	Gha tian	3821
+夏天	xia Gtiên	3821
+夏天	xia tian	3821
+夕	Gxik	120000
+夕	xi	120000
+外	Gngai	200000
+外	wai	200000
+多	Gdo	200000
+多	duo	200000
+夜	Gya	200000
+夜	ye	200000
+夜间	Gya Ggan	105065
+夜间	Gya jian	105065
+夜间	ye Ggan	105065
+夜间	ye jian	105065
+夜饭	Gya Gfan	102429
+夜饭	ye Gfan	102429
+夜饭	ye fan	102429
+够	Ggiêu	200000
+够	Gjiau	200000
+够	gou	200000
+大	Gtai	200000
+大	Gto	200000
+大	da	200000
+大前日	Gtai Gqiên Gnit	108574
+大前日	Gtai Gqiên ri	108574
+大前日	Gtai qian Gnit	108574
+大前日	Gtai qian ri	108574
+大前日	da Gqiên Gnit	108574
+大前日	da Gqiên ri	108574
+大前日	da qian Gnit	108574
+大前日	da qian ri	108574
+大地	Gtai Gti	1657
+大地	Gtai di	1657
+大地	da Gti	1657
+大地	da di	1657
+天	Gtiên	200000
+天	tian	200000
+天光	Gtiên Gguang	104497
+天光	tian Gguang	104497
+天光	tian guang	104497
+天气	Gtiên Gqi	2657
+天气	tian Gqi	2657
+天气	tian qi	2657
+天空	Gtiên Gkung	1849
+天空	Gtiên kong	1849
+天空	tian Gkung	1849
+天空	tian kong	1849
+太	Gtai	200000
+夫	Gfu	145000
+夭	Gyau	101772
+夭	yao	101772
+央	Gyong	120000
+央	yang	120000
+夯	Gbin	101019
+夯	Ghong	101019
+夯	hang	101019
+失	Gsek	125000
+失	Gsik	125000
+失	shi	125000
+头	Gtêu	200000
+头	tou	200000
+夷	Gni	120000
+夷	Gyi	120000
+夷	yi	120000
+夸	Gkua	120000
+夹	Ggaep	200000
+夹	jia	200000
+夺	Gdo	195000
+夺	Gteok	195000
+夺	duo	195000
+奄	Gyên	77897
+奄	yan	77897
+奇	Gjik	145000
+奇	Gqi	145000
+奇	qi	145000
+奈	Glai	120000
+奈	Gnêi	120000
+奈	nai	120000
+奉	Gfung	120000
+奉	feng	120000
+奋	Gfen	120000
+奋	Gfin	120000
+奋	fen	120000
+奎	Gkui	90000
+契	Gqik	120000
+契	qi	120000
+奔	Gben	120000
+奔	Gbin	120000
+奔	ben	120000
+奕	Gyik	79495
+奕	yi	79495
+奖	Ggong	120000
+奖	Gjiong	120000
+奖	jiang	120000
+套	Gtau	125000
+套	tao	125000
+奚	Ghêi	123390
+奚	xi	123390
+奚个	Ghêi Ggo	126231
+奚个	Ghêi ge	126231
+奚个	xi Ggo	126231
+奚个	xi ge	126231
+奚边	Ghêi Gbiên	123570
+奚边	Ghêi bian	123570
+奚边	xi Gbiên	123570
+奚边	xi bian	123570
+奢	Gsa	120000
+奢	she	120000
+奥	Gngau	155000
+奥	ao	155000
+女	Gni	200000
+女	nv	200000
+奴	Glu	120000
+奴	Gnu	120000
+奴	nu	120000
+奶	Glai	120000
+奶	Gnai	120000
+奶	nai	120000
+奸	Ggan	120000
+奸	jian	120000
+她	Gjiê	200000
+她	Gta	200000
+她	ta	200000
+好	Ghau	200000
+好	hao	200000
+好䞀	Ghau Ghêu	125857
+好䞀	Ghau hou	125857
+好䞀	hao Ghêu	125857
+好䞀	hao hou	125857
+好晏	Ghau Gngan	124618
+好晏	Ghau yan	124618
+好晏	hao Gngan	124618
+好晏	hao yan	124618
+好暍	Ghau Gniêt	125152
+好暍	Ghau ye	125152
+好暍	hao Gniêt	125152
+好暍	hao ye	125152
+如	Geo	200000
+如	Glu	200000
+如	ru	200000
+妃	Gfi	145000
+妃	fei	145000
+妆	Gzong	120000
+妆	zhuang	120000
+妇	Gfu	120000
+妈	Gma	145000
+妒	Gdu	120000
+妓	Gji	120000
+妖	Gyau	120000
+妖	Gyêu	120000
+妖	yao	120000
+妗	Gqim	124398
+妗	Gqin	124398
+妗	jin	124398
+妙	Gmiau	145000
+妙	Gmiêu	145000
+妙	miao	145000
+妞	Gnieu	5912
+妞	niu	5912
+妥	Gto	145000
+妥	tuo	145000
+妨	Gfong	120000
+妨	fang	120000
+妯	Gcuk	132456
+妯	zhou	132456
+妹	Gmêi	130000
+妹	mei	130000
+妹仔	Gmêi Gzi	91721
+妹仔	Gmêi zai	91721
+妹仔	mei Gzi	91721
+妹仔	mei zai	91721
+妻	Gqi	120000
+姆	Gm	145000
+姆	Gmu	145000
+姆	mu	145000
+姊	Gzi	120000
+始	Gsi	120000
+始	shi	120000
+姐	Gjia	145000
+姐	Gjiê	145000
+姐	jie	145000
+姑	Ggu	30000
+姓	Gxiang	145000
+姓	xing	145000
+委	Gvi	140000
+委	wei	140000
+姚	Gyau	120000
+姚	Gyêu	120000
+姚	yao	120000
+姜	Ggong	145000
+姜	Gjiong	145000
+姜	jiang	145000
+姥	Glau	104815
+姥	lao	104815
+姨	Gyi	120000
+姻	Gniên	120000
+姻	Gyin	120000
+姻	Gyên	120000
+姻	yin	120000
+姿	Gzi	120000
+威	Gvi	120000
+威	wei	120000
+娃	Gwa	120000
+娄	Gleu	102331
+娄	lou	102331
+娇	Gjiau	120000
+娇	Gjiêu	120000
+娇	jiao	120000
+娌	Gli	73590
+娘	Gniong	200000
+娘	niang	200000
+娜	Gna	100370
+娥	Gngo	120000
+娥	e	120000
+娩	Gmiên	75136
+娩	Gwin	75136
+娩	Gwiên	75136
+娩	Gwên	75136
+娩	mian	75136
+娱	Gni	101372
+娱	Gyu	101372
+娱	yu	101372
+娶	Gqi	120000
+娶	qu	120000
+婆	Gpo	140000
+婉	Gwin	145000
+婉	Gwiên	145000
+婉	Gwên	145000
+婉	wan	145000
+婊	Gbiêu	10000
+婊	biao	10000
+婚	Gfen	120000
+婚	Gfin	120000
+婚	hun	120000
+婴	Gyang	145000
+婴	Gyin	145000
+婴	ying	145000
+婶	Gsin	145000
+婶	shen	145000
+婷	Gten	4000
+婷	ting	4000
+媒	Gmêi	145000
+媒	mei	145000
+嫁	Gga	145000
+嫁	jia	145000
+嫂	Gsau	120000
+嫂	sao	120000
+嫌	Gxiên	145000
+嫌	xian	145000
+嫖	Gpiêu	90000
+嫖	piao	90000
+嫩	Glin	200000
+嫩	Glun	200000
+嫩	nen	200000
+嫲	Gma	127321
+嬭	Gnai	127742
+嬭嬭	Gnai Gnai	125001
+嬷	Gma	127322
+嬷嬷	Gma Gma	125820
+子	Gzi	200000
+孔	Gkung	170000
+孔	kong	170000
+孕	Gnyun	120000
+孕	Gyun	120000
+孕	yun	120000
+字	Gci	200000
+字	Gzi	200000
+字	zi	200000
+存	Gcin	170000
+存	Gcun	170000
+存	Gcyun	170000
+存	cun	170000
+孙	Gsun	120000
+孙	Gsyun	120000
+孙	Gxyun	120000
+孙	sun	120000
+孝	Ghau	145000
+孝	xiao	145000
+孟	Gmung	120000
+孟	meng	120000
+季	Gji	120000
+季节	Gji Gjiêt	28201
+季节	Gji jie	28201
+季节	ji jie	28201
+孤	Ggu	30000
+学	Ghok	200000
+学	xue	200000
+孩	Ghêi	120000
+孩	hai	120000
+孽	Gniêk	120000
+孽	nie	120000
+宁	Glen	120000
+宁	Gnen	120000
+宁	Gnin	120000
+宁	ning	120000
+它	Gjiê	200000
+它	Gta	200000
+它	ta	200000
+宅	Gcêi	145000
+宅	Gzêi	145000
+宅	zhai	145000
+宇	Gni	120000
+宇	Gyi	120000
+宇	Gyu	120000
+宇	yu	120000
+宇宙	Gni Gziu	2312
+宇宙	Gni zhou	2312
+宇宙	yu Gziu	2312
+宇宙	yu zhou	2312
+守	Gseu	120000
+守	Gsiu	120000
+守	shou	120000
+安	Gngon	200000
+安	an	200000
+宋	Gsung	145000
+宋	song	145000
+完	Gnyuon	200000
+完	Gwin	200000
+完	Gwiên	200000
+完	Gwên	200000
+完	Gyuon	200000
+完	wan	200000
+宏	Gfung	125000
+宏	hong	125000
+宗	Gzung	170000
+宗	zong	170000
+官	Ggun	200000
+官	Gguon	200000
+官	guan	200000
+宙	Gzeu	104086
+宙	Gziu	104086
+宙	zhou	104086
+定	Gten	62500
+定	Gtiang	62500
+定	ding	62500
+宛	Gwin	120000
+宛	Gwiên	120000
+宛	Gwên	120000
+宛	wan	120000
+宜	Gni	200000
+宜	Gyi	200000
+宜	yi	200000
+宝	Gbau	170000
+宝	bao	170000
+实	Gsat	200000
+实	Gsek	200000
+实	Gsit	200000
+实	shi	200000
+宠	Gcung	120000
+宠	chong	120000
+审	Gsen	120000
+审	Gsin	120000
+审	shen	120000
+客	Gkak	175000
+客	ke	175000
+宣	Gxyuon	145000
+宣	xuan	145000
+室	Gsek	120000
+室	Gsik	120000
+室	shi	120000
+宦	Gfiên	100325
+宦	Gfon	100325
+宦	huan	100325
+宪	Gxiên	170000
+宪	xian	170000
+宫	Ggung	125000
+宫	gong	125000
+宰	Gzêi	120000
+宰	zai	120000
+害	Ghêi	120000
+害	hai	120000
+宴	Gngan	120000
+宴	Gniên	120000
+宴	Gyên	120000
+宴	yan	120000
+宵	Gxiau	120000
+宵	Gxiêu	120000
+宵	xiao	120000
+家	Gga	200000
+家	jia	200000
+容	Glung	150000
+容	Gniung	150000
+容	Gyung	150000
+容	rong	150000
+宽	Gkun	125000
+宽	Gkuon	125000
+宽	kuan	125000
+宾	Gben	200000
+宾	Gbin	200000
+宾	bin	200000
+宿	Gsuk	125000
+宿	Gxiuk	125000
+宿	su	125000
+宿松	Gsuk Gsung	121035
+宿松	Gsuk song	121035
+宿松	su Gsung	121035
+宿松	su song	121035
+寄	Gji	120000
+寅	Gyin	120000
+密	Gmit	120000
+密	mi	120000
+寇	Gkeu	120000
+寇	Gkiêu	120000
+寇	Gqiau	120000
+寇	kou	120000
+富	Gfu	150000
+寒	Ghon	120000
+寒	han	120000
+寝	Gqin	120000
+察	Gcaet	120000
+察	cha	120000
+寡	Ggua	30000
+寨	Gcai	120000
+寨	Gcêi	120000
+寨	zhai	120000
+寸	Gcin	120000
+寸	Gcun	120000
+寸	Gcyun	120000
+寸	cun	120000
+对	Gdêi	200000
+对	dui	200000
+寺	Gsi	120000
+寻	Gqin	200000
+寻	xun	200000
+导	Gdau	195000
+导	Gtau	195000
+导	dao	195000
+寿	Gseu	145000
+寿	Gsiu	145000
+寿	shou	145000
+封	Gfung	120000
+封	feng	120000
+射	Gsa	120000
+射	she	120000
+将	Ggong	200000
+将	Gjiong	200000
+将	jiang	200000
+尊	Gzin	120000
+尊	Gzun	120000
+尊	Gzyun	120000
+尊	zun	120000
+小	Gxiau	200000
+小	Gxiêu	200000
+小	xiao	200000
+少	Gsiêu	200000
+少	Gsêu	200000
+少	shao	200000
+尔	Go	70000
+尔	er	70000
+尖	Gjiên	145000
+尖	jian	145000
+尘	Gcen	130000
+尘	Gcin	130000
+尘	chen	130000
+尚	Gcong	120000
+尚	Gsong	120000
+尚	shang	120000
+尝	Gcong	145000
+尝	Gsong	145000
+尝	chang	145000
+尤	Gyiu	145000
+尤	you	145000
+尧	Gniêu	175000
+尧	yao	175000
+尬	Ggai	120000
+尬	ga	120000
+就	Gqieu	200000
+就	Gqiu	200000
+就	jiu	200000
+尸	Gsi	123000
+尸	shi	123000
+尹	Gyin	90000
+尺	Gcak	120000
+尺	chi	120000
+尼	Gni	120000
+尽	Gjin	120000
+尽	Gqin	120000
+尽	jin	120000
+尾	Gmi	145000
+尾	Gvi	145000
+尾	wei	145000
+尿	Gniau	130000
+尿	Gniêu	130000
+尿	niao	130000
+局	Gqiuk	135000
+局	ju	135000
+屁	Gpi	120000
+层	Gcen	200000
+层	Gcên	200000
+层	ceng	200000
+屄	Gbiêk	125314
+屄	Gbiêt	125314
+屄	bi	125314
+屈	Gqyu	120000
+屈	Gqyuk	120000
+屈	qu	120000
+屉	Gti	120000
+届	Ggai	120000
+届	jie	120000
+屋	Gwuk	85000
+屋	wu	85000
+屎	Gng	155000
+屎	Gsi	155000
+屎	shi	155000
+屏	Gpen	150000
+屏	Gpin	150000
+屏	ping	150000
+屑	Gxia	145000
+屑	Gxiêk	145000
+屑	xie	145000
+展	Gziên	200000
+展	Gzên	200000
+展	zhan	200000
+屙	Gwo	126633
+屙	e	126633
+屙尿	Gwo Gniêu	123541
+屙尿	Gwo niao	123541
+屙尿	e Gniêu	123541
+屙尿	e niao	123541
+屙屎	Gwo Gsi	122221
+屙屎	Gwo shi	122221
+屙屎	e Gsi	122221
+屙屎	e shi	122221
+属	Gsuk	120000
+属	Gxyu	120000
+属	shu	120000
+屠	Gtu	120000
+屡	Glyu	120000
+屡	lv	120000
+屯	Gtun	106208
+屯	Gzun	106208
+屯	tun	106208
+山	Gsan	200000
+山	shan	200000
+山脉	Gsan Gmak	1913
+山脉	Gsan Gmêk	1913
+山脉	Gsan mai	1913
+山脉	shan Gmêk	1913
+山脉	shan mai	1913
+屹	Ggo	100601
+屹	Gyik	100601
+屹	yi	100601
+屿	Gni	108351
+屿	Gyi	108351
+屿	Gyu	108351
+屿	yu	108351
+岁	Gxi	120000
+岁	sui	120000
+岂	Gqi	120000
+岐	Gqi	73440
+岑	Gcen	90000
+岔	Gca	120000
+岔	cha	120000
+岖	Gqyuk	101411
+岖	qu	101411
+岗	Ggong	120000
+岗	gang	120000
+岛	Gdau	120000
+岛	dao	120000
+岩	Gngan	100329
+岩	Gniên	100329
+岩	Gyên	100329
+岩	yan	100329
+岩石	Gngan Gsak	2028
+岩石	Gngan shi	2028
+岩石	yan Gsak	2028
+岩石	yan shi	2028
+岭	Glen	120000
+岭	Gliang	120000
+岭	ling	120000
+岳	Gngok	120000
+岳	yue	120000
+岸	Gngon	120000
+岸	an	120000
+峡	Gha	170000
+峡	Ghaep	170000
+峡	Ghak	170000
+峡	xia	170000
+峦	Glon	103758
+峦	luan	103758
+峨	Gngo	10000
+峨	e	10000
+峭	Gqiau	107426
+峭	qiao	107426
+峰	Gfung	120000
+峰	feng	120000
+峻	Gjin	103255
+峻	Gjyun	103255
+峻	jun	103255
+崇	Gcung	120000
+崇	chong	120000
+崔	Gcui	120000
+崔	Gcêi	120000
+崔	cui	120000
+崖	Gnga	103709
+崖	ya	103709
+崩	Gbung	200000
+崩	beng	200000
+崭	Gzan	120000
+崭	Gziên	120000
+崭	zhan	120000
+崽	Gzêi	145000
+崽	zai	145000
+崽哩	Gzêi Gli	102865
+崽哩	zai Gli	102865
+崽哩	zai li	102865
+嵩	Gsung	90000
+嵩	song	90000
+川	Gcon	120000
+川	chuan	120000
+州	Gzeu	200000
+州	Gziu	200000
+州	zhou	200000
+巡	Gxin	120000
+巡	Gxyun	120000
+巡	xun	120000
+工	Ggung	200000
+工	gong	200000
+左	Gzo	145000
+左	zuo	145000
+巧	Gqiau	120000
+巧	Gqiêu	120000
+巧	qiao	120000
+巨	Gji	120000
+巨	Gjyu	120000
+巨	ju	120000
+巩	Ggung	108130
+巩	gong	108130
+巫	Gwu	120000
+差	Gca	120000
+差	Gcai	120000
+差	Gcêi	120000
+差	cha	120000
+己	Gji	120000
+已	Gyi	200000
+巴	Gba	120000
+巷	Ghong	120000
+巷	xiang	120000
+巾	Gjin	120000
+币	Gbi	200000
+币	Gpi	200000
+币	bi	200000
+市	Gsi	160000
+市	shi	160000
+布	Gbu	130000
+布	Gpu	130000
+布	bu	130000
+帅	Gsai	120000
+帅	shuai	120000
+帆	Gfan	120000
+师	Gsi	120000
+师	shi	120000
+希	Gxi	120000
+帐	Gzong	120000
+帐	zhang	120000
+帕	Gpa	108828
+帖	Gtiêk	160000
+帖	tie	160000
+帘	Gliên	145000
+帘	lian	145000
+帚	Gzeu	170000
+帚	Gziu	170000
+帚	zhou	170000
+帜	Gzik	109625
+帜	zhi	109625
+帝	Gdi	145000
+帝	Gti	145000
+帝	di	145000
+带	Gdai	200000
+席	Gxik	100000
+席	xi	100000
+帮	Gbong	170000
+帮	bang	170000
+常	Gcong	145000
+常	Gsong	145000
+常	chang	145000
+帽	Gmau	120000
+帽	mao	120000
+幅	Gfuk	145000
+幅	fu	145000
+幕	Gmok	121000
+幕	Gmuk	121000
+幕	mu	121000
+干	Ggon	125000
+干	Gqiên	125000
+干	gan	125000
+平	Gpen	175000
+平	Gpiang	175000
+平	ping	175000
+年	Gniên	200000
+年	nian	200000
+年代	Gniên Gtêi	39659
+年代	Gniên dai	39659
+年代	nian Gtêi	39659
+年代	nian dai	39659
+年份	Gniên Gfin	26122
+年份	Gniên fen	26122
+年份	nian Gfin	26122
+年份	nian fen	26122
+并	Gben	200000
+并	Gpen	200000
+并	Gpiang	200000
+并	bing	200000
+幸	Gxin	120000
+幸	xing	120000
+幺	Gyêu	76187
+幺	yao	76187
+幻	Gfan	120000
+幻	Gfon	120000
+幻	Gwon	120000
+幻	huan	120000
+幼	Gyeu	120000
+幼	Gyiu	120000
+幼	you	120000
+幽	Gyiu	145000
+幽	you	145000
+广	Gguong	30000
+广	guang	30000
+庄	Gzong	120000
+庄	zhuang	120000
+庆	Gqen	120000
+庆	Gqiang	120000
+庆	Gqin	120000
+庆	qing	120000
+庇	Gpi	106922
+庇	bi	106922
+床	Gcong	135000
+床	chuang	135000
+序	Gxyu	170000
+序	Gxyuk	170000
+序	xu	170000
+庐	Glu	120000
+库	Gku	200000
+应	Gyin	30000
+应	ying	30000
+底	Gdi	200000
+店	Gdiên	195000
+店	dian	195000
+庙	Gmiau	120000
+庙	Gmiêu	120000
+庙	miao	120000
+庚	Ggiên	170000
+庚	geng	170000
+府	Gfu	120000
+庞	Gpong	109027
+庞	pang	109027
+废	Gfi	120000
+废	fei	120000
+度	Gtu	200000
+度	du	200000
+座	Gco	120000
+座	zuo	120000
+庭	Gten	120000
+庭	Gtiang	120000
+庭	ting	120000
+庵	Gngon	120000
+庵	an	120000
+康	Gkong	120000
+康	kang	120000
+庸	Gyung	120000
+庸	yong	120000
+廉	Gliên	120000
+廉	lian	120000
+廊	Glong	120000
+廊	lang	120000
+廖	Gliêu	90000
+廖	liao	90000
+延	Gniên	125000
+延	Gyên	125000
+延	yan	125000
+廷	Gten	120000
+廷	ting	120000
+建	Gjiên	120000
+建	jian	120000
+开	Gkêi	200000
+开	kai	200000
+开皲口	Gkêi Gjin Gkiêu	122561
+开皲口	Gkêi Gjin kou	122561
+开皲口	Gkêi jun Gkiêu	122561
+开皲口	Gkêi jun kou	122561
+开皲口	kai Gjin Gkiêu	122561
+开皲口	kai Gjin kou	122561
+开皲口	kai jun Gkiêu	122561
+开皲口	kai jun kou	122561
+异	Gni	150000
+异	Gyi	150000
+异	yi	150000
+弄	Glung	170000
+弄	Gnung	170000
+弄	nong	170000
+弆	Ggiê	123894
+弆	Gjiê	123894
+弆	Gkiê	123894
+弆	ju	123894
+弆好	Gjiê Ghau	125922
+弆好	Gjiê hao	125922
+弆好	ju Ghau	125922
+弆好	ju hao	125922
+弆起来	Gjiê Gqi Glêi	123352
+弆起来	Gjiê Gqi lai	123352
+弆起来	ju Gqi Glêi	123352
+弆起来	ju Gqi lai	123352
+弆起来	ju qi lai	123352
+弊	Gbi	120000
+弋	Gyik	140000
+弋	yi	140000
+弋阳	Gyik Gyong	120763
+弋阳	Gyik yang	120763
+弋阳	yi Gyong	120763
+弋阳	yi yang	120763
+式	Gsek	200000
+式	Gsik	124010
+式	shi	200000
+弓	Ggung	145000
+弓	gong	145000
+引	Gyang	120000
+引	Gyin	120000
+引	yin	120000
+弘	Gfung	120000
+弘	hong	120000
+弛	Gci	108608
+弛	chi	108608
+弟	Gti	120000
+弟	di	120000
+张	Gzong	170000
+张	zhang	170000
+弥	Gmi	120000
+弦	Gxiên	120000
+弦	Gxyuon	120000
+弦	xian	120000
+弧	Gfu	101275
+弧	hu	101275
+弯	Gwan	120000
+弱	Glok	125000
+弱	Gniok	125000
+弱	Gnok	125000
+弱	Gyok	125000
+弱	ruo	125000
+弸	Gbang	5168
+弸	peng	5168
+弹	Gtan	135000
+弹	dan	135000
+强	Gqiong	165000
+强	qiang	165000
+弼	Gbêk	90000
+弼	bi	90000
+归	Ggui	200000
+归	Gkui	200000
+归	gui	200000
+当	Gdong	200000
+当	dang	200000
+当昼	Gdong Gziu	92892
+当昼	Gdong zhou	92892
+当昼	dang Gziu	92892
+当昼	dang zhou	92892
+录	Gluk	120000
+录	lu	120000
+彗	Gfêi	90000
+彗	hui	90000
+彗星	Gfêi Gxin	246
+彗星	Gfêi xing	246
+彗星	hui Gxin	246
+彗星	hui xing	246
+形	Gxen	145000
+形	Gxin	145000
+形	xing	145000
+彤	Gtung	106693
+彤	tong	106693
+彩	Gcêi	120000
+彩	cai	120000
+彩虹	Gcêi Gfung	258
+彩虹	Gcêi hong	258
+彩虹	cai Gfung	258
+彩虹	cai hong	258
+彪	Gbiau	170000
+彪	Gbiêu	170000
+彪	biao	170000
+彬	Gben	120000
+彬	Gbin	120000
+彬	bin	120000
+彭	Gpang	100000
+彭	peng	100000
+影	Gyang	120000
+影	Gyin	120000
+影	ying	120000
+役	Gni	120000
+役	Gyi	120000
+役	yi	120000
+彻	Gciêt	120000
+彻	Gcêk	120000
+彻	che	120000
+彼	Gbik	120000
+彼	bi	120000
+往	Gmong	200000
+往	Gwong	200000
+往	wang	200000
+征	Gzen	120000
+征	zheng	120000
+径	Gjen	145000
+径	Gjiang	145000
+径	Gqen	145000
+径	jing	145000
+待	Gtêi	200000
+待	dai	200000
+很	Ghiên	200000
+很	Ghên	200000
+很	hen	200000
+徊	Gfai	108325
+徊	huai	108325
+律	Glik	200000
+律	Glyut	200000
+律	lv	200000
+徐	Gxi	120000
+徐	Gxyu	120000
+徐	xu	120000
+徒	Gtu	120000
+得	Gdêk	200000
+得	de	200000
+徛	Gqi	124739
+徛	ji	124739
+徛到	Gqi Gdau	127195
+徛到	Gqi dao	127195
+徛到	ji Gdau	127195
+徛到	ji dao	127195
+徛起来	Gqi Gqi Glêi	123363
+徛起来	Gqi Gqi lai	123363
+徛起来	ji Gqi Glêi	123363
+徛起来	ji Gqi lai	123363
+徛起来	ji qi lai	123363
+御	Gnyu	102098
+御	yu	102098
+循	Gxyun	120000
+循	xun	120000
+微	Gmi	120000
+微	wei	120000
+德	Gdêk	124589
+德	de	124589
+徽	Gfi	120000
+徽	hui	120000
+心	Gxin	195000
+必	Gbek	145000
+必	Gbi	145000
+必	Gbit	145000
+必	bi	145000
+忆	Gyik	120000
+忆	yi	120000
+忌	Gji	125000
+忌	Gqi	125000
+忌	Gqiang	127689
+忌	ji	127689
+忍	Gnin	170000
+忍	ren	170000
+志	Gzi	120000
+志	zhi	120000
+忘	Gmong	145000
+忘	Gwong	145000
+忘	wang	145000
+忙	Gmong	200000
+忙	mang	200000
+忠	Gzung	120000
+忠	zhong	120000
+忧	Gyeu	120000
+忧	Gyiu	120000
+忧	you	120000
+快	Gkuai	200000
+忱	Gcin	105545
+忱	chen	105545
+念	Gniên	200000
+念	nian	200000
+忺	Gkiên	127383
+忺	Gqiên	127383
+忺	xian	127383
+忺到吃	Gqiên Gdau Gqiak	123353
+忺到吃	Gqiên Gdau chi	123353
+忺到吃	Gqiên dao Gqiak	123353
+忺到吃	Gqiên dao chi	123353
+忺到吃	xian Gdau Gqiak	123353
+忺到吃	xian Gdau chi	123353
+忺到吃	xian dao Gqiak	123353
+忺到吃	xian dao chi	123353
+忽	Gfu	185000
+忽	hu	185000
+忿	Gfin	109322
+忿	fen	109322
+怀	Gfai	130000
+怀	Gwai	130000
+怀	huai	130000
+态	Gtêi	120000
+态	tai	120000
+怄	Gngiêu	170000
+怄	ou	170000
+怎	Gziên	200000
+怎	Gzên	200000
+怎	zen	200000
+怒	Glu	120000
+怒	Gnu	120000
+怒	nu	120000
+怔	Gzen	109508
+怔	zheng	109508
+怕	Gpa	200000
+怖	Gbu	100831
+怜	Gliên	120000
+怜	lian	120000
+思	Gsi	120000
+怠	Gtêi	120000
+怠	dai	120000
+急	Gjip	200000
+急	ji	200000
+性	Gxen	200000
+性	Gxiang	200000
+性	Gxin	200000
+性	xing	200000
+怨	Gnyuon	120000
+怨	Gyuon	120000
+怨	yuan	120000
+怪	Gguai	110000
+怯	Gkiap	120000
+怯	Gkiêp	120000
+怯	Gqiêk	120000
+怯	qie	120000
+总	Gzung	200000
+总	zong	200000
+恃	Gsi	107463
+恃	shi	107463
+恋	Gliên	120000
+恋	lian	120000
+恍	Gfong	120000
+恍	huang	120000
+恐	Gkung	120000
+恐	kong	120000
+恒	Ghiên	120000
+恒	Ghên	120000
+恒	heng	120000
+恕	Gsu	104005
+恕	shu	104005
+恢	Gfêi	120000
+恢	hui	120000
+恤	Gxyut	120000
+恤	Gxyuêt	120000
+恤	xu	120000
+恨	Ghiên	170000
+恨	Ghên	170000
+恨	hen	170000
+恩	Gngiên	195000
+恩	en	195000
+恬	Gtiên	100455
+恬	tian	100455
+恭	Ggung	120000
+恭	gong	120000
+息	Gxik	145000
+息	xi	145000
+恰	Gqiak	120000
+恰	qia	120000
+恳	Gkiên	120000
+恳	ken	120000
+恶	Gngok	195000
+恶	Gwu	195000
+恶	Gwuk	195000
+恶	e	195000
+恼	Glau	120000
+恼	Gnau	120000
+恼	nao	120000
+悄	Gqiau	106074
+悄	qiao	106074
+悉	Gxik	108873
+悉	xi	108873
+悍	Ghon	104921
+悍	han	104921
+悔	Gfi	145000
+悔	Gfêi	145000
+悔	hui	145000
+悟	Gwuk	120000
+悟	wu	120000
+悠	Gyiu	120000
+悠	you	120000
+患	Gfiên	120000
+患	Gwin	120000
+患	Gwiên	120000
+患	Gwên	120000
+患	huan	120000
+悦	Gnyuêt	120000
+悦	Gyueok	120000
+悦	yue	120000
+您	Gnin	134934
+悬	Gxyuon	120000
+悬	xuan	120000
+悯	Gmin	120000
+悲	Gbi	120000
+悲	bei	120000
+悼	Gdau	100020
+悼	dao	100020
+情	Gqiang	120000
+情	Gqin	120000
+情	qing	120000
+惊	Gjiang	145000
+惊	Gjin	145000
+惊	jing	145000
+惑	Gfok	120000
+惑	Gfêk	120000
+惑	huo	120000
+惕	Gtik	107422
+惕	ti	107422
+惜	Gxik	120000
+惜	Gxiêk	120000
+惜	xi	120000
+惠	Gfi	145000
+惠	Gfêi	145000
+惠	hui	145000
+惧	Gji	104048
+惧	Gjyu	104048
+惧	ju	104048
+惨	Gcan	120000
+惨	Gciên	120000
+惨	can	120000
+惩	Gcen	105794
+惩	cheng	105794
+惭	Gcan	120000
+惯	Gguan	30000
+惯	Gguon	30000
+惯	guan	30000
+惰	Gdo	120000
+惰	duo	120000
+想	Gxiong	200000
+想	xiang	200000
+惹	Glê	200000
+惹	Gya	200000
+惹	re	200000
+愁	Gcêu	120000
+愁	chou	120000
+愈	Gni	102307
+愈	Gyu	102307
+愈	yu	102307
+愉	Gni	107329
+愉	Gyu	107329
+愉	yu	107329
+意	Gni	145000
+意	Gyi	145000
+意	yi	145000
+愚	Gni	120000
+愚	Gnyu	120000
+愚	Gyu	120000
+愚	yu	120000
+感	Ggon	145000
+感	gan	145000
+愤	Gfin	102996
+愤	fen	102996
+愧	Gfai	120000
+愧	Gkui	120000
+愧	kui	120000
+愿	Gnyuon	120000
+愿	yuan	120000
+慈	Gci	120000
+慌	Gfong	120000
+慌	huang	120000
+慎	Gsen	120000
+慎	Gsin	120000
+慎	shen	120000
+慕	Gmu	120000
+慢	Gman	200000
+慧	Gfi	145000
+慧	hui	145000
+慨	Gkêi	120000
+慨	kai	120000
+慰	Gvi	120000
+慰	wei	120000
+憨	Ghon	120000
+憨	han	120000
+懂	Gdung	200000
+懂	dong	200000
+懈	Ggai	103268
+懈	Gxia	103268
+懈	xie	103268
+懒	Glan	200000
+懵	Gmung	90000
+懵	meng	90000
+戄	Gfok	124779
+戄	jue	124779
+戈	Ggo	100232
+戈	ge	100232
+戏	Gxi	120000
+成	Gcang	200000
+成	Gcen	200000
+成	Gsang	200000
+成	Gsen	200000
+成	cheng	200000
+我	Gngo	200000
+我	wo	200000
+戒	Ggai	120000
+戒	jie	120000
+或	Gfok	135000
+或	Gfêk	135000
+或	Gwok	135000
+或	huo	135000
+战	Gzan	145000
+战	Gzên	145000
+战	zhan	145000
+戚	Gqik	120000
+戚	qi	120000
+戥	Gxiang	120000
+戥	deng	120000
+截	Gjiêt	145000
+截	jie	145000
+戬	Gjiên	90000
+戬	jian	90000
+戳	Gcok	124507
+戳	chuo	124507
+戳屄	Gcok Gbiêk	125561
+戳屄	Gcok Gbiêt	125561
+戳屄	Gcok bi	125561
+戳屄	chuo Gbiêk	125561
+戳屄	chuo Gbiêt	125561
+戳屄	chuo bi	125561
+戴	Gdai	120000
+户	Gfu	170000
+户	hu	170000
+房	Gfong	120000
+房	fang	120000
+所	Gso	200000
+所	Gsuk	200000
+所	suo	200000
+扁	Gbiên	120000
+扁	bian	120000
+扇	Gsiên	120000
+扇	shan	120000
+手	Gseu	200000
+手	Gsiu	200000
+手	shou	200000
+才	Gcai	200000
+才	Gcêi	200000
+才	cai	200000
+扎	Gcam	125574
+扎	Gzaet	120000
+扎	zha	125574
+扑	Gpuk	120000
+扑	pu	120000
+扒	Gba	120000
+扒	Gpa	120000
+扒	ba	120000
+打	Gda	200000
+打	Gdaep	126926
+打	da	126926
+扔	Gdiang	127277
+扔	Gfang	127277
+扔	Glen	115300
+扔	Gliau	127277
+扔	reng	127277
+托	Gto	125000
+托	Gtok	125000
+托	tuo	125000
+扚	Gdiak	154620
+扚	diao	154620
+扛	Ggong	145000
+扛	Gkong	145000
+扛	kang	145000
+扣	Gkiêu	150000
+扣	Gqiau	150000
+扣	kou	150000
+执	Gcik	120000
+执	Gzek	120000
+执	Gzik	120000
+执	zhi	120000
+扩	Gkok	120000
+扩	Gkyuêt	120000
+扩	kuo	120000
+扫	Gsau	135000
+扫	sao	135000
+扬	Gyang	120000
+扬	Gyong	120000
+扬	yang	120000
+扬叶	Gyong Gyêp	94905
+扬叶	Gyong ye	94905
+扬叶	yang Gyêp	94905
+扬叶	yang ye	94905
+扭	Gnieu	120000
+扭	Gniuk	120000
+扭	niu	120000
+扮	Gban	120000
+扮	Gben	120000
+扮	Gpen	120000
+扮	ban	120000
+扯	Gca	120000
+扯	Gcê	120000
+扯	che	120000
+扰	Glau	120000
+扰	Glêu	120000
+扰	Gnau	120000
+扰	rao	120000
+扳	Gban	120000
+扶	Gfu	120000
+批	Gpi	120000
+扼	Gngok	109340
+扼	e	109340
+找	Gqin	200000
+找	Gzau	200000
+找	zhao	200000
+承	Gcen	120000
+承	Gsen	120000
+承	cheng	120000
+技	Gqi	120000
+技	ji	120000
+抄	Gcau	145000
+抄	chao	145000
+把	Gba	200000
+把	Gla	200000
+把	ba	200000
+抑	Gyik	103709
+抑	yi	103709
+抒	Gxyu	101738
+抒	shu	101738
+抓	Gka	126456
+抓	Gza	125000
+抓	Gziê	125000
+抓	zhua	126456
+投	Gtêu	120000
+投	tou	120000
+抖	Gdêu	120000
+抖	dou	120000
+抗	Gkong	120000
+抗	kang	120000
+折	Gsiêk	120000
+折	Gsêk	120000
+折	Gziêk	120000
+折	Gzêk	120000
+折	zhe	120000
+抚	Gfu	120000
+抛	Gdiang	127254
+抛	Gpau	120000
+抛	pao	127254
+抠	Gkeu	120000
+抠	Gkiêu	120000
+抠	Gqiau	120000
+抠	kou	120000
+抡	Glun	116302
+抢	Gqiong	120000
+抢	qiang	120000
+护	Gfu	120000
+护	hu	120000
+报	Gbau	180000
+报	bao	180000
+披	Gpi	120000
+抬	Gtêi	120000
+抬	tai	120000
+抱	Gbau	145000
+抱	Gpau	145000
+抱	bao	145000
+抵	Gdi	120000
+抹	Gkai	125748
+抹	Gmêt	146366
+抹	mo	146366
+抻	Gcen	90000
+抻	chen	90000
+押	Gngaet	125000
+押	ya	125000
+抽	Gceu	170000
+抽	Gciu	170000
+抽	chou	170000
+抿	Gmen	10001
+抿	min	10001
+拂	Gfu	120000
+拂	Gpi	120000
+拂	fu	120000
+拄	Gjyu	120000
+拄	Gqyu	120000
+拄	zhu	120000
+担	Gdan	120000
+担	Gdang	120000
+担	dan	120000
+拆	Gcak	145000
+拆	chai	145000
+拇	Gmu	170000
+拈	Gniên	133000
+拈	nian	133000
+拉	Gla	200000
+拉	Gwo	122915
+拉	Gyê	122915
+拉	la	122915
+拌	Gpên	120000
+拌	ban	120000
+拍	Gpak	145000
+拍	pai	145000
+拐	Gguai	120000
+拒	Gji	100000
+拒	Gjyu	100000
+拒	ju	100000
+拓	Gtok	108640
+拓	tuo	108640
+拔	Gba	120000
+拔	Gpaek	120000
+拔	ba	120000
+拖	Gto	170000
+拖	Gyê	125004
+拖	tuo	170000
+拗	Gngau	130000
+拗	Gniu	130000
+拗	ao	130000
+拘	Gjyu	120000
+拘	ju	120000
+拙	Gcok	120000
+拙	Gzok	120000
+拙	zhuo	120000
+招	Gziêu	125000
+招	Gzêu	125000
+招	zhao	125000
+拜	Gbai	120000
+拟	Gni	130000
+拢	Glung	200000
+拢	long	200000
+拣	Ggan	142340
+拣	Gjiên	142340
+拣	jian	142340
+拥	Gyung	120000
+拥	yong	120000
+拦	Glan	120000
+拧	Gnen	156343
+拧	ning	156343
+拨	Gbo	120000
+拨	Gbêk	120000
+拨	bo	120000
+择	Gcêk	145000
+择	Gtok	145000
+择	Gziêk	145000
+择	ze	145000
+括	Gkyuêk	106247
+括	kuo	106247
+拭	Gsik	152599
+拭	shi	152599
+拯	Gzen	120000
+拯	zheng	120000
+拱	Ggung	120000
+拱	gong	120000
+拳	Gqyuon	145000
+拳	quan	145000
+拴	Gson	120000
+拴	shuan	120000
+拶	Gzat	123234
+拶	za	123234
+拶在一起	Gzat Gcêi Gyit Gqi	127468
+拶在一起	Gzat Gcêi yi Gqi	127468
+拶在一起	Gzat zai Gyit Gqi	127468
+拶在一起	Gzat zai yi Gqi	127468
+拶在一起	za Gcêi Gyit Gqi	127468
+拶在一起	za Gcêi yi Gqi	127468
+拶在一起	za zai Gyit Gqi	127468
+拶在一起	za zai yi Gqi	127468
+拶在一起	za zai yi qi	127468
+拷	Gkau	120000
+拷	kao	120000
+拼	Gpen	120000
+拼	Gpiang	120000
+拼	Gpin	120000
+拼	pin	120000
+拾	Gsek	120000
+拾	Gsip	120000
+拾	shi	120000
+拿	Gdak	200000
+拿	na	200000
+持	Gci	125000
+持	chi	125000
+挂	Ggua	130000
+指	Gzek	200000
+指	Gzi	200000
+指	Gzik	200000
+指	zhi	200000
+按	Gngon	200000
+按	an	200000
+挎	Gkua	108547
+挑	Gtiau	120000
+挑	Gtiêu	120000
+挑	tiao	120000
+挖	Gwa	135000
+挖	Gwaek	135000
+挖	wa	135000
+挚	Gzi	102948
+挚	zhi	102948
+挟	Gga	120000
+挟	Ggaek	120000
+挟	Gxia	120000
+挟	xie	120000
+挠	Glau	109311
+挠	Gnau	109311
+挠	Gziê	123464
+挠	nao	123464
+挡	Gdong	170000
+挡	dang	170000
+挣	Gzang	120000
+挣	Gzen	120000
+挣	zheng	120000
+挤	Gji	100000
+挥	Gdiang	124783
+挥	Gfi	120000
+挥	hui	124783
+挦	Gqiên	90000
+挦	xian	90000
+挨	Gkai	126060
+挨	Gngai	126060
+挨	Gto	124743
+挨	ai	126060
+挨时间	Gngai Gsi Ggan	127309
+挨时间	Gngai Gsi jian	127309
+挨时间	Gngai shi Ggan	127309
+挨时间	Gngai shi jian	127309
+挨时间	ai Gsi Ggan	127309
+挨时间	ai Gsi jian	127309
+挨时间	ai shi Ggan	127309
+挨时间	ai shi jian	127309
+挪	Gno	120000
+挪	nuo	120000
+挫	Gco	130516
+挫	cuo	130516
+振	Gzen	120000
+振	zhen	120000
+挲	Gsa	90000
+挺	Gten	135000
+挺	ting	135000
+挼	Glo	122468
+挼	rua	122468
+挼净手	Glo Gqiang Gseu	126607
+挼净手	Glo Gqiang shou	126607
+挼净手	Glo jing Gseu	126607
+挼净手	Glo jing shou	126607
+挼净手	rua Gqiang Gseu	126607
+挼净手	rua Gqiang shou	126607
+挼净手	rua jing Gseu	126607
+挼净手	rua jing shou	126607
+挼衣裳	Glo Gyi Gsong	125910
+挼衣裳	Glo Gyi shang	125910
+挼衣裳	rua Gyi Gsong	125910
+挼衣裳	rua Gyi shang	125910
+挼衣裳	rua yi shang	125910
+挽	Gwan	120000
+捂	Gwu	100989
+捅	Gtung	120000
+捅	tong	120000
+捆	Gkuin	120000
+捆	Gkun	120000
+捆	kun	120000
+捉	Gka	120000
+捉	Gzo	120000
+捉	Gzok	120000
+捉	zhuo	120000
+捋	Gleok	90000
+捋	lv	90000
+捌	Gbat	106102
+捌	ba	106102
+捍	Ghon	109764
+捍	han	109764
+捎	Gsau	104816
+捎	Gsiêu	104816
+捎	shao	104816
+捏	Gniêk	200000
+捏	nie	200000
+捐	Gjyuon	120000
+捐	juan	120000
+捕	Gbu	106747
+捞	Glau	145000
+捞	Gliên	125338
+捞	lao	145000
+损	Gsun	120000
+损	Gsyun	120000
+损	Gxyun	120000
+损	sun	120000
+捡	Gjiên	145000
+捡	jian	145000
+换	Gwin	200000
+换	Gwiên	200000
+换	Gwon	200000
+换	Gwên	200000
+换	huan	200000
+捣	Gdau	120000
+捣	dao	120000
+捧	Gbung	120000
+捧	Gpung	120000
+捧	peng	120000
+捩	Gliak	90000
+捩	lie	90000
+据	Gji	120000
+据	Gjyu	120000
+据	ju	120000
+捶	Gcyu	120000
+捶	Gqyu	120000
+捶	chui	120000
+捷	Gjiêt	120000
+捷	jie	120000
+捺	Glaet	127381
+捺	na	127381
+捺紧	Glaet Gjin	126805
+捺紧	na Gjin	126805
+捺紧	na jin	126805
+捻	Gniêp	107180
+捻	nian	107180
+捼	Glo	124227
+捼	ruo	124227
+掀	Gxiên	120000
+掀	Gxyuon	120000
+掀	xian	120000
+掂	Gdiên	170000
+掂	dian	170000
+掇	Gdeok	132650
+掇	Gdyuêt	138593
+掇	duo	138593
+授	Gsiu	145000
+授	shou	145000
+掉	Gdiêk	200000
+掉	Gdiêu	200000
+掉	diao	200000
+掌	Gzong	145000
+掌	zhang	145000
+掏	Gtau	120000
+掏	tao	120000
+掐	Gka	125060
+掐	Gkaep	120000
+掐	qia	125060
+排	Gpai	175000
+掖	Gyik	70910
+掖	Gyêk	70910
+掖	ye	70910
+掘	Gqyuêt	120000
+掘	jue	120000
+掟	Gdiang	127783
+掟	zheng	127783
+掟来掟去	Gdiang Glêi Gdiang Gqiê	124071
+掟来掟去	Gdiang Glêi Gdiang qu	124071
+掟来掟去	Gdiang Glêi zheng Gqiê	124071
+掟来掟去	Gdiang Glêi zheng qu	124071
+掟来掟去	Gdiang lai Gdiang Gqiê	124071
+掟来掟去	Gdiang lai Gdiang qu	124071
+掟来掟去	Gdiang lai zheng Gqiê	124071
+掟来掟去	Gdiang lai zheng qu	124071
+掟来掟去	zheng Glêi Gdiang Gqiê	124071
+掟来掟去	zheng Glêi Gdiang qu	124071
+掟来掟去	zheng Glêi zheng Gqiê	124071
+掟来掟去	zheng Glêi zheng qu	124071
+掟来掟去	zheng lai Gdiang Gqiê	124071
+掟来掟去	zheng lai Gdiang qu	124071
+掟来掟去	zheng lai zheng Gqiê	124071
+掟来掟去	zheng lai zheng qu	124071
+掟石头	Gdiang Gsak Gtêu	125992
+掟石头	Gdiang Gsak tou	125992
+掟石头	Gdiang shi Gtêu	125992
+掟石头	Gdiang shi tou	125992
+掟石头	zheng Gsak Gtêu	125992
+掟石头	zheng Gsak tou	125992
+掟石头	zheng shi Gtêu	125992
+掟石头	zheng shi tou	125992
+掠	Glyuêt	106779
+掠	lve	106779
+探	Gtam	120000
+探	Gtan	120000
+探	Gton	120000
+探	tan	120000
+接	Gjiêp	200000
+接	jie	200000
+控	Gkung	125000
+控	kong	125000
+推	Gcung	124297
+推	Gtêi	120000
+推	tui	124297
+掩	Gngan	120000
+掩	Gniên	120000
+掩	Gyên	120000
+掩	yan	120000
+措	Gco	105010
+措	cuo	105010
+掫	Gcêu	5329
+掫	zhou	5329
+掷	Gcik	102271
+掷	Gzik	102271
+掷	zhi	102271
+掸	Gdan	76597
+掸	Gsiên	76597
+掸	Gton	76597
+掸	dan	76597
+掺	Gcan	151674
+揇	Glon	35004
+揇	nan	35004
+揈	Gfang	122783
+揈	hong	122783
+揉	Glêu	120000
+揉	rou	120000
+描	Gmiau	120000
+描	Gmiêu	120000
+描	miao	120000
+提	Gti	120000
+提	Gtia	120000
+提	ti	120000
+插	Gcaek	121214
+插	cha	121214
+揖	Gyi	90000
+揖	Gyik	90000
+揖	yi	90000
+揞	Gngon	1000
+揞	an	1000
+握	Gka	124811
+握	Gwok	195000
+握	wo	195000
+揢	Gka	122836
+揢	Gkak	122836
+揢	ke	122836
+揢紧	Gka Gjin	122653
+揢紧	ke Gjin	122653
+揢紧	ke jin	122653
+揢鸡	Gka Gji	126613
+揢鸡	ke Gji	126613
+揢鸡	ke ji	126613
+揢鸭	Gka Gngaet	126785
+揢鸭	Gka ya	126785
+揢鸭	ke Gngaet	126785
+揢鸭	ke ya	126785
+揩	Gkai	125326
+揩下颈上个汗	Gkai Gha Gjiang Gsong Ggo Ghon	126739
+揩下颈上个汗	Gkai Gha Gjiang Gsong Ggo han	126739
+揩下颈上个汗	Gkai Gha Gjiang Gsong ge Ghon	126739
+揩下颈上个汗	Gkai Gha Gjiang Gsong ge han	126739
+揩下颈上个汗	Gkai Gha Gjiang shang Ggo Ghon	126739
+揩下颈上个汗	Gkai Gha Gjiang shang Ggo han	126739
+揩下颈上个汗	Gkai Gha Gjiang shang ge Ghon	126739
+揩下颈上个汗	Gkai Gha Gjiang shang ge han	126739
+揩下颈上个汗	Gkai Gha jing Gsong Ggo Ghon	126739
+揩下颈上个汗	Gkai Gha jing Gsong Ggo han	126739
+揩下颈上个汗	Gkai Gha jing Gsong ge Ghon	126739
+揩下颈上个汗	Gkai Gha jing Gsong ge han	126739
+揩下颈上个汗	Gkai Gha jing shang Ggo Ghon	126739
+揩下颈上个汗	Gkai Gha jing shang Ggo han	126739
+揩下颈上个汗	Gkai Gha jing shang ge Ghon	126739
+揩下颈上个汗	Gkai Gha jing shang ge han	126739
+揩下颈上个汗	Gkai xia Gjiang Gsong Ggo Ghon	126739
+揩下颈上个汗	Gkai xia Gjiang Gsong Ggo han	126739
+揩下颈上个汗	Gkai xia Gjiang Gsong ge Ghon	126739
+揩下颈上个汗	Gkai xia Gjiang Gsong ge han	126739
+揩下颈上个汗	Gkai xia Gjiang shang Ggo Ghon	126739
+揩下颈上个汗	Gkai xia Gjiang shang Ggo han	126739
+揩下颈上个汗	Gkai xia Gjiang shang ge Ghon	126739
+揩下颈上个汗	Gkai xia Gjiang shang ge han	126739
+揩下颈上个汗	Gkai xia jing Gsong Ggo Ghon	126739
+揩下颈上个汗	Gkai xia jing Gsong Ggo han	126739
+揩下颈上个汗	Gkai xia jing Gsong ge Ghon	126739
+揩下颈上个汗	Gkai xia jing Gsong ge han	126739
+揩下颈上个汗	Gkai xia jing shang Ggo Ghon	126739
+揩下颈上个汗	Gkai xia jing shang Ggo han	126739
+揩下颈上个汗	Gkai xia jing shang ge Ghon	126739
+揩下颈上个汗	Gkai xia jing shang ge han	126739
+揩下颈上个汗	kai xia jing shang ge han	126739
+揩桌子	Gkai Gzok Gzi	122537
+揩桌子	Gkai zhuo Gzi	122537
+揩桌子	kai zhuo zi	122537
+揩汗	Gkai Ghon	126115
+揩汗	Gkai han	126115
+揩汗	kai han	126115
+揩鞋	Gkai Ghai	127481
+揩鞋	Gkai xie	127481
+揩鞋	kai xie	127481
+揪	Gjieu	120000
+揪	Gjiu	120000
+揪	Gqiu	120000
+揪	jiu	120000
+揭	Gjiêt	120000
+揭	Gqiêk	120000
+揭	jie	120000
+揰	Gcung	125797
+揰	chong	125797
+揰拢	Gcung Glung	122638
+揰拢	Gcung long	122638
+揰拢	chong Glung	122638
+揰拢	chong long	122638
+揰门	Gcung Gmen	124309
+揰门	chong Gmen	124309
+揰门	chong men	124309
+援	Gnyuon	120000
+援	Gyuon	120000
+援	yuan	120000
+揽	Glan	120000
+搁	Ggak	200000
+搁	Ggok	200000
+搁	ge	200000
+搂	Glêu	125000
+搂	lou	125000
+搅	Ggau	120000
+搅	Gjiau	120000
+搅	jiao	120000
+搇	Gcim	127087
+搇	Gcin	127087
+搇	Gkim	127087
+搇	qin	127087
+搇到	Gcin Gdau	125067
+搇到	Gcin dao	125067
+搇到	qin Gdau	125067
+搇到	qin dao	125067
+搇紧	Gcin Gjin	125352
+搇紧	qin Gjin	125352
+搇紧	qin jin	125352
+搉	Gkok	127686
+搉	que	127686
+搉门	Gkok Gmen	125317
+搉门	que Gmen	125317
+搉门	que men	125317
+搊	Gceu	127115
+搊	chou	127115
+搊到渠	Gceu Gdau Gjiê	125185
+搊到渠	Gceu Gdau qu	125185
+搊到渠	Gceu dao Gjiê	125185
+搊到渠	Gceu dao qu	125185
+搊到渠	chou Gdau Gjiê	125185
+搊到渠	chou Gdau qu	125185
+搊到渠	chou dao Gjiê	125185
+搊到渠	chou dao qu	125185
+搊起来	Gceu Gqi Glêi	125929
+搊起来	Gceu Gqi lai	125929
+搊起来	chou Gqi Glêi	125929
+搊起来	chou Gqi lai	125929
+搊起来	chou qi lai	125929
+搏	Gbo	103079
+搓	Gco	120000
+搓	cuo	120000
+搓黸	Gco Glu	125867
+搓黸	cuo Glu	125867
+搓黸	cuo lu	125867
+搔	Gziê	126894
+搔	sao	126894
+搜	Gsiu	130000
+搜	Gsêu	130000
+搜	sou	130000
+搞	Ggau	200000
+搞	gao	200000
+搣	Gmiêk	100000
+搣	mie	100000
+搦	Glak	128590
+搦	nuo	128590
+搧	Gsên	4720
+搧	shan	4720
+搨	Gdaep	126188
+搨	ta	126188
+搨巴掌	Gdaep Gba Gzong	122880
+搨巴掌	Gdaep Gba zhang	122880
+搨巴掌	ta Gba Gzong	122880
+搨巴掌	ta Gba zhang	122880
+搨巴掌	ta ba zhang	122880
+搪	Gtong	90000
+搪	tang	90000
+搬	Gbiên	120000
+搬	Gbên	120000
+搬	ban	120000
+搭	Gdaep	200000
+搭	da	200000
+搲	Gwa	125775
+搴	Gqiên	125185
+搴	qian	125185
+搴朵花	Gqiên Gdo Gfa	125419
+搴朵花	Gqiên Gdo hua	125419
+搴朵花	Gqiên duo Gfa	125419
+搴朵花	Gqiên duo hua	125419
+搴朵花	qian Gdo Gfa	125419
+搴朵花	qian Gdo hua	125419
+搴朵花	qian duo Gfa	125419
+搴朵花	qian duo hua	125419
+携	Gxia	104562
+携	xie	104562
+搽	Gca	10006
+搽	cha	10006
+摄	Gsiêk	105141
+摄	she	105141
+摆	Gbai	145000
+摇	Gyau	145000
+摇	Gyêu	145000
+摇	yao	145000
+摊	Gtan	120000
+摊	Gtiên	120000
+摊	tan	120000
+摔	Gsai	154698
+摔	shuai	154698
+摘	Gzak	148904
+摘	zhai	148904
+摧	Gcêi	109050
+摧	cui	109050
+摩	Gma	120000
+摩	Gmo	120000
+摩	mo	120000
+摱	Gmang	127042
+摱	man	127042
+摱一拳	Gmang Gyit Gqyuon	127526
+摱一拳	Gmang Gyit quan	127526
+摱一拳	Gmang yi Gqyuon	127526
+摱一拳	Gmang yi quan	127526
+摱一拳	man Gyit Gqyuon	127526
+摱一拳	man Gyit quan	127526
+摱一拳	man yi Gqyuon	127526
+摱一拳	man yi quan	127526
+摸	Gmo	120000
+摹	Gmu	120000
+摹	mo	120000
+撂	Gliau	127679
+撂	liao	127679
+撂垃圾	Gliau Gla Glaep	124693
+撂垃圾	Gliau Gla ji	124693
+撂垃圾	liao Gla Glaep	124693
+撂垃圾	liao Gla ji	124693
+撂垃圾	liao la ji	124693
+撂衣裳	Gliau Gyi Gsong	127858
+撂衣裳	Gliau Gyi shang	127858
+撂衣裳	liao Gyi Gsong	127858
+撂衣裳	liao Gyi shang	127858
+撂衣裳	liao yi shang	127858
+撇	Gpiêt	200000
+撇	pie	200000
+撑	Gcang	195000
+撑	cheng	195000
+撒	Gsaet	125000
+撒	sa	125000
+撕	Gsi	120000
+撚	Gniên	30000
+撚	nian	30000
+撞	Gcong	120000
+撞	zhuang	120000
+撤	Gciêk	120000
+撤	Gcêk	120000
+撤	che	120000
+撩	Gliêu	120000
+撩	liao	120000
+撬	Gqiêu	106014
+撬	qiao	106014
+播	Gbo	175000
+撮	Gceok	120000
+撮	Gzeok	120000
+撮	cuo	120000
+撼	Ghon	120000
+撼	han	120000
+擂	Glêi	120000
+擂	lei	120000
+操	Gcau	150000
+操	cao	150000
+擤	Gsang	126629
+擤	xing	126629
+擤鼻泞	Gsang Gpek Gnen	125476
+擤鼻泞	Gsang Gpek ning	125476
+擤鼻泞	Gsang bi Gnen	125476
+擤鼻泞	Gsang bi ning	125476
+擤鼻泞	xing Gpek Gnen	125476
+擤鼻泞	xing Gpek ning	125476
+擤鼻泞	xing bi Gnen	125476
+擤鼻泞	xing bi ning	125476
+擦	Gcaet	145000
+擦	Gkai	127396
+擦	ca	145000
+擿	Gziê	124485
+擿	Gziêk	124485
+擿	ti	124485
+擿头	Gziê Gtêu	122604
+擿头	Gziê tou	122604
+擿头	ti Gtêu	122604
+擿头	ti tou	122604
+擿痒	Gziê Gyong	123748
+擿痒	Gziê yang	123748
+擿痒	ti Gyong	123748
+擿痒	ti yang	123748
+攀	Gpan	120000
+攀	Gpiên	120000
+攀	pan	120000
+攎	Glu	120000
+攒	Gzan	95000
+支	Gzi	120000
+支	zhi	120000
+收	Gseu	145000
+收	Gsiu	145000
+收	shou	145000
+改	Ggêi	200000
+改	gai	200000
+攻	Ggung	120000
+攻	gong	120000
+放	Gfong	200000
+放	fang	200000
+政	Gzen	120000
+政	zheng	120000
+故	Ggu	120000
+效	Ghau	133508
+效	xiao	133508
+敌	Gdik	120000
+敌	Gtik	120000
+敌	di	120000
+敏	Gmen	145000
+敏	Gmiang	145000
+敏	Gmin	145000
+敏	min	145000
+救	Gjieu	145000
+救	Gjiu	145000
+救	jiu	145000
+教	Ggau	200000
+教	jiao	200000
+敞	Gcong	120000
+敞	chang	120000
+敢	Ggon	120000
+敢	gan	120000
+散	Gsan	200000
+敦	Gdun	30000
+敨	Gtêu	122618
+敨	tou	122618
+敬	Gjin	120000
+敬	Gqiang	120000
+敬	Gqin	120000
+敬	jing	120000
+数	Gsu	200000
+数	shu	200000
+敲	Gkau	120000
+敲	Gkok	120000
+敲	Gqiau	120000
+敲	qiao	120000
+整	Gzang	151502
+整	Gzen	151502
+整	zheng	151502
+文	Gwin	200000
+文	Gwiên	200000
+文	Gwun	200000
+文	Gwên	200000
+文	wen	200000
+斋	Gzai	120000
+斋	Gzêi	120000
+斋	zhai	120000
+斑	Gban	120000
+斗	Gdêu	180000
+斗	dou	180000
+料	Gliau	195000
+料	Gliêu	195000
+料	liao	195000
+斜	Gqia	130000
+斜	Gxia	130000
+斜	xie	130000
+斢	Gtiau	123791
+斢	tiao	123791
+斢双鞋	Gtiau Gsong Ghai	127700
+斢双鞋	Gtiau Gsong xie	127700
+斢双鞋	Gtiau shuang Ghai	127700
+斢双鞋	Gtiau shuang xie	127700
+斢双鞋	tiao Gsong Ghai	127700
+斢双鞋	tiao Gsong xie	127700
+斢双鞋	tiao shuang Ghai	127700
+斢双鞋	tiao shuang xie	127700
+斤	Gjin	120000
+斥	Gcik	103945
+斥	chi	103945
+斧	Gfu	120000
+斩	Gzan	125000
+斩	Gziên	125000
+斩	zhan	125000
+斫	Gdok	126432
+斫	Gzok	126432
+斫	zhuo	126432
+斫人	Gzok Gnin	123426
+斫人	Gzok ren	123426
+斫人	zhuo Gnin	123426
+斫人	zhuo ren	123426
+斫肉	Gzok Gniuk	124607
+斫肉	Gzok rou	124607
+斫肉	zhuo Gniuk	124607
+斫肉	zhuo rou	124607
+断	Gton	159979
+断	duan	159979
+断夜	Gton Gya	96556
+断夜	Gton ye	96556
+断夜	duan Gya	96556
+断夜	duan ye	96556
+断暗	Gton Gngon	98532
+断暗	Gton an	98532
+断暗	duan Gngon	98532
+断暗	duan an	98532
+斯	Gsi	145000
+新	Gxin	200000
+新余	Gxin Gyi	129522
+新余	Gxin yu	129522
+新余	xin yu	129522
+方	Gfong	200000
+方	fang	200000
+施	Gsik	145000
+施	shi	145000
+旁	Gpong	120000
+旁	pang	120000
+旅	Gli	120000
+旅	Gliuk	120000
+旅	Glyu	120000
+旅	lv	120000
+旋	Gxyuon	120000
+旋	Gxyuêk	120000
+旋	xuan	120000
+族	Gcuk	170000
+族	Gzuk	170000
+族	zu	170000
+旗	Gqi	120000
+无	Gmu	200000
+无	Gwu	200000
+无	wu	200000
+既	Gji	155000
+日	Glek	200000
+日	Glit	200000
+日	Gnit	200000
+日	Gyat	200000
+日	ri	200000
+日上	Gnit Gsong	98649
+日上	Gnit shang	98649
+日上	ri Gsong	98649
+日上	ri shang	98649
+日光	Gnit Gguong	106585
+日光	Gnit guang	106585
+日光	ri Gguong	106585
+日光	ri guang	106585
+日头	Gnit Gtêu	96181
+日头	Gnit tou	96181
+日头	ri Gtêu	96181
+日头	ri tou	96181
+旦	Gtan	145000
+旦	dan	145000
+旧	Gqieu	200000
+旧	Gqiu	200000
+旧	jiu	200000
+旨	Gzi	120000
+旨	zhi	120000
+早	Gzau	200000
+早	zao	200000
+早晨	Gzau Gsin	65000
+早晨	Gzau chen	65000
+早晨	zao Gsin	65000
+早晨	zao chen	65000
+旬	Gxin	120000
+旬	Gxyun	120000
+旬	xun	120000
+旭	Gxyuk	125000
+旭	xu	125000
+旱	Ghon	120000
+旱	han	120000
+时	Gsi	200000
+时	shi	200000
+时刻	Gsi Gkok	38448
+时刻	Gsi ke	38448
+时刻	shi Gkok	38448
+时刻	shi ke	38448
+时间	Gsi Ggan	200000
+时间	Gsi jian	200000
+时间	shi Ggan	200000
+时间	shi jian	200000
+旷	Gkong	120000
+旷	Gkuong	120000
+旷	kuang	120000
+旺	Gwong	100000
+旺	Gyong	100000
+旺	wang	100000
+昂	Gngong	145000
+昂	ang	145000
+昆	Gkuin	120000
+昆	Gkun	120000
+昆	kun	120000
+昌	Gcong	156892
+昌	chang	156892
+明	Gmen	200000
+明	Gmiang	200000
+明	Gniang	200000
+明	ming	200000
+明日	Gniang Gnit	91167
+明日	Gniang ri	91167
+明日	ming Gnit	91167
+明日	ming ri	91167
+明朝	Gniang Gzêu	99814
+明朝	Gniang chao	99814
+明朝	ming Gzêu	99814
+明朝	ming chao	99814
+昏	Gfen	120000
+昏	Gfin	120000
+昏	hun	120000
+易	Gni	120000
+易	Gyak	120000
+易	Gyi	120000
+易	Gyik	120000
+易	yi	120000
+昔	Gxik	120000
+昔	xi	120000
+昙	Gton	90000
+昙	tan	90000
+星	Gxiang	30000
+星	Gxin	30000
+星	xing	30000
+星子	Gxin Gzi	100000
+星子	xing Gzi	100000
+星子	xing zi	100000
+星星	Gxin Gxin	25398
+星星	Gxin xing	25398
+星星	xing Gxin	25398
+星星	xing xing	25398
+星期	Gxin Gqi	101330
+星期	xing Gqi	101330
+星期	xing qi	101330
+映	Gyang	102862
+映	Gyin	102862
+映	ying	102862
+春	Gcin	120000
+春	Gcun	120000
+春	Gcyun	120000
+春	chun	120000
+春天	Gcin Gtiên	1421
+春天	Gcin tian	1421
+春天	chun Gtiên	1421
+春天	chun tian	1421
+昧	Gmêi	100931
+昧	mei	100931
+昨	Gcok	120000
+昨	zuo	120000
+昭	Gziêu	120000
+昭	Gzêu	120000
+昭	zhao	120000
+是	Gsi	200000
+是	shi	200000
+昵	Gni	74682
+昼	Gzeu	175000
+昼	Gziu	175000
+昼	zhou	175000
+昼上	Gziu Gsong	93224
+昼上	Gziu shang	93224
+昼上	zhou Gsong	93224
+昼上	zhou shang	93224
+昼间	Gziu Ggan	103867
+昼间	Gziu jian	103867
+昼间	zhou Ggan	103867
+昼间	zhou jian	103867
+昼饭	Gziu Gfan	97671
+昼饭	zhou Gfan	97671
+昼饭	zhou fan	97671
+显	Ghiên	175000
+显	Gxiên	175000
+显	xian	175000
+晃	Gfong	166738
+晃	huang	166738
+晋	Gji	120000
+晋	Gjin	120000
+晋	jin	120000
+晌	Gsong	102269
+晌	shang	102269
+晏	Gngan	127148
+晏	yan	127148
+晏后日	Gngan Ghêu Gnit	100484
+晏后日	Gngan Ghêu ri	100484
+晏后日	Gngan hou Gnit	100484
+晏后日	Gngan hou ri	100484
+晏后日	yan Ghêu Gnit	100484
+晏后日	yan Ghêu ri	100484
+晏后日	yan hou Gnit	100484
+晏后日	yan hou ri	100484
+晒	Gsai	120000
+晒	shai	120000
+晓	Gxiau	145000
+晓	Gxiêu	145000
+晓	xiao	145000
+晕	Gyin	120000
+晕	yun	120000
+晚	Gman	190000
+晚	Gngan	123263
+晚	Gwan	190000
+晚	wan	190000
+晤	Gng	76500
+晤	wu	76500
+晦	Gfêi	105665
+晦	hui	105665
+晨	Gcin	125000
+晨	Gsen	125000
+晨	Gsin	125000
+晨	chen	125000
+普	Gpu	145000
+景	Gjiang	120000
+景	Gjin	120000
+景	jing	120000
+晴	Gqiang	125000
+晴	Gqin	125000
+晴	qing	125000
+晶	Gjiang	120000
+晶	Gjin	120000
+晶	jing	120000
+智	Gzik	120000
+智	zhi	120000
+晾	Glong	103960
+晾	liang	103960
+暂	Gcan	120000
+暂	Gziên	120000
+暂	zan	120000
+暍	Gniêt	122307
+暍	ye	122307
+暍到哩	Gniêt Gdau Gli	123742
+暍到哩	Gniêt dao Gli	123742
+暍到哩	ye Gdau Gli	123742
+暍到哩	ye dao Gli	123742
+暍到哩	ye dao li	123742
+暑	Gsyu	150000
+暑	Gxyu	150000
+暑	shu	150000
+暖	Glon	120000
+暖	Gnyuon	120000
+暖	nuan	120000
+暗	Gngon	145000
+暗	an	145000
+暮	Gmu	120000
+暴	Gpau	120000
+暴	bao	120000
+暴雨	Gpau Gyi	558
+暴雨	Gpau yu	558
+暴雨	bao Gyi	558
+暴雨	bao yu	558
+曲	Gqiuk	145000
+曲	qu	145000
+曳	Gyê	122059
+曳	ye	122059
+曳到渠	Gyê Gdau Gjiê	125975
+曳到渠	Gyê Gdau qu	125975
+曳到渠	Gyê dao Gjiê	125975
+曳到渠	Gyê dao qu	125975
+曳到渠	ye Gdau Gjiê	125975
+曳到渠	ye Gdau qu	125975
+曳到渠	ye dao Gjiê	125975
+曳到渠	ye dao qu	125975
+曳紧	Gyê Gjin	124445
+曳紧	ye Gjin	124445
+曳紧	ye jin	124445
+更	Ggang	200000
+更	Ggiên	200000
+更	Gjiên	200000
+更	geng	200000
+曹	Gcau	120000
+曹	Gciêu	120000
+曹	cao	120000
+曼	Gman	105867
+曾	Gcên	120000
+曾	Gziên	120000
+曾	Gzên	120000
+曾	ceng	120000
+替	Gti	120000
+最	Gzêi	200000
+最	zui	200000
+月	Gnyueok	200000
+月	Gnyuêt	200000
+月	yue	200000
+月份	Gnyuêt Gfin	1754
+月份	Gnyuêt fen	1754
+月份	yue Gfin	1754
+月份	yue fen	1754
+月光	Gnyuêt Gguang	104908
+月光	yue Gguang	104908
+月光	yue guang	104908
+月光爷爷	Gnyuêt Gguang Gya Gya	100302
+月光爷爷	Gnyuêt Gguang Gya ye	100302
+月光爷爷	Gnyuêt Gguang ye Gya	100302
+月光爷爷	Gnyuêt Gguang ye ye	100302
+月光爷爷	yue Gguang Gya Gya	100302
+月光爷爷	yue Gguang Gya ye	100302
+月光爷爷	yue Gguang ye Gya	100302
+月光爷爷	yue Gguang ye ye	100302
+月光爷爷	yue guang ye ye	100302
+有	Gyeu	200000
+有	Gyiu	200000
+有	you	200000
+朋	Gpung	120000
+朋	peng	120000
+服	Gfuk	140000
+服	fu	140000
+朗	Glong	120000
+朗	lang	120000
+望	Gmong	200000
+望	Gwong	200000
+望	wang	200000
+朝	Gciêu	120000
+朝	Gcêu	120000
+朝	Gziêu	120000
+朝	Gzêu	120000
+朝	chao	120000
+期	Gqi	200000
+木	Gmuk	125000
+木	mu	125000
+未	Gmi	200000
+未	Gvi	200000
+未	wei	200000
+末	Gmo	145000
+末	Gmêk	145000
+末	mo	145000
+本	Gben	200000
+本	Gbin	200000
+本	ben	200000
+术	Gsut	125000
+术	Gsyuk	125000
+术	Gxyut	125000
+术	shu	125000
+朱	Gjyu	170000
+朱	Gzyu	170000
+朱	zhu	170000
+朴	Gpiau	120000
+朴	Gpuk	120000
+朴	pu	120000
+朵	Gdo	109030
+朵	duo	109030
+机	Gji	145000
+朽	Gsiu	145000
+朽	Gxieu	145000
+朽	Gxiu	145000
+朽	xiu	145000
+杀	Gsaet	195000
+杀	sha	195000
+杂	Gcaet	120000
+杂	Gceok	120000
+杂	Gzaep	120000
+杂	za	120000
+权	Gqyuon	200000
+权	quan	200000
+杆	Ggon	120000
+杆	gan	120000
+杈	Gca	75744
+杈	Gcaet	75744
+杈	cha	75744
+杉	Gsa	120000
+杉	Gsan	120000
+杉	shan	120000
+李	Gli	120000
+杏	Gxik	120000
+杏	Gxin	120000
+杏	xing	120000
+材	Gcêi	120000
+材	cai	120000
+村	Gcin	120000
+村	Gcun	120000
+村	Gcyun	120000
+村	cun	120000
+杖	Gcong	120000
+杖	Gzong	120000
+杖	zhang	120000
+杜	Gtu	120000
+杜	du	120000
+杞	Gqi	90000
+束	Gsuk	120000
+束	Gxyu	120000
+束	shu	120000
+杠	Ggong	125000
+杠	gang	125000
+条	Gtiau	200000
+条	Gtiêu	200000
+条	tiao	200000
+来	Glêi	200000
+来	lai	200000
+来晏哩	Glêi Gngan Gli	125493
+来晏哩	Glêi yan Gli	125493
+来晏哩	lai Gngan Gli	125493
+来晏哩	lai yan Gli	125493
+来晏哩	lai yan li	125493
+杨	Gyong	120000
+杨	yang	120000
+杪	Gmiêu	90000
+杪	miao	90000
+杭	Ghong	120000
+杭	hang	120000
+杯	Gbêi	120000
+杯	bei	120000
+杰	Gqiêt	120000
+杰	jie	120000
+杵	Gcyu	90000
+杵	chu	90000
+杷	Gpa	90000
+松	Gsung	120000
+松	Gxiung	120000
+松	song	120000
+板	Gban	120000
+极	Gjik	120000
+极	Gqik	120000
+极	ji	120000
+构	Ggiêu	120000
+构	Gjiau	120000
+构	gou	120000
+枇	Gpi	90000
+枉	Gmong	120000
+枉	Gwong	120000
+枉	wang	120000
+析	Gxik	120000
+析	xi	120000
+枕	Gzen	120000
+枕	Gzin	120000
+枕	zhen	120000
+林	Glen	120000
+林	Glin	120000
+林	lin	120000
+枚	Gmi	108485
+枚	Gmêi	108485
+枚	mei	108485
+果	Gguo	120000
+枝	Gzi	120000
+枝	zhi	120000
+枢	Gqyu	120000
+枢	shu	120000
+枣	Gzau	145000
+枣	zao	145000
+枪	Gqiong	120000
+枪	qiang	120000
+枫	Gfung	177546
+枫	feng	177546
+枯	Gku	120000
+架	Gga	145000
+架	jia	145000
+枷	Gga	90000
+枷	Gka	90000
+枷	jia	90000
+枸	Ggiêu	90000
+枸	gou	90000
+柄	Gben	120000
+柄	Gbin	120000
+柄	bing	120000
+柏	Gbak	170000
+柏	Gbêt	170000
+柏	bai	170000
+某	Gmêu	200000
+某	mou	200000
+柑	Ggon	120000
+柑	gan	120000
+柒	Gqit	104373
+柒	qi	104373
+染	Gliên	135000
+染	Glên	135000
+染	Gniên	135000
+染	ran	135000
+柔	Glêu	120000
+柔	rou	120000
+柚	Gyeu	90000
+柚	you	90000
+柜	Gkui	120000
+柜	Gqyu	120000
+柜	gui	120000
+柠	Gnen	102021
+柠	ning	102021
+查	Gca	200000
+查	cha	200000
+柬	Gjiên	108030
+柬	jian	108030
+柱	Gcyu	125000
+柱	Gqyu	125000
+柱	zhu	125000
+柳	Glieu	120000
+柳	Gliu	120000
+柳	liu	120000
+柴	Gcai	120000
+柴	Gcêi	120000
+柴	chai	120000
+柿	Gci	120000
+柿	Gsi	120000
+柿	Gzi	120000
+柿	shi	120000
+栀	Gzi	90000
+栀	zhi	90000
+栅	Gsak	120000
+栅	Gsan	120000
+栅	zha	120000
+标	Gbiau	200000
+标	Gbiêu	200000
+标	biao	200000
+栈	Gziên	120000
+栈	zhan	120000
+栋	Gdung	120000
+栋	dong	120000
+栏	Glan	120000
+树	Gsyu	175000
+树	Gxyu	175000
+树	shu	175000
+栓	Gson	101894
+栓	shuan	101894
+栖	Gqi	120000
+栗	Gtik	120000
+栗	li	120000
+校	Ggau	120000
+校	Ghau	120000
+校	Gxiêu	120000
+校	xiao	120000
+株	Gjyu	120000
+株	zhu	120000
+样	Gyong	200000
+样	yang	200000
+核	Ghot	120000
+核	Ghyuêt	120000
+核	Ghêk	120000
+核	Gwek	120000
+核	he	120000
+根	Ggiên	195000
+根	Gjiên	195000
+根	gen	195000
+格	Ggaek	120000
+格	Ggak	120000
+格	Ggiêk	120000
+格	Ggok	120000
+格	ge	120000
+栽	Gzai	120000
+栽	Gzêi	120000
+栽	zai	120000
+栽禾	Gzai Gwo	97929
+栽禾	Gzai he	97929
+栽禾	zai he	97929
+桂	Ggui	30000
+桃	Gtau	120000
+桃	tao	120000
+桅	Gvi	90000
+桅	wei	90000
+框	Gkong	145000
+框	Gkuong	145000
+框	kuang	145000
+案	Gngon	120000
+案	an	120000
+桊	Gjyuon	13200
+桊	juan	13200
+桌	Gzok	120000
+桌	zhuo	120000
+桐	Gtung	145000
+桐	tong	145000
+桑	Gsong	120000
+桑	sang	120000
+桠	Gnga	10000
+桠	ya	10000
+档	Gdong	134790
+档	dang	134790
+桥	Gqiau	120000
+桥	Gqiêu	120000
+桥	qiao	120000
+桦	Gfa	131573
+桦	hua	131573
+桨	Gjiong	120000
+桨	jiang	120000
+桩	Gzong	120000
+桩	zhuang	120000
+桶	Gtung	145000
+桶	tong	145000
+梁	Gliong	120000
+梁	liang	120000
+梅	Gmi	120000
+梅	Gmêi	120000
+梅	mei	120000
+梆	Gbong	120000
+梆	bang	120000
+梗	Ggiên	120000
+梗	Gguang	120000
+梗	geng	120000
+梢	Gseu	120000
+梢	shao	120000
+梦	Gmung	200000
+梦	meng	200000
+梧	Gng	120000
+梧	Gwu	120000
+梧	wu	120000
+梨	Gli	120000
+梭	Gso	120000
+梭	suo	120000
+梯	Gti	120000
+械	Gkêi	145000
+械	xie	145000
+梳	Gsu	120000
+梳	shu	120000
+检	Ggan	170000
+检	Gjiên	170000
+检	jian	170000
+棉	Gmiên	120000
+棉	mian	120000
+棋	Gqi	120000
+棍	Gguin	120000
+棍	Ggun	120000
+棍	gun	120000
+棒	Gbong	120000
+棒	bang	120000
+棕	Gzung	120000
+棕	zong	120000
+棚	Gpung	120000
+棚	peng	120000
+棠	Gtong	120000
+棠	tang	120000
+森	Gsin	120000
+森	Gsiên	120000
+森	Gsên	120000
+森	sen	120000
+森林	Gsiên Glin	5024
+森林	sen Glin	5024
+森林	sen lin	5024
+棵	Gko	120000
+棵	ke	120000
+棺	Ggun	120000
+棺	guan	120000
+椅	Gyi	145000
+植	Gcek	128000
+植	Gcik	128000
+植	zhi	128000
+椒	Gjiau	120000
+椒	Gjiêu	120000
+椒	jiao	120000
+椭	Gto	103154
+椭	tuo	103154
+椿	Gcyun	120000
+椿	chun	120000
+楂	Gza	73888
+楂	zha	73888
+楔	Gxiêk	90000
+楔	xie	90000
+楚	Gcu	125000
+楚	Gqyu	125000
+楚	chu	125000
+楝	Gliên	90000
+楝	lian	90000
+楦	Gxyuon	90000
+楦	xuan	90000
+楷	Gkêi	120000
+楷	kai	120000
+楼	Glêu	120000
+楼	lou	120000
+概	Gkêi	130000
+概	gai	130000
+榜	Gbong	120000
+榜	bang	120000
+榨	Gza	120000
+榨	Gzak	126351
+榨	zha	126351
+榫	Gxin	10000
+榫	sun	10000
+榴	Glieu	120000
+榴	Gliu	120000
+榴	liu	120000
+槐	Gfai	120000
+槐	huai	120000
+槛	Gkang	101366
+槛	kan	101366
+槽	Gcau	145000
+槽	Gciêu	145000
+槽	cao	145000
+樟	Gzong	120000
+樟	zhang	120000
+模	Gmo	170000
+模	Gmu	170000
+模	mo	170000
+横	Gwang	180000
+横	heng	180000
+横峰	Gwang Gfung	120990
+横峰	Gwang feng	120990
+横峰	heng Gfung	120990
+横峰	heng feng	120990
+樱	Gyin	120000
+樱	ying	120000
+樵	Gqiêu	90000
+樵	qiao	90000
+橘	Gjyuk	120000
+橘	ju	120000
+橙	Gcang	30000
+橙	Gcen	30000
+橙	cheng	30000
+橡	Gxiong	120000
+橡	xiang	120000
+橱	Gcyu	145000
+橱	chu	145000
+檀	Gtan	120000
+檐	Gyên	105523
+檐	yan	105523
+欛	Gba	5051
+欠	Gqiên	120000
+欠	qian	120000
+次	Gci	200000
+欢	Gfiên	120000
+欢	Gfon	120000
+欢	Gfun	120000
+欢	Gwin	120000
+欢	Gwiên	120000
+欢	Gwên	120000
+欢	huan	120000
+欣	Gxin	120000
+欧	Geu	145000
+欧	Gngiêu	145000
+欧	ou	145000
+欲	Gni	120000
+欲	Gqiên	124048
+欲	Gyu	120000
+欲	yu	124048
+欺	Gqi	120000
+款	Gkun	125000
+款	Gkuon	125000
+款	kuan	125000
+歇	Gxiêt	200000
+歇	xie	200000
+歇昼	Gxiêt Gziu	103556
+歇昼	Gxiêt zhou	103556
+歇昼	xie Gziu	103556
+歇昼	xie zhou	103556
+歉	Gqiên	120000
+歉	qian	120000
+歌	Ggo	145000
+歌	ge	145000
+止	Gzi	145000
+止	zhi	145000
+正	Gzang	200000
+正	Gzen	200000
+正	zheng	200000
+此	Gci	200000
+步	Gpu	150000
+步	bu	150000
+武	Gwu	120000
+歪	Gqia	127144
+歪	Gwai	120000
+歪	wai	127144
+歹	Gdai	120000
+歹	Gdêi	120000
+歹	dai	120000
+死	Gsi	200000
+歼	Gjiên	105537
+歼	jian	105537
+殃	Gyong	120000
+殃	yang	120000
+殉	Gxyun	100710
+殉	xun	100710
+殊	Gsyu	120000
+殊	Gxyu	120000
+殊	shu	120000
+残	Gcan	120000
+殴	Gngeu	101168
+殴	Gngiêu	101168
+殴	Gniêu	101168
+殴	ou	101168
+段	Gton	200000
+段	Gtuon	200000
+段	duan	200000
+殷	Gyin	120000
+殿	Gdiên	120000
+殿	dian	120000
+毁	Gfi	120000
+毁	Gfêi	120000
+毁	hui	120000
+毅	Gyik	105838
+毅	yi	105838
+母	Gmu	200000
+母妗	Gmu Gqin	127047
+母妗	Gmu jin	127047
+母妗	mu jin	127047
+母嬷	Gmu Gma	127361
+每	Gmêi	200000
+每	mei	200000
+毒	Gtuk	145000
+毒	du	145000
+比	Gbi	200000
+毕	Gbek	120000
+毕	Gbit	120000
+毕	bi	120000
+毙	Gbi	120000
+毙	Gpi	120000
+毙	bi	120000
+毛	Gmau	200000
+毛	mao	200000
+毡	Gziên	120000
+毡	zhan	120000
+毫	Ghau	120000
+毫	hao	120000
+毯	Gtan	120000
+毽	Gqiên	5264
+毽	jian	5264
+氏	Gsi	145000
+氏	shi	145000
+民	Gmen	125000
+民	Gmin	125000
+民	min	125000
+氓	Gmin	120000
+氓	Gmong	120000
+氓	mang	120000
+气	Gqi	180000
+气候	Gqi Gheu	6832
+气候	Gqi hou	6832
+气候	qi hou	6832
+氛	Gfin	104988
+氛	fen	104988
+氢	Gqiang	133335
+氢	Gqin	133335
+氢	qing	133335
+氧	Gyong	120000
+氧	yang	120000
+氨	Gngan	101882
+氨	an	101882
+水	Gfi	200000
+水	Ghoi	200000
+水	Gsyu	200000
+水	Gxyu	200000
+水	shui	200000
+永	Gyin	120000
+永	Gyung	120000
+永	yong	120000
+氽	Gcon	5686
+氽	tun	5686
+汁	Gzek	120000
+汁	Gzip	120000
+汁	zhi	120000
+求	Gqieu	140000
+求	Gqiu	140000
+求	qiu	140000
+汇	Gfêi	145000
+汇	hui	145000
+汉	Ghon	125000
+汉	han	125000
+汐	Gxik	97501
+汐	xi	97501
+汗	Ghon	120000
+汗	han	120000
+汛	Gxyun	108595
+汛	xun	108595
+汞	Ggung	102222
+汞	gong	102222
+江	Ggong	150000
+江	jiang	150000
+池	Gci	120000
+池	chi	120000
+污	Gwu	120000
+汤	Gtong	120000
+汤	tang	120000
+汪	Gwong	170000
+汪	wang	170000
+汰	Gtêi	101280
+汰	tai	101280
+汹	Gxiung	102156
+汹	xiong	102156
+汽	Gqi	120000
+汾	Gfen	90000
+沃	Gwo	135000
+沃	Gwok	135000
+沃	wo	135000
+沈	Gsen	145000
+沈	Gsin	145000
+沈	shen	145000
+沉	Gcen	120000
+沉	Gcin	120000
+沉	chen	120000
+沐	Gmuk	110104
+沐	mu	110104
+沓	Gdaek	115000
+沓	da	115000
+沕	Gmi	30000
+沙	Gsa	145000
+沙	sha	145000
+沙漠	Gsa Gmok	2193
+沙漠	Gsa mo	2193
+沙漠	sha Gmok	2193
+沙漠	sha mo	2193
+沛	Gpi	108478
+沛	pei	108478
+沟	Ggiêu	120000
+沟	Gjiau	120000
+沟	gou	120000
+没	Gmau	200000
+没	Gmot	200000
+没	Gmêt	200000
+没	mei	200000
+沤	Gngiêu	115000
+沤	ou	115000
+沦	Glun	120000
+沧	Gcong	109674
+沧	cang	109674
+沪	Gfu	145000
+沪	hu	145000
+沫	Gmot	120000
+沫	Gmêt	120000
+沫	mo	120000
+沮	Gciê	108493
+沮	Gqyu	108493
+沮	Gzi	108493
+沮	ju	108493
+河	Gho	145000
+河	he	145000
+河流	Gho Gliu	5249
+河流	he Gliu	5249
+河流	he liu	5249
+沸	Gfi	108557
+沸	fei	108557
+油	Gyeu	145000
+油	Gyiu	145000
+油	you	145000
+治	Gci	200000
+治	Gzik	200000
+治	zhi	200000
+沼	Gziêu	109461
+沼	zhao	109461
+沽	Ggu	101024
+沾	Gziên	120000
+沾	zhan	120000
+沿	Gniên	120000
+沿	Gnyuon	120000
+沿	Gyên	120000
+沿	yan	120000
+泄	Gxiêk	120000
+泄	xie	120000
+泉	Gqyuon	120000
+泉	quan	120000
+泊	Gbat	132463
+泊	Gbo	132463
+泊	po	132463
+泌	Gbit	120000
+泌	mi	120000
+法	Gfaet	120000
+法	fa	120000
+泛	Gfan	155293
+泞	Gnen	105075
+泞	ning	105075
+泡	Gpau	170000
+泡	pao	170000
+波	Gbo	150000
+波浪	Gbo Glong	337
+波浪	Gbo lang	337
+波浪	bo lang	337
+泣	Glip	120000
+泣	Gqit	120000
+泣	qi	120000
+泥	Gni	120000
+注	Gjyu	170000
+注	Gzyu	170000
+注	zhu	170000
+泪	Gli	130000
+泪	Glêi	130000
+泪	lei	130000
+泰	Gtai	120000
+泰	Gtêi	120000
+泰	tai	120000
+泳	Gyin	125000
+泳	Gyung	125000
+泳	yong	125000
+泻	Gxia	120000
+泻	xie	120000
+泼	Gpêt	120000
+泼	po	120000
+泽	Gcêk	170000
+泽	Gzak	170000
+泽	Gziêk	170000
+泽	ze	170000
+洁	Gjiêt	120000
+洁	jie	120000
+洇	Gyin	90000
+洋	Gyong	155000
+洋	yang	155000
+洒	Gsaet	120000
+洒	sa	120000
+洗	Gxi	170000
+洛	Glok	120000
+洛	luo	120000
+洞	Gtung	195000
+洞	dong	195000
+津	Gjin	120000
+洪	Gfung	120000
+洪	hong	120000
+洲	Gzeu	170000
+洲	Gziu	170000
+洲	zhou	170000
+活	Gfiêt	200000
+活	Gwot	200000
+活	Gwêk	200000
+活	huo	200000
+洼	Gwa	103677
+洽	Gqiak	107170
+洽	qia	107170
+派	Gpai	195000
+派	Gpêi	195000
+派	pai	195000
+流	Glieu	200000
+流	Gliu	200000
+流	liu	200000
+流水涎	Glieu Gsyu Gcan	124794
+流水涎	Glieu Gsyu xian	124794
+流水涎	Glieu shui Gcan	124794
+流水涎	Glieu shui xian	124794
+流水涎	liu Gsyu Gcan	124794
+流水涎	liu Gsyu xian	124794
+流水涎	liu shui Gcan	124794
+流水涎	liu shui xian	124794
+浅	Gqiên	120000
+浅	Gqyuon	120000
+浅	qian	120000
+浆	Gjiong	120000
+浆	jiang	120000
+浇	Gjiau	120000
+浇	Gjiêu	120000
+浇	jiao	120000
+浊	Gcok	104725
+浊	Gzok	104725
+浊	zhuo	104725
+测	Gcak	120000
+测	Gcêk	120000
+测	ce	120000
+济	Gji	120000
+浑	Gfin	120000
+浑	hun	120000
+浒	Gfu	90000
+浒	hu	90000
+浓	Gniung	145000
+浓	Gnung	145000
+浓	nong	145000
+浙	Gziêt	120000
+浙	Gzêk	120000
+浙	zhe	120000
+浜	Gbong	79630
+浜	bang	79630
+浦	Gpu	102044
+浩	Ghau	103401
+浩	hao	103401
+浪	Glong	145000
+浪	lang	145000
+浮	Gfau	120000
+浮	Gfêu	120000
+浮	Gpau	120000
+浮	fu	120000
+浴	Gyuk	125538
+浴	yu	125538
+海	Ghêi	200000
+海	hai	200000
+海洋	Ghêi Gyong	4068
+海洋	Ghêi yang	4068
+海洋	hai Gyong	4068
+海洋	hai yang	4068
+浸	Gjin	145000
+涂	Gtu	120000
+消	Gxiau	120000
+消	Gxiêu	120000
+消	xiao	120000
+涉	Gsiêp	120000
+涉	Gsêk	120000
+涉	she	120000
+涌	Gyung	108233
+涌	yong	108233
+涎	Gcan	122443
+涎	xian	122443
+涕	Gti	120000
+涛	Gtau	125000
+涛	tao	125000
+涝	Glau	107429
+涝	lao	107429
+涡	Gwo	120000
+涣	Gfiên	102950
+涣	Gwin	102950
+涣	Gwiên	102950
+涣	Gwên	102950
+涣	huan	102950
+涤	Gdik	104181
+涤	Gtik	104181
+涤	di	104181
+润	Glun	108696
+润	run	108696
+涨	Gzong	130000
+涨	zhang	130000
+涩	Gsiêp	120000
+涩	Gsêk	120000
+涩	se	120000
+液	Gyêk	100135
+液	ye	100135
+涵	Ghon	120000
+涵	han	120000
+淋	Glin	145000
+淑	Gsuk	120000
+淑	shu	120000
+淘	Gtau	120000
+淘	tao	120000
+淡	Gtam	120000
+淡	Gtan	120000
+淡	dan	120000
+淦	Ggon	120000
+淦	gan	120000
+淫	Gyin	120000
+深	Gsen	120000
+深	Gsin	120000
+深	shen	120000
+深夜	Gsin Gya	712
+深夜	Gsin ye	712
+深夜	shen Gya	712
+深夜	shen ye	712
+混	Gfen	200000
+混	Gfin	200000
+混	hun	200000
+淹	Gniên	120000
+淹	Gyên	120000
+淹	yan	120000
+添	Gtiên	120000
+添	tian	120000
+清	Gqen	200000
+清	Gqiang	200000
+清	Gqin	200000
+清	qing	200000
+渊	Gyuon	120000
+渊	yuan	120000
+渐	Gjiên	145000
+渐	jian	145000
+渔	Gniê	106716
+渔	yu	106716
+渗	Gsen	108153
+渗	shen	108153
+渠	Ggiê	123811
+渠	Gjiê	123811
+渠	Gkiê	123811
+渠	Gqi	123811
+渠	Gqiuk	123811
+渠	Gqiê	123811
+渠	qu	123811
+渠个	Gjiê Ggo	124961
+渠个	Gjiê Ggêi	124961
+渠个	Gjiê ge	124961
+渠个	qu Ggo	124961
+渠个	qu Ggêi	124961
+渠个	qu ge	124961
+渠等	Gjiê Gden	123878
+渠等	Gjiê deng	123878
+渠等	qu Gden	123878
+渠等	qu deng	123878
+渡	Gtu	120000
+渡	du	120000
+渣	Gza	120000
+渣	zha	120000
+温	Gwin	200000
+温	Gwiên	200000
+温	Gwun	200000
+温	Gwên	200000
+温	wen	200000
+港	Ggong	175000
+港	gang	175000
+渴	Gkot	145000
+渴	ke	145000
+游	Gyeu	145000
+游	Gyiu	145000
+游	you	145000
+湖	Gfu	145000
+湖	hu	145000
+湘	Gxiong	125000
+湘	xiang	125000
+湾	Gwan	145000
+湿	Gsek	145000
+湿	Gsik	145000
+湿	shi	145000
+溃	Gkui	103739
+溉	Ggêi	102260
+溉	gai	102260
+源	Gnyuon	170000
+源	yuan	170000
+溜	Glieu	120000
+溜	liu	120000
+溪	Gxi	145000
+滋	Gzi	120000
+滑	Gwaet	120000
+滑	hua	120000
+滔	Gtau	120000
+滔	tao	120000
+滕	Gtên	90000
+滕	teng	90000
+滗	Gbi	124700
+滗	Gbit	124700
+滗	bi	124700
+滗水	Gbi Gsyu	122006
+滗水	Gbi shui	122006
+滗水	bi shui	122006
+滗汤	Gbi Gtong	125836
+滗汤	Gbi tang	125836
+滗汤	bi tang	125836
+滗米	Gbi Gmi	123145
+滚	Gguin	120000
+滚	Ggun	120000
+滚	gun	120000
+满	Gmiên	200000
+满	Gmên	200000
+满	man	200000
+滤	Gli	120000
+滤	Glyut	120000
+滤	lv	120000
+滥	Glan	103472
+滨	Gbin	107611
+滩	Gtan	120000
+滩	Gtiên	120000
+滩	tan	120000
+滴	Gdek	145000
+滴	Gdiak	145000
+滴	Gdik	145000
+滴	di	145000
+漂	Gpiau	145000
+漂	Gpiêu	145000
+漂	piao	145000
+漆	Gqit	120000
+漆	qi	120000
+漏	Glêu	170000
+漏	lou	170000
+演	Gyên	120000
+演	yan	120000
+漠	Gmok	120000
+漠	mo	120000
+漩	Gxyuon	90000
+漩	xuan	90000
+漫	Gmiên	120000
+漫	Gmên	120000
+漫	man	120000
+漱	Gsu	120000
+漱	shu	120000
+潘	Gpên	120000
+潘	pan	120000
+潜	Gqiên	107029
+潜	qian	107029
+潦	Gliêu	90000
+潦	lao	90000
+潭	Gtan	120000
+潮	Gciêu	120000
+潮	Gcêu	120000
+潮	chao	120000
+潮汐	Gcêu Gxik	25298
+潮汐	Gcêu xi	25298
+潮汐	chao Gxik	25298
+潮汐	chao xi	25298
+潲	Gsau	90000
+潲	shao	90000
+潽	Gpu	5522
+澄	Gtên	105547
+澄	cheng	105547
+澡	Gzau	145000
+澡	zao	145000
+澳	Gngau	100977
+澳	ao	100977
+激	Gjik	145000
+激	ji	145000
+瀑	Gpau	120000
+瀑	pu	120000
+灌	Ggun	120000
+灌	Gguon	120000
+灌	guan	120000
+火	Gfo	120000
+火	huo	120000
+灭	Gmiêt	120000
+灭	mie	120000
+灯	Gdiên	120000
+灯	deng	120000
+灰	Gfi	120000
+灰	Gfêi	120000
+灰	hui	120000
+灵	Glen	170000
+灵	Gliang	170000
+灵	ling	170000
+灶	Gzau	120000
+灶	zao	120000
+灸	Gjieu	102788
+灸	Gjiu	102788
+灸	jiu	102788
+灼	Gcok	103329
+灼	Gzok	103329
+灼	zhuo	103329
+灾	Gzai	120000
+灾	Gzêi	120000
+灾	zai	120000
+灿	Gcan	103060
+炆	Gwin	122662
+炆	Gwiên	122662
+炆	Gwun	122662
+炆	Gwên	122662
+炆	wen	122662
+炆排骨	Gwin Gpai Gguet	125475
+炆排骨	Gwin Gpai gu	125475
+炆排骨	Gwiên Gpai Gguet	125475
+炆排骨	Gwiên Gpai gu	125475
+炆排骨	Gwên Gpai Gguet	125475
+炆排骨	Gwên Gpai gu	125475
+炆排骨	wen Gpai Gguet	125475
+炆排骨	wen Gpai gu	125475
+炆排骨	wen pai gu	125475
+炆汤	Gwin Gtong	126974
+炆汤	Gwin tang	126974
+炆汤	Gwiên Gtong	126974
+炆汤	Gwiên tang	126974
+炆汤	Gwên Gtong	126974
+炆汤	Gwên tang	126974
+炆汤	wen Gtong	126974
+炆汤	wen tang	126974
+炆鸡	Gwin Gji	126041
+炆鸡	Gwiên Gji	126041
+炆鸡	Gwên Gji	126041
+炆鸡	wen Gji	126041
+炆鸡	wen ji	126041
+炉	Glu	120000
+炊	Gcyu	120000
+炊	Gqyu	120000
+炊	chui	120000
+炎	Gniên	120000
+炎	Gyên	120000
+炎	yan	120000
+炒	Gcau	155000
+炒	chao	155000
+炕	Gkong	120000
+炕	kang	120000
+炖	Gdun	90000
+炙	Gzak	90000
+炙	zhi	90000
+炫	Gxyuon	101494
+炫	xuan	101494
+炬	Gji	108381
+炬	ju	108381
+炭	Gtan	120000
+炮	Gpau	145000
+炮	pao	145000
+炸	Gza	170000
+炸	zha	170000
+点	Gdiak	200000
+点	Gdiên	200000
+点	dian	200000
+炼	Gliên	120000
+炼	lian	120000
+烁	Gsok	103902
+烁	shuo	103902
+烂	Glan	170000
+烈	Gliêt	120000
+烈	lie	120000
+烊	Gyong	124660
+烊	yang	124660
+烘	Gfung	120000
+烘	Gkong	120000
+烘	hong	120000
+烙	Glok	120000
+烙	lao	120000
+烛	Gzuk	120000
+烛	zhu	120000
+烟	Gyên	120000
+烟	yan	120000
+烤	Gkau	120000
+烤	kao	120000
+烦	Gfan	120000
+烧	Gsêu	145000
+烧	shao	145000
+烫	Gtong	120000
+烫	tang	120000
+热	Glêt	145000
+热	Gniêt	145000
+热	re	145000
+焊	Ghon	120000
+焊	han	120000
+焕	Gfên	120000
+焕	huan	120000
+焖	Gmen	120000
+焦	Ggau	120000
+焦	Gjiêu	120000
+焦	jiao	120000
+焯	Gcau	73647
+焯	Gsaep	124682
+焯	chao	124682
+焰	Gniên	120000
+焰	Gyên	120000
+焰	yan	120000
+然	Gliên	145000
+然	Glên	145000
+然	ran	145000
+煌	Gfong	103463
+煌	Gwong	103463
+煌	huang	103463
+煎	Gjiên	120000
+煎	jian	120000
+煞	Gsaek	120000
+煞	sha	120000
+煠	Gsaep	120692
+煠	zha	120692
+煠花生	Gsaep Gfa Gson	125140
+煠花生	Gsaep Gfa sheng	125140
+煠花生	Gsaep hua Gson	125140
+煠花生	Gsaep hua sheng	125140
+煠花生	zha Gfa Gson	125140
+煠花生	zha Gfa sheng	125140
+煠花生	zha hua Gson	125140
+煠花生	zha hua sheng	125140
+煠菜	Gsaep Gcêi	126748
+煠菜	Gsaep cai	126748
+煠菜	zha Gcêi	126748
+煠菜	zha cai	126748
+煤	Gmêi	145000
+煤	mei	145000
+照	Gziêu	120000
+照	Gzêu	120000
+照	zhao	120000
+煨	Gwêi	95000
+煨	wei	95000
+煮	Gjyu	170000
+煮	Gzyu	170000
+煮	zhu	170000
+熄	Gxik	120000
+熄	xi	120000
+熊	Gxiung	170000
+熊	xiong	170000
+熏	Gsyun	120000
+熏	xun	120000
+熔	Glung	102735
+熔	Gnung	102735
+熔	rong	102735
+熟	Gsuk	150000
+熟	shu	150000
+熨	Gyik	90000
+熨	yun	90000
+熬	Gngau	120000
+熬	ao	120000
+熯	Ghon	122271
+熯	han	122271
+熯干衣裳	Ghon Ggon Gyi Gsong	125897
+熯干衣裳	Ghon Ggon Gyi shang	125897
+熯干衣裳	Ghon gan Gyi Gsong	125897
+熯干衣裳	Ghon gan Gyi shang	125897
+熯干衣裳	han Ggon Gyi Gsong	125897
+熯干衣裳	han Ggon Gyi shang	125897
+熯干衣裳	han gan Gyi Gsong	125897
+熯干衣裳	han gan Gyi shang	125897
+熯干衣裳	han gan yi shang	125897
+熯粥	Ghon Gzuk	124773
+熯粥	Ghon zhou	124773
+熯粥	han Gzuk	124773
+熯粥	han zhou	124773
+熯饭	Ghon Gfan	127870
+熯饭	han Gfan	127870
+熯饭	han fan	127870
+燃	Gliên	120000
+燃	Glên	120000
+燃	ran	120000
+燕	Gyên	120000
+燕	yan	120000
+燥	Gzau	120000
+燥	zao	120000
+爆	Gbau	170000
+爆	Gpau	170000
+爆	bao	170000
+爨	Gcon	125347
+爨	Gcuon	125347
+爨	cuan	125347
+爨汤	Gcuon Gtong	124653
+爨汤	Gcuon tang	124653
+爨汤	cuan Gtong	124653
+爨汤	cuan tang	124653
+爨肉饼	Gcuon Gniuk Gbiang	122672
+爨肉饼	Gcuon Gniuk bing	122672
+爨肉饼	Gcuon rou Gbiang	122672
+爨肉饼	Gcuon rou bing	122672
+爨肉饼	cuan Gniuk Gbiang	122672
+爨肉饼	cuan Gniuk bing	122672
+爨肉饼	cuan rou Gbiang	122672
+爨肉饼	cuan rou bing	122672
+爪	Gzau	120000
+爪	Gzua	120000
+爪	zhao	120000
+爬	Gpa	130000
+爱	Gngêi	145000
+爱	ai	145000
+父	Gfu	120000
+爷	Gya	123402
+爷	Gyê	123402
+爷	ye	123402
+爷爷	Gya Gya	122696
+爷爷	Gya ye	122696
+爷爷	ye Gya	122696
+爷爷	ye ye	122696
+爸	Gba	120000
+爸	Gbak	120000
+爸	Gya	120000
+爸	ba	120000
+爹	Gdia	120000
+爹	Gdiê	120000
+爹	Gya	126237
+爹	die	126237
+爽	Gsong	120000
+爽	shuang	120000
+片	Gpiên	170000
+片	pian	170000
+版	Gban	120000
+牌	Gpai	145000
+牙	Gnga	120000
+牙	ya	120000
+牚	Gcang	30000
+牚	cheng	30000
+牛	Gniau	155000
+牛	Gniêu	155000
+牛	niu	155000
+牡	Gmuk	120000
+牡	Gmêu	120000
+牡	mu	120000
+牢	Glau	145000
+牢	lao	145000
+牧	Gmuk	120000
+牧	mu	120000
+物	Gwek	195000
+物	Gwêik	195000
+物	wu	195000
+牯	Ggu	90000
+牲	Gsang	120000
+牲	Gsen	120000
+牲	Gsên	120000
+牲	sheng	120000
+牵	Gqiên	130000
+牵	qian	130000
+特	Gdêk	200000
+特	Gtêt	200000
+特	te	200000
+牺	Gxi	120000
+犁	Gli	120000
+犟	Gqiong	100000
+犟	jiang	100000
+犬	Gqyuon	120000
+犬	quan	120000
+犯	Gfan	120000
+状	Gcong	120000
+状	Gzong	120000
+状	zhuang	120000
+犹	Gyiu	120000
+犹	you	120000
+狂	Gkuong	130000
+狂	kuang	130000
+狈	Gbêi	107566
+狈	bei	107566
+狐	Gfu	120000
+狐	hu	120000
+狗	Ggiêu	125000
+狗	Gjiêu	125000
+狗	gou	125000
+狠	Ghiên	120000
+狠	Ghên	120000
+狠	hen	120000
+狡	Ggau	100180
+狡	Gjiau	100180
+狡	Gjiêu	100180
+狡	jiao	100180
+独	Gtuk	120000
+独	du	120000
+狭	Gha	145000
+狭	Ghaep	145000
+狭	xia	145000
+狮	Gsi	120000
+狮	Gsu	120000
+狮	shi	120000
+狰	Gzang	102940
+狰	Gzen	102940
+狰	Gziên	102940
+狰	zheng	102940
+狱	Gni	120000
+狱	Gyi	120000
+狱	Gyik	120000
+狱	Gyu	120000
+狱	yu	120000
+狸	Gli	120000
+狼	Glong	120000
+狼	lang	120000
+猎	Gliêt	145000
+猎	lie	145000
+猛	Gmang	200000
+猛	Gmung	200000
+猛	meng	200000
+猜	Gcai	200000
+猜	Gcêi	200000
+猜	cai	200000
+猥	Gwêi	78993
+猥	wei	78993
+猪	Gzyu	200000
+猪	zhu	200000
+猪衁子	Gzyu Gwong Gzi	122024
+猪衁子	Gzyu huang Gzi	122024
+猪衁子	zhu Gwong Gzi	122024
+猪衁子	zhu huang Gzi	122024
+猪衁子	zhu huang zi	122024
+猫	Gmau	120000
+猫	mao	120000
+献	Gxiên	120000
+献	xian	120000
+猴	Ghêu	120000
+猴	hou	120000
+猾	Gwaet	120000
+猾	hua	120000
+猿	Gyuon	102827
+猿	yuan	102827
+玄	Gxyuon	120000
+玄	xuan	120000
+率	Gliuk	200000
+率	lv	200000
+玉	Gni	145000
+玉	yu	145000
+王	Gwong	145000
+王	wang	145000
+玛	Gma	120000
+玩	Gwêi	200000
+玩	wan	200000
+环	Gfan	200000
+环	Gwan	200000
+环	huan	200000
+现	Gxiên	200000
+现	xian	200000
+玲	Glen	104049
+玲	Gliang	104049
+玲	ling	104049
+玷	Gdiên	104367
+玷	dian	104367
+玻	Gbo	120000
+珊	Gsan	105907
+珊	Gsiên	105907
+珊	shan	105907
+珍	Gzen	120000
+珍	zhen	120000
+珑	Glung	78294
+珑	long	78294
+珓	Ggau	55000
+珓	jiao	55000
+珠	Gjyu	145000
+珠	Gzyu	145000
+珠	zhu	145000
+班	Gban	120000
+球	Gqieu	130000
+球	qiu	130000
+琅	Glong	100988
+琅	lang	100988
+理	Gli	150000
+琉	Gliu	102629
+琴	Gqin	120000
+琵	Gpi	90000
+琶	Gpa	90000
+琼	Gqiung	130000
+琼	qiong	130000
+瑙	Glau	4029
+瑙	nao	4029
+瑞	Glui	154739
+瑞	Gsyu	154739
+瑞	Gxyu	154739
+瑞	rui	154739
+瑰	Ggui	120000
+璃	Gli	120000
+瓜	Ggua	120000
+瓠	Gwu	90000
+瓠	hu	90000
+瓢	Gpiêu	120000
+瓢	piao	120000
+瓣	Gpan	120000
+瓣	Gpiên	120000
+瓣	ban	120000
+瓤	Glong	120000
+瓤	rang	120000
+瓦	Gnga	170000
+瓦	wa	170000
+瓮	Gwung	79626
+瓮	weng	79626
+瓶	Gpen	170000
+瓶	ping	170000
+瓷	Gci	120000
+甏	Gpang	5000
+甏	beng	5000
+甑	Gzên	30000
+甑	zeng	30000
+甘	Ggon	120000
+甘	gan	120000
+甚	Gsik	120000
+甚	Gsin	120000
+甚	shen	120000
+甜	Gtiên	120000
+甜	tian	120000
+生	Gsang	200000
+生	Gsiên	200000
+生	Gson	200000
+生	sheng	200000
+甥	Gsang	120000
+甥	sheng	120000
+用	Gyung	200000
+用	yong	200000
+甩	Gsai	145000
+甩	Gsêi	145000
+甩	shuai	145000
+甫	Gfu	120000
+甫	Gpu	120000
+甫	fu	120000
+田	Gtiên	120000
+田	tian	120000
+由	Gyeu	200000
+由	Gyiu	200000
+由	you	200000
+甲	Ggaep	130000
+甲	Ggap	130000
+甲	jia	130000
+申	Gsen	145000
+申	Gsin	145000
+申	shen	145000
+电	Gtiên	200000
+电	dian	200000
+男	Glon	195000
+男	Gnon	195000
+男	nan	195000
+甸	Gtian	105628
+甸	dian	105628
+画	Gfa	145000
+画	hua	145000
+畅	Gcong	120000
+畅	chang	120000
+界	Ggai	150000
+界	jie	150000
+畏	Gvi	120000
+畏	wei	120000
+畔	Gpiên	108924
+畔	pan	108924
+留	Glieu	175000
+留	Gliu	175000
+留	liu	175000
+畜	Gcuk	125000
+畜	Gxiuk	125000
+畜	chu	125000
+略	Glyuêk	135000
+略	Gniok	135000
+略	lve	135000
+畦	Gfi	71606
+畦	Ghi	71606
+畦	qi	71606
+番	Gfan	127626
+番	Gfang	127626
+番	fan	127626
+番瓜	Gfang Ggua	124511
+番瓜	fan Ggua	124511
+番瓜	fan gua	124511
+疆	Gjiong	120000
+疆	jiang	120000
+疏	Gsu	120000
+疏	Gxyu	120000
+疏	shu	120000
+疑	Gni	155000
+疑	yi	155000
+疔	Gdiang	5000
+疔	ding	5000
+疖	Gjiêk	90000
+疖	jie	90000
+疗	Gliau	100732
+疗	Gliêu	100732
+疗	liao	100732
+疙	Ggat	107419
+疙	Ggot	107419
+疙	ge	107419
+疚	Gjiu	100925
+疟	Gngiok	120000
+疟	nve	120000
+疤	Gba	120000
+疥	Ggai	90000
+疥	jie	90000
+疫	Gni	120000
+疫	Gyi	120000
+疫	Gyik	120000
+疫	yi	120000
+疮	Gcong	145000
+疮	chuang	145000
+疯	Gfung	120000
+疯	feng	120000
+疲	Gpi	120000
+疸	Gdan	70767
+疹	Gzen	120000
+疹	Gzin	120000
+疹	zhen	120000
+疼	Gtang	102848
+疼	teng	102848
+疾	Gjik	120000
+疾	Gqik	120000
+疾	ji	120000
+病	Gpiang	55000
+病	bing	55000
+症	Gzen	120000
+症	zheng	120000
+痒	Gyong	120000
+痒	yang	120000
+痔	Gci	90000
+痔	zhi	90000
+痕	Ghiên	145000
+痕	Ghên	145000
+痕	hen	145000
+痘	Gtêu	120000
+痘	dou	120000
+痛	Gtung	145000
+痛	tong	145000
+痞	Gpi	90000
+痢	Gli	120000
+痣	Gzi	90000
+痣	zhi	90000
+痧	Gsa	5000
+痧	sha	5000
+痨	Glau	90000
+痨	lao	90000
+痰	Gcan	145000
+痰	Gtam	145000
+痰	tan	145000
+痲	Gma	5000
+痴	Gci	120000
+痴	chi	120000
+痹	Gbi	106617
+瘌	Glaek	73067
+瘌	la	73067
+瘟	Gwun	120000
+瘟	wen	120000
+瘤	Glieu	120000
+瘤	liu	120000
+瘦	Gsêu	120000
+瘦	shou	120000
+瘫	Gtan	120000
+瘾	Gyin	120000
+癞	Glai	90000
+癣	Gqyuon	120000
+癣	xuan	120000
+癫	Gdiên	90000
+癫	dian	90000
+登	Gdiên	145000
+登	deng	145000
+白	Gpak	200000
+白	bai	200000
+百	Gbak	135000
+百	Gbêt	135000
+百	bai	135000
+皂	Gzeu	120000
+皂	zao	120000
+的	Gdek	200000
+的	Gdik	200000
+的	Ggok	200000
+的	Ggêi	125471
+的	de	200000
+皆	Ggai	150000
+皆	jie	150000
+皇	Gfong	120000
+皇	Gwong	120000
+皇	huang	120000
+皮	Gpi	130000
+皱	Gziu	120000
+皱	Gzêu	120000
+皱	zhou	120000
+皲	Gjin	127736
+皲	Gjyun	127736
+皲	jun	127736
+皲口	Gjin Gkiêu	126640
+皲口	Gjin kou	126640
+皲口	jun Gkiêu	126640
+皲口	jun kou	126640
+皿	Gmin	120000
+盂	Gyi	90000
+盂	yu	90000
+盅	Gzung	90000
+盅	zhong	90000
+盆	Gpan	120000
+盆	Gpen	120000
+盆	pen	120000
+盈	Gnen	30000
+盈	Gyin	30000
+盈	ying	30000
+益	Gyi	120000
+益	Gyik	120000
+益	yi	120000
+盏	Gzan	120000
+盏	Gziên	120000
+盏	zhan	120000
+盐	Gyên	150000
+盐	yan	150000
+监	Ggan	120000
+监	jian	120000
+盒	Gheok	120000
+盒	Ghyuêt	120000
+盒	he	120000
+盔	Gkui	120000
+盖	Ggêi	145000
+盖	gai	145000
+盗	Gdau	120000
+盗	Gtau	120000
+盗	dao	120000
+盘	Gpiên	185000
+盘	Gpên	185000
+盘	pan	185000
+盛	Gsen	120000
+盛	sheng	120000
+盟	Gmung	120000
+盟	meng	120000
+目	Gmuk	200000
+目	mu	200000
+盯	Gden	150204
+盯	Gdiang	150204
+盯	ding	150204
+盲	Gmong	120000
+盲	mang	120000
+盳	Gmong	125429
+盳	wang	125429
+直	Gcek	200000
+直	Gcit	200000
+直	zhi	200000
+相	Gxiong	145000
+相	xiang	145000
+盹	Gdun	102822
+盼	Gpan	120000
+盼	Gpen	120000
+盼	pan	120000
+盾	Gdun	130000
+盾	Gtun	130000
+盾	dun	130000
+省	Gsang	165000
+省	Gsiên	165000
+省	Gxiang	165000
+省	sheng	165000
+眉	Gmi	120000
+眉	mei	120000
+看	Gkon	200000
+看	Gmong	122794
+看	Gzi	122794
+看	kan	200000
+眍	Gkiêu	90000
+眍	kou	90000
+眏	Gyang	124701
+眏牛	Gyang Gniêu	125903
+眏牛	Gyang niu	125903
+眏牛	yang niu	125903
+眏细人子	Gyang Gxi Gnin Gzi	122523
+眏细人子	Gyang Gxi ren Gzi	122523
+眏细人子	yang xi ren zi	122523
+眏贼	Gyang Gcêk	124135
+眏贼	Gyang zei	124135
+眏贼	yang zei	124135
+真	Gzen	200000
+真	Gzin	200000
+真	zhen	200000
+眠	Gmiên	120000
+眠	mian	120000
+眠梦	Gmiên Gmung	99300
+眠梦	Gmiên meng	99300
+眠梦	mian Gmung	99300
+眠梦	mian meng	99300
+眨	Gzak	120000
+眨	zha	120000
+眯	Gmi	120000
+眰	Gzi	127753
+眰	Gzit	127753
+眰	die	127753
+眰到	Gzi Gdau	122274
+眰到	Gzi dao	122274
+眰到	die Gdau	122274
+眰到	die dao	122274
+眰眰盳盳	Gzi Gzi Gmong Gmong	127611
+眰眰盳盳	Gzi Gzi Gmong wang	127611
+眰眰盳盳	Gzi Gzi wang Gmong	127611
+眰眰盳盳	Gzi Gzi wang wang	127611
+眰眰盳盳	Gzi die Gmong Gmong	127611
+眰眰盳盳	Gzi die Gmong wang	127611
+眰眰盳盳	Gzi die wang Gmong	127611
+眰眰盳盳	Gzi die wang wang	127611
+眰眰盳盳	die Gzi Gmong Gmong	127611
+眰眰盳盳	die Gzi Gmong wang	127611
+眰眰盳盳	die Gzi wang Gmong	127611
+眰眰盳盳	die Gzi wang wang	127611
+眰眰盳盳	die die Gmong Gmong	127611
+眰眰盳盳	die die Gmong wang	127611
+眰眰盳盳	die die wang Gmong	127611
+眰眰盳盳	die die wang wang	127611
+眵	Gsi	77587
+眵	chi	77587
+眶	Gkuong	120000
+眶	kuang	120000
+眼	Gngan	200000
+眼	yan	200000
+着	Gcok	200000
+着	Gzok	200000
+着	zhe	200000
+着累	Gcok Glêi	108189
+着累	Gcok lei	108189
+着累	zhe Glêi	108189
+着累	zhe lei	108189
+睁	Gzang	100548
+睁	Gzen	100548
+睁	Gzên	100548
+睁	zheng	100548
+睏	Gkui	124418
+睏	Gkuin	124418
+睏	kun	124418
+睏到	Gkuin Gdau	122612
+睏到	Gkuin dao	122612
+睏到	kun Gdau	122612
+睏到	kun dao	122612
+睏觉	Gkuin Ggau	127884
+睏觉	Gkuin jue	127884
+睏觉	kun Ggau	127884
+睏觉	kun jue	127884
+睐	Glai	104908
+睛	Gjiang	145000
+睛	Gqiang	145000
+睛	jing	145000
+睡	Gkuin	127575
+睡	Gsêi	195000
+睡	shui	195000
+督	Gduk	120000
+督	du	120000
+睬	Gcêi	120000
+睬	cai	120000
+瞄	Gmiêu	145000
+瞄	miao	145000
+瞌	Gkeok	100000
+瞌	ke	100000
+瞎	Ghaet	200000
+瞎	xia	200000
+瞒	Gmiên	120000
+瞒	Gmên	120000
+瞒	man	120000
+瞧	Gqiau	120000
+瞧	qiao	120000
+瞬	Gsun	104126
+瞬	shun	104126
+瞬间	Gsun Ggan	1374
+瞬间	Gsun jian	1374
+瞬间	shun Ggan	1374
+瞬间	shun jian	1374
+瞳	Gtung	170000
+瞳	tong	170000
+矛	Gmau	120000
+矛	mao	120000
+矢	Gsi	120000
+矢	shi	120000
+知	Gzi	185000
+知	zhi	185000
+矩	Gji	120000
+矩	Gjyuk	120000
+矩	ju	120000
+短	Gdon	91671
+短	Gduon	52500
+短	duan	91671
+短狗	Gdon Gjiêu	98644
+短狗	Gdon gou	98644
+短狗	duan Gjiêu	98644
+短狗	duan gou	98644
+矮	Gngai	120000
+矮	ai	120000
+石	Gsak	175000
+石	shi	175000
+矺	Gzak	5775
+矺	zhe	5775
+矾	Gfan	120000
+矿	Gkong	120000
+矿	Gkuong	120000
+矿	kuang	120000
+码	Gma	170000
+砂	Gsa	107184
+砂	sha	107184
+砌	Gqi	101040
+砌	Gqiêt	101040
+砌	qi	101040
+砍	Gkan	120000
+砍	Gkong	120000
+砍	kan	120000
+研	Gniên	200000
+研	Gyên	200000
+研	yan	200000
+砖	Gzon	160000
+砖	Gzuon	160000
+砖	zhuan	160000
+砚	Gnyuon	120000
+砚	Gyên	120000
+砚	yan	120000
+砣	Gto	5994
+砣	tuo	5994
+砧	Gzên	90000
+砧	zhen	90000
+破	Gpo	125000
+砸	Gdiang	125885
+砸	Gzap	109730
+砸	za	125885
+砻	Glung	90000
+砻	long	90000
+砾	Glik	102505
+砾	li	102505
+础	Gcu	120000
+础	Gqyu	120000
+础	chu	120000
+硅	Ggui	108417
+硕	Gsak	110455
+硕	Gsok	110455
+硕	shuo	110455
+硝	Gxiêu	170000
+硝	xiao	170000
+硬	Gngang	200000
+硬	ying	200000
+确	Gkok	190000
+确	Gqyueok	190000
+确	que	190000
+碉	Gdiêu	90000
+碉	diao	90000
+碌	Gluk	120000
+碌	lu	120000
+碍	Gngêi	175000
+碍	ai	175000
+碎	Gsêi	120000
+碎	sui	120000
+碑	Gbi	120000
+碑	bei	120000
+碗	Gwin	120000
+碗	Gwiên	120000
+碗	Gwên	120000
+碗	wan	120000
+碘	Gdiên	120000
+碘	dian	120000
+碟	Gtiêk	145000
+碟	die	145000
+碧	Gbik	120000
+碧	bi	120000
+碰	Gpung	125000
+碰	peng	125000
+碱	Ggang	105904
+碱	jian	105904
+碾	Gniên	120000
+碾	nian	120000
+磁	Gci	120000
+磅	Gpong	145000
+磅	bang	145000
+磉	Gsong	30000
+磉	sang	30000
+磊	Glui	104365
+磊	lei	104365
+磕	Gkok	120000
+磕	ke	120000
+磙	Ggun	124896
+磨	Gmo	120000
+磷	Glen	104900
+磷	lin	104900
+磺	Gfong	30000
+磺	huang	30000
+示	Gsek	200000
+示	Gsi	200000
+示	shi	200000
+礼	Gli	145000
+社	Gsa	100000
+社	she	100000
+祁	Gqi	73078
+祈	Ggi	100300
+祈	Gji	100300
+祈	qi	100300
+祐	Gyeu	5996
+祐	you	5996
+祖	Gjyu	120000
+祖	Gzu	120000
+祖	zu	120000
+祝	Gjyu	120000
+祝	Gzuk	120000
+祝	zhu	120000
+神	Gsin	200000
+神	shen	200000
+祟	Gsyuk	120000
+祟	Gsêi	120000
+祟	sui	120000
+祠	Gci	120000
+祥	Ghong	145000
+祥	Gxiong	145000
+祥	xiang	145000
+票	Gpiau	120000
+票	Gpiêu	120000
+票	piao	120000
+祸	Gfo	120000
+祸	huo	120000
+禁	Gjin	120000
+禁	Gqin	120000
+禁	jin	120000
+禄	Gluk	105782
+禄	lu	105782
+禅	Gciên	100000
+禅	Gsiên	100000
+禅	chan	100000
+福	Gfuk	120000
+福	fu	120000
+禧	Gqi	78674
+禧	xi	78674
+离	Gli	200000
+禽	Gqin	120000
+禾	Gwo	120000
+禾	he	120000
+秀	Gxieu	120000
+秀	xiu	120000
+私	Gsi	145000
+秃	Gtuk	120000
+秃	tu	120000
+秆	Ggon	120000
+秆	gan	120000
+秉	Gben	120000
+秉	Gbiang	120000
+秉	Gbin	120000
+秉	bing	120000
+秋	Gqieu	145000
+秋	Gqiu	145000
+秋	qiu	145000
+秋天	Gqiu Gtiên	713
+秋天	Gqiu tian	713
+秋天	qiu tian	713
+种	Gzung	200000
+种	zhong	200000
+科	Gko	150000
+科	ke	150000
+秒	Gmiau	165000
+秒	Gmiêu	165000
+秒	miao	165000
+秕	Gbi	71935
+秘	Gmi	145000
+秘	Gmik	145000
+秘	mi	145000
+租	Gjyu	145000
+租	Gzu	145000
+租	zu	145000
+秤	Gcen	130000
+秤	cheng	130000
+秦	Gqin	120000
+秧	Gyong	120000
+秧	yang	120000
+秩	Gcit	125000
+秩	zhi	125000
+秫	Gsut	70376
+秫	Gxyut	70376
+秫	shu	70376
+积	Gjik	120000
+积	ji	120000
+称	Gcen	130000
+称	cheng	130000
+移	Gni	145000
+移	Gyi	145000
+移	yi	145000
+稀	Gxi	120000
+程	Gcang	125000
+程	Gcen	125000
+程	cheng	125000
+稍	Gsau	120000
+稍	Gseu	120000
+稍	shao	120000
+税	Gsui	200000
+税	Gsêi	200000
+税	shui	200000
+稗	Gpa	90000
+稗	bai	90000
+稠	Gciu	103696
+稠	chou	103696
+稳	Gwin	125998
+稳	Gwiên	125998
+稳	Gwun	125998
+稳	Gwên	125998
+稳	wen	125998
+稻	Gtau	120000
+稻	dao	120000
+稼	Gga	109767
+稼	jia	109767
+稿	Ggau	120000
+稿	gao	120000
+穆	Gmuk	120000
+穆	mu	120000
+穗	Gsêi	109057
+穗	sui	109057
+穴	Gxyueok	120000
+穴	Gxyuê	120000
+穴	xue	120000
+究	Gjieu	120000
+究	Gjiu	120000
+究	jiu	120000
+穷	Gqiung	155000
+穷	qiong	155000
+空	Gkung	200000
+空	kong	200000
+穿	Gcon	120000
+穿	chuan	120000
+突	Gtuek	185000
+突	Gtuk	185000
+突	tu	185000
+窃	Gqiêk	120000
+窃	qie	120000
+窄	Gcaek	125000
+窄	zhai	125000
+窍	Gqiau	120000
+窍	Gqiêu	120000
+窍	qiao	120000
+窑	Gyau	120000
+窑	Gyêu	120000
+窑	yao	120000
+窒	Gzit	127232
+窒	zhi	127232
+窖	Ggau	120000
+窖	jiao	120000
+窗	Gcong	125000
+窗	chuang	125000
+窜	Gcon	170000
+窜	cuan	170000
+窝	Gwo	120000
+窟	Gkuek	120000
+窟	ku	120000
+窠	Gko	125000
+窠	ke	125000
+立	Glek	175000
+立	Glip	175000
+立	li	175000
+竖	Gsyu	120000
+竖	Gxyu	120000
+竖	shu	120000
+站	Gzam	125000
+站	Gzan	125000
+站	zhan	125000
+竞	Gjiang	157694
+竞	Gjin	157694
+竞	jing	157694
+竟	Gjiang	106930
+竟	Gjin	106930
+竟	jing	106930
+章	Gzong	150000
+章	zhang	150000
+童	Gtung	170000
+童	tong	170000
+竭	Gjiêt	120000
+竭	jie	120000
+端	Gdon	200000
+端	duan	200000
+竹	Gzuk	175000
+竹	zhu	175000
+竿	Ggon	104121
+竿	gan	104121
+笆	Gba	90000
+笋	Gxin	131700
+笋	sun	131700
+笑	Gxiau	145000
+笑	Gxiêu	145000
+笑	xiao	145000
+笔	Gbek	125000
+笔	Gbit	125000
+笔	bi	125000
+笙	Gsên	120000
+笙	sheng	120000
+笛	Gdik	120000
+笛	Gtek	120000
+笛	Gtik	120000
+笛	di	120000
+笠	Glik	90000
+笠	li	90000
+笡	Gqia	126281
+笡	qie	126281
+笡个	Gqia Ggo	122794
+笡个	Gqia ge	122794
+笡个	qie Ggo	122794
+笡个	qie ge	122794
+符	Gfu	120000
+笨	Gbin	200000
+笨	ben	200000
+第	Gtik	200000
+第	di	200000
+笮	Gzak	124139
+笮	ze	124139
+笮到	Gzak Gdau	125288
+笮到	Gzak dao	125288
+笮到	ze Gdau	125288
+笮到	ze dao	125288
+笮岁钱	Gzak Gxi Gqiên	125603
+笮岁钱	Gzak Gxi qian	125603
+笮岁钱	Gzak sui Gqiên	125603
+笮岁钱	Gzak sui qian	125603
+笮岁钱	ze Gxi Gqiên	125603
+笮岁钱	ze Gxi qian	125603
+笮岁钱	ze sui Gqiên	125603
+笮岁钱	ze sui qian	125603
+笼	Glung	120000
+笼	long	120000
+等	Gden	200000
+等	Gdiên	200000
+等	deng	200000
+筋	Gjin	120000
+筐	Gkong	105363
+筐	Gkuong	105363
+筐	kuang	105363
+筑	Gzuk	126685
+筑	zhu	126685
+筑满	Gzuk Gmên	122551
+筑满	Gzuk man	122551
+筑满	zhu Gmên	122551
+筑满	zhu man	122551
+筑紧	Gzuk Gjin	126892
+筑紧	zhu Gjin	126892
+筑紧	zhu jin	126892
+筑鼻子	Gzuk Gpek Gzi	126401
+筑鼻子	Gzuk bi Gzi	126401
+筑鼻子	zhu Gpek Gzi	126401
+筑鼻子	zhu bi Gzi	126401
+筑鼻子	zhu bi zi	126401
+筒	Gtung	120000
+筒	tong	120000
+答	Gdaep	145000
+答	da	145000
+策	Gciêk	120000
+策	Gcêk	120000
+策	ce	120000
+筛	Gsai	120000
+筛	shai	120000
+筝	Gzang	109332
+筝	Gzen	109332
+筝	Gzên	109332
+筝	zheng	109332
+筠	Gjyun	77631
+筠	Gyun	100000
+筠	yun	77631
+筠阳	Gyun Gyong	100000
+筠阳	Gyun yang	100000
+筠阳	yun yang	100000
+筲	Gsau	90000
+筲	shao	90000
+筷	Gkuai	120000
+筹	Gceu	120000
+筹	chou	120000
+签	Gqiên	200000
+签	qian	200000
+简	Ggan	130000
+简	jian	130000
+箅	Gpi	90000
+箅	bi	90000
+箇	Ggo	123050
+箇	Ggêi	126915
+箇	ge	126915
+箍	Ggu	115000
+算	Gson	200000
+算	suan	200000
+管	Ggun	200000
+管	guan	200000
+箩	Glo	120000
+箩	luo	120000
+箫	Gxiêu	145000
+箫	xiao	145000
+箬	Gyok	126883
+箬	ruo	126883
+箭	Gjiên	120000
+箭	jian	120000
+箱	Gxiong	120000
+箱	xiang	120000
+箸	Gzu	125228
+箸	zhu	125228
+箸筒	Gzu Gtung	127127
+箸筒	Gzu tong	127127
+箸筒	zhu Gtung	127127
+箸筒	zhu tong	127127
+箸筷	Gzu Gkuai	124310
+箸筷	zhu Gkuai	124310
+箸筷	zhu kuai	124310
+篇	Gpiên	145000
+篇	pian	145000
+篓	Glêu	120000
+篓	lou	120000
+篙	Ggau	90000
+篙	gao	90000
+篦	Gpi	90000
+篦	bi	90000
+篮	Glan	120000
+篮	Glang	120000
+篮	lan	120000
+篱	Gli	120000
+篷	Gpung	120000
+篷	peng	120000
+篾	Gmiêk	73133
+篾	mie	73133
+簕	Glêk	123380
+簕	le	123380
+簟	Gtiên	90000
+簟	dian	90000
+簧	Gwong	120000
+簧	huang	120000
+簪	Gzon	90000
+簪	zan	90000
+簿	Gpu	120000
+簿	bu	120000
+籍	Gjik	120000
+籍	ji	120000
+米	Gmi	145000
+类	Glui	200000
+类	Glêi	200000
+类	lei	200000
+籽	Gzi	103974
+粉	Gfen	120000
+粉	Gfin	120000
+粉	fen	120000
+粒	Glik	120000
+粒	li	120000
+粗	Gcu	120000
+粘	Gniên	120000
+粘	Gzên	120000
+粘	zhan	120000
+粟	Gxiuk	145000
+粟	su	145000
+粥	Gzuk	120000
+粥	zhou	120000
+粪	Gfen	120000
+粪	Gfin	120000
+粪	fen	120000
+粮	Gliong	120000
+粮	Gniong	120000
+粮	liang	120000
+粱	Gliong	120000
+粱	liang	120000
+粽	Gzung	90000
+粽	zong	90000
+粽箬	Gzung Gyok	125236
+粽箬	Gzung ruo	125236
+粽箬	zong Gyok	125236
+粽箬	zong ruo	125236
+精	Gjen	170000
+精	Gjiang	170000
+精	Gjin	170000
+精	jing	170000
+糊	Gfu	145000
+糊	Gwu	145000
+糊	hu	145000
+糍	Gci	90000
+糕	Ggau	145000
+糕	gao	145000
+糖	Gtong	120000
+糖	tang	120000
+糙	Gcau	120000
+糙	cao	120000
+糟	Gzau	120000
+糟	Gziêu	120000
+糟	zao	120000
+糠	Gkong	120000
+糠	kang	120000
+糯	Glo	120000
+糯	nuo	120000
+系	Gji	200000
+系	Gxi	200000
+系	xi	200000
+紊	Gwin	107071
+紊	Gwiên	107071
+紊	Gwên	107071
+紊	wen	107071
+素	Gsu	150000
+素	Gxyu	150000
+素	su	150000
+索	Gsok	200000
+索	suo	200000
+紧	Gjin	145000
+紫	Gzi	120000
+累	Glui	200000
+累	Glêi	200000
+累	lei	200000
+絮	Gxi	120000
+絮	Gxyu	120000
+絮	xu	120000
+繁	Gfan	125000
+纠	Gjieu	120000
+纠	Gjiu	120000
+纠	jiu	120000
+红	Gfung	140000
+红	hong	140000
+纤	Gqiên	120000
+纤	Gxiên	120000
+纤	xian	120000
+约	Gnyuêk	125000
+约	Gyok	125000
+约	yue	125000
+级	Gjip	170000
+级	ji	170000
+纪	Gji	120000
+纫	Glen	107717
+纫	Gliên	107717
+纫	ren	107717
+纬	Gvi	120000
+纬	wei	120000
+纯	Gcin	146000
+纯	Gcun	146000
+纯	Gsyun	146000
+纯	chun	146000
+纱	Gsa	120000
+纱	sha	120000
+纲	Ggong	120000
+纲	gang	120000
+纳	Glaek	145000
+纳	Gna	145000
+纳	na	145000
+纵	Gcong	120000
+纵	Gzung	120000
+纵	zong	120000
+纷	Gfin	145000
+纷	fen	145000
+纸	Gzi	120000
+纸	zhi	120000
+纹	Gwin	120000
+纹	Gwiên	120000
+纹	Gwun	120000
+纹	Gwên	120000
+纹	wen	120000
+纺	Gfong	120000
+纺	fang	120000
+纽	Gnieu	120000
+纽	Gniu	120000
+纽	Gniuk	120000
+纽	niu	120000
+线	Gxiên	200000
+线	xian	200000
+练	Gliên	120000
+练	lian	120000
+组	Gzuk	125000
+组	zu	125000
+细	Gxi	170000
+细人子喡喡叫	Gxi Gnin Gzi Gwiê Gwiê Gjiêu	122297
+细人子喡喡叫	Gxi Gnin Gzi Gwiê Gwiê jiao	122297
+细人子喡喡叫	Gxi Gnin Gzi Gwiê wei Gjiêu	122297
+细人子喡喡叫	Gxi Gnin Gzi Gwiê wei jiao	122297
+细人子喡喡叫	Gxi Gnin Gzi wei Gwiê Gjiêu	122297
+细人子喡喡叫	Gxi Gnin Gzi wei Gwiê jiao	122297
+细人子喡喡叫	Gxi Gnin Gzi wei wei Gjiêu	122297
+细人子喡喡叫	Gxi Gnin Gzi wei wei jiao	122297
+细人子喡喡叫	Gxi ren Gzi Gwiê Gwiê Gjiêu	122297
+细人子喡喡叫	Gxi ren Gzi Gwiê Gwiê jiao	122297
+细人子喡喡叫	Gxi ren Gzi Gwiê wei Gjiêu	122297
+细人子喡喡叫	Gxi ren Gzi Gwiê wei jiao	122297
+细人子喡喡叫	Gxi ren Gzi wei Gwiê Gjiêu	122297
+细人子喡喡叫	Gxi ren Gzi wei Gwiê jiao	122297
+细人子喡喡叫	Gxi ren Gzi wei wei Gjiêu	122297
+细人子喡喡叫	Gxi ren Gzi wei wei jiao	122297
+细人子喡喡叫	xi ren zi wei wei jiao	122297
+细间	Gxi Ggan	107273
+细间	Gxi jian	107273
+细间	xi jian	107273
+织	Gzek	120000
+织	Gzik	120000
+织	zhi	120000
+终	Gzung	120000
+终	zhong	120000
+绊	Gban	101835
+绍	Gsêu	145000
+绍	shao	145000
+绎	Gyik	102371
+绎	yi	102371
+经	Gjiang	51289
+经	Gjin	51289
+经	jing	51289
+绑	Gbong	170000
+绑	bang	170000
+绒	Glung	120000
+绒	Gnyung	120000
+绒	rong	120000
+结	Gjiêt	130000
+结	jie	130000
+绕	Glau	145000
+绕	Glêu	145000
+绕	rao	145000
+绗	Ghong	90000
+绗	hang	90000
+绘	Gfêi	102358
+绘	Gwêi	102358
+绘	hui	102358
+给	Ggêi	123895
+给	gei	123895
+络	Glok	120000
+络	Gno	120000
+络	luo	120000
+绝	Gqyueok	150000
+绝	Gqyuêt	150000
+绝	jue	150000
+绞	Ggau	120000
+绞	Gjiêu	120000
+绞	jiao	120000
+统	Gtung	170000
+统	tong	170000
+绢	Gjyuon	120000
+绢	juan	120000
+绣	Gxieu	120000
+绣	Gxiu	120000
+绣	xiu	120000
+继	Gji	145000
+绩	Gjik	145000
+绩	ji	145000
+绪	Gxiuk	102148
+绪	xu	102148
+续	Gxiuk	155514
+续	xu	155514
+绰	Gcok	102960
+绰	chuo	102960
+绳	Gsen	120000
+绳	Gsin	120000
+绳	sheng	120000
+维	Gvi	120000
+维	wei	120000
+绵	Gmiên	120000
+绵	mian	120000
+绷	Gbang	145000
+绷	beng	145000
+绸	Gceu	125000
+绸	Gciu	125000
+绸	chou	125000
+综	Gzung	101772
+综	zong	101772
+绾	Gwan	90000
+绿	Gliuk	145400
+绿	lv	145400
+缆	Glan	108723
+缎	Gton	120000
+缎	duan	120000
+缓	Gfiên	120000
+缓	Gfên	120000
+缓	huan	120000
+编	Gbiên	200000
+编	Gpiên	200000
+编	bian	200000
+缘	Gnyuon	120000
+缘	Gyuon	120000
+缘	yuan	120000
+缝	Gfung	120000
+缝	feng	120000
+缠	Gcan	125000
+缠	Gciên	125000
+缠	Gcên	125000
+缠	chan	125000
+缨	Gyin	90000
+缨	ying	90000
+缩	Gsok	145000
+缩	suo	145000
+缴	Gjiau	120000
+缴	Gjiêu	120000
+缴	jiao	120000
+缸	Ggong	120000
+缸	gang	120000
+缺	Gkyuêt	200000
+缺	Gqyueok	200000
+缺	Gqyuêt	200000
+缺	que	200000
+罐	Ggun	120000
+罐	guan	120000
+网	Gmong	120000
+网	Gwong	120000
+网	wang	120000
+罕	Ghon	103940
+罕	han	103940
+罗	Glo	175000
+罗	luo	175000
+罚	Gfaet	150000
+罚	fa	150000
+罢	Gba	185000
+罢	Gpa	185000
+罢	ba	185000
+罩	Gzau	120000
+罩	zhao	120000
+罪	Gcêi	120000
+罪	zui	120000
+置	Gzek	200000
+置	Gzi	200000
+置	zhi	200000
+罱	Gliên	127116
+罱	lan	127116
+罱虾子	Gliên Gha Gzi	127692
+罱虾子	Gliên xia Gzi	127692
+罱虾子	lan Gha Gzi	127692
+罱虾子	lan xia Gzi	127692
+罱虾子	lan xia zi	127692
+罱鱼	Gliên Gniê	124088
+罱鱼	Gliên yu	124088
+罱鱼	lan Gniê	124088
+罱鱼	lan yu	124088
+羊	Gyong	120000
+羊	yang	120000
+美	Gmi	155000
+美	mei	155000
+羔	Ggau	120000
+羔	gao	120000
+羞	Gxieu	145000
+羞	Gxiu	145000
+羞	xiu	145000
+羡	Gxiên	102922
+羡	xian	102922
+群	Gcyun	200000
+群	Gqyun	200000
+群	qun	200000
+羹	Ggang	145000
+羹	Ggiên	145000
+羹	geng	145000
+羽	Gni	120000
+羽	Gyi	120000
+羽	Gyu	120000
+羽	yu	120000
+翁	Gwung	120000
+翁	weng	120000
+翅	Gci	120000
+翅	chi	120000
+翔	Gxiong	100401
+翔	xiang	100401
+翘	Gqiêu	145000
+翘	qiao	145000
+翠	Gcêi	120000
+翠	cui	120000
+翻	Gfan	200000
+翼	Gyik	126072
+翼	yi	126072
+翼膀	Gyik Gbong	102707
+翼膀	Gyik bang	102707
+翼膀	yi Gbong	102707
+翼膀	yi bang	102707
+耀	Gyau	120000
+耀	Gyêu	120000
+耀	yao	120000
+老	Glau	200000
+老	lao	200000
+老爷	Glau Gya	123685
+老爷	Glau ye	123685
+老爷	lao Gya	123685
+老爷	lao ye	123685
+考	Gkau	200000
+考	kao	200000
+者	Gzak	200000
+者	zhe	200000
+而	Go	200000
+而	er	200000
+耍	Gsua	120000
+耍	shua	120000
+耐	Glai	120000
+耐	Gnai	120000
+耐	Gnêi	120000
+耐	nai	120000
+耕	Ggang	100000
+耕	geng	100000
+耗	Ghau	128428
+耗	hao	128428
+耘	Gyun	120000
+耙	Gba	120000
+耙	Gpa	120000
+耙	ba	120000
+耳	Geo	120000
+耳	er	120000
+耶	Gyê	100000
+耶	ye	100000
+耷	Gdaek	70404
+耷	da	70404
+耸	Gsung	102928
+耸	song	102928
+耻	Gci	120000
+耻	chi	120000
+耽	Gdan	145000
+耿	Ggiên	170000
+耿	geng	170000
+聂	Gniêp	120000
+聂	nie	120000
+聊	Gliau	155000
+聊	Gliêu	155000
+聊	liao	155000
+聋	Glung	120000
+聋	long	120000
+职	Gcik	120000
+职	Gzek	120000
+职	Gzik	120000
+职	zhi	120000
+联	Gliên	195000
+联	lian	195000
+聘	Gpen	120000
+聘	pin	120000
+聚	Gjyu	145000
+聚	Gqi	145000
+聚	Gqyu	145000
+聚	ju	145000
+聪	Gcung	120000
+聪	cong	120000
+肃	Gsuk	125000
+肃	Gxiuk	125000
+肃	su	125000
+肆	Gsik	120000
+肆	si	120000
+肉	Gniuk	170000
+肉	rou	170000
+肋	Glêt	120000
+肋	le	120000
+肌	Gji	120000
+肖	Gxiau	108448
+肖	Gxiêu	108448
+肖	xiao	108448
+肘	Gziu	108902
+肘	zhou	108902
+肚	Gdu	120000
+肚	Gtu	120000
+肚	du	120000
+肛	Ggong	120000
+肛	gang	120000
+肝	Ggon	120000
+肝	gan	120000
+肠	Gcong	120000
+肠	chang	120000
+股	Ggu	200000
+肢	Gzi	120000
+肢	Gzik	120000
+肢	zhi	120000
+肤	Gfu	107042
+肥	Gfi	145000
+肥	fei	145000
+肩	Gjiên	120000
+肩	jian	120000
+肪	Gfong	100201
+肪	fang	100201
+肮	Gfong	120000
+肮	Ggong	120000
+肮	Ghong	120000
+肮	ang	120000
+肯	Gkiên	120000
+肯	Gqiên	120000
+肯	ken	120000
+育	Gyiu	120000
+育	Gyiuk	120000
+育	yu	120000
+肴	Gyau	107638
+肴	yao	107638
+肺	Gfi	120000
+肺	fei	120000
+肾	Gsen	120000
+肾	Gsin	120000
+肾	shen	120000
+肿	Gzung	120000
+肿	zhong	120000
+胀	Gzong	145000
+胀	zhang	145000
+胃	Gvi	120000
+胃	wei	120000
+胆	Gdan	120000
+胆	Gdang	120000
+胆	dan	120000
+背	Gbêi	120000
+背	Gpêi	120000
+背	bei	120000
+胎	Gtêi	120000
+胎	tai	120000
+胖	Gpong	102768
+胖	pang	102768
+胚	Gpi	109245
+胚	pei	109245
+胜	Gsen	179897
+胜	sheng	179897
+胞	Gbau	120000
+胞	bao	120000
+胡	Gfu	120000
+胡	Gwu	120000
+胡	hu	120000
+胧	Glung	120000
+胧	long	120000
+胯	Gka	90000
+胯	Gku	90000
+胯	kua	90000
+胰	Gyi	100778
+胳	Ggak	105342
+胳	Ggok	105342
+胳	ge	105342
+胶	Ggau	120000
+胶	jiao	120000
+胸	Gxiung	120000
+胸	xiong	120000
+能	Glên	200000
+能	Gniên	200000
+能	neng	200000
+脂	Gzi	120000
+脂	zhi	120000
+脆	Gcui	120000
+脆	Gcêi	120000
+脆	cui	120000
+脉	Gmai	120000
+脉	Gmak	120000
+脉	Gmêk	120000
+脉	mai	120000
+脊	Gjiak	120000
+脊	Gjik	120000
+脊	ji	120000
+脏	Gcong	200000
+脏	Gzong	200000
+脏	zang	200000
+脐	Gji	120000
+脐	Gqi	120000
+脐	qi	120000
+脑	Glau	150000
+脑	Gnau	150000
+脑	nao	150000
+脓	Glung	120000
+脓	Gnung	120000
+脓	nong	120000
+脖	Gbot	101087
+脖	bo	101087
+脚	Gjiok	120000
+脚	jiao	120000
+脯	Gpu	105797
+脱	Gteok	170000
+脱	Gto	170000
+脱	tuo	170000
+脶	Glo	30000
+脶	luo	30000
+脸	Gliên	145000
+脸	Gmiên	145000
+脸	lian	145000
+脾	Gpi	120000
+腈	Gjiang	122339
+腈	jing	122339
+腈肉	Gjiang Gniuk	126344
+腈肉	Gjiang rou	126344
+腈肉	jing Gniuk	126344
+腈肉	jing rou	126344
+腊	Glaek	120000
+腊	la	120000
+腌	Gnga	90000
+腌	Gyên	90000
+腌	yan	90000
+腐	Gfu	120000
+腔	Gqiong	125000
+腔	qiang	125000
+腕	Gwin	120000
+腕	Gwiên	120000
+腕	Gwên	120000
+腕	wan	120000
+腥	Gxiang	120000
+腥	xing	120000
+腮	Gsêi	120000
+腮	sai	120000
+腰	Gyau	120000
+腰	Gyêu	120000
+腰	yao	120000
+腹	Gfuk	120000
+腹	fu	120000
+腻	Gni	101065
+腾	Gtiên	120000
+腾	Gtên	120000
+腾	teng	120000
+腿	Gtêi	125000
+腿	tui	125000
+膀	Gbong	120000
+膀	bang	120000
+膊	Gbok	120000
+膊	bo	120000
+膏	Ggau	120000
+膏	gao	120000
+膘	Gbiêu	90000
+膘	biao	90000
+膛	Gtong	105103
+膛	tang	105103
+膜	Gmok	120000
+膜	mo	120000
+膝	Gxik	120000
+膝	xi	120000
+膨	Gpung	100000
+膨	peng	100000
+膱	Gzek	6000
+膱	zhi	6000
+臂	Gbit	120000
+臂	bi	120000
+臊	Gsau	120000
+臊	sao	120000
+臣	Gcen	100000
+臣	Gcin	100000
+臣	Gsin	100000
+臣	chen	100000
+自	Gci	200000
+自	Gzi	200000
+自	zi	200000
+臭	Gceu	165000
+臭	Gciu	165000
+臭	chou	165000
+至	Gzi	125000
+至	zhi	125000
+致	Gzi	175000
+致	zhi	175000
+臻	Gzên	90000
+臻	zhen	90000
+臼	Gjiu	107805
+舀	Gyau	124785
+舀	Gyêu	124785
+舀	yao	124785
+舀水	Gyau Gsyu	123877
+舀水	Gyau shui	123877
+舀水	yao Gsyu	123877
+舀水	yao shui	123877
+舀汤	Gyau Gtong	125287
+舀汤	Gyau tang	125287
+舀汤	yao Gtong	125287
+舀汤	yao tang	125287
+舀粥	Gyau Gzuk	123384
+舀粥	Gyau zhou	123384
+舀粥	yao Gzuk	123384
+舀粥	yao zhou	123384
+舅	Gqieu	120000
+舅	Gqiu	120000
+舅	jiu	120000
+舌	Gsiêk	145000
+舌	Gsêk	145000
+舌	she	145000
+舍	Gsa	200000
+舍	she	200000
+舐	Gsiê	124353
+舐	shi	124353
+舐碗筷	Gsiê Gwin Gkuai	124589
+舐碗筷	Gsiê Gwiên Gkuai	124589
+舐碗筷	Gsiê Gwên Gkuai	124589
+舐碗筷	Gsiê wan Gkuai	124589
+舐碗筷	shi Gwin Gkuai	124589
+舐碗筷	shi Gwiên Gkuai	124589
+舐碗筷	shi Gwên Gkuai	124589
+舐碗筷	shi wan Gkuai	124589
+舐碗筷	shi wan kuai	124589
+舒	Gsyu	145000
+舒	Gxyu	145000
+舒	shu	145000
+舓	Gsiê	125439
+舓	shi	125439
+舓碗筷	Gsiê Gwin Gkuai	125024
+舓碗筷	Gsiê Gwiên Gkuai	125024
+舓碗筷	Gsiê Gwên Gkuai	125024
+舓碗筷	Gsiê wan Gkuai	125024
+舓碗筷	shi Gwin Gkuai	125024
+舓碗筷	shi Gwiên Gkuai	125024
+舓碗筷	shi Gwên Gkuai	125024
+舓碗筷	shi wan Gkuai	125024
+舓碗筷	shi wan kuai	125024
+舔	Gsiê	126992
+舔	tian	126992
+舞	Gwu	200000
+舟	Gzeu	120000
+舟	Gziu	120000
+舟	zhou	120000
+航	Ghong	120000
+航	hang	120000
+般	Gbên	190000
+般	ban	190000
+舰	Ggang	120000
+舰	Gjiên	120000
+舰	jian	120000
+舱	Gcong	170000
+舱	cang	170000
+舵	Gto	120000
+舵	duo	120000
+舷	Gxiên	170000
+舷	xian	170000
+船	Gcon	30000
+船	Gson	30000
+船	chuan	30000
+艄	Gsau	4775
+艄	shao	4775
+艇	Gten	105341
+艇	ting	105341
+艘	Gsiu	101120
+艘	sou	101120
+良	Gliong	145000
+良	liang	145000
+艰	Ggan	120000
+艰	Gjiên	120000
+艰	jian	120000
+色	Gsiêk	150000
+色	Gsêk	150000
+色	se	150000
+艳	Gniên	120000
+艳	Gyên	120000
+艳	yan	120000
+艺	Gni	120000
+艺	yi	120000
+艾	Gngai	145000
+艾	ai	145000
+节	Gjiêt	135000
+节	jie	135000
+芋	Gli	120000
+芋	Gyi	120000
+芋	yu	120000
+芍	Gsok	75877
+芍	shao	75877
+芎	Gxiung	90000
+芎	qiong	90000
+芒	Gmong	120000
+芒	mang	120000
+芙	Gfu	120000
+芜	Gwu	120000
+芝	Gzi	120000
+芝	zhi	120000
+芥	Ggai	145000
+芥	jie	145000
+芦	Glu	120000
+芬	Gfin	120000
+芬	fen	120000
+芭	Gba	120000
+芯	Gxin	145000
+花	Gfa	170000
+花	hua	170000
+芳	Gfong	120000
+芳	fang	120000
+芸	Gyun	90000
+芹	Gqin	120000
+芽	Gnga	120000
+芽	ya	120000
+苇	Gvi	100630
+苇	wei	100630
+苋	Ghan	90000
+苋	xian	90000
+苍	Gcong	120000
+苍	cang	120000
+苎	Gcyu	79468
+苎	zhu	79468
+苏	Gsu	145000
+苏	Gxyu	145000
+苏	su	145000
+苔	Ghai	120000
+苔	Gtêi	120000
+苔	tai	120000
+苗	Gmiau	120000
+苗	Gmiêu	120000
+苗	miao	120000
+苛	Gko	120000
+苛	ke	120000
+苞	Gbau	104425
+苞	bao	104425
+苟	Ggiêu	120000
+苟	Gjiêu	120000
+苟	gou	120000
+若	Glok	200000
+若	Gno	200000
+若	ruo	200000
+苦	Gku	120000
+苫	Gsiên	78436
+苫	shan	78436
+英	Gyin	120000
+英	ying	120000
+苹	Gpen	160000
+苹	ping	160000
+茁	Gcaet	106091
+茁	Gjyut	106091
+茁	Gzaet	106091
+茁	zhuo	106091
+茂	Gmau	120000
+茂	Gmêu	120000
+茂	mao	120000
+范	Gfan	120000
+茄	Gqiê	120000
+茄	Gqyueo	120000
+茄	jia	120000
+茅	Gmau	120000
+茅	mao	120000
+茉	Gmêt	120000
+茉	mo	120000
+茎	Gjen	103391
+茎	Gjiang	103391
+茎	Gjin	103391
+茎	jing	103391
+茧	Gjiên	120000
+茧	jian	120000
+茫	Gmong	145000
+茫	mang	145000
+茬	Gca	105784
+茬	Gci	105784
+茬	Gsi	105784
+茬	cha	105784
+茭	Ggau	90000
+茭	jiao	90000
+茴	Gfêi	115000
+茴	Gwêi	115000
+茴	hui	115000
+茵	Gyin	108403
+茶	Gca	120000
+茶	cha	120000
+茸	Glung	120000
+茸	Gniung	120000
+茸	Gyung	120000
+茸	rong	120000
+荀	Gxyun	71805
+荀	xun	71805
+荆	Gjin	120000
+荆	jing	120000
+草	Gcau	120000
+草	cao	120000
+草原	Gcau Gnyuon	2404
+草原	Gcau yuan	2404
+草原	cao Gnyuon	2404
+草原	cao yuan	2404
+荐	Ggan	125000
+荐	Gjiên	125000
+荐	jian	125000
+荒	Gfong	120000
+荒	huang	120000
+荔	Gli	145000
+荚	Ggaep	73090
+荚	Gjiêk	73090
+荚	jia	73090
+荞	Gqiau	90000
+荞	Gqiêu	90000
+荞	qiao	90000
+荠	Gji	73570
+荠	Gqi	73570
+荠	ji	73570
+荡	Gdong	120000
+荡	Gtong	120000
+荡	dang	120000
+荣	Glung	120000
+荣	Gnung	120000
+荣	Gyung	120000
+荣	rong	120000
+荤	Gfen	120000
+荤	Gfin	120000
+荤	hun	120000
+荧	Gyang	106570
+荧	ying	106570
+药	Gyok	120000
+药	yao	120000
+荷	Gho	120000
+荷	he	120000
+荸	Gpot	72058
+荸	bi	72058
+莉	Gli	120000
+莝	Gco	11430
+莝	cuo	11430
+莫	Gmok	124512
+莫	mo	124512
+莫䞀	Gmok Ghêu	123892
+莫䞀	Gmok hou	123892
+莫䞀	mo Ghêu	123892
+莫䞀	mo hou	123892
+莫动	Gmok Gtung	122412
+莫动	Gmok dong	122412
+莫动	mo Gtung	122412
+莫动	mo dong	122412
+莫忺到	Gmok Gqiên Gdau	122981
+莫忺到	Gmok Gqiên dao	122981
+莫忺到	Gmok xian Gdau	122981
+莫忺到	Gmok xian dao	122981
+莫忺到	mo Gqiên Gdau	122981
+莫忺到	mo Gqiên dao	122981
+莫忺到	mo xian Gdau	122981
+莫忺到	mo xian dao	122981
+莫愁	Gmok Gcêu	123301
+莫愁	Gmok chou	123301
+莫愁	mo Gcêu	123301
+莫愁	mo chou	123301
+莫戄	Gmok Gfok	125080
+莫戄	Gmok jue	125080
+莫戄	mo Gfok	125080
+莫戄	mo jue	125080
+莫挨	Gmok Gngai	125030
+莫挨	Gmok ai	125030
+莫挨	mo Gngai	125030
+莫挨	mo ai	125030
+莫话	Gmok Gfa	123160
+莫话	Gmok hua	123160
+莫话	mo Gfa	123160
+莫话	mo hua	123160
+莫賸	Gmok Gyin	122745
+莫賸	Gmok sheng	122745
+莫賸	mo Gyin	122745
+莫賸	mo sheng	122745
+莫跍到	Gmok Gku Gdau	126966
+莫跍到	Gmok Gku dao	126966
+莫跍到	mo Gku Gdau	126966
+莫跍到	mo Gku dao	126966
+莫跍到	mo ku dao	126966
+莱	Glêi	104101
+莱	lai	104101
+莲	Gliên	120000
+莲	lian	120000
+莴	Gwo	6000
+获	Gfok	120000
+获	Gfêk	120000
+获	huo	120000
+莹	Gyin	104455
+莹	ying	104455
+莺	Gyin	120000
+莺	ying	120000
+莽	Gmong	125000
+莽	mang	125000
+菇	Ggu	120000
+菊	Gjiuk	120000
+菊	ju	120000
+菌	Gjin	100933
+菌	Gjyun	100933
+菌	jun	100933
+菖	Gcong	90000
+菖	chang	90000
+菜	Gcêi	200000
+菜	cai	200000
+菠	Gbo	120000
+菢	Gpau	6000
+菢	bao	6000
+菩	Gpu	145000
+菱	Glen	120000
+菱	Glin	120000
+菱	ling	120000
+菲	Gfi	100360
+菲	fei	100360
+萄	Gtau	120000
+萄	tao	120000
+萌	Gmung	135860
+萌	meng	135860
+萍	Gpen	130000
+萍	ping	130000
+萎	Gwêi	120000
+萎	wei	120000
+萝	Glo	120000
+萝	luo	120000
+萤	Gyin	120000
+萤	ying	120000
+营	Gyin	120000
+营	Gyung	120000
+营	ying	120000
+萦	Gyang	20000
+萦	ying	20000
+萧	Gxiau	120000
+萧	Gxiêu	120000
+萧	xiao	120000
+萨	Gsaet	125000
+萨	sa	125000
+落	Glai	190000
+落	Glok	190000
+落	luo	190000
+著	Gzuk	120000
+著	zhu	120000
+葛	Ggeot	120000
+葛	Gkot	120000
+葛	Gkyuêt	125731
+葛	ge	125731
+葡	Gpu	120000
+董	Gdung	120000
+董	Ggung	120000
+董	dong	120000
+葫	Gfu	120000
+葫	hu	120000
+葬	Gcong	120000
+葬	Gzong	120000
+葬	zang	120000
+葱	Gcung	120000
+葱	cong	120000
+葵	Gkui	120000
+蒂	Gdi	120000
+蒋	Gjiong	145000
+蒋	jiang	145000
+蒙	Gmung	120000
+蒙	meng	120000
+蒜	Gson	120000
+蒜	suan	120000
+蒲	Gpu	120000
+蒸	Gzen	120000
+蒸	Gzin	120000
+蒸	zheng	120000
+蒿	Ghau	77397
+蒿	hao	77397
+蓄	Gcuk	120000
+蓄	Gqiuk	120000
+蓄	xu	120000
+蓉	Gyung	120000
+蓉	rong	120000
+蓑	Gso	95000
+蓑	suo	95000
+蓖	Gpi	90000
+蓖	bi	90000
+蓝	Glan	120000
+蓬	Gpung	120000
+蓬	peng	120000
+蔑	Gmiêt	120000
+蔑	mie	120000
+蔡	Gcai	120000
+蔫	Gniên	90000
+蔫	nian	90000
+蔬	Gsu	120000
+蔬	Gxyu	120000
+蔬	shu	120000
+蔸	Gdêu	60000
+蔸	dou	60000
+蔽	Gbik	132930
+蔽	bi	132930
+蕉	Gjiau	120000
+蕉	Gjiêu	120000
+蕉	jiao	120000
+蕹	Gng	60000
+蕹	weng	60000
+蕻	Gfung	74826
+蕻	hong	74826
+薄	Gpok	120000
+薄	bao	120000
+薇	Gvi	145000
+薇	wei	145000
+薛	Gxyueok	120000
+薛	xue	120000
+薪	Gxin	200000
+薯	Gsyu	120000
+薯	Gxyu	120000
+薯	shu	120000
+薰	Gsyun	73178
+薰	xun	73178
+藏	Gcong	145000
+藏	Gjiê	122266
+藏	Gkong	122266
+藏	Gzong	145000
+藏	cang	145000
+藕	Gngiêu	145000
+藕	ou	145000
+藠	Gqiêu	6000
+藠	jiao	6000
+藤	Gtên	120000
+藤	teng	120000
+藩	Gfan	90000
+藿	Gfok	90000
+藿	huo	90000
+蘸	Gzan	90000
+蘸	zhan	90000
+虎	Gfu	120000
+虎	hu	120000
+虏	Glu	109271
+虐	Gniok	120000
+虐	Gnyuêt	120000
+虐	nve	120000
+虑	Gli	126565
+虑	Glyut	126565
+虑	lv	126565
+虚	Gxi	120000
+虚	Gxyu	120000
+虚	xu	120000
+虫	Gcung	145000
+虫	chong	145000
+虮	Gji	90000
+虱	Gsiêt	90000
+虱	Gsêk	90000
+虱	shi	90000
+虹	Gfung	145000
+虹	Ggong	145000
+虹	hong	145000
+虽	Gxi	120000
+虽	sui	120000
+虾	Gha	170000
+虾	xia	170000
+蚀	Gsik	120000
+蚀	shi	120000
+蚁	Gni	120000
+蚁	Gniên	120000
+蚁	Gyi	120000
+蚁	yi	120000
+蚂	Gma	120000
+蚊	Gmen	120000
+蚊	Gmin	120000
+蚊	Gwin	120000
+蚊	Gwiên	120000
+蚊	Gwên	120000
+蚊	wen	120000
+蚌	Gpong	120000
+蚌	bang	120000
+蚓	Gnin	102301
+蚓	Gyin	102301
+蚓	yin	102301
+蚕	Gcan	120000
+蚕	Gcon	120000
+蚕	can	120000
+蚜	Gnga	79178
+蚜	ya	79178
+蚣	Ggung	120000
+蚣	gong	120000
+蚤	Gzau	120000
+蚤	zao	120000
+蚪	Gdeu	104925
+蚪	dou	104925
+蚯	Gqiu	100554
+蛀	Gzu	145000
+蛀	zhu	145000
+蛆	Gqi	90000
+蛆	qu	90000
+蛇	Gsa	120000
+蛇	she	120000
+蛉	Gliang	72094
+蛉	ling	72094
+蛋	Gtan	120000
+蛋	dan	120000
+蛔	Gfêi	90000
+蛔	hui	90000
+蛙	Gwa	120000
+蛛	Gjyu	120000
+蛛	Gsu	120000
+蛛	Gzyuk	120000
+蛛	zhu	120000
+蛤	Ggeok	145000
+蛤	ha	145000
+蛮	Gman	200000
+蛰	Gzek	74679
+蛰	zhe	74679
+蛾	Gngo	120000
+蛾	e	120000
+蜂	Gfung	120000
+蜂	feng	120000
+蜈	Gwu	120000
+蜓	Gten	120000
+蜓	ting	120000
+蜘	Gzi	101174
+蜘	zhi	101174
+蜜	Gmek	120000
+蜜	Gmit	120000
+蜜	mi	120000
+蜡	Glaet	120000
+蜡	la	120000
+蜻	Gqiang	120000
+蜻	qing	120000
+蝇	Gnin	120000
+蝇	Gyin	120000
+蝇	ying	120000
+蝌	Gko	100984
+蝌	ke	100984
+蝗	Gfong	120000
+蝗	huang	120000
+蝴	Gfu	120000
+蝴	hu	120000
+蝶	Gdiê	120000
+蝶	Gtiêk	120000
+蝶	die	120000
+螃	Gpong	120000
+螃	pang	120000
+融	Glung	120000
+融	Gniung	120000
+融	rong	120000
+螺	Glo	145000
+螺	luo	145000
+蟁	Gmin	122406
+蟁	wen	122406
+蟁虫	Gmin Gcung	124254
+蟁虫	Gmin chong	124254
+蟁虫	wen Gcung	124254
+蟁虫	wen chong	124254
+蟆	Gma	120000
+蟒	Gmong	90000
+蟒	mang	90000
+蟥	Gwong	90000
+蟥	huang	90000
+蠢	Gcyun	120000
+蠢	chun	120000
+血	Gxyueok	170000
+血	Gxyuêt	170000
+血	xue	170000
+衁	Gwong	124071
+衁	huang	124071
+行	Ghong	200000
+行	Ghên	200000
+行	Gxin	200000
+行	xing	200000
+行星	Gxin Gxin	25703
+行星	Gxin xing	25703
+行星	xing Gxin	25703
+行星	xing xing	25703
+衔	Ghan	150000
+衔	Ghang	150000
+衔	Gxiên	150000
+衔	xian	150000
+街	Ggai	145000
+街	jie	145000
+衙	Gnga	120000
+衙	ya	120000
+衡	Ghiên	30000
+衡	Ghên	30000
+衡	heng	30000
+衣	Gyi	120000
+衣裳	Gyi Gsong	104637
+衣裳	Gyi shang	104637
+衣裳	yi shang	104637
+补	Gbu	200000
+表	Gbiau	180000
+表	Gbiêu	180000
+表	biao	180000
+衩	Gca	76254
+衩	Gcai	76254
+衩	cha	76254
+衫	Gsan	120000
+衫	shan	120000
+衫袖	Gsan Gqiu	100188
+衫袖	Gsan xiu	100188
+衫袖	shan Gqiu	100188
+衫袖	shan xiu	100188
+衬	Gcin	120000
+衬	Gcun	120000
+衬	Gcên	120000
+衬	chen	120000
+衰	Gngêi	120000
+衰	Gsêi	120000
+衰	shuai	120000
+衷	Gzung	120000
+衷	zhong	120000
+袁	Gnyuon	120000
+袁	Gyuon	120000
+袁	yuan	120000
+袄	Gngau	120000
+袄	ao	120000
+袋	Gtêi	120000
+袋	dai	120000
+袍	Gpau	120000
+袍	pao	120000
+袒	Gtiên	73014
+袒	tan	73014
+袖	Gqieu	100000
+袖	Gqiu	100000
+袖	Gqiuk	100000
+袖	xiu	100000
+袜	Gwaet	120000
+袜	wa	120000
+被	Gbi	200000
+被	Gpi	200000
+被	bei	200000
+袭	Gxip	101876
+袭	xi	101876
+袱	Gfuk	120000
+袱	fu	120000
+裁	Gcêi	120000
+裁	cai	120000
+裂	Gliêt	120000
+裂	lie	120000
+装	Gzong	123600
+装	zhuang	123600
+裆	Gdong	90000
+裆	dang	90000
+裕	Gni	120000
+裕	Gyu	120000
+裕	yu	120000
+裙	Gcyun	120000
+裙	Gqin	120000
+裙	Gqyun	120000
+裙	qun	120000
+裤	Gku	120000
+裱	Gbiêu	90000
+裱	biao	90000
+裳	Gsong	120000
+裳	shang	120000
+裴	Gpêi	90000
+裴	pei	90000
+裹	Gguo	120000
+褂	Ggua	120000
+褪	Gtêi	109938
+褪	tui	109938
+褯	Gqia	5000
+褯	jie	5000
+襄	Gxiong	90000
+襄	xiang	90000
+襻	Gpan	90000
+西	Gxi	120000
+要	Gyau	200000
+要	Gyêu	200000
+要	yao	200000
+覆	Gfuk	120000
+覆	fu	120000
+见	Gjiên	200000
+见	jian	200000
+观	Ggun	145000
+观	Gguon	145000
+观	guan	145000
+规	Ggui	145000
+规	Gkui	145000
+规	gui	145000
+觅	Gmik	100742
+觅	mi	100742
+视	Gsi	145000
+视	Gzi	122075
+视	shi	145000
+览	Glan	120000
+览	Glen	120000
+览	lan	120000
+觉	Ggau	180000
+觉	Ggok	180000
+觉	jue	180000
+角	Ggok	145000
+角	Gjiok	145000
+角	jiao	145000
+觘	Gcau	120000
+觘	chao	120000
+解	Ggai	170000
+解	jie	170000
+触	Gcuk	120000
+触	chu	120000
+言	Gniên	55000
+言	Gyên	55000
+言	yan	55000
+詹	Gzên	90000
+詹	zhan	90000
+誉	Gni	120000
+誉	Gyu	120000
+誉	yu	120000
+誊	Gtên	120000
+誊	teng	120000
+誓	Gsi	120000
+誓	shi	120000
+警	Gjiang	120000
+警	Gjin	120000
+警	jing	120000
+计	Ggi	200000
+计	Gji	200000
+计	ji	200000
+订	Gden	100000
+订	Gdiang	100000
+订	Gten	100000
+订	ding	100000
+认	Gnin	170000
+认	ren	170000
+讥	Gji	120000
+讨	Gtau	120000
+讨	tao	120000
+让	Glong	200000
+让	Gniong	200000
+让	rang	200000
+训	Gxyun	120000
+训	xun	120000
+议	Gni	120000
+议	yi	120000
+讯	Gxin	106006
+讯	Gxyun	106006
+讯	xun	106006
+记	Gji	163850
+讲	Ggong	175000
+讲	jiang	175000
+讳	Gfêi	108601
+讳	Gwêi	108601
+讳	hui	108601
+讶	Gngak	108927
+讶	ya	108927
+许	Ghêi	124082
+许	Gxi	124082
+许	Gxyu	124082
+许	Gê	124082
+许	Gêi	124082
+许	xu	124082
+讹	Gngo	120000
+讹	e	120000
+论	Glun	120000
+讼	Gsung	131654
+讼	song	131654
+讽	Gfung	105298
+讽	feng	105298
+设	Gsa	120000
+设	Gsiêt	120000
+设	she	120000
+访	Gfong	120000
+访	fang	120000
+诀	Gjyueok	125000
+诀	Gqyuêk	125000
+诀	jue	125000
+证	Gzen	170000
+证	zheng	170000
+评	Gpen	150000
+评	ping	150000
+诅	Gjyu	73072
+诅	Gzu	73072
+诅	zu	73072
+识	Gsek	120000
+识	Gsik	120000
+识	shi	120000
+诈	Gza	120000
+诈	zha	120000
+诉	Gsuk	120000
+诉	su	120000
+诊	Gzen	108221
+诊	Gzin	108221
+诊	zhen	108221
+词	Gci	200000
+译	Gyik	125000
+译	yi	125000
+试	Gsi	200000
+试	Gsik	200000
+试	shi	200000
+诗	Gsi	120000
+诗	shi	120000
+诚	Gcen	120000
+诚	cheng	120000
+话	Gfa	200000
+话	Gwa	200000
+话	hua	200000
+话事	Gwa Gsi	108030
+话事	Gwa shi	108030
+话事	hua Gsi	108030
+话事	hua shi	108030
+诞	Gtan	104129
+诞	dan	104129
+诡	Ggui	120000
+询	Gxyun	103310
+询	xun	103310
+该	Ggê	200000
+该	Ggêi	200000
+该	gai	200000
+详	Gxiong	120000
+详	xiang	120000
+诫	Ggai	102865
+诫	jie	102865
+诬	Gwu	120000
+语	Gni	200000
+语	yu	200000
+误	Gwu	160000
+诱	Gyeu	100343
+诱	Gyiu	100343
+诱	you	100343
+诲	Gfi	101141
+诲	Gfêi	101141
+诲	hui	101141
+说	Gseot	200000
+说	Gsyuêt	126409
+说	shuo	200000
+诵	Gsung	120000
+诵	song	120000
+请	Gqiang	200000
+请	Gqin	200000
+请	qing	200000
+诸	Gzyu	145000
+诸	zhu	145000
+诺	Glok	104414
+诺	Gnok	104414
+诺	nuo	104414
+读	Gtuk	200000
+读	du	200000
+诽	Gfi	109515
+诽	fei	109515
+课	Gko	120000
+课	ke	120000
+谁	Ghêi	120000
+谁	Gsui	120000
+谁	shui	120000
+调	Gdiau	200000
+调	Gdiêu	200000
+调	Gtiau	200000
+调	Gtiêu	200000
+调	diao	200000
+谅	Gliong	120000
+谅	liang	120000
+谆	Gzun	108269
+谆	zhun	108269
+谈	Gtam	200000
+谈	Gtan	200000
+谈	tan	200000
+谊	Gni	101764
+谊	Gyi	101764
+谊	yi	101764
+谋	Gmêu	120000
+谋	mou	120000
+谍	Gtiêk	120000
+谍	die	120000
+谎	Gfong	120000
+谎	huang	120000
+谓	Gvi	120000
+谓	wei	120000
+谚	Gyên	101345
+谚	yan	101345
+谜	Gmi	145000
+谢	Gxia	170000
+谢	Gxiê	170000
+谢	xie	170000
+谣	Gniau	120000
+谣	Gyau	120000
+谣	Gyêu	120000
+谣	yao	120000
+谦	Gqiên	120000
+谦	qian	120000
+谨	Gjin	120000
+谨	Gqin	120000
+谨	jin	120000
+谭	Gtan	120000
+谱	Gpu	120000
+谷	Gguk	170000
+谷	gu	170000
+豆	Gtêu	120000
+豆	dou	120000
+豇	Ggong	75843
+豇	jiang	75843
+豚	Gtun	125000
+象	Gxiong	120000
+象	xiang	120000
+豪	Ghau	120000
+豪	hao	120000
+豹	Gbau	120000
+豹	bao	120000
+豺	Gcai	120000
+豺	Gcêi	120000
+豺	chai	120000
+貂	Gdiêu	95000
+貂	diao	95000
+貌	Gmau	120000
+貌	mao	120000
+賸	Gyang	127616
+賸	Gyin	127616
+賸	sheng	127616
+賸几多	Gyin Gji Gdo	122143
+賸几多	Gyin Gji duo	122143
+賸几多	sheng Gji Gdo	122143
+賸几多	sheng Gji duo	122143
+賸几多	sheng ji duo	122143
+賸出来个	Gyin Gcyuk Glêi Ggo	122877
+賸出来个	Gyin Gcyuk Glêi ge	122877
+賸出来个	Gyin Gcyuk lai Ggo	122877
+賸出来个	Gyin Gcyuk lai ge	122877
+賸出来个	Gyin chu Glêi Ggo	122877
+賸出来个	Gyin chu Glêi ge	122877
+賸出来个	Gyin chu lai Ggo	122877
+賸出来个	Gyin chu lai ge	122877
+賸出来个	sheng Gcyuk Glêi Ggo	122877
+賸出来个	sheng Gcyuk Glêi ge	122877
+賸出来个	sheng Gcyuk lai Ggo	122877
+賸出来个	sheng Gcyuk lai ge	122877
+賸出来个	sheng chu Glêi Ggo	122877
+賸出来个	sheng chu Glêi ge	122877
+賸出来个	sheng chu lai Ggo	122877
+賸出来个	sheng chu lai ge	122877
+賸菜	Gyin Gcêi	122879
+賸菜	Gyin cai	122879
+賸菜	sheng Gcêi	122879
+賸菜	sheng cai	122879
+贝	Gbi	120000
+贝	Gpêi	120000
+贝	bei	120000
+贞	Gzen	120000
+贞	zhen	120000
+负	Gfu	200000
+贡	Ggung	120000
+贡	gong	120000
+财	Gcêi	145000
+财	cai	145000
+责	Gziêk	120000
+责	Gzêk	120000
+责	ze	120000
+贤	Ghiên	120000
+贤	Gxiên	120000
+贤	xian	120000
+败	Gbai	120000
+败	Gpai	120000
+败	bai	120000
+账	Gzong	120000
+账	zhang	120000
+货	Gfo	120000
+货	huo	120000
+质	Gzek	177000
+质	Gzit	177000
+质	zhi	177000
+贩	Gban	120000
+贩	Gfan	120000
+贩	fan	120000
+贪	Ghêu	123984
+贪	Gtam	120000
+贪	Gtan	120000
+贪	Gton	120000
+贪	tan	123984
+贫	Gpen	120000
+贫	Gpin	120000
+贫	pin	120000
+贬	Gbian	120000
+贬	Gbiên	120000
+贬	bian	120000
+购	Ggiau	120000
+购	Ggiêu	120000
+购	Gjiau	120000
+购	gou	120000
+贮	Gjyu	120000
+贮	zhu	120000
+贯	Gguan	120000
+贯	Gguon	120000
+贯	guan	120000
+贰	Go	120000
+贰	er	120000
+贱	Gqiên	120000
+贱	jian	120000
+贴	Gtiêp	120000
+贴	tie	120000
+贵	Ggui	125000
+贷	Gtêi	120000
+贷	dai	120000
+贸	Gmiau	120000
+贸	Gmêu	120000
+贸	mao	120000
+费	Gfi	170000
+费	fei	170000
+贺	Gho	120000
+贺	Ghok	120000
+贺	he	120000
+贼	Gciêk	134902
+贼	Gcêk	134902
+贼	zei	134902
+贾	Gga	120000
+贾	jia	120000
+贿	Gfêi	102979
+贿	hui	102979
+赁	Glen	101509
+赁	lin	101509
+赂	Glu	106773
+赃	Gzong	120000
+赃	zang	120000
+资	Gzi	120000
+赊	Gsa	90000
+赊	she	90000
+赌	Gdu	120000
+赎	Gsuk	145000
+赎	shu	145000
+赏	Gsong	120000
+赏	shang	120000
+赔	Gpêi	120000
+赔	pei	120000
+赖	Glai	170000
+赚	Gcan	150000
+赚	zhuan	150000
+赛	Gsai	120000
+赛	Gsêi	120000
+赛	sai	120000
+赞	Gziên	125000
+赞	zan	125000
+赠	Gzen	120000
+赠	zeng	120000
+赢	Gyang	135602
+赢	ying	135602
+赣	Ggon	200000
+赣	gan	200000
+赤	Gcak	120000
+赤	chi	120000
+赦	Gsa	120000
+赦	she	120000
+走	Gzêu	200000
+走	zou	200000
+赴	Gfuk	120000
+赴	fu	120000
+赵	Gcêu	145000
+赵	Gzeu	145000
+赵	zhao	145000
+赶	Ggon	120000
+赶	Gpang	126180
+赶	gan	126180
+起	Gqi	170000
+趁	Gcen	120000
+趁	chen	120000
+超	Gcêu	120000
+超	chao	120000
+越	Gnyuêt	200000
+越	Gyueok	200000
+越	Gyuêt	200000
+越	yue	200000
+趋	Gqyuk	106253
+趋	qu	106253
+趟	Gtong	120000
+趟	tang	120000
+趣	Gqi	120000
+趣	Gqyu	120000
+趣	qu	120000
+足	Gjiuk	180000
+足	Gzuk	180000
+足	zu	180000
+趴	Gpak	170000
+趴	pa	170000
+趼	Gjiên	30000
+趼	jian	30000
+趾	Gzi	104564
+趾	zhi	104564
+趿	Gtaek	90000
+趿	ta	90000
+跃	Gnyuêt	107988
+跃	yue	107988
+跌	Gdiêt	180000
+跌	die	180000
+跍	Gku	124818
+跑	Gpau	200000
+跑	pao	200000
+距	Gji	120000
+距	Gjyu	120000
+距	ju	120000
+跟	Ggiên	200000
+跟	Gjiên	200000
+跟	gen	200000
+跤	Ggau	120000
+跤	jiao	120000
+跨	Gka	200000
+跨	kua	200000
+跪	Gkui	120000
+跪	gui	120000
+路	Glu	155000
+跳	Gtiêu	200000
+跳	tiao	200000
+践	Gjiên	120000
+践	Gqiên	120000
+践	jian	120000
+跶	Gtaek	73876
+跶	da	73876
+踏	Gca	122025
+踏	Gtaek	120000
+踏	ta	122025
+踢	Gtek	170000
+踢	Gtik	170000
+踢	ti	170000
+踩	Gca	124153
+踩	Gcêi	120000
+踩	cai	124153
+踪	Gzung	120000
+踪	zong	120000
+踭	Gzang	123505
+踭	zheng	123505
+踹	Gca	126267
+踹	chuai	126267
+蹄	Gti	120000
+蹅	Gca	125509
+蹅	cha	125509
+蹈	Gtau	100508
+蹈	dao	100508
+蹋	Gtaek	120000
+蹋	ta	120000
+蹦	Gbung	145000
+蹦	beng	145000
+蹬	Gdên	145000
+蹬	deng	145000
+蹲	Gdun	145000
+蹲	Gku	126899
+蹲	dun	126899
+躁	Gzau	120000
+躁	zao	120000
+身	Gsen	120000
+身	Gsin	120000
+身	shen	120000
+躬	Ggung	145000
+躬	gong	145000
+躲	Gdo	153256
+躲	duo	153256
+躺	Gkuin	124559
+躺	Gtong	120000
+躺	tang	124559
+车	Gca	30000
+车	Gji	30000
+车	che	30000
+轧	Ggat	120000
+轧	Gzat	120000
+轧	ya	120000
+轨	Ggui	120000
+轨道	Ggui Gtau	2410
+轨道	Ggui dao	2410
+轨道	gui dao	2410
+轩	Gxyuon	145000
+轩	xuan	145000
+转	Gzon	200000
+转	Gzuon	200000
+转	zhuan	200000
+轭	Gwak	5868
+轭	e	5868
+轮	Glin	190000
+轮	Glun	190000
+轮	lun	190000
+软	Gnyuon	120000
+软	ruan	120000
+轰	Gfung	120000
+轰	hong	120000
+轴	Gcuk	120000
+轴	Gziu	120000
+轴	zhou	120000
+轻	Gqiang	145000
+轻	Gqin	145000
+轻	qing	145000
+载	Gzai	120000
+载	Gzêi	120000
+载	zai	120000
+轿	Ggau	120000
+轿	Gjiau	120000
+轿	Gqiau	120000
+轿	Gqiêu	120000
+轿	jiao	120000
+较	Ggau	200000
+较	jiao	200000
+辅	Gfu	108378
+辅	Gpu	108378
+辅	fu	108378
+辆	Gliong	104506
+辆	liang	104506
+辈	Gbêi	145000
+辈	Gpêi	145000
+辈	bei	145000
+辉	Gfi	145000
+辉	hui	145000
+辑	Gjik	100000
+辑	Gqik	100000
+辑	ji	100000
+输	Gsyu	200000
+输	Gxyu	200000
+输	shu	200000
+辛	Gxin	145000
+辜	Ggu	120000
+辞	Gci	120000
+辟	Gbiak	120000
+辟	Gpi	120000
+辟	Gpik	120000
+辟	pi	120000
+辣	Glaek	120000
+辣	la	120000
+辨	Gpiên	145000
+辨	bian	145000
+辩	Gpiên	120000
+辩	bian	120000
+辫	Gpiên	120000
+辫	bian	120000
+辰	Gcin	124678
+辰	Gsen	124678
+辰	Gsin	124678
+辰	chen	124678
+辱	Gluk	120000
+辱	ru	120000
+边	Gbiên	175000
+边	bian	175000
+辽	Gliau	145000
+辽	Gliêu	145000
+辽	liao	145000
+达	Gdaet	175000
+达	Gtaek	175000
+达	da	175000
+迁	Gqiên	120000
+迁	qian	120000
+迂	Gni	120000
+迂	Gyi	120000
+迂	Gyu	120000
+迂	yu	120000
+迄	Gqi	120000
+迅	Gxin	106647
+迅	Gxyun	106647
+迅	xun	106647
+过	Gguo	200000
+迈	Gmai	120000
+迈	Gmak	120000
+迈	mai	120000
+迎	Gnen	136501
+迎	Gyin	136501
+迎	ying	136501
+运	Gyun	135000
+近	Gqin	145000
+近	jin	145000
+返	Gfan	120000
+还	Ghai	200000
+还	Gwan	200000
+还	hai	200000
+这	Ggo	200000
+这	Ggêi	200000
+这	Gza	200000
+这	zhe	200000
+进	Gjin	150000
+远	Gnyuon	200000
+远	Gyuon	200000
+远	yuan	200000
+违	Gvi	120000
+违	wei	120000
+连	Glian	200000
+连	Gliên	200000
+连	lian	200000
+迟	Gci	120000
+迟	Gngan	126099
+迟	chi	126099
+迫	Gpo	120000
+迫	Gpêk	120000
+迫	po	120000
+迷	Gmi	145000
+迹	Gjiak	120000
+迹	Gjik	120000
+迹	ji	120000
+追	Gjyu	145000
+追	Gzyu	145000
+追	zhui	145000
+退	Gtêi	200000
+退	tui	200000
+送	Gsung	195000
+送	song	195000
+适	Gsek	120000
+适	Gsik	120000
+适	shi	120000
+逃	Gtau	120000
+逃	tao	120000
+逆	Gngiak	100000
+逆	Gngiêk	100000
+逆	Gnik	100000
+逆	ni	100000
+选	Gxyuon	200000
+选	xuan	200000
+透	Gtêu	120000
+透	tou	120000
+逐	Gzuk	145000
+逐	zhu	145000
+递	Gti	107990
+递	di	107990
+途	Gtu	120000
+逗	Gdeu	105279
+逗	Gtêu	105279
+逗	dou	105279
+通	Gtung	195000
+通	tong	195000
+逛	Gfong	69251
+逛	Gguong	69251
+逛	guang	69251
+逝	Gsi	102514
+逝	shi	102514
+逞	Gcen	108731
+逞	cheng	108731
+速	Gsuk	120000
+速	su	120000
+造	Gcau	200000
+造	Gzau	200000
+造	zao	200000
+逢	Gfung	120000
+逢	feng	120000
+逮	Gdêi	102683
+逮	dai	102683
+逵	Gkui	90000
+逸	Gyik	120000
+逸	yi	120000
+逻	Glo	120000
+逻	luo	120000
+逼	Gbek	145000
+逼	Gbi	145000
+逼	bi	145000
+遂	Gsêi	100000
+遂	sui	100000
+遂川	Gsêi Gcon	100000
+遂川	Gsêi chuan	100000
+遂川	sui Gcon	100000
+遂川	sui chuan	100000
+遇	Gni	120000
+遇	Gnyu	120000
+遇	Gyu	120000
+遇	yu	120000
+遍	Gpiên	180000
+遍	bian	180000
+道	Gdau	200000
+道	Gtau	200000
+道	dao	200000
+遗	Gni	145000
+遗	Gvi	145000
+遗	yi	145000
+遣	Gqiên	120000
+遣	qian	120000
+遥	Gniau	120000
+遥	Gyau	120000
+遥	Gyêu	120000
+遥	yao	120000
+遭	Gzau	120000
+遭	Gzeu	120000
+遭	zao	120000
+遮	Gza	120000
+遮	zhe	120000
+遵	Gzun	120000
+遵	Gzyun	120000
+遵	zun	120000
+避	Gbi	120000
+避	Gpi	120000
+避	bi	120000
+邀	Gniau	120000
+邀	Gyau	120000
+邀	Gyêu	120000
+邀	yao	120000
+邈	Gmiêu	71272
+邈	miao	71272
+邑	Gni	120000
+邑	Gyi	120000
+邑	yi	120000
+邓	Gtiên	120000
+邓	Gtên	120000
+邓	deng	120000
+邢	Gxin	77004
+邢	xing	77004
+那	Gna	100000
+那	Gêi	100000
+那	na	100000
+邦	Gbong	145000
+邦	bang	145000
+邪	Gxia	155000
+邪	xie	155000
+邬	Gwu	90000
+邮	Gyeu	120000
+邮	Gyiu	120000
+邮	you	120000
+邱	Gqieu	90000
+邱	qiu	90000
+邵	Gsêu	90000
+邵	shao	90000
+邹	Gzêu	90000
+邹	zou	90000
+邻	Glen	120000
+邻	lin	120000
+郁	Gniu	120000
+郁	Gyiu	120000
+郁	yu	120000
+郊	Ggau	120000
+郊	jiao	120000
+郎	Glong	145000
+郎	lang	145000
+郑	Gcen	110000
+郑	Gzen	110000
+郑	zheng	110000
+部	Gpu	145000
+部	bu	145000
+郭	Ggeok	120000
+郭	guo	120000
+都	Gdu	200000
+都	dou	200000
+鄂	Gngok	120000
+鄂	e	120000
+鄙	Gbi	120000
+鄢	Gyên	90000
+鄢	yan	90000
+鄱	Gpo	90000
+酉	Gyeu	145000
+酉	you	145000
+酌	Gcok	120000
+酌	zhuo	120000
+配	Gpi	195000
+配	Gpêi	195000
+配	pei	195000
+酒	Gjieu	120000
+酒	jiu	120000
+酗	Gxi	104434
+酗	xu	104434
+酝	Gyin	120000
+酝	yun	120000
+酥	Gsu	120000
+酬	Gceu	120000
+酬	Gciu	120000
+酬	chou	120000
+酱	Gjiong	120000
+酱	jiang	120000
+酵	Ghau	106723
+酵	jiao	106723
+酷	Gku	120000
+酸	Gson	120000
+酸	suan	120000
+酿	Gliong	145000
+酿	Gniong	145000
+酿	niang	145000
+醉	Gji	120000
+醉	zui	120000
+醋	Gcu	120000
+醒	Gxiang	100000
+醒	Gxin	100000
+醒	xing	100000
+采	Gcêi	145000
+采	cai	145000
+釉	Gyeu	5000
+釉	you	5000
+释	Gsek	170000
+释	Gsik	170000
+释	shi	170000
+里	Gli	200000
+重	Gcung	200000
+重	zhong	200000
+野	Gya	200000
+野	ye	200000
+量	Gliong	200000
+量	liang	200000
+金	Gjin	175000
+鉴	Ggan	120000
+鉴	Gjiên	120000
+鉴	jian	120000
+针	Gzen	120000
+针	Gzin	120000
+针	zhen	120000
+钉	Gdiang	55000
+钉	ding	55000
+钓	Gdiau	120000
+钓	Gdiêu	120000
+钓	diao	120000
+钙	Ggêi	105253
+钙	gai	105253
+钝	Gdin	108444
+钝	Gdun	108444
+钝	dun	108444
+钞	Gcau	120000
+钞	Gceu	120000
+钞	chao	120000
+钟	Gzung	120000
+钟	zhong	120000
+钠	Gna	106387
+钢	Ggong	120000
+钢	gang	120000
+钥	Gngau	200000
+钥	Gyau	200000
+钥	yao	200000
+钦	Gcin	120000
+钦	Gkin	120000
+钦	Gqin	120000
+钦	qin	120000
+钧	Gjin	120000
+钧	Gjyun	120000
+钧	jun	120000
+钩	Ggiêu	120000
+钩	Gjiau	120000
+钩	gou	120000
+钮	Gniu	108131
+钱	Gqiên	200000
+钱	qian	200000
+钳	Gqiên	120000
+钳	qian	120000
+钵	Gbêk	90000
+钵	bo	90000
+钻	Gzon	120000
+钻	Gzuon	120000
+钻	zuan	120000
+钾	Ggaep	102182
+钾	jia	102182
+铁	Gtiêt	150000
+铁	tie	150000
+铃	Glen	120000
+铃	Gliang	120000
+铃	ling	120000
+铅	Gnyuon	125000
+铅	Gqiên	125000
+铅	Gyên	125000
+铅	qian	125000
+铆	Gmau	71016
+铆	mao	71016
+铎	Gtok	75956
+铎	duo	75956
+铐	Gkau	120000
+铐	kao	120000
+铜	Gtung	170000
+铜	tong	170000
+铡	Gzaek	90000
+铡	zha	90000
+铲	Gcan	120000
+铲	Gciên	120000
+铲	chan	120000
+铳	Gcung	90000
+铳	chong	90000
+银	Gnin	126500
+银	Gyin	126500
+银	yin	126500
+银河	Gnin Gho	346
+银河	Gnin he	346
+银河	yin Gho	346
+银河	yin he	346
+铸	Gjyu	145000
+铸	zhu	145000
+铺	Gpu	120000
+链	Gliên	145000
+链	lian	145000
+销	Gxiau	145000
+销	Gxiêu	145000
+销	xiao	145000
+锁	Gso	145000
+锁	suo	145000
+锄	Gcyu	120000
+锄	Gjiok	120000
+锄	Gqyu	120000
+锄	chu	120000
+锅	Gwo	120000
+锅	guo	120000
+锈	Gxieu	120000
+锈	Gxiu	120000
+锈	xiu	120000
+锋	Gfung	120000
+锋	feng	120000
+锐	Glui	109429
+锐	Glêi	109429
+锐	rui	109429
+错	Gco	200000
+错	cuo	200000
+锚	Gmiêu	145000
+锚	mao	145000
+锡	Gxiak	120000
+锡	Gxik	120000
+锡	xi	120000
+锣	Glo	120000
+锣	luo	120000
+锤	Gcyu	120000
+锤	Gqyu	120000
+锤	chui	120000
+锥	Gzui	145000
+锥	zhui	145000
+锦	Gjin	120000
+键	Gjiên	163920
+键	Gqiên	163920
+键	jian	163920
+锯	Ggiê	145000
+锯	Gji	145000
+锯	Gjyu	145000
+锯	ju	145000
+锹	Gqiau	120000
+锹	Gqiêu	120000
+锹	qiao	120000
+锻	Gdon	120000
+锻	Gton	120000
+锻	duan	120000
+镇	Gzen	120000
+镇	Gzin	120000
+镇	zhen	120000
+镊	Gniêk	90000
+镊	nie	90000
+镖	Gbiêu	90000
+镖	biao	90000
+镜	Gjiang	103654
+镜	jing	103654
+镢	Gjiok	125955
+镢	jue	125955
+镢头	Gjiok Gtêu	122865
+镢头	Gjiok tou	122865
+镢头	jue Gtêu	122865
+镢头	jue tou	122865
+镰	Glian	120000
+镰	Gliên	120000
+镰	lian	120000
+长	Gcong	200000
+长	Gzong	200000
+长	zhang	200000
+门	Gmen	170000
+门	Gmin	170000
+门	men	170000
+闩	Gson	4993
+闩	shuan	4993
+闪	Gsiên	135907
+闪	Gsên	135907
+闪	shan	135907
+闪电	Gsiên Gtiên	25771
+闪电	Gsiên dian	25771
+闪电	shan Gtiên	25771
+闪电	shan dian	25771
+闭	Gbit	135000
+闭	bi	135000
+问	Gwin	200000
+问	Gwiên	200000
+问	Gwun	200000
+问	Gwên	200000
+问	wen	200000
+闯	Gcong	120000
+闯	chuang	120000
+闰	Glun	120000
+闰	run	120000
+闲	Ghan	150000
+闲	xian	150000
+间	Ggan	180000
+间	jian	180000
+间雀仔	Ggan Gjiok Gzi	90417
+间雀仔	Ggan Gjiok zai	90417
+间雀仔	Ggan que Gzi	90417
+间雀仔	Ggan que zai	90417
+间雀仔	jian Gjiok Gzi	90417
+间雀仔	jian Gjiok zai	90417
+间雀仔	jian que Gzi	90417
+间雀仔	jian que zai	90417
+闵	Gmen	90000
+闵	min	90000
+闷	Gmen	120000
+闷	Gmin	120000
+闷	men	120000
+闸	Gcaet	120000
+闸	Gzaet	120000
+闸	zha	120000
+闹	Glau	120000
+闹	nao	120000
+闺	Ggui	150000
+闻	Gwin	136980
+闻	Gwiên	136980
+闻	Gwên	136980
+闻	Gxiong	136980
+闻	wen	136980
+闽	Gmen	120000
+闽	Gmin	120000
+闽	min	120000
+阀	Gfaet	145000
+阀	fa	145000
+阁	Ggok	120000
+阁	Ggyuêk	122218
+阁	ge	122218
+阄	Ggiêu	90000
+阄	jiu	90000
+阅	Gnyuêt	130000
+阅	yue	130000
+阎	Gyên	120000
+阎	yan	120000
+阔	Gkuok	120000
+阔	Gkyuêk	120000
+阔	kuo	120000
+队	Gdêi	145000
+队	Gtêi	145000
+队	dui	145000
+阮	Glon	90000
+阮	ruan	90000
+防	Gfong	170000
+防	fang	170000
+阳	Gyong	170000
+阳	yang	170000
+阴	Gyin	120000
+阵	Gcen	120000
+阵	Gcin	120000
+阵	Gzin	120000
+阵	zhen	120000
+阶	Ggai	145000
+阶	jie	145000
+阻	Gjyu	125000
+阻	Gzu	125000
+阻	zu	125000
+阿	Ga	200000
+阿	Gnga	200000
+阿	a	200000
+陀	Gto	90000
+陀	tuo	90000
+附	Gfu	120000
+附	Gfuk	120000
+附	fu	120000
+际	Gji	120000
+际	Gqi	120000
+际	ji	120000
+陆	Gliuk	120000
+陆	Gluk	120000
+陆	lu	120000
+陈	Gcen	131300
+陈	Gcin	131300
+陈	chen	131300
+陋	Gleu	120000
+陋	lou	120000
+陌	Gmak	104906
+陌	mo	104906
+降	Ggong	170000
+降	Gkong	170000
+降	jiang	170000
+限	Ghan	125000
+限	Gxiên	125000
+限	xian	125000
+陕	Gsên	120000
+陕	shan	120000
+陡	Gdêu	150000
+陡	dou	150000
+院	Gnyuon	120000
+院	Gyuon	120000
+院	yuan	120000
+除	Gcyu	200000
+除	Gqyu	200000
+除	chu	200000
+陨	Gyin	109185
+陨	Gyun	109185
+陨	yun	109185
+险	Ghiên	120000
+险	Gxiên	120000
+险	xian	120000
+陪	Gpi	120000
+陪	Gpêi	120000
+陪	pei	120000
+陵	Glen	120000
+陵	Glin	120000
+陵	ling	120000
+陶	Gtau	120000
+陶	tao	120000
+陷	Ghan	120000
+陷	Gxiên	120000
+陷	xian	120000
+隆	Glung	120000
+隆	long	120000
+隍	Gwong	90000
+隍	huang	90000
+随	Gxi	145000
+随	sui	145000
+隐	Gyang	120000
+隐	Gyin	120000
+隐	yin	120000
+隔	Ggaek	125000
+隔	Ggak	125000
+隔	ge	125000
+隙	Ghan	120000
+隙	xi	120000
+障	Gcong	120000
+障	Gzong	120000
+障	zhang	120000
+隧	Gxi	103913
+隧	sui	103913
+隶	Glik	145000
+隶	li	145000
+难	Glan	180000
+难	Gnan	180000
+难	nan	180000
+雀	Gjiok	140000
+雀	que	140000
+雀仔	Gjiok Gzi	104569
+雀仔	Gjiok zai	104569
+雀仔	que Gzi	104569
+雀仔	que zai	104569
+雁	Gngan	120000
+雁	yan	120000
+雄	Gxiung	120000
+雄	xiong	120000
+雅	Gnga	145000
+雅	ya	145000
+集	Gqik	145000
+集	ji	145000
+雇	Ggu	125000
+雍	Gyung	78890
+雍	yong	78890
+雕	Gdiêu	120000
+雕	diao	120000
+雨	Gyi	170000
+雨	yu	170000
+雪	Gxyueok	120000
+雪	Gxyuêt	120000
+雪	xue	120000
+零	Gliang	200000
+零	ling	200000
+雷	Glêi	145000
+雷	lei	145000
+雷鸣	Glêi Gmen	129
+雷鸣	Glêi Gmin	129
+雷鸣	Glêi ming	129
+雷鸣	lei Gmen	129
+雷鸣	lei ming	129
+雹	Gpau	120000
+雹	Gpok	120000
+雹	bao	120000
+雾	Gwu	120000
+雾气	Gwu Gqi	220
+需	Gxi	120000
+需	Gxyu	120000
+需	xu	120000
+震	Gzen	120000
+震	Gzin	120000
+震	zhen	120000
+霉	Gmêi	120000
+霉	mei	120000
+霍	Gfok	120000
+霍	huo	120000
+霜	Gsong	120000
+霜	shuang	120000
+霜冻	Gsong Gdung	103
+霜冻	Gsong dong	103
+霜冻	shuang Gdung	103
+霜冻	shuang dong	103
+霞	Gha	170000
+霞	xia	170000
+露	Gleu	130000
+露	Glu	130000
+露	lu	130000
+霸	Gba	125000
+青	Gqiang	30000
+青	Gqin	30000
+青	qing	30000
+靖	Gqiang	100937
+靖	jing	100937
+静	Gqin	120000
+静	jing	120000
+非	Gfi	200000
+非	fei	200000
+靠	Gkau	200000
+靠	kao	200000
+面	Gmiên	200000
+面	mian	200000
+革	Ggak	145000
+革	Ggiêk	145000
+革	Ggok	145000
+革	Ggyuêk	123788
+革	ge	145000
+靴	Gxyueo	120000
+靴	xue	120000
+靶	Gba	120000
+鞋	Ghai	120000
+鞋	xie	120000
+鞠	Gjiuk	120000
+鞠	Gjyu	120000
+鞠	ju	120000
+鞭	Gbiên	120000
+鞭	bian	120000
+韧	Gliên	125000
+韧	Gnin	125000
+韧	ren	125000
+韩	Ghon	120000
+韩	han	120000
+韭	Gjieu	120000
+韭	Gjiu	120000
+韭	jiu	120000
+音	Gyang	200000
+音	Gyin	200000
+音	yin	200000
+韵	Gnyun	200000
+韵	Gyun	200000
+韵	yun	200000
+韶	Gsêu	70809
+韶	shao	70809
+页	Gyêp	200000
+页	ye	200000
+顶	Gden	125000
+顶	Gten	125000
+顶	ding	125000
+顷	Gqen	120000
+顷	Gqiang	120000
+顷	qing	120000
+项	Ghong	170000
+项	Gxiong	170000
+项	xiang	170000
+顺	Gsun	170000
+顺	Gsyun	170000
+顺	shun	170000
+须	Gxi	120000
+须	Gxiuk	120000
+须	Gxyu	120000
+须	xu	120000
+顽	Gwan	120000
+顾	Ggu	120000
+顿	Gdun	120000
+颁	Gbiên	108769
+颁	ban	108769
+颂	Gsung	101684
+颂	song	101684
+预	Gni	120000
+预	Gyi	120000
+预	Gyu	120000
+预	yu	120000
+颅	Glu	102108
+领	Glen	31739
+领	Gliang	31739
+领	Glin	31739
+领	ling	31739
+颈	Gjiang	125320
+颈	jing	125320
+频	Gpin	120702
+颖	Gyin	107726
+颖	ying	107726
+题	Gti	145000
+颜	Gngan	120000
+颜	yan	120000
+额	Gngiak	125000
+额	Gngiêk	125000
+额	Gngo	125000
+额	e	125000
+颠	Gdian	120000
+颤	Gciên	100906
+颤	Gzan	100906
+颤	chan	100906
+颧	Gqyuon	90000
+颧	quan	90000
+风	Gfung	155000
+风	feng	155000
+飒	Gsap	70198
+飒	sa	70198
+飘	Gpiau	120000
+飘	Gpiêu	120000
+飘	piao	120000
+飞	Gfi	150000
+飞	fei	150000
+食	Gqiak	125281
+食	Gsek	120000
+食	Gsik	120000
+食	shi	125281
+餐	Gcan	145000
+餐	Gciên	145000
+餐	can	145000
+饥	Gji	120000
+饭	Gfan	195000
+饮	Gcyuêt	126504
+饮	Gqiak	126504
+饮	Gyang	120000
+饮	Gyin	120000
+饮	yin	126504
+饰	Gsek	145000
+饰	Gsik	145000
+饰	shi	145000
+饱	Gbau	145000
+饱	bao	145000
+饲	Gci	109731
+饲	Gsi	109731
+饲	si	109731
+饵	Go	106087
+饵	er	106087
+饶	Glau	200000
+饶	Gniêu	200000
+饶	Gyau	200000
+饶	rao	200000
+饺	Ggau	120000
+饺	Gjiau	120000
+饺	Gjiêu	120000
+饺	jiao	120000
+饼	Gbiang	145000
+饼	bing	145000
+饿	Gngo	120000
+饿	e	120000
+馀	Gyi	30000
+馀	yu	30000
+馁	Gnêi	106022
+馁	nei	106022
+馅	Gxiên	125000
+馅	xian	125000
+馆	Ggun	145000
+馆	Gguon	145000
+馆	guan	145000
+馊	Gsêu	4997
+馊	sou	4997
+馋	Gcan	102621
+馋	Ghêu	124433
+馋	chan	124433
+馒	Gmiên	120000
+馒	Gmên	120000
+馒	man	120000
+首	Gseu	200000
+首	Gsiu	200000
+首	shou	200000
+香	Ghong	120000
+香	Gxiong	120000
+香	xiang	120000
+馨	Gxin	104389
+驐	Gdun	4998
+马	Gma	120000
+驮	Gto	125859
+驮	tuo	125859
+驮打	Gto Gda	123594
+驮打	tuo Gda	123594
+驮打	tuo da	123594
+驮骂	Gto Gma	123834
+驮骂	tuo Gma	123834
+驮骂	tuo ma	123834
+驯	Gxyun	120000
+驯	xun	120000
+驰	Gci	108784
+驰	chi	108784
+驱	Gqyu	120000
+驱	qu	120000
+驳	Gbok	120000
+驳	bo	120000
+驴	Gli	145000
+驴	Glyu	145000
+驴	lv	145000
+驶	Gsi	120000
+驶	shi	120000
+驸	Gfu	90000
+驹	Gji	120000
+驹	Gjyu	120000
+驹	ju	120000
+驻	Gqyu	120000
+驻	Gzu	120000
+驻	zhu	120000
+驼	Gto	120000
+驼	tuo	120000
+驾	Gga	120000
+驾	jia	120000
+骂	Gma	150000
+骄	Ggau	120000
+骄	Gjiau	120000
+骄	Gjiêu	120000
+骄	jiao	120000
+骆	Glok	120000
+骆	luo	120000
+骇	Ghêi	109858
+骇	hai	109858
+验	Gngan	145000
+验	Gniên	145000
+验	Gyên	145000
+验	yan	145000
+骏	Gjin	120000
+骏	Gjyun	120000
+骏	jun	120000
+骑	Gjik	120000
+骑	Gqi	120000
+骑	qi	120000
+骗	Gpiên	185000
+骗	pian	185000
+骚	Gsau	132505
+骚	sao	132505
+骡	Glo	145000
+骡	luo	145000
+骤	Gziu	133229
+骤	zhou	133229
+骨	Gguet	170000
+骨	gu	170000
+髓	Gxi	109275
+髓	sui	109275
+高	Ggau	200000
+高	gao	200000
+高安	Ggau Gngon	100000
+高安	Ggau an	100000
+高安	gao Gngon	100000
+高安	gao an	100000
+鬃	Gzung	90000
+鬃	zong	90000
+鬼	Ggui	120000
+魁	Gkui	106914
+魂	Gfen	120000
+魂	Gfin	120000
+魂	hun	120000
+魄	Gpok	120000
+魄	Gpêk	120000
+魄	po	120000
+魏	Gvi	120000
+魏	wei	120000
+魔	Gmo	120000
+鱼	Gniê	180000
+鱼	yu	180000
+鲁	Glu	145000
+鲈	Glu	74121
+鲜	Gxiên	120000
+鲜	xian	120000
+鲢	Gliên	90000
+鲢	lian	90000
+鲤	Gli	120000
+鲨	Gsa	120000
+鲨	sha	120000
+鲩	Gwan	78503
+鲩	huan	78503
+鲫	Gzêk	120000
+鲫	ji	120000
+鲸	Gjin	106672
+鲸	jing	106672
+鳃	Gsêi	90000
+鳃	sai	90000
+鳄	Gngok	103547
+鳄	e	103547
+鳅	Gqieu	90000
+鳅	qiu	90000
+鳊	Gbiên	90000
+鳊	bian	90000
+鳜	Ggui	90000
+鳝	Gsên	9993
+鳝	shan	9993
+鳞	Glen	120000
+鳞	lin	120000
+鸟	Gdiêu	120000
+鸟	Gniau	120000
+鸟	Gniêu	120000
+鸟	niao	120000
+鸠	Gjiu	90000
+鸡	Gji	120000
+鸡翼膀	Gji Gyik Gbong	108018
+鸡翼膀	Gji Gyik bang	108018
+鸡翼膀	Gji yi Gbong	108018
+鸡翼膀	Gji yi bang	108018
+鸡翼膀	ji yi bang	108018
+鸣	Gmen	130964
+鸣	Gmiang	130964
+鸣	Gmin	130964
+鸣	ming	130964
+鸥	Gngiêu	106795
+鸥	ou	106795
+鸦	Gnga	120000
+鸦	Gngaet	120000
+鸦	ya	120000
+鸭	Gngaet	120000
+鸭	ya	120000
+鸭翼膀	Gngaet Gyik Gbong	100745
+鸭翼膀	Gngaet Gyik bang	100745
+鸭翼膀	Gngaet yi Gbong	100745
+鸭翼膀	Gngaet yi bang	100745
+鸭翼膀	ya Gyik Gbong	100745
+鸭翼膀	ya Gyik bang	100745
+鸭翼膀	ya yi Gbong	100745
+鸭翼膀	ya yi bang	100745
+鸯	Gyong	120000
+鸯	yang	120000
+鸳	Gnyuon	120000
+鸳	Gyuon	120000
+鸳	yuan	120000
+鸵	Gto	109394
+鸵	tuo	109394
+鸽	Ggeop	120000
+鸽	Ggyuêp	129228
+鸽	ge	129228
+鸿	Gfung	120000
+鸿	hong	120000
+鹂	Gli	70013
+鹅	Gngo	120000
+鹅	e	120000
+鹊	Gqyuêk	130000
+鹊	que	130000
+鹌	Gngon	4685
+鹌	an	4685
+鹏	Gpung	120000
+鹏	peng	120000
+鹑	Gcyun	78800
+鹑	chun	78800
+鹦	Gyin	120000
+鹦	ying	120000
+鹰	Gyin	120000
+鹰	ying	120000
+鹿	Gluk	120000
+鹿	lu	120000
+麂	Gji	90000
+麝	Gsa	90000
+麝	she	90000
+麦	Gmak	120000
+麦	mai	120000
+麸	Gfu	90000
+麺	Gmiên	124635
+麺	mian	124635
+麻	Gma	145000
+黄	Gfong	200000
+黄	Gwong	200000
+黄	huang	200000
+黄昏	Gwong Gfin	5901
+黄昏	Gwong hun	5901
+黄昏	huang Gfin	5901
+黄昏	huang hun	5901
+黎	Gli	120000
+黎川	Gli Gcon	125623
+黎川	Gli chuan	125623
+黎川	li chuan	125623
+黎明	Gli Gmiang	25670
+黎明	Gli ming	25670
+黎明	li ming	25670
+黏	Gniên	90000
+黏	nian	90000
+黑	Ghiêk	125000
+黑	Ghêk	125000
+黑	Glu	124727
+黑	hei	125000
+默	Gmêk	120000
+默	mo	120000
+黸	Glu	124254
+鼓	Ggu	120000
+鼠	Gsyu	120000
+鼠	Gxyu	120000
+鼠	shu	120000
+鼻	Gpek	120000
+鼻	Gpêi	120000
+鼻	bi	120000
+鼾	Ghong	90000
+鼾	han	90000
+齁	Ghêu	90000
+齁	hou	90000
+齆	Gng	124768
+齆	weng	124768
+齐	Gqi	150000
+齿	Gci	120000
+齿	chi	120000
+龄	Glen	145000
+龄	Glin	145000
+龄	ling	145000
+龊	Gcok	90000
+龊	chuo	90000
+龌	Gwok	90000
+龌	wo	90000
+龙	Gliung	120000
+龙	Glung	120000
+龙	Gniung	123902
+龙	long	123902
+龚	Ggung	105000
+龚	gong	105000
+龛	Gngon	90000
+龛	kan	90000
+龟	Ggui	120000
+𢴒	Gpang	127158
+𢴒	𢴒	127158
+𢴒出去	Gpang Gcyuk Gqiê	122482
+𢴒出去	Gpang Gcyuk qu	122482
+𢴒出去	Gpang chu Gqiê	122482
+𢴒出去	Gpang chu qu	122482
+𢴒出去	𢴒 Gcyuk Gqiê	122482
+𢴒出去	𢴒 Gcyuk qu	122482
+𢴒出去	𢴒 chu Gqiê	122482
+𢴒出去	𢴒 chu qu	122482
+𢴒鸡	Gpang Gji	127927
+𢴒鸡	𢴒 Gji	127927
+𢴒鸡	𢴒 ji	127927
+𢴒鸭	Gpang Gngaet	126767
+𢴒鸭	Gpang ya	126767
+𢴒鸭	𢴒 Gngaet	126767
+𢴒鸭	𢴒 ya	126767
+𫍧	Glai	126309
+𫍧	𫍧	126309
+𫍧落	Glai Glok	122465
+𫍧落	Glai luo	122465
+𫍧落	𫍧 Glok	122465
+𫍧落	𫍧 luo	122465
+𫍧记	Glai Gji	123602
+𫍧记	𫍧 Gji	123602
+𫍧记	𫍧 ji	123602
+𫔌	Gxiên	1295
+𫔌	𫔌	1295
+𬉼	Gngiêu	122300
+𬉼	ou	122300
+𬮿	Gkai	1995
+𬮿	qi	1995

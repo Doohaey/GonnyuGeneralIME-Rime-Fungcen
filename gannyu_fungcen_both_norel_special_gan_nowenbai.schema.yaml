@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_fungcen_both_norel_special_gan_nowenbai
   name: fungcen
-  version: "1.2.4"
+  version: "1.2.7"
 translator:
   dictionary: gannyu_fungcen_both_norel
   prism: gannyu_fungcen_both_norel_special_gan_nowenbai

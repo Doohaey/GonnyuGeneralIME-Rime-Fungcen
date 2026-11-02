@@ -2,7 +2,7 @@
 schema:
   schema_id: gannyu_fungcen
   name: 赣语－丰城
-  version: "1.2.4"
+  version: "1.2.7"
   dependencies:
     - gannyu_fungcen_nowenbai
     - gannyu_fungcen_full_gan

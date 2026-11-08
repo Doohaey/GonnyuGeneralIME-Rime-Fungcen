@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fungcen
-version: "1.2.7"
+version: "1.3.0"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -260,7 +260,7 @@ use_preset_vocabulary: false
 乔	Gqiêu	120000
 乔	qiao	120000
 乖	Gguai	120000
-乘	Gcen	175000
+乘	Gsen	175000
 乘	cheng	175000
 乙	Gyit	120000
 乙	yi	120000
@@ -284,7 +284,6 @@ use_preset_vocabulary: false
 乱	Glon	200000
 乱	luan	200000
 乳	Glu	125000
-乳	Gnu	125000
 乳	ru	125000
 了	Gliau	200000
 了	Gliêu	200000
@@ -293,7 +292,6 @@ use_preset_vocabulary: false
 予	Gyu	104480
 予	yu	104480
 争	Gzang	200000
-争	Gzen	200000
 争	Gziên	200000
 争	Gzên	200000
 争	zheng	200000
@@ -340,7 +338,6 @@ use_preset_vocabulary: false
 亩	mu	120000
 享	Gxiong	120000
 享	xiang	120000
-京	Gjen	145000
 京	Gjin	145000
 京	jing	145000
 亭	Gten	145000
@@ -381,7 +378,7 @@ use_preset_vocabulary: false
 今朝	jin zhao	98087
 介	Ggai	120000
 介	jie	120000
-仍	Gnen	120000
+仍	Gnin	120000
 仍	reng	120000
 从	Gqiung	200000
 从	cong	200000
@@ -486,7 +483,8 @@ use_preset_vocabulary: false
 伢	ya	145000
 伤	Gsong	120000
 伤	shang	120000
-伦	Glun	120000
+伦	Gluên	120000
+伦	lun	120000
 伪	Gvi	134743
 伪	wei	134743
 伯	Gbak	120000
@@ -660,8 +658,8 @@ use_preset_vocabulary: false
 值	Gcek	200000
 值	Gcik	200000
 值	zhi	200000
-倾	Gqen	175000
 倾	Gqiang	175000
+倾	Gqin	175000
 倾	qing	175000
 假	Gga	115000
 假	jia	115000
@@ -707,8 +705,8 @@ use_preset_vocabulary: false
 像	xiang	200000
 僚	Gliau	109813
 僚	liao	109813
-僧	Gsen	120000
 僧	Gsiên	120000
+僧	Gsên	120000
 僧	seng	120000
 僵	Ggong	120000
 僵	Gjiong	120000
@@ -788,7 +786,6 @@ use_preset_vocabulary: false
 关窗户	Gguan chuang Gzi	123807
 关窗户	Gguan chuang hu	123807
 关窗户	guan chuang hu	123807
-兴	Gxen	145000
 兴	Gxin	145000
 兴	xing	145000
 兵	Gben	180000
@@ -834,10 +831,9 @@ use_preset_vocabulary: false
 军	jun	120000
 农	Glung	145000
 农	Gniung	125309
-农	Gnung	145000
 农	nong	145000
-冠	Ggun	120000
 冠	Gguon	120000
+冠	Gguên	120000
 冠	guan	120000
 冤	Gnyuon	100164
 冤	Gyuon	100164
@@ -880,7 +876,7 @@ use_preset_vocabulary: false
 净	jing	186934
 凄	Gqi	120000
 准	Gzin	120000
-准	Gzun	120000
+准	Gzuên	120000
 准	Gzyun	120000
 准	zhun	120000
 凉	Gliong	120000
@@ -1200,7 +1196,6 @@ use_preset_vocabulary: false
 助	Gjyu	120000
 助	zhu	120000
 努	Glu	120000
-努	Gnu	120000
 努	nu	120000
 劫	Gjiêk	120000
 劫	Gqiêk	120000
@@ -1309,7 +1304,6 @@ use_preset_vocabulary: false
 单	dan	200000
 卖	Gmai	175000
 南	Glon	180001
-南	Gnon	180001
 南	nan	180001
 南昌	Glon Gcong	124703
 南昌	Glon chang	124703
@@ -1449,7 +1443,6 @@ use_preset_vocabulary: false
 叁	san	131131
 参	Gcan	120000
 参	Gciên	120000
-参	Gsen	120000
 参	Gsên	120000
 参	can	120000
 又	Gyeu	200000
@@ -1622,7 +1615,7 @@ use_preset_vocabulary: false
 否	fou	155000
 吧	Gba	200000
 吨	Gdin	101119
-吨	Gdun	101119
+吨	Gduên	101119
 吨	dun	101119
 吩	Gfen	120000
 吩	Gfin	120000
@@ -1638,7 +1631,7 @@ use_preset_vocabulary: false
 吭	Ghong	108120
 吭	Gkiên	108120
 吭	keng	108120
-吮	Gsun	103025
+吮	Gsuên	103025
 吮	shun	103025
 启	Gqi	120000
 吱	Gzi	103969
@@ -1650,9 +1643,9 @@ use_preset_vocabulary: false
 吸	Gjip	120000
 吸	Gxip	120000
 吸	xi	120000
-吸吮	Gjip Gsun	122843
+吸吮	Gjip Gsuên	122843
 吸吮	Gjip shun	122843
-吸吮	xi Gsun	122843
+吸吮	xi Gsuên	122843
 吸吮	xi shun	122843
 吸吮糖果	Gjin Gtong Gzi	127785
 吸吮糖果	xi shun tang guo	127785
@@ -1684,7 +1677,7 @@ use_preset_vocabulary: false
 呛	Gqiong	120000
 呛	qiang	120000
 呜	Gwu	120000
-呢	Gnê	200000
+呢	Gni	200000
 呢	ne	200000
 周	Gzeu	200000
 周	Gziu	200000
@@ -1698,9 +1691,9 @@ use_preset_vocabulary: false
 呻	shen	104829
 呼	Gfu	120000
 呼	hu	120000
-呼唤	Gfu Gfun	125354
+呼唤	Gfu Gfuên	125354
 呼唤	Gfu huan	125354
-呼唤	hu Gfun	125354
+呼唤	hu Gfuên	125354
 呼唤	hu huan	125354
 呼喊人	Gwiê Gnin	127221
 呼喊人	hu han ren	127221
@@ -1835,7 +1828,7 @@ use_preset_vocabulary: false
 唔	wu	10000
 唠	Glau	160000
 唠	lao	160000
-唤	Gfun	120000
+唤	Gfuên	120000
 唤	Gwon	120000
 唤	huan	120000
 唧	Gji	105335
@@ -2034,7 +2027,7 @@ use_preset_vocabulary: false
 因	yin	120000
 团	Gton	120000
 团	tuan	120000
-囤	Gdun	125000
+囤	Gduên	125000
 囤	Gtun	125000
 囤	dun	125000
 囥	Gkong	126346
@@ -2159,7 +2152,6 @@ use_preset_vocabulary: false
 垃	la	100322
 垄	Glung	120000
 垄	long	120000
-型	Gxen	106597
 型	Gxin	106597
 型	xing	106597
 垒	Glêi	102790
@@ -2472,10 +2464,8 @@ use_preset_vocabulary: false
 女孩	nv Ghêi	90381
 女孩	nv hai	90381
 奴	Glu	120000
-奴	Gnu	120000
 奴	nu	120000
 奶	Glai	120000
-奶	Gnai	120000
 奶	nai	120000
 奶奶	Gma Gma	124786
 奶奶	Gma nai	124786
@@ -2644,10 +2634,10 @@ use_preset_vocabulary: false
 字	Gzi	200000
 字	zi	200000
 存	Gcin	170000
-存	Gcun	170000
+存	Gcuên	170000
 存	Gcyun	170000
 存	cun	170000
-孙	Gsun	120000
+孙	Gsuên	120000
 孙	Gsyun	120000
 孙	Gxyun	120000
 孙	sun	120000
@@ -2670,7 +2660,6 @@ use_preset_vocabulary: false
 孽	Gniêk	120000
 孽	nie	120000
 宁	Glen	120000
-宁	Gnen	120000
 宁	Gnin	120000
 宁	ning	120000
 它	Gjiê	200000
@@ -2708,8 +2697,8 @@ use_preset_vocabulary: false
 宏	hong	125000
 宗	Gzung	170000
 宗	zong	170000
-官	Ggun	200000
 官	Gguon	200000
+官	Gguên	200000
 官	guan	200000
 宙	Gzeu	104086
 宙	Gziu	104086
@@ -2766,8 +2755,8 @@ use_preset_vocabulary: false
 容	Gniung	150000
 容	Gyung	150000
 容	rong	150000
-宽	Gkun	125000
 宽	Gkuon	125000
+宽	Gkuên	125000
 宽	kuan	125000
 宾	Gben	200000
 宾	Gbin	200000
@@ -2798,7 +2787,7 @@ use_preset_vocabulary: false
 寨	Gcêi	120000
 寨	zhai	120000
 寸	Gcin	120000
-寸	Gcun	120000
+寸	Gcuên	120000
 寸	Gcyun	120000
 寸	cun	120000
 对	Gdêi	200000
@@ -2820,7 +2809,7 @@ use_preset_vocabulary: false
 将	Gjiong	200000
 将	jiang	200000
 尊	Gzin	120000
-尊	Gzun	120000
+尊	Gzuên	120000
 尊	Gzyun	120000
 尊	zun	120000
 小	Gxiau	200000
@@ -2928,7 +2917,6 @@ use_preset_vocabulary: false
 局	Gqiuk	135000
 局	ju	135000
 屁	Gpi	120000
-层	Gcen	200000
 层	Gcên	200000
 层	ceng	200000
 屄	Gbiêk	125314
@@ -2976,8 +2964,8 @@ use_preset_vocabulary: false
 屠	Gtu	120000
 屡	Glyu	120000
 屡	lv	120000
-屯	Gtun	106208
-屯	Gzun	106208
+屯	Gtuên	106208
+屯	Gzuên	106208
 屯	tun	106208
 山	Gsan	200000
 山	shan	200000
@@ -3184,7 +3172,6 @@ use_preset_vocabulary: false
 广	guang	30000
 庄	Gzong	120000
 庄	zhuang	120000
-庆	Gqen	120000
 庆	Gqiang	120000
 庆	Gqin	120000
 庆	qing	120000
@@ -3260,7 +3247,6 @@ use_preset_vocabulary: false
 异	Gyi	150000
 异	yi	150000
 弄	Glung	170000
-弄	Gnung	170000
 弄	nong	170000
 弆	Ggiê	123894
 弆	Gjiê	123894
@@ -3307,7 +3293,6 @@ use_preset_vocabulary: false
 弯	Gwan	120000
 弱	Glok	125000
 弱	Gniok	125000
-弱	Gnok	125000
 弱	Gyok	125000
 弱	ruo	125000
 弸	Gbang	5168
@@ -3319,7 +3304,7 @@ use_preset_vocabulary: false
 弼	Gbêk	90000
 弼	bi	90000
 归	Ggui	200000
-归	Gkui	200000
+归	Gkuêi	200000
 归	gui	200000
 当	Gdong	200000
 当	dang	200000
@@ -3335,7 +3320,6 @@ use_preset_vocabulary: false
 彗星	Gfêi xing	246
 彗星	hui Gxin	246
 彗星	hui xing	246
-形	Gxen	145000
 形	Gxin	145000
 形	xing	145000
 彤	Gtung	106693
@@ -3370,9 +3354,9 @@ use_preset_vocabulary: false
 往	wang	200000
 征	Gzen	120000
 征	zheng	120000
-径	Gjen	145000
 径	Gjiang	145000
-径	Gqen	145000
+径	Gjin	145000
+径	Gqin	145000
 径	jing	145000
 待	Gtêi	200000
 待	dai	200000
@@ -3482,7 +3466,6 @@ use_preset_vocabulary: false
 怎	Gzên	200000
 怎	zen	200000
 怒	Glu	120000
-怒	Gnu	120000
 怒	nu	120000
 怔	Gzen	109508
 怔	zheng	109508
@@ -3495,7 +3478,6 @@ use_preset_vocabulary: false
 怠	dai	120000
 急	Gjip	200000
 急	ji	200000
-性	Gxen	200000
 性	Gxiang	200000
 性	Gxin	200000
 性	xing	200000
@@ -3553,7 +3535,6 @@ use_preset_vocabulary: false
 恶	Gwuk	195000
 恶	e	195000
 恼	Glau	120000
-恼	Gnau	120000
 恼	nao	120000
 悄	Gqiau	106074
 悄	qiao	106074
@@ -3615,7 +3596,7 @@ use_preset_vocabulary: false
 惨	Gcan	120000
 惨	Gciên	120000
 惨	can	120000
-惩	Gcen	105794
+惩	Gcên	105794
 惩	cheng	105794
 惭	Gcan	120000
 惯	Gguan	30000
@@ -3696,7 +3677,6 @@ use_preset_vocabulary: false
 成	Gcang	200000
 成	Gcen	200000
 成	Gsang	200000
-成	Gsen	200000
 成	cheng	200000
 我	Gngo	200000
 我	wo	200000
@@ -3789,8 +3769,8 @@ use_preset_vocabulary: false
 打耳光	da er guang	123718
 扔	Gdiang	127277
 扔	Gfang	127277
-扔	Glen	115300
 扔	Gliau	127277
+扔	Glin	115300
 扔	reng	127277
 扔石头	Gdiang Gsak Gtêu	124245
 扔石头	Gdiang Gsak tou	124245
@@ -3839,7 +3819,6 @@ use_preset_vocabulary: false
 扯	che	120000
 扰	Glau	120000
 扰	Glêu	120000
-扰	Gnau	120000
 扰	rao	120000
 扳	Gban	120000
 扶	Gfu	120000
@@ -3915,7 +3894,8 @@ use_preset_vocabulary: false
 抠	Gkiêu	120000
 抠	Gqiau	120000
 抠	kou	120000
-抡	Glun	116302
+抡	Gluên	116302
+抡	lun	116302
 抢	Gqiong	120000
 抢	qiang	120000
 护	Gfu	120000
@@ -4036,7 +4016,7 @@ use_preset_vocabulary: false
 拥	Gyung	120000
 拥	yong	120000
 拦	Glan	120000
-拧	Gnen	156343
+拧	Gnin	156343
 拧	ning	156343
 拨	Gbo	120000
 拨	Gbêk	120000
@@ -4057,17 +4037,17 @@ use_preset_vocabulary: false
 拳	quan	145000
 拴	Gson	120000
 拴	shuan	120000
-拶	Gzat	123234
-拶	za	123234
-拶在一起	Gzat Gcêi Gyit Gqi	127468
-拶在一起	Gzat Gcêi yi Gqi	127468
-拶在一起	Gzat zai Gyit Gqi	127468
-拶在一起	Gzat zai yi Gqi	127468
-拶在一起	za Gcêi Gyit Gqi	127468
-拶在一起	za Gcêi yi Gqi	127468
-拶在一起	za zai Gyit Gqi	127468
-拶在一起	za zai yi Gqi	127468
-拶在一起	za zai yi qi	127468
+拶	Gzat	5000
+拶	za	5000
+拶在一起	Gzat Gcêi Gyit Gqi	5000
+拶在一起	Gzat Gcêi yi Gqi	5000
+拶在一起	Gzat zai Gyit Gqi	5000
+拶在一起	Gzat zai yi Gqi	5000
+拶在一起	za Gcêi Gyit Gqi	5000
+拶在一起	za Gcêi yi Gqi	5000
+拶在一起	za zai Gyit Gqi	5000
+拶在一起	za zai yi Gqi	5000
+拶在一起	za zai yi qi	5000
 拷	Gkau	120000
 拷	kao	120000
 拼	Gpen	120000
@@ -4113,7 +4093,6 @@ use_preset_vocabulary: false
 挟	Gxia	120000
 挟	xie	120000
 挠	Glau	109311
-挠	Gnau	109311
 挠	Gziê	123464
 挠	nao	123464
 挠头	Gziê Gtêu	125624
@@ -4127,7 +4106,7 @@ use_preset_vocabulary: false
 挡	Gdong	170000
 挡	dang	170000
 挣	Gzang	120000
-挣	Gzen	120000
+挣	Gzên	120000
 挣	zheng	120000
 挤	Gji	100000
 挤压	Gji Gzak	123234
@@ -4214,7 +4193,7 @@ use_preset_vocabulary: false
 捞	Glau	145000
 捞	Gliên	125338
 捞	lao	145000
-损	Gsun	120000
+损	Gsuên	120000
 损	Gsyun	120000
 损	Gxyun	120000
 损	sun	120000
@@ -4281,14 +4260,6 @@ use_preset_vocabulary: false
 排泄	Gpai Gxiêk	126633
 排泄	Gpai xie	126633
 排泄	pai xie	126633
-排鼻涕	Gsang Gpek Gnen	125157
-排鼻涕	Gsang Gpek ti	125157
-排鼻涕	Gsang bi Gnen	125157
-排鼻涕	Gsang bi ti	125157
-排鼻涕	pai Gpek Gnen	125157
-排鼻涕	pai Gpek ti	125157
-排鼻涕	pai bi Gnen	125157
-排鼻涕	pai bi ti	125157
 掖	Gyik	70910
 掖	Gyêk	70910
 掖	ye	70910
@@ -4632,14 +4603,19 @@ use_preset_vocabulary: false
 操	cao	150000
 擤	Gsang	126629
 擤	xing	126629
-擤鼻泞	Gsang Gpek Gnen	125476
+擤鼻泞	Gsang Gpek Gnin	125476
 擤鼻泞	Gsang Gpek ning	125476
-擤鼻泞	Gsang bi Gnen	125476
+擤鼻泞	Gsang bi Gnin	125476
 擤鼻泞	Gsang bi ning	125476
-擤鼻泞	xing Gpek Gnen	125476
+擤鼻泞	xing Gpek Gnin	125476
 擤鼻泞	xing Gpek ning	125476
-擤鼻泞	xing bi Gnen	125476
+擤鼻泞	xing bi Gnin	125476
 擤鼻泞	xing bi ning	125476
+擤鼻涕	Gsang Gpek Gti	125157
+擤鼻涕	Gsang bi Gti	125157
+擤鼻涕	xing Gpek Gti	125157
+擤鼻涕	xing bi Gti	125157
+擤鼻涕	xing bi ti	125157
 擦	Gcaet	145000
 擦	Gkai	127396
 擦	ca	145000
@@ -4915,7 +4891,7 @@ use_preset_vocabulary: false
 映	Gyin	102862
 映	ying	102862
 春	Gcin	120000
-春	Gcun	120000
+春	Gcuên	120000
 春	Gcyun	120000
 春	chun	120000
 春天	Gcin Gtiên	1421
@@ -5165,9 +5141,11 @@ use_preset_vocabulary: false
 材	Gcêi	120000
 材	cai	120000
 村	Gcin	120000
-村	Gcun	120000
+村	Gcuên	120000
 村	Gcyun	120000
 村	cun	120000
+杔	Gzak	126912
+杔	tuo	126912
 杖	Gcong	120000
 杖	Gzong	120000
 杖	zhang	120000
@@ -5277,7 +5255,7 @@ use_preset_vocabulary: false
 柜	Gkui	120000
 柜	Gqyu	120000
 柜	gui	120000
-柠	Gnen	102021
+柠	Gnin	102021
 柠	ning	102021
 查	Gca	200000
 查	cha	200000
@@ -5498,7 +5476,7 @@ use_preset_vocabulary: false
 森林	sen lin	5024
 棵	Gko	120000
 棵	ke	120000
-棺	Ggun	120000
+棺	Gguên	120000
 棺	guan	120000
 椅	Gyi	145000
 植	Gcek	128000
@@ -5578,7 +5556,7 @@ use_preset_vocabulary: false
 次	Gci	200000
 欢	Gfiên	120000
 欢	Gfon	120000
-欢	Gfun	120000
+欢	Gfuên	120000
 欢	Gwin	120000
 欢	Gwiên	120000
 欢	Gwên	120000
@@ -5592,8 +5570,8 @@ use_preset_vocabulary: false
 欲	Gyu	120000
 欲	yu	124048
 欺	Gqi	120000
-款	Gkun	125000
 款	Gkuon	125000
+款	Gkuên	125000
 款	kuan	125000
 歇	Gxiêt	200000
 歇	xie	200000
@@ -5769,7 +5747,8 @@ use_preset_vocabulary: false
 没	mei	200000
 沤	Gngiêu	115000
 沤	ou	115000
-沦	Glun	120000
+沦	Gluên	120000
+沦	lun	120000
 沧	Gcong	109674
 沧	cang	109674
 沪	Gfu	145000
@@ -5815,7 +5794,7 @@ use_preset_vocabulary: false
 法	Gfaet	120000
 法	fa	120000
 泛	Gfan	155293
-泞	Gnen	105075
+泞	Gnin	105075
 泞	ning	105075
 泡	Gpau	170000
 泡	pao	170000
@@ -5922,7 +5901,6 @@ use_preset_vocabulary: false
 浒	Gfu	90000
 浒	hu	90000
 浓	Gniung	145000
-浓	Gnung	145000
 浓	nong	145000
 浙	Gziêt	120000
 浙	Gzêk	120000
@@ -6009,7 +5987,6 @@ use_preset_vocabulary: false
 淹	yan	120000
 添	Gtiên	120000
 添	tian	120000
-清	Gqen	200000
 清	Gqiang	200000
 清	Gqin	200000
 清	qing	200000
@@ -6019,7 +5996,7 @@ use_preset_vocabulary: false
 渐	jian	145000
 渔	Gniê	106716
 渔	yu	106716
-渗	Gsen	108153
+渗	Gsên	108153
 渗	shen	108153
 渠	Ggiê	123811
 渠	Gjiê	123811
@@ -6034,9 +6011,9 @@ use_preset_vocabulary: false
 渠个	qu Ggo	124961
 渠个	qu Ggêi	124961
 渠个	qu ge	124961
-渠等	Gjiê Gden	123878
+渠等	Gjiê Gdên	123878
 渠等	Gjiê deng	123878
-渠等	qu Gden	123878
+渠等	qu Gdên	123878
 渠等	qu deng	123878
 渡	Gtu	120000
 渡	du	120000
@@ -6150,8 +6127,8 @@ use_preset_vocabulary: false
 激	ji	145000
 瀑	Gpau	120000
 瀑	pu	120000
-灌	Ggun	120000
 灌	Gguon	120000
+灌	Gguên	120000
 灌	guan	120000
 火	Gfo	120000
 火	huo	120000
@@ -6182,13 +6159,13 @@ use_preset_vocabulary: false
 炆	Gwun	122662
 炆	Gwên	122662
 炆	wen	122662
-炆排骨	Gwin Gpai Gguet	125475
+炆排骨	Gwin Gpai Gguek	125475
 炆排骨	Gwin Gpai gu	125475
-炆排骨	Gwiên Gpai Gguet	125475
+炆排骨	Gwiên Gpai Gguek	125475
 炆排骨	Gwiên Gpai gu	125475
-炆排骨	Gwên Gpai Gguet	125475
+炆排骨	Gwên Gpai Gguek	125475
 炆排骨	Gwên Gpai gu	125475
-炆排骨	wen Gpai Gguet	125475
+炆排骨	wen Gpai Gguek	125475
 炆排骨	wen Gpai gu	125475
 炆排骨	wen pai gu	125475
 炆汤	Gwin Gtong	126974
@@ -6216,13 +6193,13 @@ use_preset_vocabulary: false
 炕	Gkong	120000
 炕	kang	120000
 炖	Gdun	90000
-炖排骨	Gwin Gpai Gguet	126947
+炖排骨	Gwin Gpai Gguek	126947
 炖排骨	Gwin Gpai gu	126947
-炖排骨	Gwiên Gpai Gguet	126947
+炖排骨	Gwiên Gpai Gguek	126947
 炖排骨	Gwiên Gpai gu	126947
-炖排骨	Gwên Gpai Gguet	126947
+炖排骨	Gwên Gpai Gguek	126947
 炖排骨	Gwên Gpai gu	126947
-炖排骨	dun Gpai Gguet	126947
+炖排骨	dun Gpai Gguek	126947
 炖排骨	dun Gpai gu	126947
 炖排骨	dun pai gu	126947
 炖汤	Gwin Gtong	125271
@@ -6391,7 +6368,6 @@ use_preset_vocabulary: false
 熏	Gsyun	120000
 熏	xun	120000
 熔	Glung	102735
-熔	Gnung	102735
 熔	rong	102735
 熟	Gsuk	150000
 熟	shu	150000
@@ -6542,8 +6518,8 @@ use_preset_vocabulary: false
 狮	Gsu	120000
 狮	shi	120000
 狰	Gzang	102940
-狰	Gzen	102940
 狰	Gziên	102940
+狰	Gzên	102940
 狰	zheng	102940
 狱	Gni	120000
 狱	Gyi	120000
@@ -6705,14 +6681,6 @@ use_preset_vocabulary: false
 甩	Gsai	145000
 甩	Gsêi	145000
 甩	shuai	145000
-甩鼻涕	Gsang Gpek Gnen	122818
-甩鼻涕	Gsang Gpek ti	122818
-甩鼻涕	Gsang bi Gnen	122818
-甩鼻涕	Gsang bi ti	122818
-甩鼻涕	shuai Gpek Gnen	122818
-甩鼻涕	shuai Gpek ti	122818
-甩鼻涕	shuai bi Gnen	122818
-甩鼻涕	shuai bi ti	122818
 甫	Gfu	120000
 甫	Gpu	120000
 甫	fu	120000
@@ -6730,7 +6698,6 @@ use_preset_vocabulary: false
 电	Gtiên	200000
 电	dian	200000
 男	Glon	195000
-男	Gnon	195000
 男	nan	195000
 男后生	Glon Ghêu Gsang	95470
 男后生	Glon Ghêu sheng	95470
@@ -6902,7 +6869,6 @@ use_preset_vocabulary: false
 盆	Gpan	120000
 盆	Gpen	120000
 盆	pen	120000
-盈	Gnen	30000
 盈	Gyin	30000
 盈	ying	30000
 益	Gyi	120000
@@ -6918,7 +6884,8 @@ use_preset_vocabulary: false
 盒	Gheok	120000
 盒	Ghyuêt	120000
 盒	he	120000
-盔	Gkui	120000
+盔	Gkuêi	120000
+盔	kui	120000
 盖	Ggêi	145000
 盖	gai	145000
 盖住	Ggêi Gcyu	127698
@@ -6965,11 +6932,12 @@ use_preset_vocabulary: false
 直	zhi	200000
 相	Gxiong	145000
 相	xiang	145000
-盹	Gdun	102822
+盹	Gduên	102822
+盹	dun	102822
 盼	Gpan	120000
 盼	Gpen	120000
 盼	pan	120000
-盾	Gdun	130000
+盾	Gduên	130000
 盾	Gtun	130000
 盾	dun	130000
 省	Gsang	165000
@@ -7077,11 +7045,10 @@ use_preset_vocabulary: false
 着累	zhe Glêi	108189
 着累	zhe lei	108189
 睁	Gzang	100548
-睁	Gzen	100548
 睁	Gzên	100548
 睁	zheng	100548
-睏	Gkui	124418
 睏	Gkuin	124418
+睏	Gkuêi	124418
 睏	kun	124418
 睏到	Gkuin Gdau	122612
 睏到	Gkuin dao	122612
@@ -7117,10 +7084,10 @@ use_preset_vocabulary: false
 瞒	man	120000
 瞧	Gqiau	120000
 瞧	qiao	120000
-瞬	Gsun	104126
+瞬	Gsuên	104126
 瞬	shun	104126
-瞬间	Gsun Ggan	1374
-瞬间	Gsun jian	1374
+瞬间	Gsuên Ggan	1374
+瞬间	Gsuên jian	1374
 瞬间	shun Ggan	1374
 瞬间	shun jian	1374
 瞳	Gtung	170000
@@ -7184,7 +7151,8 @@ use_preset_vocabulary: false
 础	Gcu	120000
 础	Gqyu	120000
 础	chu	120000
-硅	Ggui	108417
+硅	Gguêi	108417
+硅	gui	108417
 硕	Gsak	110455
 硕	Gsok	110455
 硕	shuo	110455
@@ -7480,6 +7448,15 @@ use_preset_vocabulary: false
 笮到	Gzak dao	125288
 笮到	ze Gdau	125288
 笮到	ze dao	125288
+笮在一起	Gzak Gcêi Gyit Gqi	122385
+笮在一起	Gzak Gcêi yi Gqi	122385
+笮在一起	Gzak zai Gyit Gqi	122385
+笮在一起	Gzak zai yi Gqi	122385
+笮在一起	ze Gcêi Gyit Gqi	122385
+笮在一起	ze Gcêi yi Gqi	122385
+笮在一起	ze zai Gyit Gqi	122385
+笮在一起	ze zai yi Gqi	122385
+笮在一起	ze zai yi qi	122385
 笮岁钱	Gzak Gxi Gqiên	125603
 笮岁钱	Gzak Gxi qian	125603
 笮岁钱	Gzak sui Gqiên	125603
@@ -7490,8 +7467,8 @@ use_preset_vocabulary: false
 笮岁钱	ze sui qian	125603
 笼	Glung	120000
 笼	long	120000
-等	Gden	200000
 等	Gdiên	200000
+等	Gdên	200000
 等	deng	200000
 筋	Gjin	120000
 筐	Gkong	105363
@@ -7521,7 +7498,6 @@ use_preset_vocabulary: false
 筛	Gsai	120000
 筛	shai	120000
 筝	Gzang	109332
-筝	Gzen	109332
 筝	Gzên	109332
 筝	zheng	109332
 筠	Gjyun	77631
@@ -7553,7 +7529,7 @@ use_preset_vocabulary: false
 箍	Ggu	115000
 算	Gson	200000
 算	suan	200000
-管	Ggun	200000
+管	Gguên	200000
 管	guan	200000
 箩	Glo	120000
 箩	luo	120000
@@ -7642,7 +7618,6 @@ use_preset_vocabulary: false
 粽箬	Gzung ruo	125236
 粽箬	zong Gyok	125236
 粽箬	zong ruo	125236
-精	Gjen	170000
 精	Gjiang	170000
 精	Gjin	170000
 精	jing	170000
@@ -7704,7 +7679,7 @@ use_preset_vocabulary: false
 纬	Gvi	120000
 纬	wei	120000
 纯	Gcin	146000
-纯	Gcun	146000
+纯	Gcuên	146000
 纯	Gsyun	146000
 纯	chun	146000
 纱	Gsa	120000
@@ -7775,7 +7750,7 @@ use_preset_vocabulary: false
 绑	Gbong	170000
 绑	bang	170000
 绒	Glung	120000
-绒	Gnyung	120000
+绒	Gniung	120000
 绒	rong	120000
 结	Gjiêt	130000
 结	jie	130000
@@ -7862,7 +7837,7 @@ use_preset_vocabulary: false
 缺	Gqyueok	200000
 缺	Gqyuêt	200000
 缺	que	200000
-罐	Ggun	120000
+罐	Gguên	120000
 罐	guan	120000
 网	Gmong	120000
 网	Gwong	120000
@@ -7958,7 +7933,6 @@ use_preset_vocabulary: false
 耍	Gsua	120000
 耍	shua	120000
 耐	Glai	120000
-耐	Gnai	120000
 耐	Gnêi	120000
 耐	nai	120000
 耕	Ggang	100000
@@ -8122,10 +8096,8 @@ use_preset_vocabulary: false
 脐	Gqi	120000
 脐	qi	120000
 脑	Glau	150000
-脑	Gnau	150000
 脑	nao	150000
 脓	Glung	120000
-脓	Gnung	120000
 脓	nong	120000
 脖	Gbot	101087
 脖	bo	101087
@@ -8402,7 +8374,6 @@ use_preset_vocabulary: false
 茅	mao	120000
 茉	Gmêt	120000
 茉	mo	120000
-茎	Gjen	103391
 茎	Gjiang	103391
 茎	Gjin	103391
 茎	jing	103391
@@ -8455,7 +8426,6 @@ use_preset_vocabulary: false
 荡	Gtong	120000
 荡	dang	120000
 荣	Glung	120000
-荣	Gnung	120000
 荣	Gyung	120000
 荣	rong	120000
 荤	Gfen	120000
@@ -8861,7 +8831,7 @@ use_preset_vocabulary: false
 衫袖	shan Gqiu	100188
 衫袖	shan xiu	100188
 衬	Gcin	120000
-衬	Gcun	120000
+衬	Gcuên	120000
 衬	Gcên	120000
 衬	chen	120000
 衰	Gngêi	120000
@@ -8948,11 +8918,11 @@ use_preset_vocabulary: false
 覆盖	fu gai	127698
 见	Gjiên	200000
 见	jian	200000
-观	Ggun	145000
 观	Gguon	145000
+观	Gguên	145000
 观	guan	145000
 规	Ggui	145000
-规	Gkui	145000
+规	Gkuêi	145000
 规	gui	145000
 觅	Gmik	100742
 觅	mi	100742
@@ -8998,7 +8968,6 @@ use_preset_vocabulary: false
 计	ji	200000
 订	Gden	100000
 订	Gdiang	100000
-订	Gten	100000
 订	ding	100000
 认	Gnin	170000
 认	ren	170000
@@ -9115,7 +9084,6 @@ use_preset_vocabulary: false
 诸	Gzyu	145000
 诸	zhu	145000
 诺	Glok	104414
-诺	Gnok	104414
 诺	nuo	104414
 读	Gtuk	200000
 读	du	200000
@@ -9124,7 +9092,7 @@ use_preset_vocabulary: false
 课	Gko	120000
 课	ke	120000
 谁	Ghêi	120000
-谁	Gsui	120000
+谁	Gsuêi	120000
 谁	shui	120000
 调	Gdiau	200000
 调	Gdiêu	200000
@@ -9137,7 +9105,7 @@ use_preset_vocabulary: false
 调换	diao huan	123791
 谅	Gliong	120000
 谅	liang	120000
-谆	Gzun	108269
+谆	Gzuên	108269
 谆	zhun	108269
 谈	Gtam	200000
 谈	Gtan	200000
@@ -9433,9 +9401,9 @@ use_preset_vocabulary: false
 蹦	beng	145000
 蹬	Gdên	145000
 蹬	deng	145000
-蹲	Gdun	145000
+蹲	Gduên	145000
 蹲	Gku	126899
-蹲	dun	126899
+蹲	dun	145000
 躁	Gzau	120000
 躁	zao	120000
 身	Gsen	120000
@@ -9458,9 +9426,11 @@ use_preset_vocabulary: false
 轧	Ggat	120000
 轧	Gzat	120000
 轧	ya	120000
-轨	Ggui	120000
-轨道	Ggui Gtau	2410
-轨道	Ggui dao	2410
+轨	Gguêi	120000
+轨	gui	120000
+轨道	Gguêi Gtau	2410
+轨道	Gguêi dao	2410
+轨道	gui Gtau	2410
 轨道	gui dao	2410
 轩	Gxyuon	145000
 轩	xuan	145000
@@ -9556,7 +9526,6 @@ use_preset_vocabulary: false
 迈	Gmai	120000
 迈	Gmak	120000
 迈	mai	120000
-迎	Gnen	136501
 迎	Gyin	136501
 迎	ying	136501
 运	Gyun	135000
@@ -9689,7 +9658,7 @@ use_preset_vocabulary: false
 遭	zao	120000
 遮	Gza	120000
 遮	zhe	120000
-遵	Gzun	120000
+遵	Gzuên	120000
 遵	Gzyun	120000
 遵	zun	120000
 避	Gbi	120000
@@ -9736,7 +9705,6 @@ use_preset_vocabulary: false
 郎	Glong	145000
 郎	lang	145000
 郑	Gcen	110000
-郑	Gzen	110000
 郑	zheng	110000
 部	Gpu	145000
 部	bu	145000
@@ -9816,7 +9784,7 @@ use_preset_vocabulary: false
 钙	Ggêi	105253
 钙	gai	105253
 钝	Gdin	108444
-钝	Gdun	108444
+钝	Gduên	108444
 钝	dun	108444
 钞	Gcau	120000
 钞	Gceu	120000
@@ -10004,7 +9972,8 @@ use_preset_vocabulary: false
 闸	zha	120000
 闹	Glau	120000
 闹	nao	120000
-闺	Ggui	150000
+闺	Gguêi	150000
+闺	gui	150000
 闻	Gwin	136980
 闻	Gwiên	136980
 闻	Gwên	136980
@@ -10122,7 +10091,6 @@ use_preset_vocabulary: false
 隶	Glik	145000
 隶	li	145000
 难	Glan	180000
-难	Gnan	180000
 难	nan	180000
 雀	Gjiok	140000
 雀	que	140000
@@ -10233,13 +10201,13 @@ use_preset_vocabulary: false
 顶	Gden	125000
 顶	Gten	125000
 顶	ding	125000
-顷	Gqen	120000
 顷	Gqiang	120000
+顷	Gqin	120000
 顷	qing	120000
 项	Ghong	170000
 项	Gxiong	170000
 项	xiang	170000
-顺	Gsun	170000
+顺	Gsuên	170000
 顺	Gsyun	170000
 顺	shun	170000
 须	Gxi	120000
@@ -10339,8 +10307,8 @@ use_preset_vocabulary: false
 馁	nei	106022
 馅	Gxiên	125000
 馅	xian	125000
-馆	Ggun	145000
 馆	Gguon	145000
+馆	Gguên	145000
 馆	guan	145000
 馊	Gsêu	4997
 馊	sou	4997
@@ -10418,7 +10386,7 @@ use_preset_vocabulary: false
 骡	luo	145000
 骤	Gziu	133229
 骤	zhou	133229
-骨	Gguet	170000
+骨	Gguek	170000
 骨	gu	170000
 髓	Gxi	109275
 髓	sui	109275

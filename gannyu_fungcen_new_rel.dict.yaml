@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_fungcen_new_rel
-version: "1.3.0"
+version: "1.3.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -75,6 +75,7 @@ use_preset_vocabulary: false
 䟕渠一脚	Gca Gjiê Gyit jiao	123982
 䟕渠一脚	Gca Gjiê yi Gjiok	123982
 䟕渠一脚	Gca Gjiê yi jiao	123982
+䟕渠一脚	Gca Wqi Gyit Gjiok	123982
 䟕渠一脚	Gca qu Gyit Gjiok	123982
 䟕渠一脚	Gca qu Gyit jiao	123982
 䟕渠一脚	Gca qu yi Gjiok	123982
@@ -537,12 +538,7 @@ use_preset_vocabulary: false
 你	Gni	200000
 你	Gnêi	200000
 你	ni	200000
-佢	Ggiê	123811
 佢	Gjiê	123811
-佢	Gkiê	123811
-佢	Gqi	123811
-佢	Gqiuk	123811
-佢	Gqiê	123811
 佢	qu	123811
 佣	Gyung	120000
 佣	yong	120000
@@ -609,8 +605,7 @@ use_preset_vocabulary: false
 俗	Gsuk	155000
 俗	Gxiuk	155000
 俗	su	155000
-俘	Gfuk	102061
-俘	fu	102061
+俘	Gfu	102061
 保	Gbau	145000
 保	bao	145000
 俞	Gyi	90000
@@ -634,7 +629,6 @@ use_preset_vocabulary: false
 倍	bei	145000
 倒	Gdau	195000
 倒	dao	195000
-倔	Gjyut	108890
 倔	Gjyuêt	108890
 倔	jue	108890
 倘	Gtong	125000
@@ -687,10 +681,11 @@ use_preset_vocabulary: false
 傅	Gfu	120000
 傍	Gpong	103993
 傍	bang	103993
+傍晚	Gpong Gman	94256
 傍晚	Gpong Gwan	94256
 傍晚	bang Gwan	94256
 傍晚	bang wan	94256
-储	Gcuk	200000
+储	Gcu	200000
 储	chu	200000
 催	Gcêi	145000
 催	cui	145000
@@ -740,7 +735,6 @@ use_preset_vocabulary: false
 兆	zhao	120000
 先	Gxiên	200000
 先	xian	200000
-光	Gguang	104104
 光	Gguong	200000
 光	guang	200000
 克	Gkak	145000
@@ -849,10 +843,10 @@ use_preset_vocabulary: false
 冰	Gbiang	200000
 冰	Gbin	200000
 冰	bing	200000
-冰雪	Gben Gxyuêt	486
+冰雪	Gben Gxyueot	486
 冰雪	Gben xue	486
-冰雪	Gbin Gxyuêt	486
-冰雪	bing Gxyuêt	486
+冰雪	Gbin Gxyueot	486
+冰雪	bing Gxyueot	486
 冰雪	bing xue	486
 冲	Gcung	120000
 冲	chong	120000
@@ -892,37 +886,37 @@ use_preset_vocabulary: false
 凑	cou	200000
 凝	Gnin	120000
 凝	ning	120000
-凝固的动物血块	Gnin Ggu Ggêi Gtung Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu Ggêi Gtung Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu Ggêi Gtung Gwêik xue Gkuai	124071
-凝固的动物血块	Gnin Ggu Ggêi Gtung wu Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu Ggêi Gtung wu Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu Ggêi Gtung wu xue Gkuai	124071
-凝固的动物血块	Gnin Ggu Ggêi dong Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu Ggêi dong Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu Ggêi dong Gwêik xue Gkuai	124071
-凝固的动物血块	Gnin Ggu Ggêi dong wu Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu Ggêi dong wu Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu Ggêi dong wu xue Gkuai	124071
-凝固的动物血块	Gnin Ggu de Gtung Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu de Gtung Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu de Gtung Gwêik xue Gkuai	124071
-凝固的动物血块	Gnin Ggu de Gtung wu Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu de Gtung wu Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu de Gtung wu xue Gkuai	124071
-凝固的动物血块	Gnin Ggu de dong Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu de dong Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu de dong Gwêik xue Gkuai	124071
-凝固的动物血块	Gnin Ggu de dong wu Gxyuêt Gkuai	124071
+凝固的动物血块	Gnin Ggu de dong wu Gxyueot Gkuai	124071
 凝固的动物血块	Gnin Ggu de dong wu xue Gkuai	124071
-凝固的动物血块	ning Ggu Ggêi Gtung Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu Ggêi Gtung Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu Ggêi Gtung Gwêik xue Gkuai	124071
-凝固的动物血块	ning Ggu Ggêi Gtung wu Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu Ggêi Gtung wu Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu Ggêi Gtung wu xue Gkuai	124071
-凝固的动物血块	ning Ggu Ggêi dong Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu Ggêi dong Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu Ggêi dong Gwêik xue Gkuai	124071
-凝固的动物血块	ning Ggu Ggêi dong wu Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu Ggêi dong wu Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu Ggêi dong wu xue Gkuai	124071
-凝固的动物血块	ning Ggu de Gtung Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu de Gtung Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu de Gtung Gwêik xue Gkuai	124071
-凝固的动物血块	ning Ggu de Gtung wu Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu de Gtung wu Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu de Gtung wu xue Gkuai	124071
-凝固的动物血块	ning Ggu de dong Gwêik Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu de dong Gwêik Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu de dong Gwêik xue Gkuai	124071
-凝固的动物血块	ning Ggu de dong wu Gxyuêt Gkuai	124071
+凝固的动物血块	ning Ggu de dong wu Gxyueot Gkuai	124071
 凝固的动物血块	ning Ggu de dong wu xue Gkuai	124071
 凝固的动物血块	ning gu de dong wu xue kuai	124071
 几	Gji	200000
@@ -962,9 +956,7 @@ use_preset_vocabulary: false
 击一拳	ji Gyit quan	125426
 击一拳	ji yi Gqyuon	125426
 击一拳	ji yi quan	125426
-击打	Gji Gdaep	127042
-击打	Gji da	127042
-击打	ji da	127042
+击打	Gji Gda	127042
 函	Ghon	120000
 函	han	120000
 凿	Gcok	145000
@@ -1073,8 +1065,7 @@ use_preset_vocabulary: false
 制	Gzi	145000
 制	Gzik	145000
 制	zhi	145000
-刷	Gseok	200000
-刷	Gsyuêt	200000
+刷	Gseot	200000
 刷	shua	200000
 刹	Gcaet	120000
 刹	Gsaet	120000
@@ -1137,7 +1128,6 @@ use_preset_vocabulary: false
 剪	jian	120000
 副	Gfu	200000
 割	Ggeok	120000
-割	Ggyuêk	97216
 割	ge	120000
 割水稻	Ggeok Gfi Gtau	99366
 割水稻	Ggeok Gfi dao	99366
@@ -1147,8 +1137,8 @@ use_preset_vocabulary: false
 割水稻	ge Gfi dao	99366
 割水稻	ge shui Gtau	99366
 割水稻	ge shui dao	99366
-割禾	Ggyuêk Gwo	91025
-割禾	Ggyuêk he	91025
+割禾	Ggeok Gwo	91025
+割禾	Ggeok he	91025
 割禾	ge Gwo	91025
 割禾	ge he	91025
 劈	Gpiak	145000
@@ -1199,8 +1189,7 @@ use_preset_vocabulary: false
 劫	Gjiêk	120000
 劫	Gqiêk	120000
 劫	jie	120000
-励	Glik	120000
-励	li	120000
+励	Gli	120000
 劲	Gjin	120000
 劳	Glau	145000
 劳	lao	145000
@@ -1248,7 +1237,7 @@ use_preset_vocabulary: false
 化	hua	200000
 北	Gbêk	200000
 北	bei	200000
-匙	Gsik	120000
+匙	Gsi	120000
 匙	shi	120000
 匠	Gjiong	120000
 匠	Gqiong	120000
@@ -1261,7 +1250,6 @@ use_preset_vocabulary: false
 匪	fei	145000
 匹	Gpi	120000
 区	Gqi	200000
-区	Gqiuk	200000
 区	Gqyu	200000
 区	qu	200000
 医	Gyi	120000
@@ -1345,8 +1333,8 @@ use_preset_vocabulary: false
 卵	luan	200000
 卷	Gjyuon	145000
 卷	juan	145000
-卸	Gxiak	104592
-卸	Gxiêk	104592
+卸	Gxia	104592
+卸	Gxiê	104592
 卸	xie	104592
 卿	Gqin	120000
 卿	qing	120000
@@ -1377,8 +1365,7 @@ use_preset_vocabulary: false
 厌	Gniên	120000
 厌	Gyên	120000
 厌	yan	120000
-厕	Gciêk	170000
-厕	Gcêk	170000
+厕	Gcê	170000
 厕	ce	170000
 厘	Gli	120000
 厚	Ghêu	145000
@@ -1412,6 +1399,7 @@ use_preset_vocabulary: false
 去喊下他	qu han xia Gjiê	124997
 去喊下他	qu han xia ta	124997
 去喡下渠	Gqiê Gwiê Gha Gjiê	123030
+去喡下渠	Gqiê Gwiê Gha Wqi	123030
 去喡下渠	Gqiê Gwiê Gha qu	123030
 去喡下渠	Gqiê Gwiê xia Gjiê	123030
 去喡下渠	Gqiê Gwiê xia qu	123030
@@ -1430,6 +1418,7 @@ use_preset_vocabulary: false
 厾	Gdu	123168
 厾	Gduk	123168
 厾	du	123168
+厾指头	Gdu Gzek Gtêu	122523
 厾指头	Gdu Gzi Gtêu	122523
 厾指头	Gdu Gzi tou	122523
 厾指头	Gdu zhi Gtêu	122523
@@ -1448,7 +1437,6 @@ use_preset_vocabulary: false
 又	Gyiu	200000
 又	you	200000
 叉	Gca	120000
-叉	Gcaet	120000
 叉	cha	120000
 及	Gjip	175000
 及	Gqik	175000
@@ -1529,8 +1517,7 @@ use_preset_vocabulary: false
 吁	Gxi	104996
 吁	xu	104996
 吃	Gci	124794
-吃	Gqiak	126939
-吃	chi	126939
+吃	chi	124794
 吃一口	Gci Gyit Gkiêu	97506
 吃一口	Gci Gyit kou	97506
 吃一口	Gci yi Gkiêu	97506
@@ -1539,19 +1526,11 @@ use_preset_vocabulary: false
 吃一口	chi Gyit kou	97506
 吃一口	chi yi Gkiêu	97506
 吃一口	chi yi kou	97506
-吃酒	Gqiak Gjieu	123363
-吃酒	Gqiak jiu	123363
-吃酒	chi Gjieu	123363
-吃酒	chi jiu	123363
-吃饭	Gqiak Gfan	126884
-吃饭	chi Gfan	126884
-吃饭	chi fan	126884
 各	Ggok	140000
 各	ge	140000
 吆	Gyau	104620
 吆	yao	104620
 合	Gheot	200000
-合	Ghyuêt	127444
 合	he	200000
 吉	Gjit	175000
 吉	ji	175000
@@ -1585,8 +1564,7 @@ use_preset_vocabulary: false
 后生	Ghêu sheng	104653
 后生	hou Gsang	104653
 后生	hou sheng	104653
-吏	Glik	103563
-吏	li	103563
+吏	Gli	103563
 吐	Gtu	170000
 向	Gqiong	200000
 向	Gxiong	200000
@@ -1725,17 +1703,16 @@ use_preset_vocabulary: false
 咧	lie	130558
 咨	Gzi	102506
 咪	Gmi	105952
-咬	Gngaet	127851
 咬	Gngau	120000
-咬	yao	127851
-咬人	Gngaet Gnin	124469
-咬人	Gngaet ren	124469
+咬	yao	120000
+咬人	Gngau Gnin	124469
+咬人	Gngau ren	124469
 咬人	yao Gnin	124469
 咬人	yao ren	124469
-咬破	Gngaet Gpo	123582
+咬破	Gngau Gpo	123582
 咬破	yao Gpo	123582
 咬破	yao po	123582
-咬紧	Gngaet Gjin	122409
+咬紧	Gngau Gjin	122409
 咬紧	yao Gjin	122409
 咬紧	yao jin	122409
 咱	Gzen	157973
@@ -1858,34 +1835,34 @@ use_preset_vocabulary: false
 啊	Ga	200000
 啊	Gnga	200000
 啊	a	200000
-啜	Gcyuêt	126711
-啜	chuai	126711
-啜一口	Gcyuêt Gyit Gqiau	105366
-啜一口	Gcyuêt Gyit kou	105366
-啜一口	Gcyuêt yi Gqiau	105366
-啜一口	Gcyuêt yi kou	105366
+啜	Gceot	124538
+啜	chuai	124538
+啜一口	Gceot Gyit Gqiau	105366
+啜一口	Gceot Gyit kou	105366
+啜一口	Gceot yi Gqiau	105366
+啜一口	Gceot yi kou	105366
 啜一口	chuai Gyit Gqiau	105366
 啜一口	chuai Gyit kou	105366
 啜一口	chuai yi Gqiau	105366
 啜一口	chuai yi kou	105366
-啜口水	Gcyuêt Gkiêu Gsyu	122222
-啜口水	Gcyuêt Gkiêu shui	122222
-啜口水	Gcyuêt kou Gsyu	122222
-啜口水	Gcyuêt kou shui	122222
-啜口水	chuai Gkiêu Gsyu	122222
-啜口水	chuai Gkiêu shui	122222
-啜口水	chuai kou Gsyu	122222
-啜口水	chuai kou shui	122222
-啜汤	Gcyuêt Gtong	106895
-啜汤	Gcyuêt tang	106895
+啜口水	Gceot Gkiêu Gsyu	127354
+啜口水	Gceot Gkiêu shui	127354
+啜口水	Gceot kou Gsyu	127354
+啜口水	Gceot kou shui	127354
+啜口水	chuai Gkiêu Gsyu	127354
+啜口水	chuai Gkiêu shui	127354
+啜口水	chuai kou Gsyu	127354
+啜口水	chuai kou shui	127354
+啜汤	Gceot Gtong	106895
+啜汤	Gceot tang	106895
 啜汤	chuai Gtong	106895
 啜汤	chuai tang	106895
-啜粥	Gcyuêt Gzuk	125158
-啜粥	Gcyuêt zhou	125158
-啜粥	chuai Gzuk	125158
-啜粥	chuai zhou	125158
-啜茶	Gcyuêt Gca	126689
-啜茶	Gcyuêt cha	126689
+啜粥	Gceot Gzuk	126549
+啜粥	Gceot zhou	126549
+啜粥	chuai Gzuk	126549
+啜粥	chuai zhou	126549
+啜茶	Gceot Gca	126689
+啜茶	Gceot cha	126689
 啜茶	chuai Gca	126689
 啜茶	chuai cha	126689
 啡	Gfi	145000
@@ -1933,45 +1910,35 @@ use_preset_vocabulary: false
 喘	Gcon	145000
 喘	chuan	145000
 喜	Gxi	130000
-喝	Gcyuêt	125061
-喝	Gheok	135000
-喝	Ghyuêt	135000
+喝	Gheot	135000
 喝	he	135000
-喝一口	Gheok Gyit Gkiêu	102603
-喝一口	Gheok Gyit kou	102603
-喝一口	Gheok yi Gkiêu	102603
-喝一口	Gheok yi kou	102603
+喝一口	Gheot Gyit Gkiêu	102603
+喝一口	Gheot Gyit kou	102603
+喝一口	Gheot yi Gkiêu	102603
+喝一口	Gheot yi kou	102603
 喝一口	he Gyit Gkiêu	102603
 喝一口	he Gyit kou	102603
 喝一口	he yi Gkiêu	102603
 喝一口	he yi kou	102603
-喝口水	Gcyuêt Gkiêu Gsyu	127354
-喝口水	Gcyuêt Gkiêu shui	127354
-喝口水	Gcyuêt kou Gsyu	127354
-喝口水	Gcyuêt kou shui	127354
-喝口水	he Gkiêu Gsyu	127354
-喝口水	he Gkiêu shui	127354
-喝口水	he kou Gsyu	127354
-喝口水	he kou shui	127354
-喝汤	Gheok Gtong	100650
-喝汤	Gheok tang	100650
+喝汤	Gheot Gtong	100650
+喝汤	Gheot tang	100650
 喝汤	he Gtong	100650
 喝汤	he tang	100650
-喝粥	Gcyuêt Gzuk	126549
-喝粥	Gcyuêt zhou	126549
-喝粥	he Gzuk	126549
-喝粥	he zhou	126549
 喡	Gwiê	125354
 喡	wei	125354
 喡人	Gwiê Gnin	127873
 喡人	Gwiê ren	127873
 喡人	wei Gnin	127873
 喡人	wei ren	127873
-喫	Gqiak	94709
-喫	chi	94709
-喫饭	Gqiak Gfan	95411
-喫饭	chi Gfan	95411
-喫饭	chi fan	95411
+喫	Gqiak	124538
+喫	chi	124538
+喫酒	Gqiak Gjieu	123915
+喫酒	Gqiak jiu	123915
+喫酒	chi Gjieu	123915
+喫酒	chi jiu	123915
+喫饭	Gqiak Gfan	126884
+喫饭	chi Gfan	126884
+喫饭	chi fan	126884
 喷	Gpen	170000
 喷	Gpin	170000
 喷	Gpung	170000
@@ -2053,7 +2020,7 @@ use_preset_vocabulary: false
 围	Gvi	120000
 围	wei	120000
 固	Ggu	135620
-国	Ggyuêk	200000
+国	Gguêk	200000
 国	guo	200000
 图	Gtu	165000
 圃	Gpu	104063
@@ -2119,7 +2086,6 @@ use_preset_vocabulary: false
 坛	Gton	120000
 坛	tan	120000
 坝	Gbak	104794
-坝	Gpak	104794
 坝	ba	104794
 坞	Gwu	70980
 坟	Gfen	120000
@@ -2196,7 +2162,7 @@ use_preset_vocabulary: false
 塌	ta	120000
 塍	Gsen	120000
 塍	cheng	120000
-塑	Gsok	120000
+塑	Gso	120000
 塑	su	120000
 塔	Gtaep	120000
 塔	ta	120000
@@ -2334,6 +2300,7 @@ use_preset_vocabulary: false
 大前天	Gtai Gqiên tian	102869
 大前天	Gtai qian Gtiên	102869
 大前天	Gtai qian tian	102869
+大前天	Gto Gqiên Gtiên	102869
 大前天	da Gqiên Gtiên	102869
 大前天	da Gqiên tian	102869
 大前天	da qian Gtiên	102869
@@ -2342,6 +2309,7 @@ use_preset_vocabulary: false
 大前日	Gtai Gqiên ri	108574
 大前日	Gtai qian Gnit	108574
 大前日	Gtai qian ri	108574
+大前日	Gto Gqiên Gnit	108574
 大前日	da Gqiên Gnit	108574
 大前日	da Gqiên ri	108574
 大前日	da qian Gnit	108574
@@ -2350,16 +2318,19 @@ use_preset_vocabulary: false
 大后天	Gtai Ghêu tian	106984
 大后天	Gtai hou Gtiên	106984
 大后天	Gtai hou tian	106984
+大后天	Gto Ghêu Gtiên	106984
 大后天	da Ghêu Gtiên	106984
 大后天	da Ghêu tian	106984
 大后天	da hou Gtiên	106984
 大后天	da hou tian	106984
 大地	Gtai Gti	1657
 大地	Gtai di	1657
+大地	Gto Gti	1657
 大地	da Gti	1657
 大地	da di	1657
 大锄	Gtai Gcyu	125955
 大锄	Gtai chu	125955
+大锄	Gto Gcyu	125955
 大锄	da Gcyu	125955
 大锄	da chu	125955
 天	Gtiên	200000
@@ -2368,8 +2339,9 @@ use_preset_vocabulary: false
 天亮	Gtiên liang	100441
 天亮	tian Gliong	100441
 天亮	tian liang	100441
-天光	Gtiên Gguang	104497
-天光	tian Gguang	104497
+天光	Gtiên Gguong	104497
+天光	Gtiên guang	104497
+天光	tian Gguong	104497
 天光	tian guang	104497
 天气	Gtiên Gqi	2657
 天气	tian Gqi	2657
@@ -2418,9 +2390,7 @@ use_preset_vocabulary: false
 夺	duo	195000
 奄	Gyên	77897
 奄	yan	77897
-奇	Gjik	145000
 奇	Gqi	145000
-奇	qi	145000
 奈	Glai	120000
 奈	Gnêi	120000
 奈	nai	120000
@@ -2485,10 +2455,6 @@ use_preset_vocabulary: false
 好晏	Ghau yan	124618
 好晏	hao Gngan	124618
 好晏	hao yan	124618
-好晚	Ghau Gngan	127363
-好晚	Ghau wan	127363
-好晚	hao Gngan	127363
-好晚	hao wan	127363
 好暍	Ghau Gniêt	125152
 好暍	Ghau ye	125152
 好暍	hao Gniêt	125152
@@ -2987,7 +2953,7 @@ use_preset_vocabulary: false
 岑	Gcen	90000
 岔	Gca	120000
 岔	cha	120000
-岖	Gqyuk	101411
+岖	Gqi	101411
 岖	qu	101411
 岗	Ggong	120000
 岗	gang	120000
@@ -3097,7 +3063,7 @@ use_preset_vocabulary: false
 帚	Gzeu	170000
 帚	Gziu	170000
 帚	zhou	170000
-帜	Gzik	109625
+帜	Gzi	109625
 帜	zhi	109625
 帝	Gdi	145000
 帝	Gti	145000
@@ -3133,6 +3099,7 @@ use_preset_vocabulary: false
 年代	Gniên dai	39659
 年代	nian Gtêi	39659
 年代	nian dai	39659
+年份	Gniên Gfen	26122
 年份	Gniên Gfin	26122
 年份	Gniên fen	26122
 年份	nian Gfin	26122
@@ -3179,7 +3146,6 @@ use_preset_vocabulary: false
 床	Gcong	135000
 床	chuang	135000
 序	Gxyu	170000
-序	Gxyuk	170000
 序	xu	170000
 庐	Glu	120000
 库	Gku	200000
@@ -3346,8 +3312,7 @@ use_preset_vocabulary: false
 彻	Gciêt	120000
 彻	Gcêk	120000
 彻	che	120000
-彼	Gbik	120000
-彼	bi	120000
+彼	Gbi	120000
 往	Gmong	200000
 往	Gwong	200000
 往	wang	200000
@@ -3442,14 +3407,14 @@ use_preset_vocabulary: false
 忺	Gkiên	127383
 忺	Gqiên	127383
 忺	xian	127383
-忺到吃	Gqiên Gdau Gqiak	123353
-忺到吃	Gqiên Gdau chi	123353
-忺到吃	Gqiên dao Gqiak	123353
-忺到吃	Gqiên dao chi	123353
-忺到吃	xian Gdau Gqiak	123353
-忺到吃	xian Gdau chi	123353
-忺到吃	xian dao Gqiak	123353
-忺到吃	xian dao chi	123353
+忺到喫	Gqiên Gdau Gqiak	123353
+忺到喫	Gqiên Gdau chi	123353
+忺到喫	Gqiên dao Gqiak	123353
+忺到喫	Gqiên dao chi	123353
+忺到喫	xian Gdau Gqiak	123353
+忺到喫	xian Gdau chi	123353
+忺到喫	xian dao Gqiak	123353
+忺到喫	xian dao chi	123353
 忽	Gfu	185000
 忽	hu	185000
 忿	Gfin	109322
@@ -3511,7 +3476,6 @@ use_preset_vocabulary: false
 恕	shu	104005
 恢	Gfêi	120000
 恢	hui	120000
-恤	Gxyut	120000
 恤	Gxyuêt	120000
 恤	xu	120000
 恨	Ghiên	170000
@@ -3553,8 +3517,7 @@ use_preset_vocabulary: false
 患	Gwiên	120000
 患	Gwên	120000
 患	huan	120000
-悦	Gnyuêt	120000
-悦	Gyueok	120000
+悦	Gnyueot	120000
 悦	yue	120000
 您	Gnin	134934
 悬	Gxyuon	120000
@@ -3609,14 +3572,14 @@ use_preset_vocabulary: false
 想念	Gxiong nian	127383
 想念	xiang Gniên	127383
 想念	xiang nian	127383
-想着吃	Gqiên Gdau Gqiak	125679
-想着吃	Gqiên Gdau chi	125679
-想着吃	Gqiên zhe Gqiak	125679
-想着吃	Gqiên zhe chi	125679
-想着吃	xiang Gdau Gqiak	125679
-想着吃	xiang Gdau chi	125679
-想着吃	xiang zhe Gqiak	125679
-想着吃	xiang zhe chi	125679
+想着喫	Gqiên Gdau Gqiak	125679
+想着喫	Gqiên Gdau chi	125679
+想着喫	Gqiên zhe Gqiak	125679
+想着喫	Gqiên zhe chi	125679
+想着喫	xiang Gdau Gqiak	125679
+想着喫	xiang Gdau chi	125679
+想着喫	xiang zhe Gqiak	125679
+想着喫	xiang zhe chi	125679
 惹	Glê	200000
 惹	Gya	200000
 惹	re	200000
@@ -3720,7 +3683,6 @@ use_preset_vocabulary: false
 房事	fang Gbiêt	123007
 房事	fang shi	123007
 所	Gso	200000
-所	Gsuk	200000
 所	suo	200000
 扁	Gbiên	120000
 扁	bian	120000
@@ -3752,19 +3714,14 @@ use_preset_vocabulary: false
 扒	Gpa	120000
 扒	ba	120000
 打	Gda	200000
-打	Gdaep	126926
-打	da	126926
 打人	Gzok Gnin	122992
 打人	Gzok ren	122992
 打人	da Gnin	122992
 打人	da ren	122992
-打耳光	Gdaep Gba Gzong	123718
-打耳光	Gdaep Gba guang	123718
-打耳光	Gdaep er Gzong	123718
-打耳光	Gdaep er guang	123718
-打耳光	da Gba Gzong	123718
-打耳光	da Gba guang	123718
-打耳光	da er Gzong	123718
+打耳光	Gda Gba Gzong	123718
+打耳光	Gda Gba guang	123718
+打耳光	Gda er Gzong	123718
+打耳光	Gda er guang	123718
 打耳光	da er guang	123718
 扔	Gdiang	127277
 扔	Gfang	127277
@@ -3795,7 +3752,7 @@ use_preset_vocabulary: false
 执	Gzik	120000
 执	zhi	120000
 扩	Gkok	120000
-扩	Gkyuêt	120000
+扩	Gkuêt	120000
 扩	kuo	120000
 扫	Gsau	135000
 扫	sao	135000
@@ -3807,7 +3764,6 @@ use_preset_vocabulary: false
 扬叶	yang Gyêp	94905
 扬叶	yang ye	94905
 扭	Gnieu	120000
-扭	Gniuk	120000
 扭	niu	120000
 扮	Gban	120000
 扮	Gben	120000
@@ -3961,9 +3917,8 @@ use_preset_vocabulary: false
 拌	ban	120000
 拍	Gpak	145000
 拍	pai	145000
-拍打	Gpak Gdaep	126188
-拍打	Gpak da	126188
-拍打	pai Gdaep	126188
+拍打	Gpak Gda	126188
+拍打	pai Gda	126188
 拍打	pai da	126188
 拍打脸	Gdaep Gba Gzong	125638
 拍打脸	Gdaep Gba lian	125638
@@ -4024,7 +3979,7 @@ use_preset_vocabulary: false
 择	Gtok	145000
 择	Gziêk	145000
 择	ze	145000
-括	Gkyuêk	106247
+括	Gkuêk	106247
 括	kuo	106247
 拭	Gsik	152599
 拭	shi	152599
@@ -4056,14 +4011,13 @@ use_preset_vocabulary: false
 拾	Gsek	120000
 拾	Gsip	120000
 拾	shi	120000
-拿	Gdak	200000
+拿	Gda	200000
 拿	na	200000
 持	Gci	125000
 持	chi	125000
 挂	Ggua	130000
 指	Gzek	200000
 指	Gzi	200000
-指	Gzik	200000
 指	zhi	200000
 按	Gngon	200000
 按	an	200000
@@ -4240,9 +4194,8 @@ use_preset_vocabulary: false
 掀	xian	120000
 掂	Gdiên	170000
 掂	dian	170000
-掇	Gdeok	132650
-掇	Gdyuêt	138593
-掇	duo	138593
+掇	Gdeot	132650
+掇	duan	132650
 授	Gsiu	145000
 授	shou	145000
 掉	Gdiêk	200000
@@ -4457,6 +4410,7 @@ use_preset_vocabulary: false
 搊	Gceu	127115
 搊	chou	127115
 搊到渠	Gceu Gdau Gjiê	125185
+搊到渠	Gceu Gdau Wqi	125185
 搊到渠	Gceu Gdau qu	125185
 搊到渠	Gceu dao Gjiê	125185
 搊到渠	Gceu dao qu	125185
@@ -4602,17 +4556,17 @@ use_preset_vocabulary: false
 操	cao	150000
 擤	Gsang	126629
 擤	xing	126629
-擤鼻泞	Gsang Gpek Gnin	125476
-擤鼻泞	Gsang Gpek ning	125476
+擤鼻泞	Gsang Gpêi Gnin	125476
+擤鼻泞	Gsang Gpêi ning	125476
 擤鼻泞	Gsang bi Gnin	125476
 擤鼻泞	Gsang bi ning	125476
-擤鼻泞	xing Gpek Gnin	125476
-擤鼻泞	xing Gpek ning	125476
+擤鼻泞	xing Gpêi Gnin	125476
+擤鼻泞	xing Gpêi ning	125476
 擤鼻泞	xing bi Gnin	125476
 擤鼻泞	xing bi ning	125476
-擤鼻涕	Gsang Gpek Gti	125157
+擤鼻涕	Gsang Gpêi Gti	125157
 擤鼻涕	Gsang bi Gti	125157
-擤鼻涕	xing Gpek Gti	125157
+擤鼻涕	xing Gpêi Gti	125157
 擤鼻涕	xing bi Gti	125157
 擤鼻涕	xing bi ti	125157
 擦	Gcaet	145000
@@ -4684,13 +4638,12 @@ use_preset_vocabulary: false
 数	Gsu	200000
 数	shu	200000
 敲	Gkau	120000
-敲	Gkok	120000
 敲	Gqiau	120000
 敲	qiao	120000
 敲击	Gkau Gji	127686
 敲击	qiao Gji	127686
 敲击	qiao ji	127686
-敲门	Gkok Gmen	126633
+敲门	Gkau Gmen	126633
 敲门	qiao Gmen	126633
 敲门	qiao men	126633
 整	Gzang	151502
@@ -4767,11 +4720,9 @@ use_preset_vocabulary: false
 旁	Gpong	120000
 旁	pang	120000
 旅	Gli	120000
-旅	Gliuk	120000
 旅	Glyu	120000
 旅	lv	120000
 旋	Gxyuon	120000
-旋	Gxyuêk	120000
 旋	xuan	120000
 族	Gcuk	170000
 族	Gzuk	170000
@@ -4879,10 +4830,13 @@ use_preset_vocabulary: false
 星子	Gxin Gzi	100000
 星子	xing Gzi	100000
 星子	xing zi	100000
+星星	Gxiang Gxiang	113220
+星星	Gxiang xing	113220
 星星	Gxin Gxin	25398
 星星	Gxin xing	25398
+星星	xing Gxiang	113220
 星星	xing Gxin	25398
-星星	xing xing	25398
+星星	xing xing	113220
 星期	Gxin Gqi	101330
 星期	xing Gqi	101330
 星期	xing qi	101330
@@ -4953,14 +4907,15 @@ use_preset_vocabulary: false
 晕	Gyin	120000
 晕	yun	120000
 晚	Gman	190000
-晚	Gngan	123263
 晚	Gwan	190000
 晚	wan	190000
 晚上	Gman Gsong	90588
 晚上	Gman shang	90588
+晚上	Gwan Gsong	90588
 晚上	wan Gsong	90588
 晚上	wan shang	90588
 晚饭	Gman Gfan	101746
+晚饭	Gwan Gfan	101746
 晚饭	wan Gfan	101746
 晚饭	wan fan	101746
 晤	Gng	76500
@@ -5015,6 +4970,7 @@ use_preset_vocabulary: false
 曳	Gyê	122059
 曳	ye	122059
 曳到渠	Gyê Gdau Gjiê	125975
+曳到渠	Gyê Gdau Wqi	125975
 曳到渠	Gyê Gdau qu	125975
 曳到渠	Gyê dao Gjiê	125975
 曳到渠	Gyê dao qu	125975
@@ -5040,36 +4996,51 @@ use_preset_vocabulary: false
 替	Gti	120000
 最	Gzêi	200000
 最	zui	200000
-月	Gnyueok	200000
+月	Gnyueot	200000
 月	Gnyuêt	200000
 月	yue	200000
+月亮	Gnyueot Gliong	104854
+月亮	Gnyueot liang	104854
 月亮	Gnyuêt Gliong	104854
-月亮	Gnyuêt liang	104854
 月亮	yue Gliong	104854
 月亮	yue liang	104854
+月亮神	Gnyueot Gliong Gsin	93930
+月亮神	Gnyueot Gliong shen	93930
+月亮神	Gnyueot liang Gsin	93930
+月亮神	Gnyueot liang shen	93930
 月亮神	Gnyuêt Gliong Gsin	93930
-月亮神	Gnyuêt Gliong shen	93930
-月亮神	Gnyuêt liang Gsin	93930
-月亮神	Gnyuêt liang shen	93930
 月亮神	yue Gliong Gsin	93930
 月亮神	yue Gliong shen	93930
 月亮神	yue liang Gsin	93930
 月亮神	yue liang shen	93930
+月份	Gnyueot Gfen	1754
+月份	Gnyueot Gfin	1754
+月份	Gnyueot fen	1754
+月份	Gnyuêt Gfen	1754
 月份	Gnyuêt Gfin	1754
-月份	Gnyuêt fen	1754
 月份	yue Gfin	1754
 月份	yue fen	1754
-月光	Gnyuêt Gguang	104908
-月光	yue Gguang	104908
+月光	Gnyueot Gguong	104908
+月光	Gnyueot guang	104908
+月光	Gnyuêt Gguong	104908
+月光	yue Gguong	104908
 月光	yue guang	104908
-月光爷爷	Gnyuêt Gguang Gya Gya	100302
-月光爷爷	Gnyuêt Gguang Gya ye	100302
-月光爷爷	Gnyuêt Gguang ye Gya	100302
-月光爷爷	Gnyuêt Gguang ye ye	100302
-月光爷爷	yue Gguang Gya Gya	100302
-月光爷爷	yue Gguang Gya ye	100302
-月光爷爷	yue Gguang ye Gya	100302
-月光爷爷	yue Gguang ye ye	100302
+月光爷爷	Gnyueot Gguong Gya Gya	100302
+月光爷爷	Gnyueot Gguong Gya ye	100302
+月光爷爷	Gnyueot Gguong ye Gya	100302
+月光爷爷	Gnyueot Gguong ye ye	100302
+月光爷爷	Gnyueot guang Gya Gya	100302
+月光爷爷	Gnyueot guang Gya ye	100302
+月光爷爷	Gnyueot guang ye Gya	100302
+月光爷爷	Gnyueot guang ye ye	100302
+月光爷爷	Gnyuêt Gguong Gya Gya	100302
+月光爷爷	yue Gguong Gya Gya	100302
+月光爷爷	yue Gguong Gya ye	100302
+月光爷爷	yue Gguong ye Gya	100302
+月光爷爷	yue Gguong ye ye	100302
+月光爷爷	yue guang Gya Gya	100302
+月光爷爷	yue guang Gya ye	100302
+月光爷爷	yue guang ye Gya	100302
 月光爷爷	yue guang ye ye	100302
 有	Gyeu	200000
 有	Gyiu	200000
@@ -5127,14 +5098,12 @@ use_preset_vocabulary: false
 权	quan	200000
 杆	Ggon	120000
 杆	gan	120000
-杈	Gca	75744
-杈	Gcaet	75744
-杈	cha	75744
+杈	Gca	106779
+杈	cha	106779
 杉	Gsa	120000
 杉	Gsan	120000
 杉	shan	120000
 李	Gli	120000
-杏	Gxik	120000
 杏	Gxin	120000
 杏	xing	120000
 材	Gcêi	120000
@@ -5302,10 +5271,8 @@ use_preset_vocabulary: false
 株	zhu	120000
 样	Gyong	200000
 样	yang	200000
-核	Ghot	120000
-核	Ghyuêt	120000
+核	Gheot	120000
 核	Ghêk	120000
-核	Gwek	120000
 核	he	120000
 根	Ggiên	195000
 根	Gjiên	195000
@@ -5393,69 +5360,69 @@ use_preset_vocabulary: false
 棍	Gguin	120000
 棍	Ggun	120000
 棍	gun	120000
-棍棒等轻击轻点	Gguin Gbong Gdiên Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong Gdiên Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong Gdiên Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin Gbong Gdiên Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong Gdiên Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong Gdiên Gqiang Gji qing dian	123168
-棍棒等轻击轻点	Gguin Gbong Gdiên qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong Gdiên qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong Gdiên qing Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin Gbong Gdiên qing Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong Gdiên qing Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong Gdiên qing Gji qing dian	123168
-棍棒等轻击轻点	Gguin Gbong deng Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong deng Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong deng Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin Gbong deng Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong deng Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong deng Gqiang Gji qing dian	123168
-棍棒等轻击轻点	Gguin Gbong deng qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong deng qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong deng qing Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin Gbong deng qing Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin Gbong deng qing Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin Gbong deng qing Gji qing dian	123168
-棍棒等轻击轻点	Gguin bang Gdiên Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin bang Gdiên Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin bang Gdiên Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin bang Gdiên Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin bang Gdiên Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin bang Gdiên Gqiang Gji qing dian	123168
-棍棒等轻击轻点	Gguin bang Gdiên qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin bang Gdiên qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin bang Gdiên qing Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin bang Gdiên qing Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin bang Gdiên qing Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin bang Gdiên qing Gji qing dian	123168
-棍棒等轻击轻点	Gguin bang deng Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin bang deng Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin bang deng Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin bang deng Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin bang deng Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin bang deng Gqiang Gji qing dian	123168
-棍棒等轻击轻点	Gguin bang deng qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	Gguin bang deng qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	Gguin bang deng qing Gji Gqiang dian	123168
-棍棒等轻击轻点	Gguin bang deng qing Gji qing Gdiak	123168
+棍棒等轻击轻点	Gguin bang deng qing Gji qing Gdiên	123168
 棍棒等轻击轻点	Gguin bang deng qing Gji qing dian	123168
-棍棒等轻击轻点	gun Gbong Gdiên Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun Gbong Gdiên Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun Gbong Gdiên Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	gun Gbong Gdiên Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	gun Gbong Gdiên Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	gun Gbong Gdiên Gqiang Gji qing dian	123168
-棍棒等轻击轻点	gun Gbong Gdiên qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun Gbong Gdiên qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun Gbong Gdiên qing Gji Gqiang dian	123168
-棍棒等轻击轻点	gun Gbong Gdiên qing Gji qing Gdiak	123168
+棍棒等轻击轻点	gun Gbong Gdiên qing Gji qing Gdiên	123168
 棍棒等轻击轻点	gun Gbong Gdiên qing Gji qing dian	123168
-棍棒等轻击轻点	gun Gbong deng Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun Gbong deng Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun Gbong deng Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	gun Gbong deng Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	gun Gbong deng Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	gun Gbong deng Gqiang Gji qing dian	123168
-棍棒等轻击轻点	gun Gbong deng qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun Gbong deng qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun Gbong deng qing Gji Gqiang dian	123168
-棍棒等轻击轻点	gun Gbong deng qing Gji qing Gdiak	123168
+棍棒等轻击轻点	gun Gbong deng qing Gji qing Gdiên	123168
 棍棒等轻击轻点	gun Gbong deng qing Gji qing dian	123168
-棍棒等轻击轻点	gun bang Gdiên Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun bang Gdiên Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun bang Gdiên Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	gun bang Gdiên Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	gun bang Gdiên Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	gun bang Gdiên Gqiang Gji qing dian	123168
-棍棒等轻击轻点	gun bang Gdiên qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun bang Gdiên qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun bang Gdiên qing Gji Gqiang dian	123168
-棍棒等轻击轻点	gun bang Gdiên qing Gji qing Gdiak	123168
+棍棒等轻击轻点	gun bang Gdiên qing Gji qing Gdiên	123168
 棍棒等轻击轻点	gun bang Gdiên qing Gji qing dian	123168
-棍棒等轻击轻点	gun bang deng Gqiang Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun bang deng Gqiang Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun bang deng Gqiang Gji Gqiang dian	123168
-棍棒等轻击轻点	gun bang deng Gqiang Gji qing Gdiak	123168
+棍棒等轻击轻点	gun bang deng Gqiang Gji qing Gdiên	123168
 棍棒等轻击轻点	gun bang deng Gqiang Gji qing dian	123168
-棍棒等轻击轻点	gun bang deng qing Gji Gqiang Gdiak	123168
+棍棒等轻击轻点	gun bang deng qing Gji Gqiang Gdiên	123168
 棍棒等轻击轻点	gun bang deng qing Gji Gqiang dian	123168
-棍棒等轻击轻点	gun bang deng qing Gji qing Gdiak	123168
+棍棒等轻击轻点	gun bang deng qing Gji qing Gdiên	123168
 棍棒等轻击轻点	gun bang deng qing Gji qing dian	123168
 棍棒等轻击轻点	gun bang deng qing ji qing dian	123168
 棒	Gbong	120000
@@ -5508,8 +5475,7 @@ use_preset_vocabulary: false
 榜	Gbong	120000
 榜	bang	120000
 榨	Gza	120000
-榨	Gzak	126351
-榨	zha	126351
+榨	zha	120000
 榫	Gxin	10000
 榫	sun	10000
 榴	Glieu	120000
@@ -5621,8 +5587,7 @@ use_preset_vocabulary: false
 毁	Gfi	120000
 毁	Gfêi	120000
 毁	hui	120000
-毅	Gyik	105838
-毅	yi	105838
+毅	Gyi	105838
 母	Gmu	200000
 母亲	Gmu Gma	126904
 母亲	Gmu qin	126904
@@ -5770,7 +5735,6 @@ use_preset_vocabulary: false
 油	Gyiu	145000
 油	you	145000
 治	Gci	200000
-治	Gzik	200000
 治	zhi	200000
 沼	Gziêu	109461
 沼	zhao	109461
@@ -5830,7 +5794,7 @@ use_preset_vocabulary: false
 洇	Gyin	90000
 洋	Gyong	155000
 洋	yang	155000
-洒	Gsaet	120000
+洒	Gsae	120000
 洒	sa	120000
 洗	Gxi	170000
 洛	Glok	120000
@@ -5997,21 +5961,20 @@ use_preset_vocabulary: false
 渔	yu	106716
 渗	Gsên	108153
 渗	shen	108153
-渠	Ggiê	123811
 渠	Gjiê	123811
-渠	Gkiê	123811
 渠	Gqi	123811
-渠	Gqiuk	123811
-渠	Gqiê	123811
 渠	qu	123811
 渠个	Gjiê Ggo	124961
 渠个	Gjiê Ggêi	124961
 渠个	Gjiê ge	124961
+渠个	Wqi Ggo	124961
+渠个	Wqi Ggêi	124961
 渠个	qu Ggo	124961
 渠个	qu Ggêi	124961
 渠个	qu ge	124961
 渠等	Gjiê Gdên	123878
 渠等	Gjiê deng	123878
+渠等	Wqi Gdên	123878
 渠等	qu Gdên	123878
 渠等	qu deng	123878
 渡	Gtu	120000
@@ -6106,7 +6069,6 @@ use_preset_vocabulary: false
 潦	Gliêu	90000
 潦	lao	90000
 潭	Gtan	120000
-潮	Gciêu	120000
 潮	Gcêu	120000
 潮	chao	120000
 潮汐	Gcêu Gxik	25298
@@ -6131,6 +6093,10 @@ use_preset_vocabulary: false
 灌	guan	120000
 火	Gfo	120000
 火	huo	120000
+火舌	Gfo Gsêk	122800
+火舌	Gfo she	122800
+火舌	huo Gsêk	122800
+火舌	huo she	122800
 灭	Gmiêt	120000
 灭	mie	120000
 灯	Gdiên	120000
@@ -6225,7 +6191,6 @@ use_preset_vocabulary: false
 炮	pao	145000
 炸	Gza	170000
 炸	zha	170000
-点	Gdiak	200000
 点	Gdiên	200000
 点	dian	200000
 炼	Gliên	120000
@@ -6433,7 +6398,6 @@ use_preset_vocabulary: false
 爷爷	ye Gya	122696
 爷爷	ye ye	122696
 爸	Gba	120000
-爸	Gbak	120000
 爸	Gya	120000
 爸	ba	120000
 爹	Gdia	120000
@@ -6457,7 +6421,6 @@ use_preset_vocabulary: false
 牛	Gniau	155000
 牛	Gniêu	155000
 牛	niu	155000
-牡	Gmuk	120000
 牡	Gmêu	120000
 牡	mu	120000
 牢	Glau	145000
@@ -6640,7 +6603,6 @@ use_preset_vocabulary: false
 甑	zeng	30000
 甘	Ggon	120000
 甘	gan	120000
-甚	Gsik	120000
 甚	Gsin	120000
 甚	shen	120000
 甜	Gtiên	120000
@@ -6671,6 +6633,7 @@ use_preset_vocabulary: false
 用手重按	yong shou zhong an	127381
 用指头	Gyung Gzek Gtêu	123168
 用指头	Gyung Gzek tou	123168
+用指头	Gyung Gzi Gtêu	123168
 用指头	Gyung zhi Gtêu	123168
 用指头	Gyung zhi tou	123168
 用指头	yong Gzek Gtêu	123168
@@ -6880,8 +6843,7 @@ use_preset_vocabulary: false
 盐	yan	150000
 监	Ggan	120000
 监	jian	120000
-盒	Gheok	120000
-盒	Ghyuêt	120000
+盒	Gheot	120000
 盒	he	120000
 盔	Gkuêi	120000
 盔	kui	120000
@@ -7098,7 +7060,6 @@ use_preset_vocabulary: false
 知	Gzi	185000
 知	zhi	185000
 矩	Gji	120000
-矩	Gjyuk	120000
 矩	ju	120000
 短	Gdon	91671
 短	Gduon	52500
@@ -7121,8 +7082,6 @@ use_preset_vocabulary: false
 砂	Gsa	107184
 砂	sha	107184
 砌	Gqi	101040
-砌	Gqiêt	101040
-砌	qi	101040
 砍	Gkan	120000
 砍	Gkong	120000
 砍	kan	120000
@@ -7203,7 +7162,6 @@ use_preset_vocabulary: false
 磷	lin	104900
 磺	Gfong	30000
 磺	huang	30000
-示	Gsek	200000
 示	Gsi	200000
 示	shi	200000
 礼	Gli	145000
@@ -7226,7 +7184,6 @@ use_preset_vocabulary: false
 祝	zhu	120000
 神	Gsin	200000
 神	shen	200000
-祟	Gsyuk	120000
 祟	Gsêi	120000
 祟	sui	120000
 祠	Gci	120000
@@ -7280,8 +7237,6 @@ use_preset_vocabulary: false
 秒	miao	165000
 秕	Gbi	71935
 秘	Gmi	145000
-秘	Gmik	145000
-秘	mi	145000
 租	Gjyu	145000
 租	Gzu	145000
 租	zu	145000
@@ -7331,7 +7286,7 @@ use_preset_vocabulary: false
 穆	mu	120000
 穗	Gsêi	109057
 穗	sui	109057
-穴	Gxyueok	120000
+穴	Gxyueot	120000
 穴	Gxyuê	120000
 穴	xue	120000
 究	Gjieu	120000
@@ -7439,7 +7394,7 @@ use_preset_vocabulary: false
 符	Gfu	120000
 笨	Gbin	200000
 笨	ben	200000
-第	Gtik	200000
+第	Gti	200000
 第	di	200000
 笮	Gzak	124139
 笮	ze	124139
@@ -7482,9 +7437,9 @@ use_preset_vocabulary: false
 筑紧	Gzuk Gjin	126892
 筑紧	zhu Gjin	126892
 筑紧	zhu jin	126892
-筑鼻子	Gzuk Gpek Gzi	126401
+筑鼻子	Gzuk Gpêi Gzi	126401
 筑鼻子	Gzuk bi Gzi	126401
-筑鼻子	zhu Gpek Gzi	126401
+筑鼻子	zhu Gpêi Gzi	126401
 筑鼻子	zhu bi Gzi	126401
 筑鼻子	zhu bi zi	126401
 筒	Gtung	120000
@@ -7704,7 +7659,6 @@ use_preset_vocabulary: false
 纺	fang	120000
 纽	Gnieu	120000
 纽	Gniu	120000
-纽	Gniuk	120000
 纽	niu	120000
 线	Gxiên	200000
 线	xian	200000
@@ -7766,8 +7720,7 @@ use_preset_vocabulary: false
 络	Glok	120000
 络	Gno	120000
 络	luo	120000
-绝	Gqyueok	150000
-绝	Gqyuêt	150000
+绝	Gqyueot	150000
 绝	jue	150000
 绞	Ggau	120000
 绞	Gjiêu	120000
@@ -7782,7 +7735,7 @@ use_preset_vocabulary: false
 继	Gji	145000
 绩	Gjik	145000
 绩	ji	145000
-绪	Gxiuk	102148
+绪	Gxiu	102148
 绪	xu	102148
 续	Gxiuk	155514
 续	xu	155514
@@ -7832,9 +7785,7 @@ use_preset_vocabulary: false
 缴	jiao	120000
 缸	Ggong	120000
 缸	gang	120000
-缺	Gkyuêt	200000
-缺	Gqyueok	200000
-缺	Gqyuêt	200000
+缺	Gqyueot	200000
 缺	que	200000
 罐	Gguên	120000
 罐	guan	120000
@@ -7854,7 +7805,6 @@ use_preset_vocabulary: false
 罩	zhao	120000
 罪	Gcêi	120000
 罪	zui	120000
-置	Gzek	200000
 置	Gzi	200000
 置	zhi	200000
 罱	Gliên	127116
@@ -8006,7 +7956,6 @@ use_preset_vocabulary: false
 肠	chang	120000
 股	Ggu	200000
 肢	Gzi	120000
-肢	Gzik	120000
 肢	zhi	120000
 肤	Gfu	107042
 肤垢	Gfu Ggiêu	124254
@@ -8166,8 +8115,7 @@ use_preset_vocabulary: false
 膨	peng	100000
 膱	Gzek	6000
 膱	zhi	6000
-臂	Gbit	120000
-臂	bi	120000
+臂	Gbi	120000
 臊	Gsau	120000
 臊	sao	120000
 臣	Gcen	100000
@@ -8544,9 +8492,7 @@ use_preset_vocabulary: false
 落	luo	190000
 著	Gzuk	120000
 著	zhu	120000
-葛	Ggeot	120000
-葛	Gkot	120000
-葛	Gkyuêt	125731
+葛	Gkeot	125731
 葛	ge	125731
 葡	Gpu	120000
 董	Gdung	120000
@@ -8595,8 +8541,7 @@ use_preset_vocabulary: false
 蔬	shu	120000
 蔸	Gdêu	60000
 蔸	dou	60000
-蔽	Gbik	132930
-蔽	bi	132930
+蔽	Gbi	132930
 蕉	Gjiau	120000
 蕉	Gjiêu	120000
 蕉	jiao	120000
@@ -8656,7 +8601,6 @@ use_preset_vocabulary: false
 虐	Gnyuêt	120000
 虐	nve	120000
 虑	Gli	126565
-虑	Glyut	126565
 虑	lv	126565
 虚	Gxi	120000
 虚	Gxyu	120000
@@ -8726,7 +8670,6 @@ use_preset_vocabulary: false
 蛙	Gwa	120000
 蛛	Gjyu	120000
 蛛	Gsu	120000
-蛛	Gzyuk	120000
 蛛	zhu	120000
 蛤	Ggeok	145000
 蛤	ha	145000
@@ -8785,8 +8728,7 @@ use_preset_vocabulary: false
 蟥	huang	90000
 蠢	Gcyun	120000
 蠢	chun	120000
-血	Gxyueok	170000
-血	Gxyuêt	170000
+血	Gxyueot	170000
 血	xue	170000
 衁	Gwong	124071
 衁	huang	124071
@@ -8851,7 +8793,6 @@ use_preset_vocabulary: false
 袒	tan	73014
 袖	Gqieu	100000
 袖	Gqiu	100000
-袖	Gqiuk	100000
 袖	xiu	100000
 袖子	Gqieu Gzi	103409
 袖子	xiu Gzi	103409
@@ -8989,7 +8930,7 @@ use_preset_vocabulary: false
 讳	Gfêi	108601
 讳	Gwêi	108601
 讳	hui	108601
-讶	Gngak	108927
+讶	Gnga	108927
 讶	ya	108927
 许	Ghêi	124082
 许	Gxi	124082
@@ -9009,8 +8950,7 @@ use_preset_vocabulary: false
 设	she	120000
 访	Gfong	120000
 访	fang	120000
-诀	Gjyueok	125000
-诀	Gqyuêk	125000
+诀	Gqyueok	125000
 诀	jue	125000
 证	Gzen	170000
 证	zheng	170000
@@ -9069,7 +9009,6 @@ use_preset_vocabulary: false
 诲	Gfêi	101141
 诲	hui	101141
 说	Gseot	200000
-说	Gsyuêt	126409
 说	shuo	200000
 说话	Gseot Gfa	109711
 说话	Gseot hua	109711
@@ -9249,7 +9188,6 @@ use_preset_vocabulary: false
 费	Gfi	170000
 费	fei	170000
 贺	Gho	120000
-贺	Ghok	120000
 贺	he	120000
 贼	Gciêk	134902
 贼	Gcêk	134902
@@ -9293,8 +9231,7 @@ use_preset_vocabulary: false
 赦	she	120000
 走	Gzêu	200000
 走	zou	200000
-赴	Gfuk	120000
-赴	fu	120000
+赴	Gfu	120000
 赵	Gcêu	145000
 赵	Gzeu	145000
 赵	zhao	145000
@@ -9307,10 +9244,9 @@ use_preset_vocabulary: false
 超	Gcêu	120000
 超	chao	120000
 越	Gnyuêt	200000
-越	Gyueok	200000
 越	Gyuêt	200000
 越	yue	200000
-趋	Gqyuk	106253
+趋	Gqi	106253
 趋	qu	106253
 趟	Gtong	120000
 趟	tang	120000
@@ -9523,8 +9459,6 @@ use_preset_vocabulary: false
 过滤	Gguo lv	124700
 过滤	guo lv	124700
 迈	Gmai	120000
-迈	Gmak	120000
-迈	mai	120000
 迎	Gyin	136501
 迎	ying	136501
 运	Gyun	135000
@@ -9860,11 +9794,10 @@ use_preset_vocabulary: false
 锁	Gso	145000
 锁	suo	145000
 锄	Gcyu	120000
-锄	Gjiok	120000
 锄	Gqyu	120000
 锄	chu	120000
-锄头	Gjiok Gtêu	127151
-锄头	Gjiok tou	127151
+锄头	Gcyu Gtêu	127151
+锄头	Gcyu tou	127151
 锄头	chu Gtêu	127151
 锄头	chu tou	127151
 锅	Gwo	120000
@@ -9931,11 +9864,10 @@ use_preset_vocabulary: false
 门	men	170000
 闩	Gson	4993
 闩	shuan	4993
-闪	Gsiên	135907
 闪	Gsên	135907
 闪	shan	135907
-闪电	Gsiên Gtiên	25771
-闪电	Gsiên dian	25771
+闪电	Gsên Gtiên	25771
+闪电	Gsên dian	25771
 闪电	shan Gtiên	25771
 闪电	shan dian	25771
 闭	Gbit	135000
@@ -9983,8 +9915,7 @@ use_preset_vocabulary: false
 闽	min	120000
 阀	Gfaet	145000
 阀	fa	145000
-阁	Ggok	120000
-阁	Ggyuêk	122218
+阁	Ggeok	122218
 阁	ge	122218
 阄	Ggiêu	90000
 阄	jiu	90000
@@ -9992,8 +9923,7 @@ use_preset_vocabulary: false
 阅	yue	130000
 阎	Gyên	120000
 阎	yan	120000
-阔	Gkuok	120000
-阔	Gkyuêk	120000
+阔	Gkuêk	120000
 阔	kuo	120000
 队	Gdêi	145000
 队	Gtêi	145000
@@ -10020,8 +9950,6 @@ use_preset_vocabulary: false
 陀	Gto	90000
 陀	tuo	90000
 附	Gfu	120000
-附	Gfuk	120000
-附	fu	120000
 际	Gji	120000
 际	Gqi	120000
 际	ji	120000
@@ -10087,8 +10015,7 @@ use_preset_vocabulary: false
 障	zhang	120000
 隧	Gxi	103913
 隧	sui	103913
-隶	Glik	145000
-隶	li	145000
+隶	Gli	145000
 难	Glan	180000
 难	nan	180000
 雀	Gjiok	140000
@@ -10112,8 +10039,7 @@ use_preset_vocabulary: false
 雕	diao	120000
 雨	Gyi	170000
 雨	yu	170000
-雪	Gxyueok	120000
-雪	Gxyuêt	120000
+雪	Gxyueot	120000
 雪	xue	120000
 零	Gliang	200000
 零	ling	200000
@@ -10164,10 +10090,8 @@ use_preset_vocabulary: false
 靠	kao	200000
 面	Gmiên	200000
 面	mian	200000
-革	Ggak	145000
+革	Ggeok	123788
 革	Ggiêk	145000
-革	Ggok	145000
-革	Ggyuêk	123788
 革	ge	145000
 靴	Gxyueo	120000
 靴	xue	120000
@@ -10210,7 +10134,6 @@ use_preset_vocabulary: false
 顺	Gsyun	170000
 顺	shun	170000
 须	Gxi	120000
-须	Gxiuk	120000
 须	Gxyu	120000
 须	xu	120000
 顽	Gwan	120000
@@ -10265,19 +10188,9 @@ use_preset_vocabulary: false
 餐	can	145000
 饥	Gji	120000
 饭	Gfan	195000
-饮	Gcyuêt	126504
-饮	Gqiak	126504
 饮	Gyang	120000
 饮	Gyin	120000
-饮	yin	126504
-饮茶	Gcyuêt Gca	123448
-饮茶	Gcyuêt cha	123448
-饮茶	yin Gca	123448
-饮茶	yin cha	123448
-饮酒	Gqiak Gjieu	123915
-饮酒	Gqiak jiu	123915
-饮酒	yin Gjieu	123915
-饮酒	yin jiu	123915
+饮	yin	120000
 饰	Gsek	145000
 饰	Gsik	145000
 饰	shi	145000
@@ -10374,9 +10287,7 @@ use_preset_vocabulary: false
 骏	Gjin	120000
 骏	Gjyun	120000
 骏	jun	120000
-骑	Gjik	120000
 骑	Gqi	120000
-骑	qi	120000
 骗	Gpiên	185000
 骗	pian	185000
 骚	Gsau	132505
@@ -10461,7 +10372,6 @@ use_preset_vocabulary: false
 鸥	Gngiêu	106795
 鸥	ou	106795
 鸦	Gnga	120000
-鸦	Gngaet	120000
 鸦	ya	120000
 鸭	Gngaet	120000
 鸭	ya	120000
@@ -10488,8 +10398,7 @@ use_preset_vocabulary: false
 鸳	yuan	120000
 鸵	Gto	109394
 鸵	tuo	109394
-鸽	Ggeop	120000
-鸽	Ggyuêp	129228
+鸽	Ggeop	129228
 鸽	ge	129228
 鸿	Gfung	120000
 鸿	hong	120000
@@ -10546,7 +10455,6 @@ use_preset_vocabulary: false
 鼠	Gsyu	120000
 鼠	Gxyu	120000
 鼠	shu	120000
-鼻	Gpek	120000
 鼻	Gpêi	120000
 鼻	bi	120000
 鼻塞	Gzuk Gpek Gzi	127042

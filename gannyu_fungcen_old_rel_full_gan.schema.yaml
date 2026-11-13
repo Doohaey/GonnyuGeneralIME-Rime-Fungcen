@@ -1,7 +1,7 @@
 schema:
   schema_id: gannyu_fungcen_old_rel_full_gan
   name: fungcen
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_fungcen_old_rel
   prism: gannyu_fungcen_old_rel_full_gan
@@ -169,6 +169,17 @@ speller:
     - derive/^Gceok$/Fcirok/
     - fuzz/^Gceok$/Fcirop/
     - fuzz/^Gceok$/Fcirot/
+    - fuzz/^Gceot$/Fceo/
+    - fuzz/^Gceot$/Fceok/
+    - fuzz/^Gceot$/Fceop/
+    - fuzz/^Gceot$/Fcero/
+    - fuzz/^Gceot$/Fcerok/
+    - fuzz/^Gceot$/Fcerop/
+    - derive/^Gceot$/Fcerot/
+    - fuzz/^Gceot$/Fciro/
+    - fuzz/^Gceot$/Fcirok/
+    - fuzz/^Gceot$/Fcirop/
+    - derive/^Gceot$/Fcirot/
     - derive/^Gceu$/Fceru/
     - derive/^Gceu$/Fciru/
     - derive/^Gceu$/Fciu/
@@ -236,38 +247,6 @@ speller:
     - fuzz/^Gcyuk$/Fcyut/
     - fuzz/^Gcyun$/Fcun/
     - derive/^Gcyun$/Fcvn/
-    - fuzz/^Gcyuêt$/Fcue/
-    - fuzz/^Gcyuêt$/Fcuee/
-    - fuzz/^Gcyuêt$/Fcueek/
-    - fuzz/^Gcyuêt$/Fcueet/
-    - fuzz/^Gcyuêt$/Fcuek/
-    - fuzz/^Gcyuêt$/Fcuep/
-    - fuzz/^Gcyuêt$/Fcuet/
-    - fuzz/^Gcyuêt$/Fcuê/
-    - fuzz/^Gcyuêt$/Fcuêk/
-    - fuzz/^Gcyuêt$/Fcuêp/
-    - fuzz/^Gcyuêt$/Fcuêt/
-    - fuzz/^Gcyuêt$/Fcve/
-    - fuzz/^Gcyuêt$/Fcvee/
-    - fuzz/^Gcyuêt$/Fcveek/
-    - derive/^Gcyuêt$/Fcveet/
-    - fuzz/^Gcyuêt$/Fcvek/
-    - derive/^Gcyuêt$/Fcvet/
-    - fuzz/^Gcyuêt$/Fcvê/
-    - fuzz/^Gcyuêt$/Fcvêk/
-    - fuzz/^Gcyuêt$/Fcvêp/
-    - derive/^Gcyuêt$/Fcvêt/
-    - fuzz/^Gcyuêt$/Fcyue/
-    - fuzz/^Gcyuêt$/Fcyuee/
-    - fuzz/^Gcyuêt$/Fcyueek/
-    - fuzz/^Gcyuêt$/Fcyueep/
-    - derive/^Gcyuêt$/Fcyueet/
-    - fuzz/^Gcyuêt$/Fcyuek/
-    - fuzz/^Gcyuêt$/Fcyuep/
-    - derive/^Gcyuêt$/Fcyuet/
-    - fuzz/^Gcyuêt$/Fcyuê/
-    - fuzz/^Gcyuêt$/Fcyuêk/
-    - fuzz/^Gcyuêt$/Fcyuêp/
     - derive/^Gcê$/Fce/
     - derive/^Gcê$/Fcee/
     - derive/^Gcêi$/Fceei/
@@ -321,9 +300,6 @@ speller:
     - fuzz/^Gdaet$/Fdairk/
     - fuzz/^Gdaet$/Fdairp/
     - derive/^Gdaet$/Fdairt/
-    - fuzz/^Gdak$/Fda/
-    - fuzz/^Gdak$/Fdap/
-    - fuzz/^Gdak$/Fdat/
     - derive/^Gdau$/Fdao/
     - fuzz/^Gdek$/Fde/
     - fuzz/^Gdek$/Fdep/
@@ -339,17 +315,17 @@ speller:
     - derive/^Gden$/Fdern/
     - derive/^Gden$/Fding/
     - derive/^Gden$/Fdirn/
-    - fuzz/^Gdeok$/Fdeo/
-    - fuzz/^Gdeok$/Fdeop/
-    - fuzz/^Gdeok$/Fdeot/
-    - fuzz/^Gdeok$/Fdero/
-    - derive/^Gdeok$/Fderok/
-    - fuzz/^Gdeok$/Fderop/
-    - fuzz/^Gdeok$/Fderot/
-    - fuzz/^Gdeok$/Fdiro/
-    - derive/^Gdeok$/Fdirok/
-    - fuzz/^Gdeok$/Fdirop/
-    - fuzz/^Gdeok$/Fdirot/
+    - fuzz/^Gdeot$/Fdeo/
+    - fuzz/^Gdeot$/Fdeok/
+    - fuzz/^Gdeot$/Fdeop/
+    - fuzz/^Gdeot$/Fdero/
+    - fuzz/^Gdeot$/Fderok/
+    - fuzz/^Gdeot$/Fderop/
+    - derive/^Gdeot$/Fderot/
+    - fuzz/^Gdeot$/Fdiro/
+    - fuzz/^Gdeot$/Fdirok/
+    - fuzz/^Gdeot$/Fdirop/
+    - derive/^Gdeot$/Fdirot/
     - derive/^Gdeu$/Fderu/
     - derive/^Gdeu$/Fdiru/
     - derive/^Gdeu$/Fdou/
@@ -403,38 +379,6 @@ speller:
     - derive/^Gduên$/Fdueen/
     - derive/^Gduên$/Fduen/
     - derive/^Gduên$/Fdun/
-    - fuzz/^Gdyuêt$/Fdue/
-    - fuzz/^Gdyuêt$/Fduee/
-    - fuzz/^Gdyuêt$/Fdueek/
-    - fuzz/^Gdyuêt$/Fdueet/
-    - fuzz/^Gdyuêt$/Fduek/
-    - fuzz/^Gdyuêt$/Fduep/
-    - fuzz/^Gdyuêt$/Fduet/
-    - fuzz/^Gdyuêt$/Fduê/
-    - fuzz/^Gdyuêt$/Fduêk/
-    - fuzz/^Gdyuêt$/Fduêp/
-    - fuzz/^Gdyuêt$/Fduêt/
-    - fuzz/^Gdyuêt$/Fdve/
-    - fuzz/^Gdyuêt$/Fdvee/
-    - fuzz/^Gdyuêt$/Fdveek/
-    - derive/^Gdyuêt$/Fdveet/
-    - fuzz/^Gdyuêt$/Fdvek/
-    - derive/^Gdyuêt$/Fdvet/
-    - fuzz/^Gdyuêt$/Fdvê/
-    - fuzz/^Gdyuêt$/Fdvêk/
-    - fuzz/^Gdyuêt$/Fdvêp/
-    - derive/^Gdyuêt$/Fdvêt/
-    - fuzz/^Gdyuêt$/Fdyue/
-    - fuzz/^Gdyuêt$/Fdyuee/
-    - fuzz/^Gdyuêt$/Fdyueek/
-    - fuzz/^Gdyuêt$/Fdyueep/
-    - derive/^Gdyuêt$/Fdyueet/
-    - fuzz/^Gdyuêt$/Fdyuek/
-    - fuzz/^Gdyuêt$/Fdyuep/
-    - derive/^Gdyuêt$/Fdyuet/
-    - fuzz/^Gdyuêt$/Fdyuê/
-    - fuzz/^Gdyuêt$/Fdyuêk/
-    - fuzz/^Gdyuêt$/Fdyuêp/
     - derive/^Gdêi$/Fdeei/
     - derive/^Gdêi$/Fdei/
     - fuzz/^Gdêk$/Fde/
@@ -581,17 +525,6 @@ speller:
     - fuzz/^Ggeop$/Fgirok/
     - derive/^Ggeop$/Fgirop/
     - fuzz/^Ggeop$/Fgirot/
-    - fuzz/^Ggeot$/Fgeo/
-    - fuzz/^Ggeot$/Fgeok/
-    - fuzz/^Ggeot$/Fgeop/
-    - fuzz/^Ggeot$/Fgero/
-    - fuzz/^Ggeot$/Fgerok/
-    - fuzz/^Ggeot$/Fgerop/
-    - derive/^Ggeot$/Fgerot/
-    - fuzz/^Ggeot$/Fgiro/
-    - fuzz/^Ggeot$/Fgirok/
-    - fuzz/^Ggeot$/Fgirop/
-    - derive/^Ggeot$/Fgirot/
     - derive/^Ggiau$/Fgiao/
     - derive/^Ggiê$/Fgie/
     - derive/^Ggiê$/Fgiee/
@@ -652,75 +585,20 @@ speller:
     - derive/^Gguêi$/Fgueei/
     - derive/^Gguêi$/Fguei/
     - derive/^Gguêi$/Fgui/
+    - fuzz/^Gguêk$/Fgue/
+    - fuzz/^Gguêk$/Fguee/
+    - derive/^Gguêk$/Fgueek/
+    - fuzz/^Gguêk$/Fgueep/
+    - fuzz/^Gguêk$/Fgueet/
+    - derive/^Gguêk$/Fguek/
+    - fuzz/^Gguêk$/Fguep/
+    - fuzz/^Gguêk$/Fguet/
+    - fuzz/^Gguêk$/Fguê/
+    - fuzz/^Gguêk$/Fguêp/
+    - fuzz/^Gguêk$/Fguêt/
     - derive/^Gguên$/Fgueen/
     - derive/^Gguên$/Fguen/
     - derive/^Gguên$/Fgun/
-    - fuzz/^Ggyuêk$/Fgue/
-    - fuzz/^Ggyuêk$/Fgueek/
-    - fuzz/^Ggyuêk$/Fgueep/
-    - fuzz/^Ggyuêk$/Fgueet/
-    - fuzz/^Ggyuêk$/Fguek/
-    - fuzz/^Ggyuêk$/Fguep/
-    - fuzz/^Ggyuêk$/Fguet/
-    - fuzz/^Ggyuêk$/Fguê/
-    - fuzz/^Ggyuêk$/Fguêk/
-    - fuzz/^Ggyuêk$/Fguêp/
-    - fuzz/^Ggyuêk$/Fguêt/
-    - fuzz/^Ggyuêk$/Fgve/
-    - derive/^Ggyuêk$/Fgveek/
-    - fuzz/^Ggyuêk$/Fgveep/
-    - fuzz/^Ggyuêk$/Fgveet/
-    - derive/^Ggyuêk$/Fgvek/
-    - fuzz/^Ggyuêk$/Fgvep/
-    - fuzz/^Ggyuêk$/Fgvet/
-    - fuzz/^Ggyuêk$/Fgvê/
-    - derive/^Ggyuêk$/Fgvêk/
-    - fuzz/^Ggyuêk$/Fgvêp/
-    - fuzz/^Ggyuêk$/Fgvêt/
-    - fuzz/^Ggyuêk$/Fgyue/
-    - fuzz/^Ggyuêk$/Fgyuee/
-    - derive/^Ggyuêk$/Fgyueek/
-    - fuzz/^Ggyuêk$/Fgyueep/
-    - fuzz/^Ggyuêk$/Fgyueet/
-    - derive/^Ggyuêk$/Fgyuek/
-    - fuzz/^Ggyuêk$/Fgyuep/
-    - fuzz/^Ggyuêk$/Fgyuet/
-    - fuzz/^Ggyuêk$/Fgyuê/
-    - fuzz/^Ggyuêk$/Fgyuêp/
-    - fuzz/^Ggyuêk$/Fgyuêt/
-    - fuzz/^Ggyuêp$/Fgue/
-    - fuzz/^Ggyuêp$/Fguee/
-    - fuzz/^Ggyuêp$/Fgueek/
-    - fuzz/^Ggyuêp$/Fgueep/
-    - fuzz/^Ggyuêp$/Fgueet/
-    - fuzz/^Ggyuêp$/Fguek/
-    - fuzz/^Ggyuêp$/Fguep/
-    - fuzz/^Ggyuêp$/Fguet/
-    - fuzz/^Ggyuêp$/Fguê/
-    - fuzz/^Ggyuêp$/Fguêk/
-    - fuzz/^Ggyuêp$/Fguêp/
-    - fuzz/^Ggyuêp$/Fguêt/
-    - fuzz/^Ggyuêp$/Fgve/
-    - fuzz/^Ggyuêp$/Fgveek/
-    - derive/^Ggyuêp$/Fgveep/
-    - fuzz/^Ggyuêp$/Fgvek/
-    - derive/^Ggyuêp$/Fgvep/
-    - fuzz/^Ggyuêp$/Fgvet/
-    - fuzz/^Ggyuêp$/Fgvê/
-    - fuzz/^Ggyuêp$/Fgvêk/
-    - derive/^Ggyuêp$/Fgvêp/
-    - fuzz/^Ggyuêp$/Fgvêt/
-    - fuzz/^Ggyuêp$/Fgyue/
-    - fuzz/^Ggyuêp$/Fgyuee/
-    - fuzz/^Ggyuêp$/Fgyueek/
-    - derive/^Ggyuêp$/Fgyueep/
-    - fuzz/^Ggyuêp$/Fgyueet/
-    - fuzz/^Ggyuêp$/Fgyuek/
-    - derive/^Ggyuêp$/Fgyuep/
-    - fuzz/^Ggyuêp$/Fgyuet/
-    - fuzz/^Ggyuêp$/Fgyuê/
-    - fuzz/^Ggyuêp$/Fgyuêk/
-    - fuzz/^Ggyuêp$/Fgyuêt/
     - derive/^Ggê$/Fge/
     - derive/^Ggê$/Fgee/
     - derive/^Ggêi$/Fgeei/
@@ -754,17 +632,6 @@ speller:
     - fuzz/^Ghap$/Fhak/
     - fuzz/^Ghap$/Fhat/
     - derive/^Ghau$/Fhao/
-    - fuzz/^Gheok$/Fheo/
-    - fuzz/^Gheok$/Fheop/
-    - fuzz/^Gheok$/Fheot/
-    - fuzz/^Gheok$/Fhero/
-    - derive/^Gheok$/Fherok/
-    - fuzz/^Gheok$/Fherop/
-    - fuzz/^Gheok$/Fherot/
-    - fuzz/^Gheok$/Fhiro/
-    - derive/^Gheok$/Fhirok/
-    - fuzz/^Gheok$/Fhirop/
-    - fuzz/^Gheok$/Fhirot/
     - fuzz/^Gheot$/Fheo/
     - fuzz/^Gheot$/Fheok/
     - fuzz/^Gheot$/Fheop/
@@ -798,41 +665,6 @@ speller:
     - fuzz/^Ghok$/Fho/
     - fuzz/^Ghok$/Fhop/
     - fuzz/^Ghok$/Fhot/
-    - fuzz/^Ghot$/Fho/
-    - fuzz/^Ghot$/Fhok/
-    - fuzz/^Ghot$/Fhop/
-    - fuzz/^Ghyuêt$/Fhue/
-    - fuzz/^Ghyuêt$/Fhuee/
-    - fuzz/^Ghyuêt$/Fhueek/
-    - fuzz/^Ghyuêt$/Fhueet/
-    - fuzz/^Ghyuêt$/Fhuek/
-    - fuzz/^Ghyuêt$/Fhuep/
-    - fuzz/^Ghyuêt$/Fhuet/
-    - fuzz/^Ghyuêt$/Fhuê/
-    - fuzz/^Ghyuêt$/Fhuêk/
-    - fuzz/^Ghyuêt$/Fhuêp/
-    - fuzz/^Ghyuêt$/Fhuêt/
-    - fuzz/^Ghyuêt$/Fhve/
-    - fuzz/^Ghyuêt$/Fhvee/
-    - fuzz/^Ghyuêt$/Fhveek/
-    - derive/^Ghyuêt$/Fhveet/
-    - fuzz/^Ghyuêt$/Fhvek/
-    - derive/^Ghyuêt$/Fhvet/
-    - fuzz/^Ghyuêt$/Fhvê/
-    - fuzz/^Ghyuêt$/Fhvêk/
-    - fuzz/^Ghyuêt$/Fhvêp/
-    - derive/^Ghyuêt$/Fhvêt/
-    - fuzz/^Ghyuêt$/Fhyue/
-    - fuzz/^Ghyuêt$/Fhyuee/
-    - fuzz/^Ghyuêt$/Fhyueek/
-    - fuzz/^Ghyuêt$/Fhyueep/
-    - derive/^Ghyuêt$/Fhyueet/
-    - fuzz/^Ghyuêt$/Fhyuek/
-    - fuzz/^Ghyuêt$/Fhyuep/
-    - derive/^Ghyuêt$/Fhyuet/
-    - fuzz/^Ghyuêt$/Fhyuê/
-    - fuzz/^Ghyuêt$/Fhyuêk/
-    - fuzz/^Ghyuêt$/Fhyuêp/
     - derive/^Ghêi$/Fheei/
     - derive/^Ghêi$/Fhei/
     - fuzz/^Ghêk$/Fhe/
@@ -1060,6 +892,17 @@ speller:
     - derive/^Gkeok$/Fkirok/
     - fuzz/^Gkeok$/Fkirop/
     - fuzz/^Gkeok$/Fkirot/
+    - fuzz/^Gkeot$/Fkeo/
+    - fuzz/^Gkeot$/Fkeok/
+    - fuzz/^Gkeot$/Fkeop/
+    - fuzz/^Gkeot$/Fkero/
+    - fuzz/^Gkeot$/Fkerok/
+    - fuzz/^Gkeot$/Fkerop/
+    - derive/^Gkeot$/Fkerot/
+    - fuzz/^Gkeot$/Fkiro/
+    - fuzz/^Gkeot$/Fkirok/
+    - fuzz/^Gkeot$/Fkirop/
+    - derive/^Gkeot$/Fkirot/
     - derive/^Gkeu$/Fkeru/
     - derive/^Gkeu$/Fkiru/
     - derive/^Gkeu$/Fkou/
@@ -1118,9 +961,6 @@ speller:
     - fuzz/^Gkuk$/Fku/
     - fuzz/^Gkuk$/Fkup/
     - fuzz/^Gkuk$/Fkut/
-    - fuzz/^Gkuok$/Fkuo/
-    - fuzz/^Gkuok$/Fkuop/
-    - fuzz/^Gkuok$/Fkuot/
     - derive/^Gkuon$/Fkuen/
     - derive/^Gkuon$/Fkuern/
     - derive/^Gkuon$/Fkuirn/
@@ -1128,74 +968,31 @@ speller:
     - derive/^Gkuêi$/Fkueei/
     - derive/^Gkuêi$/Fkuei/
     - derive/^Gkuêi$/Fkui/
+    - fuzz/^Gkuêk$/Fkue/
+    - fuzz/^Gkuêk$/Fkuee/
+    - derive/^Gkuêk$/Fkueek/
+    - fuzz/^Gkuêk$/Fkueep/
+    - fuzz/^Gkuêk$/Fkueet/
+    - derive/^Gkuêk$/Fkuek/
+    - fuzz/^Gkuêk$/Fkuep/
+    - fuzz/^Gkuêk$/Fkuet/
+    - fuzz/^Gkuêk$/Fkuê/
+    - fuzz/^Gkuêk$/Fkuêp/
+    - fuzz/^Gkuêk$/Fkuêt/
     - derive/^Gkuên$/Fkueen/
     - derive/^Gkuên$/Fkuen/
     - derive/^Gkuên$/Fkun/
-    - fuzz/^Gkyuêk$/Fkue/
-    - fuzz/^Gkyuêk$/Fkueek/
-    - fuzz/^Gkyuêk$/Fkueep/
-    - fuzz/^Gkyuêk$/Fkueet/
-    - fuzz/^Gkyuêk$/Fkuek/
-    - fuzz/^Gkyuêk$/Fkuep/
-    - fuzz/^Gkyuêk$/Fkuet/
-    - fuzz/^Gkyuêk$/Fkuê/
-    - fuzz/^Gkyuêk$/Fkuêk/
-    - fuzz/^Gkyuêk$/Fkuêp/
-    - fuzz/^Gkyuêk$/Fkuêt/
-    - fuzz/^Gkyuêk$/Fkve/
-    - derive/^Gkyuêk$/Fkveek/
-    - fuzz/^Gkyuêk$/Fkveep/
-    - fuzz/^Gkyuêk$/Fkveet/
-    - derive/^Gkyuêk$/Fkvek/
-    - fuzz/^Gkyuêk$/Fkvep/
-    - fuzz/^Gkyuêk$/Fkvet/
-    - fuzz/^Gkyuêk$/Fkvê/
-    - derive/^Gkyuêk$/Fkvêk/
-    - fuzz/^Gkyuêk$/Fkvêp/
-    - fuzz/^Gkyuêk$/Fkvêt/
-    - fuzz/^Gkyuêk$/Fkyue/
-    - fuzz/^Gkyuêk$/Fkyuee/
-    - derive/^Gkyuêk$/Fkyueek/
-    - fuzz/^Gkyuêk$/Fkyueep/
-    - fuzz/^Gkyuêk$/Fkyueet/
-    - derive/^Gkyuêk$/Fkyuek/
-    - fuzz/^Gkyuêk$/Fkyuep/
-    - fuzz/^Gkyuêk$/Fkyuet/
-    - fuzz/^Gkyuêk$/Fkyuê/
-    - fuzz/^Gkyuêk$/Fkyuêp/
-    - fuzz/^Gkyuêk$/Fkyuêt/
-    - fuzz/^Gkyuêt$/Fkue/
-    - fuzz/^Gkyuêt$/Fkuee/
-    - fuzz/^Gkyuêt$/Fkueek/
-    - fuzz/^Gkyuêt$/Fkueet/
-    - fuzz/^Gkyuêt$/Fkuek/
-    - fuzz/^Gkyuêt$/Fkuep/
-    - fuzz/^Gkyuêt$/Fkuet/
-    - fuzz/^Gkyuêt$/Fkuê/
-    - fuzz/^Gkyuêt$/Fkuêk/
-    - fuzz/^Gkyuêt$/Fkuêp/
-    - fuzz/^Gkyuêt$/Fkuêt/
-    - fuzz/^Gkyuêt$/Fkve/
-    - fuzz/^Gkyuêt$/Fkvee/
-    - fuzz/^Gkyuêt$/Fkveek/
-    - derive/^Gkyuêt$/Fkveet/
-    - fuzz/^Gkyuêt$/Fkvek/
-    - derive/^Gkyuêt$/Fkvet/
-    - fuzz/^Gkyuêt$/Fkvê/
-    - fuzz/^Gkyuêt$/Fkvêk/
-    - fuzz/^Gkyuêt$/Fkvêp/
-    - derive/^Gkyuêt$/Fkvêt/
-    - fuzz/^Gkyuêt$/Fkyue/
-    - fuzz/^Gkyuêt$/Fkyuee/
-    - fuzz/^Gkyuêt$/Fkyueek/
-    - fuzz/^Gkyuêt$/Fkyueep/
-    - derive/^Gkyuêt$/Fkyueet/
-    - fuzz/^Gkyuêt$/Fkyuek/
-    - fuzz/^Gkyuêt$/Fkyuep/
-    - derive/^Gkyuêt$/Fkyuet/
-    - fuzz/^Gkyuêt$/Fkyuê/
-    - fuzz/^Gkyuêt$/Fkyuêk/
-    - fuzz/^Gkyuêt$/Fkyuêp/
+    - fuzz/^Gkuêt$/Fkue/
+    - fuzz/^Gkuêt$/Fkuee/
+    - fuzz/^Gkuêt$/Fkueek/
+    - fuzz/^Gkuêt$/Fkueep/
+    - derive/^Gkuêt$/Fkueet/
+    - fuzz/^Gkuêt$/Fkuek/
+    - fuzz/^Gkuêt$/Fkuep/
+    - derive/^Gkuêt$/Fkuet/
+    - fuzz/^Gkuêt$/Fkuê/
+    - fuzz/^Gkuêt$/Fkuêk/
+    - fuzz/^Gkuêt$/Fkuêp/
     - derive/^Gkêi$/Fkeei/
     - derive/^Gkêi$/Fkei/
     - fuzz/^Glaek$/Flae/
@@ -1560,9 +1357,6 @@ speller:
     - fuzz/^Gngaet$/Fngairk/
     - fuzz/^Gngaet$/Fngairp/
     - derive/^Gngaet$/Fngairt/
-    - fuzz/^Gngak$/Fnga/
-    - fuzz/^Gngak$/Fngap/
-    - fuzz/^Gngak$/Fngat/
     - derive/^Gngau$/Fngao/
     - derive/^Gngeu$/Fngeru/
     - derive/^Gngeu$/Fngiru/
@@ -1668,41 +1462,41 @@ speller:
     - derive/^Gniêu$/Fnieu/
     - fuzz/^Gnyu$/Fnu/
     - derive/^Gnyu$/Fnv/
-    - fuzz/^Gnyueok$/Fnueo/
-    - derive/^Gnyueok$/Fnueok/
-    - fuzz/^Gnyueok$/Fnueop/
-    - fuzz/^Gnyueok$/Fnueot/
-    - fuzz/^Gnyueok$/Fnuero/
-    - derive/^Gnyueok$/Fnuerok/
-    - fuzz/^Gnyueok$/Fnuerop/
-    - fuzz/^Gnyueok$/Fnuerot/
-    - fuzz/^Gnyueok$/Fnuiro/
-    - derive/^Gnyueok$/Fnuirok/
-    - fuzz/^Gnyueok$/Fnuirop/
-    - fuzz/^Gnyueok$/Fnuirot/
-    - fuzz/^Gnyueok$/Fnveo/
-    - derive/^Gnyueok$/Fnveok/
-    - fuzz/^Gnyueok$/Fnveop/
-    - fuzz/^Gnyueok$/Fnveot/
-    - fuzz/^Gnyueok$/Fnvero/
-    - derive/^Gnyueok$/Fnverok/
-    - fuzz/^Gnyueok$/Fnverop/
-    - fuzz/^Gnyueok$/Fnverot/
-    - fuzz/^Gnyueok$/Fnviro/
-    - derive/^Gnyueok$/Fnvirok/
-    - fuzz/^Gnyueok$/Fnvirop/
-    - fuzz/^Gnyueok$/Fnvirot/
-    - fuzz/^Gnyueok$/Fnyueo/
-    - fuzz/^Gnyueok$/Fnyueop/
-    - fuzz/^Gnyueok$/Fnyueot/
-    - fuzz/^Gnyueok$/Fnyuero/
-    - derive/^Gnyueok$/Fnyuerok/
-    - fuzz/^Gnyueok$/Fnyuerop/
-    - fuzz/^Gnyueok$/Fnyuerot/
-    - fuzz/^Gnyueok$/Fnyuiro/
-    - derive/^Gnyueok$/Fnyuirok/
-    - fuzz/^Gnyueok$/Fnyuirop/
-    - fuzz/^Gnyueok$/Fnyuirot/
+    - fuzz/^Gnyueot$/Fnueo/
+    - fuzz/^Gnyueot$/Fnueok/
+    - fuzz/^Gnyueot$/Fnueop/
+    - derive/^Gnyueot$/Fnueot/
+    - fuzz/^Gnyueot$/Fnuero/
+    - fuzz/^Gnyueot$/Fnuerok/
+    - fuzz/^Gnyueot$/Fnuerop/
+    - derive/^Gnyueot$/Fnuerot/
+    - fuzz/^Gnyueot$/Fnuiro/
+    - fuzz/^Gnyueot$/Fnuirok/
+    - fuzz/^Gnyueot$/Fnuirop/
+    - derive/^Gnyueot$/Fnuirot/
+    - fuzz/^Gnyueot$/Fnveo/
+    - fuzz/^Gnyueot$/Fnveok/
+    - fuzz/^Gnyueot$/Fnveop/
+    - derive/^Gnyueot$/Fnveot/
+    - fuzz/^Gnyueot$/Fnvero/
+    - fuzz/^Gnyueot$/Fnverok/
+    - fuzz/^Gnyueot$/Fnverop/
+    - derive/^Gnyueot$/Fnverot/
+    - fuzz/^Gnyueot$/Fnviro/
+    - fuzz/^Gnyueot$/Fnvirok/
+    - fuzz/^Gnyueot$/Fnvirop/
+    - derive/^Gnyueot$/Fnvirot/
+    - fuzz/^Gnyueot$/Fnyueo/
+    - fuzz/^Gnyueot$/Fnyueok/
+    - fuzz/^Gnyueot$/Fnyueop/
+    - fuzz/^Gnyueot$/Fnyuero/
+    - fuzz/^Gnyueot$/Fnyuerok/
+    - fuzz/^Gnyueot$/Fnyuerop/
+    - derive/^Gnyueot$/Fnyuerot/
+    - fuzz/^Gnyueot$/Fnyuiro/
+    - fuzz/^Gnyueot$/Fnyuirok/
+    - fuzz/^Gnyueot$/Fnyuirop/
+    - derive/^Gnyueot$/Fnyuirot/
     - fuzz/^Gnyun$/Fnun/
     - derive/^Gnyun$/Fnvn/
     - derive/^Gnyuon$/Fnuen/
@@ -1971,6 +1765,41 @@ speller:
     - derive/^Gqyueok$/Fqyuirok/
     - fuzz/^Gqyueok$/Fqyuirop/
     - fuzz/^Gqyueok$/Fqyuirot/
+    - fuzz/^Gqyueot$/Fqueo/
+    - fuzz/^Gqyueot$/Fqueok/
+    - fuzz/^Gqyueot$/Fqueop/
+    - derive/^Gqyueot$/Fqueot/
+    - fuzz/^Gqyueot$/Fquero/
+    - fuzz/^Gqyueot$/Fquerok/
+    - fuzz/^Gqyueot$/Fquerop/
+    - derive/^Gqyueot$/Fquerot/
+    - fuzz/^Gqyueot$/Fquiro/
+    - fuzz/^Gqyueot$/Fquirok/
+    - fuzz/^Gqyueot$/Fquirop/
+    - derive/^Gqyueot$/Fquirot/
+    - fuzz/^Gqyueot$/Fqveo/
+    - fuzz/^Gqyueot$/Fqveok/
+    - fuzz/^Gqyueot$/Fqveop/
+    - derive/^Gqyueot$/Fqveot/
+    - fuzz/^Gqyueot$/Fqvero/
+    - fuzz/^Gqyueot$/Fqverok/
+    - fuzz/^Gqyueot$/Fqverop/
+    - derive/^Gqyueot$/Fqverot/
+    - fuzz/^Gqyueot$/Fqviro/
+    - fuzz/^Gqyueot$/Fqvirok/
+    - fuzz/^Gqyueot$/Fqvirop/
+    - derive/^Gqyueot$/Fqvirot/
+    - fuzz/^Gqyueot$/Fqyueo/
+    - fuzz/^Gqyueot$/Fqyueok/
+    - fuzz/^Gqyueot$/Fqyueop/
+    - fuzz/^Gqyueot$/Fqyuero/
+    - fuzz/^Gqyueot$/Fqyuerok/
+    - fuzz/^Gqyueot$/Fqyuerop/
+    - derive/^Gqyueot$/Fqyuerot/
+    - fuzz/^Gqyueot$/Fqyuiro/
+    - fuzz/^Gqyueot$/Fqyuirok/
+    - fuzz/^Gqyueot$/Fqyuirop/
+    - derive/^Gqyueot$/Fqyuirot/
     - fuzz/^Gqyuk$/Fqu/
     - fuzz/^Gqyuk$/Fquk/
     - fuzz/^Gqyuk$/Fqup/
@@ -2082,6 +1911,8 @@ speller:
     - fuzz/^Gqyuêt$/Fqyuê/
     - fuzz/^Gqyuêt$/Fqyuêk/
     - fuzz/^Gqyuêt$/Fqyuêp/
+    - derive/^Gsae$/Fsaer/
+    - derive/^Gsae$/Fsair/
     - fuzz/^Gsaek$/Fsae/
     - fuzz/^Gsaek$/Fsaep/
     - fuzz/^Gsaek$/Fsaer/
@@ -2139,17 +1970,6 @@ speller:
     - derive/^Gsen$/Fsern/
     - derive/^Gsen$/Fsing/
     - derive/^Gsen$/Fsirn/
-    - fuzz/^Gseok$/Fseo/
-    - fuzz/^Gseok$/Fseop/
-    - fuzz/^Gseok$/Fseot/
-    - fuzz/^Gseok$/Fsero/
-    - derive/^Gseok$/Fserok/
-    - fuzz/^Gseok$/Fserop/
-    - fuzz/^Gseok$/Fserot/
-    - fuzz/^Gseok$/Fsiro/
-    - derive/^Gseok$/Fsirok/
-    - fuzz/^Gseok$/Fsirop/
-    - fuzz/^Gseok$/Fsirot/
     - fuzz/^Gseot$/Fseo/
     - fuzz/^Gseot$/Fseok/
     - fuzz/^Gseot$/Fseop/
@@ -2244,38 +2064,6 @@ speller:
     - fuzz/^Gsyuk$/Fsyut/
     - fuzz/^Gsyun$/Fsun/
     - derive/^Gsyun$/Fsvn/
-    - fuzz/^Gsyuêt$/Fsue/
-    - fuzz/^Gsyuêt$/Fsuee/
-    - fuzz/^Gsyuêt$/Fsueek/
-    - fuzz/^Gsyuêt$/Fsueet/
-    - fuzz/^Gsyuêt$/Fsuek/
-    - fuzz/^Gsyuêt$/Fsuep/
-    - fuzz/^Gsyuêt$/Fsuet/
-    - fuzz/^Gsyuêt$/Fsuê/
-    - fuzz/^Gsyuêt$/Fsuêk/
-    - fuzz/^Gsyuêt$/Fsuêp/
-    - fuzz/^Gsyuêt$/Fsuêt/
-    - fuzz/^Gsyuêt$/Fsve/
-    - fuzz/^Gsyuêt$/Fsvee/
-    - fuzz/^Gsyuêt$/Fsveek/
-    - derive/^Gsyuêt$/Fsveet/
-    - fuzz/^Gsyuêt$/Fsvek/
-    - derive/^Gsyuêt$/Fsvet/
-    - fuzz/^Gsyuêt$/Fsvê/
-    - fuzz/^Gsyuêt$/Fsvêk/
-    - fuzz/^Gsyuêt$/Fsvêp/
-    - derive/^Gsyuêt$/Fsvêt/
-    - fuzz/^Gsyuêt$/Fsyue/
-    - fuzz/^Gsyuêt$/Fsyuee/
-    - fuzz/^Gsyuêt$/Fsyueek/
-    - fuzz/^Gsyuêt$/Fsyueep/
-    - derive/^Gsyuêt$/Fsyueet/
-    - fuzz/^Gsyuêt$/Fsyuek/
-    - fuzz/^Gsyuêt$/Fsyuep/
-    - derive/^Gsyuêt$/Fsyuet/
-    - fuzz/^Gsyuêt$/Fsyuê/
-    - fuzz/^Gsyuêt$/Fsyuêk/
-    - fuzz/^Gsyuêt$/Fsyuêp/
     - derive/^Gsêi$/Fseei/
     - derive/^Gsêi$/Fsei/
     - fuzz/^Gsêk$/Fse/
@@ -2652,6 +2440,41 @@ speller:
     - derive/^Gxyueok$/Fxyuirok/
     - fuzz/^Gxyueok$/Fxyuirop/
     - fuzz/^Gxyueok$/Fxyuirot/
+    - fuzz/^Gxyueot$/Fxueo/
+    - fuzz/^Gxyueot$/Fxueok/
+    - fuzz/^Gxyueot$/Fxueop/
+    - derive/^Gxyueot$/Fxueot/
+    - fuzz/^Gxyueot$/Fxuero/
+    - fuzz/^Gxyueot$/Fxuerok/
+    - fuzz/^Gxyueot$/Fxuerop/
+    - derive/^Gxyueot$/Fxuerot/
+    - fuzz/^Gxyueot$/Fxuiro/
+    - fuzz/^Gxyueot$/Fxuirok/
+    - fuzz/^Gxyueot$/Fxuirop/
+    - derive/^Gxyueot$/Fxuirot/
+    - fuzz/^Gxyueot$/Fxveo/
+    - fuzz/^Gxyueot$/Fxveok/
+    - fuzz/^Gxyueot$/Fxveop/
+    - derive/^Gxyueot$/Fxveot/
+    - fuzz/^Gxyueot$/Fxvero/
+    - fuzz/^Gxyueot$/Fxverok/
+    - fuzz/^Gxyueot$/Fxverop/
+    - derive/^Gxyueot$/Fxverot/
+    - fuzz/^Gxyueot$/Fxviro/
+    - fuzz/^Gxyueot$/Fxvirok/
+    - fuzz/^Gxyueot$/Fxvirop/
+    - derive/^Gxyueot$/Fxvirot/
+    - fuzz/^Gxyueot$/Fxyueo/
+    - fuzz/^Gxyueot$/Fxyueok/
+    - fuzz/^Gxyueot$/Fxyueop/
+    - fuzz/^Gxyueot$/Fxyuero/
+    - fuzz/^Gxyueot$/Fxyuerok/
+    - fuzz/^Gxyueot$/Fxyuerop/
+    - derive/^Gxyueot$/Fxyuerot/
+    - fuzz/^Gxyueot$/Fxyuiro/
+    - fuzz/^Gxyueot$/Fxyuirok/
+    - fuzz/^Gxyueot$/Fxyuirop/
+    - derive/^Gxyueot$/Fxyuirot/
     - fuzz/^Gxyuk$/Fxu/
     - fuzz/^Gxyuk$/Fxuk/
     - fuzz/^Gxyuk$/Fxup/
@@ -2706,39 +2529,6 @@ speller:
     - derive/^Gxyuê$/Fxvê/
     - derive/^Gxyuê$/Fxyue/
     - derive/^Gxyuê$/Fxyuee/
-    - fuzz/^Gxyuêk$/Fxue/
-    - derive/^Gxyuêk$/Fxueek/
-    - fuzz/^Gxyuêk$/Fxueep/
-    - fuzz/^Gxyuêk$/Fxueet/
-    - derive/^Gxyuêk$/Fxuek/
-    - fuzz/^Gxyuêk$/Fxuep/
-    - fuzz/^Gxyuêk$/Fxuet/
-    - fuzz/^Gxyuêk$/Fxuê/
-    - fuzz/^Gxyuêk$/Fxuêk/
-    - fuzz/^Gxyuêk$/Fxuêp/
-    - fuzz/^Gxyuêk$/Fxuêt/
-    - fuzz/^Gxyuêk$/Fxve/
-    - derive/^Gxyuêk$/Fxveek/
-    - fuzz/^Gxyuêk$/Fxveep/
-    - fuzz/^Gxyuêk$/Fxveet/
-    - derive/^Gxyuêk$/Fxvek/
-    - fuzz/^Gxyuêk$/Fxvep/
-    - fuzz/^Gxyuêk$/Fxvet/
-    - fuzz/^Gxyuêk$/Fxvê/
-    - derive/^Gxyuêk$/Fxvêk/
-    - fuzz/^Gxyuêk$/Fxvêp/
-    - fuzz/^Gxyuêk$/Fxvêt/
-    - fuzz/^Gxyuêk$/Fxyue/
-    - fuzz/^Gxyuêk$/Fxyuee/
-    - derive/^Gxyuêk$/Fxyueek/
-    - fuzz/^Gxyuêk$/Fxyueep/
-    - fuzz/^Gxyuêk$/Fxyueet/
-    - derive/^Gxyuêk$/Fxyuek/
-    - fuzz/^Gxyuêk$/Fxyuep/
-    - fuzz/^Gxyuêk$/Fxyuet/
-    - fuzz/^Gxyuêk$/Fxyuê/
-    - fuzz/^Gxyuêk$/Fxyuêp/
-    - fuzz/^Gxyuêk$/Fxyuêt/
     - fuzz/^Gxyuêt$/Fxue/
     - fuzz/^Gxyuêt$/Fxuee/
     - fuzz/^Gxyuêt$/Fxueek/
@@ -2799,17 +2589,6 @@ speller:
     - fuzz/^Gyok$/Fyo/
     - fuzz/^Gyok$/Fyop/
     - fuzz/^Gyok$/Fyot/
-    - fuzz/^Gyueok$/Fyueo/
-    - fuzz/^Gyueok$/Fyueop/
-    - fuzz/^Gyueok$/Fyueot/
-    - fuzz/^Gyueok$/Fyuero/
-    - derive/^Gyueok$/Fyuerok/
-    - fuzz/^Gyueok$/Fyuerop/
-    - fuzz/^Gyueok$/Fyuerot/
-    - fuzz/^Gyueok$/Fyuiro/
-    - derive/^Gyueok$/Fyuirok/
-    - fuzz/^Gyueok$/Fyuirop/
-    - fuzz/^Gyueok$/Fyuirot/
     - fuzz/^Gyuk$/Fyu/
     - fuzz/^Gyuk$/Fyup/
     - fuzz/^Gyuk$/Fyut/
